@@ -1,0 +1,7 @@
+[project]
+name = "tf3-localization-zh-hk-chungchungdev"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
