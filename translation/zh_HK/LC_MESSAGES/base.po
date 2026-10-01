@@ -2114,9 +2114,9 @@ msgid ""
 "\n"
 "Higher values make towns more sensitive to pollution."
 msgstr ""
-"調整汙染對城鎮發展的影響。\n"
+"調整污染對城鎮發展的影響。\n"
 "\n"
-"數值越高，城鎮對汙染的敏感度就越高。"
+"數值越高，城鎮對污染的敏感度就越高。"
 
 #, fuzzy
 msgid "Adjust the influence of traffic congestion on town growth."
@@ -2416,7 +2416,7 @@ msgstr "飛行器噪音"
 
 #, fuzzy
 msgid "Aircraft Pollution"
-msgstr "飛行器汙染"
+msgstr "飛行器污染"
 
 #, fuzzy
 msgid "Aircraft Top Speed"
@@ -5263,7 +5263,7 @@ msgstr "目前噪音：{formattedNoise}"
 
 #, fuzzy
 msgid "Current Pollution: {formattedPollution}"
-msgstr "目前汙染：{formattedPollution}"
+msgstr "目前污染：{formattedPollution}"
 
 #, fuzzy
 msgid "Current Population"
@@ -7503,7 +7503,7 @@ msgstr ""
 msgid "HELP_CONSTRUCTION_RAIL_TRACKS"
 msgstr ""
 "軌道用於連接火車站與倉庫。\n"
-"不同軌道類型在可行駛速度、汙染程度及成本上有所差異。架設電纜即可供電力列車行"
+"不同軌道類型在可行駛速度、污染程度及成本上有所差異。架設電纜即可供電力列車行"
 "駛。\n"
 "新的軌道類型會隨著時間推進逐漸解鎖。\n"
 "軌道在建造完成後，仍可使用軌道工具進行修改。\n"
@@ -7677,8 +7677,8 @@ msgstr ""
 #, fuzzy
 msgid "HELP_LAYER_POLLUTION"
 msgstr ""
-"此圖層顯示車輛與建築排放的汙染量。\n"
-"排放於市區內的汙染會對該城鎮成長造成負面影響。圖層中同時可看到城鎮邊界。城鎮"
+"此圖層顯示車輛與建築排放的污染量。\n"
+"排放於市區內的污染會對該城鎮成長造成負面影響。圖層中同時可看到城鎮邊界。城鎮"
 "目前的評價會標示於城鎮上方。\n"
 "風會影響污染的擴散方式，畫面右下角會顯示風力與風向資訊。"
 
@@ -8894,7 +8894,7 @@ msgstr "產業噪音：{percent}"
 
 #, fuzzy
 msgid "Industry Pollution: {percent}"
-msgstr "產業汙染：{percent}"
+msgstr "產業污染：{percent}"
 
 #, fuzzy
 msgid "Industry Productivity"
@@ -9326,7 +9326,7 @@ msgstr "讓住宅區保有低噪音的環境。"
 
 #, fuzzy
 msgid "Keep the pollution level in the municipal area low."
-msgstr "降低市區內的汙染程度。"
+msgstr "降低市區內的污染程度。"
 
 #, fuzzy
 msgid "Kenner"
@@ -9510,7 +9510,7 @@ msgstr ""
 "這座雕像如一座驕傲地屹立於海面之上的燈塔一般。它不僅是座紀念碑，更是熱情好客"
 "與自由的象徵。\n"
 "\n"
-"可減少市區內水上車輛的汙染。"
+"可減少市區內水上車輛的污染。"
 
 #, fuzzy
 msgid "LANDMARK_STATUE_OF_LIBERTY_NAME"
@@ -9521,7 +9521,7 @@ msgid "LANDMARK_SUMMER_PALACE_DESCRIPTION"
 msgstr ""
 "這座宮殿極為巧妙地融合了自然美景與皇室的華麗風格，展現出優雅與莊嚴的姿態。\n"
 "\n"
-"可減少市區內航空車輛的汙染。"
+"可減少市區內航空車輛的污染。"
 
 #, fuzzy
 msgid "LANDMARK_SUMMER_PALACE_NAME"
@@ -9557,7 +9557,7 @@ msgstr ""
 "這座城是個融合了傳統與力量的日本建築傑作。它既是優美的宮殿，同時也是堅不可摧"
 "的堡壘。\n"
 "\n"
-"可減少市區內列車的汙染。"
+"可減少市區內列車的污染。"
 
 #, fuzzy
 msgid "LANDMARK_WHITE_HERON_CASTLE_NAME"
@@ -16458,7 +16458,7 @@ msgstr ""
 
 #, fuzzy
 msgid "MISSION_07_TASK_NORTH_WEST_HINT"
-msgstr "查看汙染圖層和城鎮詳細資訊，找出汙染的來源。"
+msgstr "查看污染圖層和城鎮詳細資訊，找出污染的來源。"
 
 #, fuzzy
 msgid "MISSION_07_TASK_NORTH_WEST_INSTRUCTION"
@@ -16474,7 +16474,7 @@ msgstr "西北區"
 msgid "MISSION_07_TASK_NORTH_WEST_PARAGRAPH"
 msgstr ""
 "每年至少向[link=entity_north_west]西北區[/link]配送50單位的鋼材，並維持良好的"
-"汙染評價。"
+"污染評價。"
 
 #, fuzzy
 msgid "MISSION_07_TASK_SOUTH_EAST_HINT"
@@ -17228,12 +17228,12 @@ msgstr ""
 
 #, fuzzy
 msgid "MISSION_7_GUIDE_POLLUTION_NAME"
-msgstr "汙染"
+msgstr "污染"
 
 #, fuzzy
 msgid "MISSION_7_GUIDE_POLLUTION_PARAGRAPH"
 msgstr ""
-"污染主要來自高汙染車輛與產業設施，以及車站、貨物倉庫、倉庫等大型建築物 ，並會"
+"污染主要來自高污染車輛與產業設施，以及車站、貨物倉庫、倉庫等大型建築物 ，並會"
 "影響整個城鎮區域。\n"
 "要改善污染問題，可改用電氣化車輛，在道路沿線及污染源建築物附近種植樹木，並盡"
 "量減少高污染的基礎設施。在興建基礎設施或購買車輛之前，請記得先確認污染評價。"
@@ -19561,39 +19561,39 @@ msgstr "波蘭文"
 
 #, fuzzy
 msgid "Pollution"
-msgstr "汙染"
+msgstr "污染"
 
 #, fuzzy
 msgid "Pollution Absorbtion"
-msgstr "汙染吸收"
+msgstr "污染吸收"
 
 #, fuzzy
 msgid "Pollution Cleaning: {formattedPollution}{units}"
-msgstr "清理汙染：{formattedPollution}{units}"
+msgstr "清理污染：{formattedPollution}{units}"
 
 #, fuzzy
 msgid "Pollution Emission"
-msgstr "汙染排放"
+msgstr "污染排放"
 
 #, fuzzy
 msgid "Pollution Layer"
-msgstr "汙染圖層"
+msgstr "污染圖層"
 
 #, fuzzy
 msgid "Pollution Rating"
-msgstr "汙染評價"
+msgstr "污染評價"
 
 #, fuzzy
 msgid "Pollution Sensitivity"
-msgstr "汙染靈敏度"
+msgstr "污染靈敏度"
 
 #, fuzzy
 msgid "Pollution Source"
-msgstr "汙染來源"
+msgstr "污染來源"
 
 #, fuzzy
 msgid "Pollution: {formattedPollution}{units}"
-msgstr "汙染：{formattedPollution}{units}"
+msgstr "污染：{formattedPollution}{units}"
 
 #, fuzzy
 msgid "Pool Usage: {amount}"
@@ -20402,7 +20402,7 @@ msgstr "道路車輛噪音"
 
 #, fuzzy
 msgid "Road Vehicle Pollution"
-msgstr "道路車輛汙染"
+msgstr "道路車輛污染"
 
 #, fuzzy
 msgid "Road Vehicle Top Speed"
@@ -22772,7 +22772,7 @@ msgstr "船舶噪音"
 
 #, fuzzy
 msgid "Ship Pollution"
-msgstr "船舶汙染"
+msgstr "船舶污染"
 
 #, fuzzy
 msgid "Ship Top Speed"
@@ -23008,7 +23008,7 @@ msgstr "顯示／隱藏增益效果選單"
 
 #, fuzzy
 msgid "Show/Hide Pollution Layer"
-msgstr "顯示／隱藏汙染圖層"
+msgstr "顯示／隱藏污染圖層"
 
 #, fuzzy
 msgid "Show/Hide Rail Menu"
@@ -23957,7 +23957,7 @@ msgstr "可透過模組中心下載新的遊戲內容。"
 #, fuzzy
 msgid "TIP_TOWNS_3"
 msgstr ""
-"避免城鎮出現長時間等候、壅塞、過度噪音、排放汙染等現象，這些因素均會阻礙城鎮"
+"避免城鎮出現長時間等候、壅塞、過度噪音、排放污染等現象，這些因素均會阻礙城鎮"
 "發展。"
 
 #, fuzzy
@@ -24014,7 +24014,7 @@ msgstr "高速軌道"
 #, fuzzy
 msgid "TRACK_SIMPLE_CATENARY_DESCRIPTION"
 msgstr ""
-"這種簡易軌道汙染較少，但僅能容許列車慢速行駛。設有電纜，可供電力列車行駛。"
+"這種簡易軌道污染較少，但僅能容許列車慢速行駛。設有電纜，可供電力列車行駛。"
 
 #, fuzzy
 msgid "TRACK_SIMPLE_CATENARY_NAME"
@@ -24022,7 +24022,7 @@ msgstr "簡易軌道"
 
 #, fuzzy
 msgid "TRACK_SIMPLE_DESCRIPTION"
-msgstr "這種簡易軌道汙染較少，但僅能容許列車慢速行駛。"
+msgstr "這種簡易軌道污染較少，但僅能容許列車慢速行駛。"
 
 #, fuzzy
 msgid "TRACK_SIMPLE_NAME"
@@ -25730,7 +25730,7 @@ msgstr ""
 "自由女神像將在這處工地逐步成形。請供應所有必要資源來完成此建案，讓這座壯觀的"
 "建築得以誕生。\n"
 "\n"
-"完工後，它將可減少市區內所有水上車輛的汙染。"
+"完工後，它將可減少市區內所有水上車輛的污染。"
 
 #, fuzzy
 msgid ""
@@ -25744,7 +25744,7 @@ msgstr ""
 "頤和園將在這處工地逐步成形。請供應所有必要資源來完成此建案，讓這座壯觀的建築"
 "得以誕生。\n"
 "\n"
-"完工後，它將可減少市區內所有航空車輛的汙染。"
+"完工後，它將可減少市區內所有航空車輛的污染。"
 
 #, fuzzy
 msgid ""
@@ -25772,7 +25772,7 @@ msgstr ""
 "姬路城將在這處工地逐步成形。請供應所有必要資源來完成此建案，讓這座壯觀的建築"
 "得以誕生。\n"
 "\n"
-"完工後，它將可減少市區內所有列車的汙染。"
+"完工後，它將可減少市區內所有列車的污染。"
 
 #, fuzzy
 msgid "This map comes from a mod."
@@ -26242,7 +26242,7 @@ msgstr "列車噪音"
 
 #, fuzzy
 msgid "Train Pollution"
-msgstr "列車汙染"
+msgstr "列車污染"
 
 #, fuzzy
 msgid "Train Station"
@@ -26291,7 +26291,7 @@ msgstr "輕軌噪音"
 
 #, fuzzy
 msgid "Tram Pollution"
-msgstr "輕軌汙染"
+msgstr "輕軌污染"
 
 #, fuzzy
 msgid "Tram Station"
@@ -30147,7 +30147,7 @@ msgstr "車輛噪音"
 
 #, fuzzy
 msgid "Vehicle Pollution"
-msgstr "車輛汙染"
+msgstr "車輛污染"
 
 #, fuzzy
 msgid "Vehicle Problem"
