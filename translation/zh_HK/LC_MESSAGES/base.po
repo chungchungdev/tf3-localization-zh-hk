@@ -26915,7 +26915,7 @@ msgstr ""
 
 #, fuzzy
 msgid "VEHICLE_BUS_ECITARO_NAME"
-msgstr "賓士eCitaro"
+msgstr "平治eCitaro"
 
 #, fuzzy
 msgid "VEHICLE_BUS_ET13_DESCRIPTION"
@@ -26992,7 +26992,7 @@ msgstr ""
 
 #, fuzzy
 msgid "VEHICLE_BUS_MB_CITARO_G1_NAME"
-msgstr "賓士eCitaro G1"
+msgstr "平治eCitaro G1"
 
 #, fuzzy
 msgid "VEHICLE_BUS_MB_O303_DESCRIPTION"
@@ -27002,7 +27002,7 @@ msgstr ""
 
 #, fuzzy
 msgid "VEHICLE_BUS_MB_O303_NAME"
-msgstr "賓士O303"
+msgstr "平治O303"
 
 #, fuzzy
 msgid "VEHICLE_BUS_MB_O405G_DESCRIPTION"
@@ -27012,7 +27012,7 @@ msgstr ""
 
 #, fuzzy
 msgid "VEHICLE_BUS_MB_O405G_NAME"
-msgstr "賓士O405 G"
+msgstr "平治O405 G"
 
 #, fuzzy
 msgid "VEHICLE_BUS_OBEISSANTE_DESCRIPTION"
@@ -29177,7 +29177,7 @@ msgstr ""
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_BENZ1912_BOX_NAME"
-msgstr "賓士3噸箱型貨車"
+msgstr "平治3噸箱型貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_BENZ1912_BULK_DESCRIPTION"
@@ -29187,7 +29187,7 @@ msgstr ""
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_BENZ1912_BULK_NAME"
-msgstr "賓士3噸散料貨車"
+msgstr "平治3噸散料貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_FAW_JIEFANG_J6P_BOX_DESCRIPTION"
@@ -29600,11 +29600,11 @@ msgstr "特斯拉Semi"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_URBAN_ETRUCK_DESCRIPTION"
-msgstr "由賓士設計與製造的全電動貨車，透過特殊的空氣力學設計來提升行駛效率。"
+msgstr "由平治設計與製造的全電動貨車，透過特殊的空氣力學設計來提升行駛效率。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_URBAN_ETRUCK_NAME"
-msgstr "賓士Urban eTruck"
+msgstr "平治Urban eTruck"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_VOLVO_FH12_BULK_DESCRIPTION"
