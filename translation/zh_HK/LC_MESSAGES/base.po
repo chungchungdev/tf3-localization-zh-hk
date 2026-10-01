@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TransportFever3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2026-10-01 19:46+0800\n"
+"PO-Revision-Date: 2026-10-01 20:20+0800\n"
 "Last-Translator: chungchungdev <chungchung.dev@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <chungchung.dev@gmail.com>\n"
 "Language: zh_HK\n"
@@ -2690,7 +2690,7 @@ msgstr "阿卡巴港西側"
 
 #, fuzzy
 msgid "Aqaba Road Depot"
-msgstr "阿卡巴道路倉庫"
+msgstr "阿卡巴車廠"
 
 #, fuzzy
 msgid "Aqaba Warehouse"
@@ -3208,7 +3208,7 @@ msgstr "布里格維修設施"
 
 #, fuzzy
 msgid "Brig Road Depot"
-msgstr "布里格道路倉庫"
+msgstr "布里格車廠"
 
 #, fuzzy
 msgid "Brig Saw Mill"
@@ -3939,7 +3939,7 @@ msgstr "中央環狀巴士路線"
 
 #, fuzzy
 msgid "Center Road Depot"
-msgstr "中央道路倉庫"
+msgstr "中央車廠"
 
 #, fuzzy
 msgid "Chairperson"
@@ -5309,9 +5309,8 @@ msgid "DEPOTS_ROAD_DEPOT_DESCRIPTION"
 msgstr ""
 "為了購買貨車與巴士建造的倉庫建築。可自動維修位於一定半徑範圍內的貨車與巴士。"
 
-#, fuzzy
 msgid "DEPOTS_ROAD_DEPOT_NAME"
-msgstr "道路倉庫"
+msgstr "車廠"
 
 #, fuzzy
 msgid "DEPOTS_ROAD_MAINT_STATION_DESCRIPTION"
@@ -5878,7 +5877,7 @@ msgstr "多莫多索拉機械工廠"
 
 #, fuzzy
 msgid "Domodossola Road Depot"
-msgstr "多莫多索拉道路倉庫"
+msgstr "多莫多索拉車廠"
 
 #, fuzzy
 msgid "Domodossola Station"
@@ -6941,7 +6940,7 @@ msgstr "戈勒畜牧農場"
 
 #, fuzzy
 msgid "Gawler Road Depot"
-msgstr "戈勒道路倉庫"
+msgstr "戈勒車廠"
 
 #, fuzzy
 msgid "Gawler Train Depot"
@@ -9259,7 +9258,7 @@ msgstr "坎加瑞拉維修設施"
 
 #, fuzzy
 msgid "Kangarilla Road Depot"
-msgstr "坎加瑞拉道路倉庫"
+msgstr "坎加瑞拉車廠"
 
 #, fuzzy
 msgid "Kangarilla Train Station"
@@ -11206,9 +11205,8 @@ msgstr "修築道路"
 msgid "MISSION_01_TASK_BUILD_PATH_PARAGRAPH"
 msgstr "修築缺少的道路路段，將[link=pos_street]道路[/link]的兩端連接起來。"
 
-#, fuzzy
 msgid "MISSION_01_TASK_BUILD_STREET_FIRST_DEPOT_HOTEL_HINT"
-msgstr "從下方的建設選單中選擇道路倉庫。"
+msgstr "從下方的建設選單中選擇車廠。"
 
 #, fuzzy
 msgid "MISSION_01_TASK_BUILD_STREET_FIRST_DEPOT_HOTEL_INSTRUCTION"
@@ -11219,9 +11217,8 @@ msgstr ""
 msgid "MISSION_01_TASK_BUILD_STREET_FIRST_DEPOT_HOTEL_NAME"
 msgstr "建造道路載具倉庫"
 
-#, fuzzy
 msgid "MISSION_01_TASK_BUILD_STREET_FIRST_DEPOT_HOTEL_PARAGRAPH"
-msgstr "在[link=pos_street_depot_zone]標示區域[/link]內建造一座道路倉庫。"
+msgstr "在[link=pos_street_depot_zone]標示區域[/link]內建造一座車廠。"
 
 #, fuzzy
 msgid "MISSION_01_TASK_BUILD_TRACKS_HINT"
@@ -11283,11 +11280,9 @@ msgstr "太棒了！現在我們需要在載具倉庫裡購買一輛馬車來運
 msgid "MISSION_01_TASK_BUY_FIRST_TRUCK_HOTEL_NAME"
 msgstr "購買一輛馬車"
 
-#, fuzzy
 msgid "MISSION_01_TASK_BUY_FIRST_TRUCK_HOTEL_PARAGRAPH"
 msgstr ""
-"在[link=pos_street_depot_zone]道路倉庫[/link]中購買一輛可以運送木材進城的馬"
-"車。"
+"在[link=pos_street_depot_zone]車廠[/link]購買一輛可以運送木材入城的馬車。"
 
 #, fuzzy
 msgid "MISSION_01_TASK_BUY_SHIP_INSTRUCTION"
@@ -17613,9 +17608,8 @@ msgstr "米蘭作物農場"
 msgid "Milano Maintenance Building"
 msgstr "米蘭維修設施"
 
-#, fuzzy
 msgid "Milano Road Depot"
-msgstr "米蘭道路倉庫"
+msgstr "米蘭車廠"
 
 #, fuzzy
 msgid "Milano Station"
@@ -18108,9 +18102,8 @@ msgstr "中之神飛行場"
 msgid "Nakatane"
 msgstr "中種子"
 
-#, fuzzy
 msgid "Nakatane Road Depot"
-msgstr "中種子道路倉庫"
+msgstr "中種子車廠"
 
 #, fuzzy
 msgid "Name"
@@ -18228,7 +18221,7 @@ msgstr "紐奧良港口"
 
 #, fuzzy
 msgid "New Orleans Road Depot"
-msgstr "紐奧良道路倉庫"
+msgstr "紐奧良車廠"
 
 #, fuzzy
 msgid "New Orleans Ship Depot"
@@ -18312,7 +18305,7 @@ msgstr "西之表機械工廠"
 
 #, fuzzy
 msgid "Nishinoomote Road Depot"
-msgstr "西之表道路倉庫"
+msgstr "西之表車廠"
 
 #, fuzzy
 msgid "No"
@@ -18442,7 +18435,6 @@ msgstr "沒有可用的匯入產生器。"
 msgid "No cargo or passengers transported, yet."
 msgstr "尚未運輸任何貨物或乘客。"
 
-#, fuzzy
 msgid "No line or depot selected."
 msgstr "未選取路線或車廠。"
 
@@ -22309,7 +22301,7 @@ msgstr "希福德巴士路線"
 
 #, fuzzy
 msgid "Seaford Road Depot"
-msgstr "希福德道路倉庫"
+msgstr "希福德車廠"
 
 #, fuzzy
 msgid "Seaford Station"
@@ -22831,9 +22823,8 @@ msgstr "僅顯示可見路線"
 msgid "Show Only Visible {object}"
 msgstr "僅顯示可見之{object}"
 
-#, fuzzy
 msgid "Show Road Depots"
-msgstr "顯示道路倉庫"
+msgstr "顯示車廠"
 
 #, fuzzy
 msgid "Show Road Lines"
@@ -23259,7 +23250,7 @@ msgstr "西南巴士路線"
 
 #, fuzzy
 msgid "Southwest Road Depot"
-msgstr "西南道路倉庫"
+msgstr "西南車廠"
 
 #, fuzzy
 msgid "Southwest Train Station"
@@ -24024,8 +24015,8 @@ msgstr "指派車輛"
 #, fuzzy
 msgid "TUTORIAL_ASSIGN_VEHICLE_TASK_PARAGRAPH"
 msgstr ""
-"選擇[link=entity_depot]道路倉庫[/link]後按下管理車輛按鈕，就能開啟路線調度視"
-"窗，並自動選擇你的巴士。利用派遣至路線按鈕，就能將巴士指派至新路線。"
+"選擇[link=entity_depot]車廠[/link]後按下管理車輛按鈕，就能開啟路線調度視窗，"
+"並自動選擇你的巴士。利用派遣至路線按鈕，就能將巴士指派至新路線。"
 
 #, fuzzy
 msgid "TUTORIAL_A_CONNECT_INDUSTRY_TASK_NAME"
@@ -24094,11 +24085,10 @@ msgstr ""
 msgid "TUTORIAL_A_LINE_COMMERCIAL_ASSIGN_TASK_NAME"
 msgstr "購買與指派貨車"
 
-#, fuzzy
 msgid "TUTORIAL_A_LINE_COMMERCIAL_ASSIGN_TASK_PARAGRAPH"
 msgstr ""
-"在[link=entity_depot]道路倉庫[/link]中購買一輛可以運送蔬菜的貨車，並將它指派"
-"至連接農場與[link=entity_town]{TOWN_NAME}[/link]的商業區的路線。"
+"在[link=entity_depot]車廠[/link]中購買一輛可以運送蔬菜的貨車，並將它指派至連"
+"接農場與[link=entity_town]{TOWN_NAME}[/link]的商業區的路線。"
 
 #, fuzzy
 msgid "TUTORIAL_A_LINE_COMMERCIAL_TASK_NAME"
@@ -24209,23 +24199,21 @@ msgstr "建造總部"
 msgid "TUTORIAL_BUILD_HQ_TASK_PARAGRAPH"
 msgstr "按下建設選單中的增益效果按鈕，即可建造總部。"
 
-#, fuzzy
 msgid "TUTORIAL_BUILD_ROAD_DEPOT_GUIDE_NAME"
-msgstr "建造一座道路倉庫"
+msgstr "建造一座車廠"
 
 #, fuzzy
 msgid "TUTORIAL_BUILD_ROAD_DEPOT_GUIDE_PARAGRAPH"
 msgstr ""
-"道路倉庫具備兩種功能。一為道路車輛的商店，可購買、改裝及替換貨車和巴士；二為"
-"保養維修維修範圍內的車輛。"
+"車廠具備兩種功能。一為道路車輛的商店，可購買、改裝及替換貨車和巴士；二為維修"
+"保養維修範圍內的車輛。"
 
-#, fuzzy
 msgid "TUTORIAL_BUILD_ROAD_DEPOT_TASK_NAME"
-msgstr "建造一座道路倉庫"
+msgstr "建造一座車廠"
 
 #, fuzzy
 msgid "TUTORIAL_BUILD_ROAD_DEPOT_TASK_PARAGRAPH"
-msgstr "要購買車輛，就得先建造道路倉庫。記得將它連上道路。"
+msgstr "要購買車輛，就要先建造車廠。記得將它連上道路。"
 
 #, fuzzy
 msgid "TUTORIAL_BUILD_ROAD_STOP_1_GUIDE_NAME"
@@ -24321,8 +24309,8 @@ msgstr "購買一輛客運車輛"
 #, fuzzy
 msgid "TUTORIAL_BUY_BUS_TASK_PARAGRAPH"
 msgstr ""
-"在商店中購買一輛載運乘客的車輛。選擇[link=entity_depot]道路倉庫[/link]後按下"
-"管理車輛按鈕。"
+"在商店中購買一輛載運乘客的車輛。選擇[link=entity_depot]車廠[/link]後按下管理"
+"車輛按鈕。"
 
 #, fuzzy
 msgid "TUTORIAL_BUY_TRAIN_GUIDE_NAME"
@@ -24422,10 +24410,10 @@ msgstr "購買與指派貨車"
 #, fuzzy
 msgid "TUTORIAL_B_LINE_INDUSTRIAL_ASSIGN_TASK_PARAGRAPH"
 msgstr ""
-"前往[link=entity_depot]道路倉庫[/link]，為每條路線購買至少一輛貨車。請確認這"
-"些貨車的能夠運輸木材與木板，然後將它們指派到從[link=entity_forest]森林[/link]"
-"到[link=entity_saw]鋸木廠[/link]內的車站的路線，以及從[link=entity_saw]鋸木廠"
-"[/link]到[link=entity_town]{TOWN_NAME}[/link]內的工業區的路線。"
+"前往[link=entity_depot]車廠[/link]，為每條路線購買至少一輛貨車。請確認這些貨"
+"車的能夠運輸木材與木板，然後將它們指派到從[link=entity_forest]森林[/link]到"
+"[link=entity_saw]鋸木廠[/link]內的車站的路線，以及從[link=entity_saw]鋸木廠[/"
+"link]到[link=entity_town]{TOWN_NAME}[/link]內的工業區的路線。"
 
 #, fuzzy
 msgid "TUTORIAL_B_LINE_INDUSTRIAL_TASK_NAME"
@@ -25921,8 +25909,8 @@ msgid ""
 "line, and finally, assign the bus to the line."
 msgstr ""
 "要在{TOWN_NAME_2}建立新路線，你需要：\n"
-"建造新的道路停靠站、建造一座新的道路倉庫、購買一輛新巴士、建立新路線，最後將"
-"巴士指派到這條路線上。"
+"建造新的道路停靠站、建造一座新的車廠、購買一輛新巴士、建立新路線，最後將巴士"
+"指派到這條路線上。"
 
 #, fuzzy
 msgid ""
@@ -30514,7 +30502,7 @@ msgstr "屋久島"
 
 #, fuzzy
 msgid "Yakushima Road Depot"
-msgstr "屋久島道路倉庫"
+msgstr "屋久島車廠"
 
 #, fuzzy
 msgid "Year"
@@ -33189,7 +33177,7 @@ msgstr "{townName}港口"
 
 #, fuzzy
 msgid "{townName} Road Depot"
-msgstr "{townName} 道路倉庫"
+msgstr "{townName} 車廠"
 
 #, fuzzy
 msgid "{townName} Ship Depot"
