@@ -5327,7 +5327,7 @@ msgstr ""
 
 #, fuzzy
 msgid "DEPOTS_ROAD_TRAM_DEPOT_NAME"
-msgstr "輕軌倉庫"
+msgstr "輕軌車廠"
 
 #, fuzzy
 msgid "DEPOTS_WATER_MAINT_STATION_DESCRIPTION"
@@ -18237,7 +18237,7 @@ msgstr "紐奧良鐵路車廠"
 
 #, fuzzy
 msgid "New Orleans Tram Depot"
-msgstr "紐奧良輕軌倉庫"
+msgstr "紐奧良輕軌車廠"
 
 #, fuzzy
 msgid "New Orleans Tram Line 1"
@@ -22880,7 +22880,7 @@ msgstr "顯示列車"
 
 #, fuzzy
 msgid "Show Tram Depots"
-msgstr "顯示輕軌倉庫"
+msgstr "顯示輕軌車廠"
 
 #, fuzzy
 msgid "Show Tram Lines"
@@ -33197,7 +33197,7 @@ msgstr "{townName} 鐵路車廠"
 
 #, fuzzy
 msgid "{townName} Tram Depot"
-msgstr "{townName} 輕軌倉庫"
+msgstr "{townName} 輕軌車廠"
 
 #, fuzzy
 msgid "{townName} Underground Stop"
