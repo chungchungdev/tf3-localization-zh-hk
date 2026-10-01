@@ -1984,7 +1984,7 @@ msgstr "阿德雷德機場"
 
 #, fuzzy
 msgid "Adelaide Airport Bus Stop"
-msgstr "阿德雷德機場公車站"
+msgstr "阿德雷德機場巴士站"
 
 #, fuzzy
 msgid "Adelaide Crop Farm"
@@ -3205,7 +3205,7 @@ msgstr "布里格 - 多莫多索拉 - 米蘭火車路線"
 
 #, fuzzy
 msgid "Brig - Domodossola Bus Line"
-msgstr "布里格 - 多莫多索拉公車路線"
+msgstr "布里格 - 多莫多索拉巴士路線"
 
 #, fuzzy
 msgid "Brig - Kandersteg Train Line"
@@ -3217,15 +3217,15 @@ msgstr "布里格 - 米蘭火車路線"
 
 #, fuzzy
 msgid "Brig Bus Line 1"
-msgstr "布里格公車路線1"
+msgstr "布里格巴士路線1"
 
 #, fuzzy
 msgid "Brig Bus Line 2"
-msgstr "布里格公車路線2"
+msgstr "布里格巴士路線2"
 
 #, fuzzy
 msgid "Brig Bus Station"
-msgstr "布里格公車站"
+msgstr "布里格巴士站"
 
 #, fuzzy
 msgid "Brig Maintenance Building"
@@ -3402,15 +3402,15 @@ msgstr "雅安伐木營地"
 
 #, fuzzy
 msgid "Bus Lane Tool"
-msgstr "公車專用道工具"
+msgstr "巴士專用道工具"
 
 #, fuzzy
 msgid "Bus and Tram Stops"
-msgstr "公車與輕軌站牌"
+msgstr "巴士與輕軌站牌"
 
 #, fuzzy
 msgid "Buses"
-msgstr "公車"
+msgstr "巴士"
 
 #, fuzzy
 msgid "Bushes"
@@ -3944,11 +3944,11 @@ msgstr "中央"
 
 #, fuzzy
 msgid "Center - Northeast Bus Line"
-msgstr "中央 - 東北公車路線"
+msgstr "中央 - 東北巴士路線"
 
 #, fuzzy
 msgid "Center Bus Station"
-msgstr "中央公車站"
+msgstr "中央巴士站"
 
 #, fuzzy
 msgid "Center Canned Food Train Line"
@@ -3960,7 +3960,7 @@ msgstr "中央罐頭食品貨車路線"
 
 #, fuzzy
 msgid "Center Circle Bus Line"
-msgstr "中央環狀公車路線"
+msgstr "中央環狀巴士路線"
 
 #, fuzzy
 msgid "Center Road Depot"
@@ -4420,7 +4420,7 @@ msgstr "循環相依"
 
 #, fuzzy
 msgid "City Bus"
-msgstr "市區公車"
+msgstr "市區巴士"
 
 #, fuzzy
 msgid "Civilization"
@@ -5332,7 +5332,7 @@ msgstr "列車維修設施"
 #, fuzzy
 msgid "DEPOTS_ROAD_DEPOT_DESCRIPTION"
 msgstr ""
-"為了購買貨車與公車建造的倉庫建築。可自動維護位於一定半徑範圍內的貨車與公車。"
+"為了購買貨車與巴士建造的倉庫建築。可自動維護位於一定半徑範圍內的貨車與巴士。"
 
 #, fuzzy
 msgid "DEPOTS_ROAD_DEPOT_NAME"
@@ -5340,7 +5340,7 @@ msgstr "道路倉庫"
 
 #, fuzzy
 msgid "DEPOTS_ROAD_MAINT_STATION_DESCRIPTION"
-msgstr "可自動維護位於一定半徑範圍內的貨車、公車與輕軌列車。"
+msgstr "可自動維護位於一定半徑範圍內的貨車、巴士與輕軌列車。"
 
 #, fuzzy
 msgid "DEPOTS_ROAD_MAINT_STATION_NAME"
@@ -5891,7 +5891,7 @@ msgstr "多莫多索拉"
 
 #, fuzzy
 msgid "Domodossola Bus Line"
-msgstr "多莫多索拉公車路線"
+msgstr "多莫多索拉巴士路線"
 
 #, fuzzy
 msgid "Domodossola Logging Camp"
@@ -6942,7 +6942,7 @@ msgstr "戈勒"
 
 #, fuzzy
 msgid "Gawler Bus Line"
-msgstr "戈勒公車路線"
+msgstr "戈勒巴士路線"
 
 #, fuzzy
 msgid "Gawler Canned Food Truck Line"
@@ -7518,7 +7518,7 @@ msgstr ""
 #, fuzzy
 msgid "HELP_CONSTRUCTION_ROADS_ROADS"
 msgstr ""
-"道路用於連接公車站與倉庫、城鎮及產業。\n"
+"道路用於連接巴士站與倉庫、城鎮及產業。\n"
 "道路共有三種類型：城鎮街道、鄉村道路以及高速公路。\n"
 "城鎮街道設有人行道，城鎮可沿此類型道路擴張。建造城鎮街道時，綠色區域代表可建"
 "造城鎮建築的範圍。\n"
@@ -7531,7 +7531,7 @@ msgstr ""
 msgid "HELP_CONSTRUCTION_ROADS_TOOLS"
 msgstr ""
 "道路工具可用來修改現有道路。\n"
-"其中包含可新增或移除輕軌軌道、公車專用道或隔音牆等特定額外設施所需的工具。\n"
+"其中包含可新增或移除輕軌軌道、巴士專用道或隔音牆等特定額外設施所需的工具。\n"
 "使用時可選擇將更動內容以對稱形式套用於雙側車道，或僅套用於單側車道。\n"
 "鎖定工具可將道路標記為鎖定狀態，防止系統自行更動道路。\n"
 "路口工具則可用來修改路口的道路與輕軌車道配置。"
@@ -7539,10 +7539,10 @@ msgstr ""
 #, fuzzy
 msgid "HELP_CONSTRUCTION_ROAD_BUILDINGS"
 msgstr ""
-"道路建築是建立貨車、公車與輕軌路線的基礎。\n"
-"可在世界畫面中放置多個停留點或公車站，再於路線調度視窗將它們結合，便能形成路"
+"道路建築是建立貨車、巴士與輕軌路線的基礎。\n"
+"可在世界畫面中放置多個停留點或巴士站，再於路線調度視窗將它們結合，便能形成路"
 "線。\n"
-"倉庫可購買貨車、公車或輕軌，並提供維修所需空間。\n"
+"倉庫可購買貨車、巴士或輕軌，並提供維修所需空間。\n"
 "放置維修設施即可提供額外維修區域。\n"
 "建造過程中會標示火車站的涵蓋範圍，以及倉庫與維修設施的維修區域。"
 
@@ -7552,7 +7552,7 @@ msgstr ""
 "道路工具可用來修改現有的道路。\n"
 "使用輕軌軌道工具即可新增或移除輕軌軌道。位於交叉路口的軌道會自動生成，但仍可"
 "透過路口工具調整。\n"
-"利用公車專用道工具即可新增或移除公車專用道。公車專用道僅供貨車與公車行駛，一"
+"利用巴士專用道工具即可新增或移除巴士專用道。巴士專用道僅供貨車與巴士行駛，一"
 "般情況下汽車不會行駛於該車道。\n"
 "使用時可選擇要將更動內容以對稱形式套用於雙側車道，或僅套用於單側車道。"
 
@@ -9274,11 +9274,11 @@ msgstr "坎加瑞拉"
 
 #, fuzzy
 msgid "Kangarilla Bus Line"
-msgstr "坎加瑞拉公車路線"
+msgstr "坎加瑞拉巴士路線"
 
 #, fuzzy
 msgid "Kangarilla Bus Station"
-msgstr "坎加瑞拉公車站"
+msgstr "坎加瑞拉巴士站"
 
 #, fuzzy
 msgid "Kangarilla Maintenance Building"
@@ -9387,7 +9387,7 @@ msgstr "克納普倫德"
 
 #, fuzzy
 msgid "Knaplundsøya - Godøynes Bus Line"
-msgstr "克納普倫德 - 戈德於內斯公車路線"
+msgstr "克納普倫德 - 戈德於內斯巴士路線"
 
 #, fuzzy
 msgid "Knaplundsøya - Løding - Naurstad Train Line"
@@ -9395,7 +9395,7 @@ msgstr "克納普倫德 - 洛丁 - 瑙爾斯塔火車路線"
 
 #, fuzzy
 msgid "Knaplundsøya Bus Line"
-msgstr "克納普倫德公車路線"
+msgstr "克納普倫德巴士路線"
 
 #, fuzzy
 msgid "Knaplundsøya Chemical Plant"
@@ -10089,7 +10089,7 @@ msgstr "洛丁Bus路線"
 
 #, fuzzy
 msgid "Løding Bus Station"
-msgstr "洛丁公車站"
+msgstr "洛丁巴士站"
 
 #, fuzzy
 msgid "Løding Docks"
@@ -10658,7 +10658,7 @@ msgstr "這意味著他們無法及時趕回來。"
 #, fuzzy
 msgid "MISSION_01_CUTSCENE_MUSIC_5"
 msgstr ""
-"除非你能把湖濱區連接到公車網路！它夠近，他們可以輕鬆步行到那裡。而且這也會讓"
+"除非你能把湖濱區連接到巴士網路！它夠近，他們可以輕鬆步行到那裡。而且這也會讓"
 "湖濱區的居民有機會去參加狂歡節。"
 
 #, fuzzy
@@ -11353,17 +11353,17 @@ msgstr "使用路線調度視窗來編輯路線。"
 #, fuzzy
 msgid "MISSION_01_TASK_EXTEND_LINE_INSTRUCTION"
 msgstr ""
-"你可以把紐奧良的公車路線只延伸一站到湖濱區。那樣一來，我們甚至不必購買新的公"
+"你可以把紐奧良的巴士路線只延伸一站到湖濱區。那樣一來，我們甚至不必購買新的公"
 "車！"
 
 #, fuzzy
 msgid "MISSION_01_TASK_EXTEND_LINE_NAME"
-msgstr "延伸公車路線"
+msgstr "延伸巴士路線"
 
 #, fuzzy
 msgid "MISSION_01_TASK_EXTEND_LINE_PARAGRAPH"
 msgstr ""
-"將藍色的[link=entity_park]紐澳良[/link]公車路線延伸至[link=entity_village]湖"
+"將藍色的[link=entity_park]紐澳良[/link]巴士路線延伸至[link=entity_village]湖"
 "濱區[/link]。"
 
 #, fuzzy
@@ -15103,7 +15103,7 @@ msgstr ""
 msgid "MISSION_06_CUTSCENE_SOCIAL_FINAL_STRONG_4"
 msgstr ""
 "我們仍然可以優化一些事情。配送中心可以選址更好或重建、道路可以改善、車輛可以"
-"升級。更多公車站、更多線路。人民永遠不會過得太好！"
+"升級。更多巴士站、更多線路。人民永遠不會過得太好！"
 
 #, fuzzy
 msgid "MISSION_06_CUTSCENE_SOCIAL_FINAL_STRONG_5"
@@ -15301,7 +15301,7 @@ msgstr ""
 #, fuzzy
 msgid "MISSION_06_GUIDE_ECONOMY_SUBSIDIES_5_FAIL"
 msgstr ""
-"我們有工人，也有工廠。 然而我們卻沒有公車將兩者運送到彼此那裡？機械是一門有利"
+"我們有工人，也有工廠。 然而我們卻沒有巴士將兩者運送到彼此那裡？機械是一門有利"
 "可圖的生意！ 去問問德國人就知道了！"
 
 #, fuzzy
@@ -15393,7 +15393,7 @@ msgstr ""
 msgid "MISSION_06_GUIDE_TOURISTIC_SUBSIDIES_2_FAIL"
 msgstr ""
 "世界上最美的國家公園都在我們這裡。我們甚至還有活火山馬榮火山！結果從馬尼拉連"
-"一條火車或公車線路通到國家公園入口都沒有？真是難以置信！"
+"一條火車或巴士線路通到國家公園入口都沒有？真是難以置信！"
 
 #, fuzzy
 msgid "MISSION_06_GUIDE_TOURISTIC_SUBSIDIES_2_WIN"
@@ -16699,7 +16699,7 @@ msgstr "別忘了國家必須節省開支。能省越多，對日本越好！"
 
 #, fuzzy
 msgid "MISSION_08_CUTSCENE_INTRO_9"
-msgstr "首相來觀禮時，她和隨行人員可不會想搭公車從飯店到觀測台。"
+msgstr "首相來觀禮時，她和隨行人員可不會想搭巴士從飯店到觀測台。"
 
 #, fuzzy
 msgid "MISSION_08_CUTSCENE_KEROSENE_A_1"
@@ -17031,7 +17031,7 @@ msgstr ""
 #, fuzzy
 msgid "MISSION_08_TASK_AUDIENCE_INSTRUCTION"
 msgstr ""
-"為了讓貴賓不用搭公車前往觀測台，我們應該安排飯店與觀測台之間的接駁服務。"
+"為了讓貴賓不用搭巴士前往觀測台，我們應該安排飯店與觀測台之間的接駁服務。"
 
 #, fuzzy
 msgid "MISSION_08_TASK_AUDIENCE_NAME"
@@ -17209,7 +17209,7 @@ msgid "MISSION_7_GUIDE_HAPPINESS_PARAGRAPH"
 msgstr ""
 "乘客等候大眾運輸時間過長，或長時間搭乘舒適度不足的車輛，心情就會變差。\n"
 "\n"
-"若要提升乘客的幸福度，長途客運路線應使用舒適度較高的車輛。此外也可以使用公車"
+"若要提升乘客的幸福度，長途客運路線應使用舒適度較高的車輛。此外也可以使用巴士"
 "專用道，將車道保留給大眾運輸，或是建造地下輕軌，提供更快速的運輸與更大的載客"
 "量。"
 
@@ -17626,11 +17626,11 @@ msgstr "米蘭"
 
 #, fuzzy
 msgid "Milano Bus Line"
-msgstr "米蘭公車路線"
+msgstr "米蘭巴士路線"
 
 #, fuzzy
 msgid "Milano Bus Station"
-msgstr "米蘭公車站"
+msgstr "米蘭巴士站"
 
 #, fuzzy
 msgid "Milano Crop Farm"
@@ -18165,7 +18165,7 @@ msgstr "瑙爾斯塔"
 
 #, fuzzy
 msgid "Naurstad Bus Line"
-msgstr "瑙爾斯塔公車路線"
+msgstr "瑙爾斯塔巴士路線"
 
 #, fuzzy
 msgid "Naurstad Oil Refinery"
@@ -19989,7 +19989,7 @@ msgstr "退款：{}"
 
 #, fuzzy
 msgid "Regional Bus"
-msgstr "區域公車"
+msgstr "區域巴士"
 
 #, fuzzy
 msgid "Relative Mode"
@@ -20381,7 +20381,7 @@ msgstr "道路車站"
 
 #, fuzzy
 msgid "Road Stations"
-msgstr "公車站"
+msgstr "巴士站"
 
 #, fuzzy
 msgid "Road Tools"
@@ -21244,16 +21244,16 @@ msgstr "乘客月台"
 
 #, fuzzy
 msgid "STATIONS_STREET_PASSENGER_DESCRIPTION"
-msgstr "可利用模組擴建的客運站，供公車與輕軌列車使用。"
+msgstr "可利用模組擴建的客運站，供巴士與輕軌列車使用。"
 
 #, fuzzy
 msgid "STATIONS_STREET_PASSENGER_NAME"
-msgstr "公車／輕軌站"
+msgstr "巴士／輕軌站"
 
 #, fuzzy
 msgid "STATIONS_STREET_SMALL_MID_DESCRIPTION"
 msgstr ""
-"供乘客與卸載貨物使用之小型停靠站，設於道路其中一側。可供貨車、公車與輕軌列車"
+"供乘客與卸載貨物使用之小型停靠站，設於道路其中一側。可供貨車、巴士與輕軌列車"
 "使用。"
 
 #, fuzzy
@@ -21263,7 +21263,7 @@ msgstr "道路站牌"
 #, fuzzy
 msgid "STATIONS_STREET_SMALL_NEW_DESCRIPTION"
 msgstr ""
-"供乘客與卸載貨物使用之小型停靠站，設於道路其中一側。可供貨車、公車與輕軌列車"
+"供乘客與卸載貨物使用之小型停靠站，設於道路其中一側。可供貨車、巴士與輕軌列車"
 "使用。"
 
 #, fuzzy
@@ -21273,7 +21273,7 @@ msgstr "道路站牌"
 #, fuzzy
 msgid "STATIONS_STREET_SMALL_OLD_DESCRIPTION"
 msgstr ""
-"供乘客與卸載貨物使用之小型停靠站，設於道路其中一側。可供貨車、公車與輕軌列車"
+"供乘客與卸載貨物使用之小型停靠站，設於道路其中一側。可供貨車、巴士與輕軌列車"
 "使用。"
 
 #, fuzzy
@@ -21283,7 +21283,7 @@ msgstr "道路站牌"
 #, fuzzy
 msgid "STATIONS_STREET_SMALL_TWOSIDED_MID_DESCRIPTION"
 msgstr ""
-"供乘客與卸載貨物使用之小型停靠站，設於道路兩側。可供貨車、公車與輕軌列車使"
+"供乘客與卸載貨物使用之小型停靠站，設於道路兩側。可供貨車、巴士與輕軌列車使"
 "用。"
 
 #, fuzzy
@@ -21293,7 +21293,7 @@ msgstr "雙側道路站牌"
 #, fuzzy
 msgid "STATIONS_STREET_SMALL_TWOSIDED_NEW_DESCRIPTION"
 msgstr ""
-"供乘客與卸載貨物使用之小型停靠站，設於道路兩側。可供貨車、公車與輕軌列車使"
+"供乘客與卸載貨物使用之小型停靠站，設於道路兩側。可供貨車、巴士與輕軌列車使"
 "用。"
 
 #, fuzzy
@@ -21303,7 +21303,7 @@ msgstr "雙側道路站牌"
 #, fuzzy
 msgid "STATIONS_STREET_SMALL_TWOSIDED_OLD_DESCRIPTION"
 msgstr ""
-"供乘客與卸載貨物使用之小型停靠站，設於道路兩側。可供貨車、公車與輕軌列車使"
+"供乘客與卸載貨物使用之小型停靠站，設於道路兩側。可供貨車、巴士與輕軌列車使"
 "用。"
 
 #, fuzzy
@@ -21477,11 +21477,11 @@ msgstr "大型鄉村道路（設有隔音牆）"
 msgid "STREET_COUNTRY_NEW_LARGE_BUS_DESC"
 msgstr ""
 "這條六線道柏油道路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度下"
-"降。公車專用道僅供公車與貨車行駛，私人車輛原則上不得進入。"
+"降。巴士專用道僅供巴士與貨車行駛，私人車輛原則上不得進入。"
 
 #, fuzzy
 msgid "STREET_COUNTRY_NEW_LARGE_BUS_NAME"
-msgstr "大型鄉村道路（設有公車專用道）"
+msgstr "大型鄉村道路（設有巴士專用道）"
 
 #, fuzzy
 msgid "STREET_COUNTRY_NEW_LARGE_DESC"
@@ -21507,11 +21507,11 @@ msgstr "中型鄉村道路（設有隔音牆）"
 msgid "STREET_COUNTRY_NEW_MEDIUM_BUS_DESC"
 msgstr ""
 "這條四線道柏油道路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度下"
-"降。公車專用道僅供公車與貨車行駛，私人車輛原則上不得進入。"
+"降。巴士專用道僅供巴士與貨車行駛，私人車輛原則上不得進入。"
 
 #, fuzzy
 msgid "STREET_COUNTRY_NEW_MEDIUM_BUS_NAME"
-msgstr "中型鄉村道路（設有公車專用道）"
+msgstr "中型鄉村道路（設有巴士專用道）"
 
 #, fuzzy
 msgid "STREET_COUNTRY_NEW_MEDIUM_DESC"
@@ -21723,12 +21723,12 @@ msgstr "大型街道（設有隔音牆）"
 #, fuzzy
 msgid "STREET_TOWN_NEW_LARGE_BUS_DESC"
 msgstr ""
-"這條六線道柏油道路附設人行道，很適合城鎮內的道路需求。公車專用道僅供公車與卡"
+"這條六線道柏油道路附設人行道，很適合城鎮內的道路需求。巴士專用道僅供巴士與卡"
 "車行駛，私人車輛原則上不得進入。"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_LARGE_BUS_NAME"
-msgstr "大型街道（設有公車專用道）"
+msgstr "大型街道（設有巴士專用道）"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_LARGE_DESC"
@@ -21771,12 +21771,12 @@ msgstr "中型街道（設有隔音牆）"
 #, fuzzy
 msgid "STREET_TOWN_NEW_MEDIUM_BUS_DESC"
 msgstr ""
-"這條四線道柏油道路附設人行道，很適合城鎮內的道路需求。公車專用道僅供公車與卡"
+"這條四線道柏油道路附設人行道，很適合城鎮內的道路需求。巴士專用道僅供巴士與卡"
 "車行駛，私人車輛原則上不得進入。"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_MEDIUM_BUS_NAME"
-msgstr "中型街道（設有公車專用道）"
+msgstr "中型街道（設有巴士專用道）"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_MEDIUM_DESC"
@@ -21819,12 +21819,12 @@ msgstr "中型單行道（設有隔音牆）"
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_MEDIUM_BUS_DESC"
 msgstr ""
-"這條四線道的單向柏油道路附設人行道，很適合城鎮內的道路需求。公車專用道僅供公"
+"這條四線道的單向柏油道路附設人行道，很適合城鎮內的道路需求。巴士專用道僅供公"
 "車與貨車行駛，私人車輛原則上不得進入。"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_MEDIUM_BUS_NAME"
-msgstr "中型單行道（設有公車專用道）"
+msgstr "中型單行道（設有巴士專用道）"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_MEDIUM_DESC"
@@ -21867,12 +21867,12 @@ msgstr "小型單行道（設有隔音牆）"
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_SMALL_BUS_DESC"
 msgstr ""
-"這條二線道的單向柏油道路附設人行道，很適合城鎮內的道路需求。公車專用道僅供公"
+"這條二線道的單向柏油道路附設人行道，很適合城鎮內的道路需求。巴士專用道僅供公"
 "車與貨車行駛，私人車輛原則上不得進入。"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_SMALL_BUS_NAME"
-msgstr "小型單行道（設有公車專用道）"
+msgstr "小型單行道（設有巴士專用道）"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_SMALL_DESC"
@@ -22332,7 +22332,7 @@ msgstr "希福德"
 
 #, fuzzy
 msgid "Seaford Bus Line"
-msgstr "希福德公車路線"
+msgstr "希福德巴士路線"
 
 #, fuzzy
 msgid "Seaford Road Depot"
@@ -22868,7 +22868,7 @@ msgstr "顯示道路路線"
 
 #, fuzzy
 msgid "Show Road Stations"
-msgstr "顯示公車站"
+msgstr "顯示巴士站"
 
 #, fuzzy
 msgid "Show Road Vehicles"
@@ -23278,11 +23278,11 @@ msgstr "西南區"
 
 #, fuzzy
 msgid "Southwest - Southeast Bus Line"
-msgstr "西南 - 東南公車路線"
+msgstr "西南 - 東南巴士路線"
 
 #, fuzzy
 msgid "Southwest Bus Line"
-msgstr "西南公車路線"
+msgstr "西南巴士路線"
 
 #, fuzzy
 msgid "Southwest Road Depot"
@@ -24052,7 +24052,7 @@ msgstr "指派車輛"
 msgid "TUTORIAL_ASSIGN_VEHICLE_TASK_PARAGRAPH"
 msgstr ""
 "選擇[link=entity_depot]道路倉庫[/link]後按下管理車輛按鈕，就能開啟路線調度視"
-"窗，並自動選擇你的公車。利用派遣至路線按鈕，就能將公車指派至新路線。"
+"窗，並自動選擇你的巴士。利用派遣至路線按鈕，就能將巴士指派至新路線。"
 
 #, fuzzy
 msgid "TUTORIAL_A_CONNECT_INDUSTRY_TASK_NAME"
@@ -24243,7 +24243,7 @@ msgstr "建造一座道路倉庫"
 #, fuzzy
 msgid "TUTORIAL_BUILD_ROAD_DEPOT_GUIDE_PARAGRAPH"
 msgstr ""
-"道路倉庫具備兩種功能。一為道路車輛的商店，可購買、改裝及替換貨車和公車；二為"
+"道路倉庫具備兩種功能。一為道路車輛的商店，可購買、改裝及替換貨車和巴士；二為"
 "保養維護維修範圍內的車輛。"
 
 #, fuzzy
@@ -24564,7 +24564,7 @@ msgstr "連接火車站"
 #, fuzzy
 msgid "TUTORIAL_CONNECT_TRAIN_STATIONS_TASK_PARAGRAPH"
 msgstr ""
-"接下來，請建立通往火車站的公車路線，讓城鎮各處的居民都能前往火車站。請務必讓"
+"接下來，請建立通往火車站的巴士路線，讓城鎮各處的居民都能前往火車站。請務必讓"
 "[link=entity_town]{TOWN_NAME}[/link]的路線連接至火車站，並在"
 "[link=entity_town_2]{TOWN_NAME_2}[/link]建立一條通往火車站的新路線。"
 
@@ -26701,7 +26701,7 @@ msgstr "正在等待上傳"
 #, fuzzy
 msgid ""
 "Upgrade roads with bus lanes, making them exclusive to buses and trucks."
-msgstr "設置公車專用道來升級道路。該專用道僅供公車與貨車行駛。"
+msgstr "設置巴士專用道來升級道路。該專用道僅供巴士與貨車行駛。"
 
 #, fuzzy
 msgid "Upgrade roads with tram tracks."
@@ -30658,11 +30658,11 @@ msgstr "策馬特"
 
 #, fuzzy
 msgid "Zermatt Bus Line"
-msgstr "策馬特公車路線"
+msgstr "策馬特巴士路線"
 
 #, fuzzy
 msgid "Zermatt Bus Station"
-msgstr "策馬特公車站"
+msgstr "策馬特巴士站"
 
 #, fuzzy
 msgid "Zoom In To Build"
@@ -31257,7 +31257,7 @@ msgstr "內建模組"
 #, fuzzy
 msgctxt "mod-tags"
 msgid "Bus"
-msgstr "公車"
+msgstr "巴士"
 
 #, fuzzy
 msgctxt "mod-tags"
