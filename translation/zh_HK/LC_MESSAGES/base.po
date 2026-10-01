@@ -30670,30 +30670,25 @@ msgctxt "builtin-map-deluxe-foil"
 msgid "Deluxe"
 msgstr "豪華"
 
-#, fuzzy
 msgctxt "carrier"
 msgid "Air"
-msgstr "航空"
+msgstr "空路"
 
-#, fuzzy
 msgctxt "carrier"
 msgid "Rail"
 msgstr "鐵路"
 
-#, fuzzy
 msgctxt "carrier"
 msgid "Road"
-msgstr "道路"
+msgstr "陸路"
 
-#, fuzzy
 msgctxt "carrier"
 msgid "Tram"
 msgstr "輕軌"
 
-#, fuzzy
 msgctxt "carrier"
 msgid "Water"
-msgstr "水域"
+msgstr "水路"
 
 #, fuzzy
 msgctxt "cloud-transparency-settings"
