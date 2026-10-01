@@ -1,11 +1,11 @@
 {
-  "name": "MOD_NAME",
-  "summary": "MOD_SUMMARY",
-  "description": "MOD_DESCRIPTION",
+  "name": "Localization - Hong Kong",
+  "summary": "Add Trandition Chinese(Hong Kong) support for the game.",
+  "description": "Updating as I play",
   "localization": {
     "en": {
       "name": "Localization - Traditional Chinese(Hong Kong)",
-      "summary": "Add zh-HK support for the game.",
+      "summary": "Add Trandition Chinese(Hong Kong) support for the game.",
       "description": "Updating as I play"
     },
     "zh_TW": {
