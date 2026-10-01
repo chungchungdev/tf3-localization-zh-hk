@@ -3039,7 +3039,7 @@ msgstr "貝塞爾站"
 
 #, fuzzy
 msgid "Bethel Train Depot"
-msgstr "貝塞爾鐵路倉庫"
+msgstr "貝塞爾鐵路車廠"
 
 #, fuzzy
 msgid "Bethel Truck Station"
@@ -3220,7 +3220,7 @@ msgstr "布里格站"
 
 #, fuzzy
 msgid "Brig Train Depot"
-msgstr "布里格鐵路倉庫"
+msgstr "布里格鐵路車廠"
 
 #, fuzzy
 msgid "Bring cargo within the expected delivery time to its destination."
@@ -5294,7 +5294,7 @@ msgstr "為了購買列車建造的倉庫建築。可自動維修位於一定半
 
 #, fuzzy
 msgid "DEPOTS_RAIL_DEPOT_NAME"
-msgstr "鐵路倉庫"
+msgstr "鐵路車廠"
 
 #, fuzzy
 msgid "DEPOTS_RAIL_MAINT_STATION_DESCRIPTION"
@@ -5885,7 +5885,7 @@ msgstr "多莫多索拉站"
 
 #, fuzzy
 msgid "Domodossola Train Depot"
-msgstr "多莫多索拉鐵路倉庫"
+msgstr "多莫多索拉鐵路車廠"
 
 #, fuzzy
 msgid "Don't Use"
@@ -6944,7 +6944,7 @@ msgstr "戈勒車廠"
 
 #, fuzzy
 msgid "Gawler Train Depot"
-msgstr "戈勒鐵路倉庫"
+msgstr "戈勒鐵路車廠"
 
 #, fuzzy
 msgid "Gawler Train Station"
@@ -12074,7 +12074,7 @@ msgstr "購買一列列車"
 #, fuzzy
 msgid "MISSION_02_TASK_BUY_MACHINE_TRAIN_PARAGRAPH"
 msgstr ""
-"於[link=entity_depot_domo]鐵路倉庫[/link]購入一列專門運輸平板貨物的列車。"
+"於[link=entity_depot_domo]鐵路車廠[/link]購入一列專門運輸平板貨物的列車。"
 
 #, fuzzy
 msgid "MISSION_02_TASK_BUY_STONES_TRAIN_INSTRUCTION"
@@ -12087,7 +12087,7 @@ msgstr "購買一列列車"
 #, fuzzy
 msgid "MISSION_02_TASK_BUY_STONES_TRAIN_PARAGRAPH"
 msgstr ""
-"在附近的[link=entity_depot_domo]鐵路倉庫[/link]購入一列專門運輸散裝貨物的列"
+"在附近的[link=entity_depot_domo]鐵路車廠[/link]購入一列專門運輸散裝貨物的列"
 "車。"
 
 #, fuzzy
@@ -17617,7 +17617,7 @@ msgstr "米蘭站"
 
 #, fuzzy
 msgid "Milano Train Depot"
-msgstr "米蘭鐵路倉庫"
+msgstr "米蘭鐵路車廠"
 
 #, fuzzy
 msgid "Min. Duration:"
@@ -18233,7 +18233,7 @@ msgstr "紐奧良車站"
 
 #, fuzzy
 msgid "New Orleans Train Depot"
-msgstr "紐奧良鐵路倉庫"
+msgstr "紐奧良鐵路車廠"
 
 #, fuzzy
 msgid "New Orleans Tram Depot"
@@ -18641,7 +18641,7 @@ msgstr "西北貨運火車站"
 
 #, fuzzy
 msgid "Northwest Train Depot"
-msgstr "西北鐵路倉庫"
+msgstr "西北鐵路車廠"
 
 #, fuzzy
 msgid "Northwest Truck Station"
@@ -22309,7 +22309,7 @@ msgstr "希福德站"
 
 #, fuzzy
 msgid "Seaford Train Depot"
-msgstr "希福德鐵路倉庫"
+msgstr "希福德鐵路車廠"
 
 msgid "Search"
 msgstr "搜尋"
@@ -22864,7 +22864,7 @@ msgstr "顯示時間戳記"
 
 #, fuzzy
 msgid "Show Train Depots"
-msgstr "顯示鐵路倉庫"
+msgstr "顯示鐵路車廠"
 
 #, fuzzy
 msgid "Show Train Lines"
@@ -23517,7 +23517,7 @@ msgstr "煉鋼廠船舶倉庫"
 
 #, fuzzy
 msgid "Steel Mill Train Depot"
-msgstr "煉鋼廠鐵路倉庫"
+msgstr "煉鋼廠鐵路車廠"
 
 #, fuzzy
 msgid "Steel Mill Train Station"
@@ -24688,12 +24688,12 @@ msgstr ""
 
 #, fuzzy
 msgid "TUTORIAL_TRAIN_DEPOT_TASK_NAME"
-msgstr "建造鐵路倉庫"
+msgstr "建造鐵路車廠"
 
 #, fuzzy
 msgid "TUTORIAL_TRAIN_DEPOT_TASK_PARAGRAPH"
 msgstr ""
-"在購買列車之前，我們必須先建造一座鐵路倉庫，並使它與車站相連。請在建設選單中"
+"在購買列車之前，我們必須先建造一座鐵路車廠，並使它與車站相連。請在建設選單中"
 "選擇倉庫，將其設置在軌道附近，再將它與現有軌道連接。"
 
 #, fuzzy
@@ -33193,7 +33193,7 @@ msgstr "{townName}站"
 
 #, fuzzy
 msgid "{townName} Train Depot"
-msgstr "{townName} 鐵路倉庫"
+msgstr "{townName} 鐵路車廠"
 
 #, fuzzy
 msgid "{townName} Tram Depot"
