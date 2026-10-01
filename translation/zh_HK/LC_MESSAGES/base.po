@@ -551,7 +551,7 @@ msgstr "某個城鎮的評價極差，居民對此憤怒不已。應立即採取
 msgid ""
 "A truck became victim to the desert. It is now forever a part of the Wadi "
 "Rum."
-msgstr "一輛卡車被沙漠吞噬了，將從此永遠留在瓦迪魯姆。"
+msgstr "一輛貨車被沙漠吞噬了，將從此永遠留在瓦迪魯姆。"
 
 #, fuzzy
 msgid ""
@@ -2841,7 +2841,7 @@ msgstr "將船隻指派至路線"
 
 #, fuzzy
 msgid "Assign Truck to Line "
-msgstr "將卡車指派至路線"
+msgstr "將貨車指派至路線"
 
 #, fuzzy
 msgid "Assign Vehicle "
@@ -3434,7 +3434,7 @@ msgstr "購買船隻"
 
 #, fuzzy
 msgid "Buy Truck "
-msgstr "購買卡車"
+msgstr "購買貨車"
 
 #, fuzzy
 msgid "Buy Vehicles"
@@ -3454,7 +3454,7 @@ msgstr "購買一列列車！"
 
 #, fuzzy
 msgid "Buy a Truck!"
-msgstr "購買一輛卡車！"
+msgstr "購買一輛貨車！"
 
 #, fuzzy
 msgid "Buy a Wagon!"
@@ -3956,7 +3956,7 @@ msgstr "中央罐頭食品列車路線"
 
 #, fuzzy
 msgid "Center Canned Food Truck Line"
-msgstr "中央罐頭食品卡車路線"
+msgstr "中央罐頭食品貨車路線"
 
 #, fuzzy
 msgid "Center Circle Bus Line"
@@ -5332,7 +5332,7 @@ msgstr "列車維修設施"
 #, fuzzy
 msgid "DEPOTS_ROAD_DEPOT_DESCRIPTION"
 msgstr ""
-"為了購買卡車與公車建造的倉庫建築。可自動維護位於一定半徑範圍內的卡車與公車。"
+"為了購買貨車與公車建造的倉庫建築。可自動維護位於一定半徑範圍內的貨車與公車。"
 
 #, fuzzy
 msgid "DEPOTS_ROAD_DEPOT_NAME"
@@ -5340,7 +5340,7 @@ msgstr "道路倉庫"
 
 #, fuzzy
 msgid "DEPOTS_ROAD_MAINT_STATION_DESCRIPTION"
-msgstr "可自動維護位於一定半徑範圍內的卡車、公車與輕軌列車。"
+msgstr "可自動維護位於一定半徑範圍內的貨車、公車與輕軌列車。"
 
 #, fuzzy
 msgid "DEPOTS_ROAD_MAINT_STATION_NAME"
@@ -5384,7 +5384,7 @@ msgstr ""
 "- 協和號客機：史上最快的客機\n"
 "- 倫敦巴士：永恆經典的大眾運輸象徵\n"
 "- 環歐快車：豪華鐵路之旅的里程碑\n"
-"- 彼得比爾特359：兼具強大動力與耐力的傳奇卡車\n"
+"- 彼得比爾特359：兼具強大動力與耐力的傳奇貨車\n"
 "- 香港路面電車：經典的雙層路面電車\n"
 "- 塞考斯基S-76精神：達到極致舒適標準的首選直升機\n"
 "\n"
@@ -6506,7 +6506,7 @@ msgstr "預計送達時間"
 
 #, fuzzy
 msgid "Expedition Truck"
-msgstr "探險隊卡車"
+msgstr "探險隊貨車"
 
 #, fuzzy
 msgid "Expenses"
@@ -6946,7 +6946,7 @@ msgstr "戈勒公車路線"
 
 #, fuzzy
 msgid "Gawler Canned Food Truck Line"
-msgstr "戈勒罐頭食品卡車路線"
+msgstr "戈勒罐頭食品貨車路線"
 
 #, fuzzy
 msgid "Gawler Canning Factory"
@@ -6978,7 +6978,7 @@ msgstr "戈勒火車站"
 
 #, fuzzy
 msgid "Gawler Truck Station"
-msgstr "戈勒卡車站"
+msgstr "戈勒貨車站"
 
 #, fuzzy
 msgid "Gawler Warehouse"
@@ -7539,10 +7539,10 @@ msgstr ""
 #, fuzzy
 msgid "HELP_CONSTRUCTION_ROAD_BUILDINGS"
 msgstr ""
-"道路建築是建立卡車、公車與輕軌路線的基礎。\n"
+"道路建築是建立貨車、公車與輕軌路線的基礎。\n"
 "可在世界畫面中放置多個停留點或公車站，再於路線調度視窗將它們結合，便能形成路"
 "線。\n"
-"倉庫可購買卡車、公車或輕軌，並提供維修所需空間。\n"
+"倉庫可購買貨車、公車或輕軌，並提供維修所需空間。\n"
 "放置維修設施即可提供額外維修區域。\n"
 "建造過程中會標示火車站的涵蓋範圍，以及倉庫與維修設施的維修區域。"
 
@@ -7552,7 +7552,7 @@ msgstr ""
 "道路工具可用來修改現有的道路。\n"
 "使用輕軌軌道工具即可新增或移除輕軌軌道。位於交叉路口的軌道會自動生成，但仍可"
 "透過路口工具調整。\n"
-"利用公車專用道工具即可新增或移除公車專用道。公車專用道僅供卡車與公車行駛，一"
+"利用公車專用道工具即可新增或移除公車專用道。公車專用道僅供貨車與公車行駛，一"
 "般情況下汽車不會行駛於該車道。\n"
 "使用時可選擇要將更動內容以對稱形式套用於雙側車道，或僅套用於單側車道。"
 
@@ -11554,7 +11554,7 @@ msgstr "從下方的建設選單中選擇車站。"
 
 #, fuzzy
 msgid "MISSION_01_TASK_STATION_INSTRUCTION"
-msgstr "要將食物運送到旅館，我們需要在倉庫外設置一個供送貨卡車使用的停靠站。"
+msgstr "要將食物運送到旅館，我們需要在倉庫外設置一個供送貨貨車使用的停靠站。"
 
 #, fuzzy
 msgid "MISSION_01_TASK_STATION_NAME"
@@ -11702,7 +11702,7 @@ msgstr "等我們這裡完工後，你再向我們解釋吧，安德魯。"
 
 #, fuzzy
 msgid "MISSION_02_CUTSCENE_BUILD_DIRT_ROUTE_5"
-msgstr "那個礦渣堆沒有貨運站。單靠卡車來運送會花太長時間。"
+msgstr "那個礦渣堆沒有貨運站。單靠貨車來運送會花太長時間。"
 
 #, fuzzy
 msgid "MISSION_02_CUTSCENE_BUILD_FIRST_BYPASS_1"
@@ -12160,7 +12160,7 @@ msgstr "複製[link=entity_stone_train]石材列車[/link]。"
 
 #, fuzzy
 msgid "MISSION_02_TASK_DELIVER_LOGS_HINT"
-msgstr "建造倉庫，購買合適的卡車，然後建立路線。"
+msgstr "建造倉庫，購買合適的貨車，然後建立路線。"
 
 #, fuzzy
 msgid "MISSION_02_TASK_DELIVER_LOGS_INSTRUCTION"
@@ -12327,7 +12327,7 @@ msgstr ""
 #, fuzzy
 msgid "MISSION_02_TASK_SELL_VEHICLES_INSTRUCTION"
 msgstr ""
-"時機完美。 我想我們現在可以把廢料列車和卡車再賣掉了。這樣能在二手市場上賺點額"
+"時機完美。 我想我們現在可以把廢料列車和貨車再賣掉了。這樣能在二手市場上賺點額"
 "外的現金。"
 
 #, fuzzy
@@ -12579,12 +12579,12 @@ msgstr "我的朋友兼商業夥伴的心願就是我的使命。我會竭盡全
 
 #, fuzzy
 msgid "MISSION_03_CUTSCENE_INTRO_7"
-msgstr "我們必須把卡車隊從阿卡巴送到挖掘現場。"
+msgstr "我們必須把貨車隊從阿卡巴送到挖掘現場。"
 
 #, fuzzy
 msgid "MISSION_03_CUTSCENE_INTRO_8"
 msgstr ""
-"卡車很重，而沙子很輕，而最後的贏家每次都是沙子。它甚至能在轉瞬間內吞噬體積最"
+"貨車很重，而沙子很輕，而最後的贏家每次都是沙子。它甚至能在轉瞬間內吞噬體積最"
 "龐大的資源。"
 
 #, fuzzy
@@ -12862,11 +12862,11 @@ msgstr "完成挖掘任務。"
 
 #, fuzzy
 msgid "MISSION_03_STAR_2"
-msgstr "在挖掘任務完成時，損失的卡車數量少於3輛。"
+msgstr "在挖掘任務完成時，損失的貨車數量少於3輛。"
 
 #, fuzzy
 msgid "MISSION_03_STAR_3"
-msgstr "在挖掘任務完成時，沒有損失任何卡車。"
+msgstr "在挖掘任務完成時，沒有損失任何貨車。"
 
 #, fuzzy
 msgid "MISSION_03_TASK_BERGUNG_HINT"
@@ -12911,16 +12911,16 @@ msgstr ""
 #, fuzzy
 msgid "MISSION_03_TASK_FATAL_MAINTENANCE_INSTRUCTION"
 msgstr ""
-"我們必須定期且頻繁停下來維修卡車，密切監控它們的狀況。這些車子只要一開始出問"
+"我們必須定期且頻繁停下來維修貨車，密切監控它們的狀況。這些車子只要一開始出問"
 "題，就再也別想發動它們了！"
 
 #, fuzzy
 msgid "MISSION_03_TASK_FATAL_MAINTENANCE_NAME"
-msgstr "保護卡車"
+msgstr "保護貨車"
 
 #, fuzzy
 msgid "MISSION_03_TASK_FATAL_MAINTENANCE_PARAGRAPH"
-msgstr "請確保卡車維持良好狀態，否則一旦車輛狀況降至0%，卡車就得報廢了。"
+msgstr "請確保貨車維持良好狀態，否則一旦車輛狀況降至0%，貨車就得報廢了。"
 
 #, fuzzy
 msgid "MISSION_03_TASK_GET_TO_OASIS_INSTRUCTION"
@@ -12935,7 +12935,7 @@ msgstr "運送工具"
 #, fuzzy
 msgid "MISSION_03_TASK_GET_TO_OASIS_PARAGRAPH"
 msgstr ""
-"用卡車將[link=entity_tools]工具[/link]從[link=entity_depot]倉庫[/link]運送至"
+"用貨車將[link=entity_tools]工具[/link]從[link=entity_depot]倉庫[/link]運送至"
 "阿卡巴外圍的標記[link=entity_oasis]地點[/link]。"
 
 #, fuzzy
@@ -12998,7 +12998,7 @@ msgstr ""
 msgid "MISSION_03_TASK_RIDDLE_STEEL_HINT"
 msgstr ""
 "根據薩利姆再次給出的提示，找出適合設置營地的正確路線。你可以在不同路線上配置"
-"多輛卡車，並建造貨物倉庫來提升貨物運輸效率。"
+"多輛貨車，並建造貨物倉庫來提升貨物運輸效率。"
 
 #, fuzzy
 msgid "MISSION_03_TASK_RIDDLE_STEEL_INSTRUCTION"
@@ -13092,7 +13092,7 @@ msgstr "警察和嬉皮竟然聯手對付我！我應該要待在唱片公司的
 #, fuzzy
 msgid "MISSION_04_CUTSCENE_INSTRUMENTS_1"
 msgstr ""
-"里奇·海文剛剛過來找我，說載他樂器的卡車卡在路上了！附近的交通全都癱瘓了。"
+"里奇·海文剛剛過來找我，說載他樂器的貨車卡在路上了！附近的交通全都癱瘓了。"
 
 #, fuzzy
 msgid "MISSION_04_CUTSCENE_INSTRUMENTS_2"
@@ -13653,7 +13653,7 @@ msgstr "選取[link=entity_stage]舞台[/link]附近的3個樂器箱。"
 
 #, fuzzy
 msgid "MISSION_04_TASK_POISON_HINT"
-msgstr "派出足量的卡車，才能及時將所需藥品送達。"
+msgstr "派出足量的貨車，才能及時將所需藥品送達。"
 
 #, fuzzy
 msgid "MISSION_04_TASK_POISON_INSTRUCTION"
@@ -14164,7 +14164,7 @@ msgstr ""
 #, fuzzy
 msgid "MISSION_05_CUTSCENE_TRANSPORT_OIL_4"
 msgstr ""
-"很好，尼爾斯！我的卡車早就在往煉油廠的路上了，而你連輛油罐車都沒有。我會正大"
+"很好，尼爾斯！我的貨車早就在往煉油廠的路上了，而你連輛油罐車都沒有。我會正大"
 "光明地打贏這場對決的！"
 
 #, fuzzy
@@ -15775,7 +15775,7 @@ msgstr "那你打算怎麼做？"
 #, fuzzy
 msgid "MISSION_07_CUTSCENE_CENTER_CARGO_INTERVIEW_4"
 msgstr ""
-"我們需要更高效率的物流供應體系，才能確保貨物準時送達市中心。或許，單靠卡車並"
+"我們需要更高效率的物流供應體系，才能確保貨物準時送達市中心。或許，單靠貨車並"
 "非最佳選擇。這座城市必須為未來做好準備。"
 
 #, fuzzy
@@ -17186,7 +17186,7 @@ msgid "MISSION_3_RIDDLES_PARAGRAPH"
 msgstr ""
 "想在沙漠中找到出路，就仔細聽聽薩利姆·扎拉比亞說的話。他講話總愛打啞謎，但只要"
 "細心留意，就能推導出正確的路線。沿著正確路線前進，就能在沿途的營地建造維修設"
-"施。一旦走錯方向便會招來沙漠的懲罰，讓你的卡車再也無法繼續行駛。"
+"施。一旦走錯方向便會招來沙漠的懲罰，讓你的貨車再也無法繼續行駛。"
 
 #, fuzzy
 msgid "MISSION_7_GUIDE_DELIVERY_NAME"
@@ -17570,7 +17570,7 @@ msgstr "麥克拉倫谷啤酒廠"
 
 #, fuzzy
 msgid "McLaren Valley Truck Station"
-msgstr "麥克拉倫谷卡車站"
+msgstr "麥克拉倫谷貨車站"
 
 #, fuzzy
 msgid "Meat"
@@ -18680,7 +18680,7 @@ msgstr "西北鐵路倉庫"
 
 #, fuzzy
 msgid "Northwest Truck Station"
-msgstr "西北卡車站"
+msgstr "西北貨車站"
 
 #, fuzzy
 msgid "Northwest Warehouse"
@@ -21112,7 +21112,7 @@ msgstr "側邊入口"
 
 #, fuzzy
 msgid "STATIONS_STREET_CARGO_UNIVERSAL_DESCRIPTION"
-msgstr "可利用模組擴建及專用的貨運站，供卡車與輕軌列車使用。"
+msgstr "可利用模組擴建及專用的貨運站，供貨車與輕軌列車使用。"
 
 #, fuzzy
 msgid "STATIONS_STREET_CARGO_UNIVERSAL_NAME"
@@ -21253,7 +21253,7 @@ msgstr "公車／輕軌站"
 #, fuzzy
 msgid "STATIONS_STREET_SMALL_MID_DESCRIPTION"
 msgstr ""
-"供乘客與卸載貨物使用之小型停靠站，設於道路其中一側。可供卡車、公車與輕軌列車"
+"供乘客與卸載貨物使用之小型停靠站，設於道路其中一側。可供貨車、公車與輕軌列車"
 "使用。"
 
 #, fuzzy
@@ -21263,7 +21263,7 @@ msgstr "道路站牌"
 #, fuzzy
 msgid "STATIONS_STREET_SMALL_NEW_DESCRIPTION"
 msgstr ""
-"供乘客與卸載貨物使用之小型停靠站，設於道路其中一側。可供卡車、公車與輕軌列車"
+"供乘客與卸載貨物使用之小型停靠站，設於道路其中一側。可供貨車、公車與輕軌列車"
 "使用。"
 
 #, fuzzy
@@ -21273,7 +21273,7 @@ msgstr "道路站牌"
 #, fuzzy
 msgid "STATIONS_STREET_SMALL_OLD_DESCRIPTION"
 msgstr ""
-"供乘客與卸載貨物使用之小型停靠站，設於道路其中一側。可供卡車、公車與輕軌列車"
+"供乘客與卸載貨物使用之小型停靠站，設於道路其中一側。可供貨車、公車與輕軌列車"
 "使用。"
 
 #, fuzzy
@@ -21283,7 +21283,7 @@ msgstr "道路站牌"
 #, fuzzy
 msgid "STATIONS_STREET_SMALL_TWOSIDED_MID_DESCRIPTION"
 msgstr ""
-"供乘客與卸載貨物使用之小型停靠站，設於道路兩側。可供卡車、公車與輕軌列車使"
+"供乘客與卸載貨物使用之小型停靠站，設於道路兩側。可供貨車、公車與輕軌列車使"
 "用。"
 
 #, fuzzy
@@ -21293,7 +21293,7 @@ msgstr "雙側道路站牌"
 #, fuzzy
 msgid "STATIONS_STREET_SMALL_TWOSIDED_NEW_DESCRIPTION"
 msgstr ""
-"供乘客與卸載貨物使用之小型停靠站，設於道路兩側。可供卡車、公車與輕軌列車使"
+"供乘客與卸載貨物使用之小型停靠站，設於道路兩側。可供貨車、公車與輕軌列車使"
 "用。"
 
 #, fuzzy
@@ -21303,7 +21303,7 @@ msgstr "雙側道路站牌"
 #, fuzzy
 msgid "STATIONS_STREET_SMALL_TWOSIDED_OLD_DESCRIPTION"
 msgstr ""
-"供乘客與卸載貨物使用之小型停靠站，設於道路兩側。可供卡車、公車與輕軌列車使"
+"供乘客與卸載貨物使用之小型停靠站，設於道路兩側。可供貨車、公車與輕軌列車使"
 "用。"
 
 #, fuzzy
@@ -21477,7 +21477,7 @@ msgstr "大型鄉村道路（設有隔音牆）"
 msgid "STREET_COUNTRY_NEW_LARGE_BUS_DESC"
 msgstr ""
 "這條六線道柏油道路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度下"
-"降。公車專用道僅供公車與卡車行駛，私人車輛原則上不得進入。"
+"降。公車專用道僅供公車與貨車行駛，私人車輛原則上不得進入。"
 
 #, fuzzy
 msgid "STREET_COUNTRY_NEW_LARGE_BUS_NAME"
@@ -21507,7 +21507,7 @@ msgstr "中型鄉村道路（設有隔音牆）"
 msgid "STREET_COUNTRY_NEW_MEDIUM_BUS_DESC"
 msgstr ""
 "這條四線道柏油道路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度下"
-"降。公車專用道僅供公車與卡車行駛，私人車輛原則上不得進入。"
+"降。公車專用道僅供公車與貨車行駛，私人車輛原則上不得進入。"
 
 #, fuzzy
 msgid "STREET_COUNTRY_NEW_MEDIUM_BUS_NAME"
@@ -21820,7 +21820,7 @@ msgstr "中型單行道（設有隔音牆）"
 msgid "STREET_TOWN_NEW_ONE_WAY_MEDIUM_BUS_DESC"
 msgstr ""
 "這條四線道的單向柏油道路附設人行道，很適合城鎮內的道路需求。公車專用道僅供公"
-"車與卡車行駛，私人車輛原則上不得進入。"
+"車與貨車行駛，私人車輛原則上不得進入。"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_MEDIUM_BUS_NAME"
@@ -21868,7 +21868,7 @@ msgstr "小型單行道（設有隔音牆）"
 msgid "STREET_TOWN_NEW_ONE_WAY_SMALL_BUS_DESC"
 msgstr ""
 "這條二線道的單向柏油道路附設人行道，很適合城鎮內的道路需求。公車專用道僅供公"
-"車與卡車行駛，私人車輛原則上不得進入。"
+"車與貨車行駛，私人車輛原則上不得進入。"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_SMALL_BUS_NAME"
@@ -22237,7 +22237,7 @@ msgstr "將目前的模組配置儲存為預設組合。"
 
 #, fuzzy
 msgid "Save your Trucks!"
-msgstr "保住你的卡車！"
+msgstr "保住你的貨車！"
 
 #, fuzzy
 msgid "Savegame Name"
@@ -22520,7 +22520,7 @@ msgstr "派遣至路線"
 
 #, fuzzy
 msgid "Send Truck to Line "
-msgstr "派遣卡車至路線"
+msgstr "派遣貨車至路線"
 
 #, fuzzy
 msgid "Send to Depot"
@@ -24095,7 +24095,7 @@ msgstr ""
 "現在可以為[link=entity_town]{TOWN_NAME}[/link]供應燃料了。將"
 "[link=entity_warehouse]貨物倉庫[/link]旁的車站連接到[link=entity_oil_ref]煉油"
 "廠[/link]，再將[link=entity_oil_ref]煉油廠[/link]連接到[link=entity_town]"
-"{TOWN_NAME}[/link]。規劃單一路線或分為兩條路線皆可。最後別忘了派幾輛卡車到這"
+"{TOWN_NAME}[/link]。規劃單一路線或分為兩條路線皆可。最後別忘了派幾輛貨車到這"
 "些路線上喔！"
 
 #, fuzzy
@@ -24119,12 +24119,12 @@ msgstr ""
 
 #, fuzzy
 msgid "TUTORIAL_A_LINE_COMMERCIAL_ASSIGN_TASK_NAME"
-msgstr "購買與指派卡車"
+msgstr "購買與指派貨車"
 
 #, fuzzy
 msgid "TUTORIAL_A_LINE_COMMERCIAL_ASSIGN_TASK_PARAGRAPH"
 msgstr ""
-"在[link=entity_depot]道路倉庫[/link]中購買一輛可以運送蔬菜的卡車，並將它指派"
+"在[link=entity_depot]道路倉庫[/link]中購買一輛可以運送蔬菜的貨車，並將它指派"
 "至連接農場與[link=entity_town]{TOWN_NAME}[/link]的商業區的路線。"
 
 #, fuzzy
@@ -24146,7 +24146,7 @@ msgid "TUTORIAL_A_SECOND_VEHICLE_TASK_PARAGRAPH"
 msgstr ""
 "我們注意到你從[link=entity_oil_ref]煉油廠[/link]到[link=entity_town]"
 "{TOWN_NAME}[/link]的路線上只有一輛車。若想滿足城鎮的需求，建議在每條路線上都"
-"配置多部車輛。先為這條路線增派第二輛卡車吧！"
+"配置多部車輛。先為這條路線增派第二輛貨車吧！"
 
 #, fuzzy
 msgid "TUTORIAL_A_SHIP_TASK_NAME"
@@ -24243,7 +24243,7 @@ msgstr "建造一座道路倉庫"
 #, fuzzy
 msgid "TUTORIAL_BUILD_ROAD_DEPOT_GUIDE_PARAGRAPH"
 msgstr ""
-"道路倉庫具備兩種功能。一為道路車輛的商店，可購買、改裝及替換卡車和公車；二為"
+"道路倉庫具備兩種功能。一為道路車輛的商店，可購買、改裝及替換貨車和公車；二為"
 "保養維護維修範圍內的車輛。"
 
 #, fuzzy
@@ -24444,13 +24444,13 @@ msgstr "開啟[link=entity_saw]鋸木廠[/link]的產業視窗，查看目前的
 
 #, fuzzy
 msgid "TUTORIAL_B_LINE_INDUSTRIAL_ASSIGN_TASK_NAME"
-msgstr "購買與指派卡車"
+msgstr "購買與指派貨車"
 
 #, fuzzy
 msgid "TUTORIAL_B_LINE_INDUSTRIAL_ASSIGN_TASK_PARAGRAPH"
 msgstr ""
-"前往[link=entity_depot]道路倉庫[/link]，為每條路線購買至少一輛卡車。請確認這"
-"些卡車的能夠運輸木材與木板，然後將它們指派到從[link=entity_forest]森林[/link]"
+"前往[link=entity_depot]道路倉庫[/link]，為每條路線購買至少一輛貨車。請確認這"
+"些貨車的能夠運輸木材與木板，然後將它們指派到從[link=entity_forest]森林[/link]"
 "到[link=entity_saw]鋸木廠[/link]內的車站的路線，以及從[link=entity_saw]鋸木廠"
 "[/link]到[link=entity_town]{TOWN_NAME}[/link]內的工業區的路線。"
 
@@ -24474,7 +24474,7 @@ msgid "TUTORIAL_B_SECOND_VEHICLE_TASK_PARAGRAPH"
 msgstr ""
 "我們注意到你從[link=entity_warehouse]貨物倉庫[/link]到[link=entity_town]"
 "{TOWN_NAME}[/link]的商業區路線上只有一輛車。若想滿足城鎮的需求，建議在每條路"
-"線上都配置多部車輛。先為這條路線增派第二輛卡車吧！"
+"線上都配置多部車輛。先為這條路線增派第二輛貨車吧！"
 
 #, fuzzy
 msgid "TUTORIAL_B_SHIP_TASK_NAME"
@@ -26431,19 +26431,19 @@ msgstr "小跑"
 
 #, fuzzy
 msgid "Truck: Refinery to Town "
-msgstr "卡車：煉油廠至城鎮"
+msgstr "貨車：煉油廠至城鎮"
 
 #, fuzzy
 msgid "Truck: Warehouse to Refinery "
-msgstr "卡車：貨物倉庫至煉油廠"
+msgstr "貨車：貨物倉庫至煉油廠"
 
 #, fuzzy
 msgid "Trucks"
-msgstr "卡車"
+msgstr "貨車"
 
 #, fuzzy
 msgid "Trucks Remaining"
-msgstr "剩餘卡車"
+msgstr "剩餘貨車"
 
 #, fuzzy
 msgid "Truss"
@@ -26701,7 +26701,7 @@ msgstr "正在等待上傳"
 #, fuzzy
 msgid ""
 "Upgrade roads with bus lanes, making them exclusive to buses and trucks."
-msgstr "設置公車專用道來升級道路。該專用道僅供公車與卡車行駛。"
+msgstr "設置公車專用道來升級道路。該專用道僅供公車與貨車行駛。"
 
 #, fuzzy
 msgid "Upgrade roads with tram tracks."
@@ -27096,7 +27096,7 @@ msgstr "斯堪尼亞-瓦比斯H15"
 #, fuzzy
 msgid "VEHICLE_BUS_SHINJIN_MICRO_BUS_DESCRIPTION"
 msgstr ""
-"南韓首款成功製造的巴士，以回收油桶製成，並重複使用退役的美軍吉普車與卡車零"
+"南韓首款成功製造的巴士，以回收油桶製成，並重複使用退役的美軍吉普車與貨車零"
 "件。"
 
 #, fuzzy
@@ -27116,7 +27116,7 @@ msgstr "懷特街車"
 #, fuzzy
 msgid "VEHICLE_BUS_YELLOW_W_DESCRIPTION"
 msgstr ""
-"這款構造簡約的單層巴士由美國著名的黃色卡車與客車製造公司設計，用於市區與短程"
+"這款構造簡約的單層巴士由美國著名的黃色貨車與客車製造公司設計，用於市區與短程"
 "區域路線。"
 
 #, fuzzy
@@ -29191,17 +29191,17 @@ msgstr "莫斯科Vityaz M"
 #, fuzzy
 msgid "VEHICLE_TRUCK_AMO_F15_TANK_DESCRIPTION"
 msgstr ""
-"這款蘇聯卡車原型為義大利菲亞特F-15，配備蘇聯設計之引擎，能耐受北方的嚴寒氣"
+"這款蘇聯貨車原型為義大利菲亞特F-15，配備蘇聯設計之引擎，能耐受北方的嚴寒氣"
 "候。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_AMO_F15_TANK_NAME"
-msgstr "AMO F-15儲槽卡車"
+msgstr "AMO F-15儲槽貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_AMO_F15_UNIV_DESCRIPTION"
 msgstr ""
-"這款蘇聯卡車原型為義大利菲亞特F-15，配備蘇聯設計之引擎，能耐受北方的嚴寒氣"
+"這款蘇聯貨車原型為義大利菲亞特F-15，配備蘇聯設計之引擎，能耐受北方的嚴寒氣"
 "候。"
 
 #, fuzzy
@@ -29211,63 +29211,63 @@ msgstr "AMO F-15"
 #, fuzzy
 msgid "VEHICLE_TRUCK_BENZ1912_BOX_DESCRIPTION"
 msgstr ""
-"這款卡車屬於最早期的機動運輸車輛，由四缸引擎驅動，並透過鏈條將動力傳送至後"
+"這款貨車屬於最早期的機動運輸車輛，由四缸引擎驅動，並透過鏈條將動力傳送至後"
 "軸。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_BENZ1912_BOX_NAME"
-msgstr "賓士3噸箱型卡車"
+msgstr "賓士3噸箱型貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_BENZ1912_BULK_DESCRIPTION"
 msgstr ""
-"這款卡車屬於最早期的機動運輸車輛，由四缸引擎驅動，並透過鏈條將動力傳送至後"
+"這款貨車屬於最早期的機動運輸車輛，由四缸引擎驅動，並透過鏈條將動力傳送至後"
 "軸。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_BENZ1912_BULK_NAME"
-msgstr "賓士3噸散料卡車"
+msgstr "賓士3噸散料貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_FAW_JIEFANG_J6P_BOX_DESCRIPTION"
 msgstr ""
-"歷時七年研發而成的中國重型卡車，以多用途為設計核心，衍生出五百多種不同車型。"
+"歷時七年研發而成的中國重型貨車，以多用途為設計核心，衍生出五百多種不同車型。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_FAW_JIEFANG_J6P_BOX_NAME"
-msgstr "FAW解放J6P箱型卡車"
+msgstr "FAW解放J6P箱型貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_FAW_JIEFANG_J6P_BULK_DESCRIPTION"
 msgstr ""
-"歷時七年研發而成的中國重型卡車，以多用途為設計核心，衍生出五百多種不同車型。"
+"歷時七年研發而成的中國重型貨車，以多用途為設計核心，衍生出五百多種不同車型。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_FAW_JIEFANG_J6P_BULK_NAME"
-msgstr "FAW解放J6P散料卡車"
+msgstr "FAW解放J6P散料貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_FAW_JIEFANG_J6P_STAKE_DESCRIPTION"
 msgstr ""
-"歷時七年研發而成的中國重型卡車，以多用途為設計核心，衍生出五百多種不同車型。"
+"歷時七年研發而成的中國重型貨車，以多用途為設計核心，衍生出五百多種不同車型。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_FAW_JIEFANG_J6P_STAKE_NAME"
-msgstr "FAW解放J6P欄板卡車"
+msgstr "FAW解放J6P欄板貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_FAW_JIEFANG_J6P_TANK_DESCRIPTION"
 msgstr ""
-"歷時七年研發而成的中國重型卡車，以多用途為設計核心，衍生出五百多種不同車型。"
+"歷時七年研發而成的中國重型貨車，以多用途為設計核心，衍生出五百多種不同車型。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_FAW_JIEFANG_J6P_TANK_NAME"
-msgstr "FAW解放J6P儲槽卡車"
+msgstr "FAW解放J6P儲槽貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_FAW_JIEFANG_J6P_UNIV_DESCRIPTION"
 msgstr ""
-"歷時七年研發而成的中國重型卡車，以多用途為設計核心，衍生出五百多種不同車型。"
+"歷時七年研發而成的中國重型貨車，以多用途為設計核心，衍生出五百多種不同車型。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_FAW_JIEFANG_J6P_UNIV_NAME"
@@ -29276,72 +29276,72 @@ msgstr "FAW解放J6P"
 #, fuzzy
 msgid "VEHICLE_TRUCK_FORD_77_BULK_DESCRIPTION"
 msgstr ""
-"這款卡車擁有辨識度極高的圓筒式車頭，在全球隨處可見，其標準化底盤可依不同貨物"
+"這款貨車擁有辨識度極高的圓筒式車頭，在全球隨處可見，其標準化底盤可依不同貨物"
 "需求客製。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_FORD_77_BULK_NAME"
-msgstr "福特77型散料卡車"
+msgstr "福特77型散料貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_FORD_AA_BOX_DESCRIPTION"
 msgstr ""
-"福特AA型送貨卡車是20世紀初期的工作車主力，因其高可靠性及可負擔性而被廣泛用於"
+"福特AA型送貨貨車是20世紀初期的工作車主力，因其高可靠性及可負擔性而被廣泛用於"
 "商業配送。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_FORD_AA_BOX_NAME"
-msgstr "福特AA型箱型卡車"
+msgstr "福特AA型箱型貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_FREIGHTLINER_FLD_112_BOX_DESCRIPTION"
 msgstr ""
-"福萊納是經典的美國卡車車型，以其流線型設計聞名，廣泛用於區域及跨州貨運。"
+"福萊納是經典的美國貨車車型，以其流線型設計聞名，廣泛用於區域及跨州貨運。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_FREIGHTLINER_FLD_112_BOX_NAME"
-msgstr "福萊納FLD 112箱型卡車"
+msgstr "福萊納FLD 112箱型貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_FREIGHTLINER_FLD_112_STAKE_DESCRIPTION"
 msgstr ""
-"福萊納是經典的美國卡車車型，以其流線型設計聞名，廣泛用於區域及跨州貨運。"
+"福萊納是經典的美國貨車車型，以其流線型設計聞名，廣泛用於區域及跨州貨運。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_FREIGHTLINER_FLD_112_STAKE_NAME"
-msgstr "福萊納FLD 112欄板卡車"
+msgstr "福萊納FLD 112欄板貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_GAZ_3307_BOX_DESCRIPTION"
 msgstr ""
-"這款蘇聯時期的卡車配備V8汽油引擎，不僅是多用途的貨運車，也常用來作為消防車。"
+"這款蘇聯時期的貨車配備V8汽油引擎，不僅是多用途的貨運車，也常用來作為消防車。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_GAZ_3307_BOX_NAME"
-msgstr "GAZ 3307箱型卡車"
+msgstr "GAZ 3307箱型貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_GAZ_3307_BULK_DESCRIPTION"
 msgstr ""
-"這款蘇聯時期的卡車配備V8汽油引擎，不僅是多用途的貨運車，也常用來作為消防車。"
+"這款蘇聯時期的貨車配備V8汽油引擎，不僅是多用途的貨運車，也常用來作為消防車。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_GAZ_3307_BULK_NAME"
-msgstr "GAZ 3307散料卡車"
+msgstr "GAZ 3307散料貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_GAZ_3307_TANK_DESCRIPTION"
 msgstr ""
-"這款蘇聯時期的卡車配備V8汽油引擎，不僅是多用途的貨運車，也常用來作為消防車。"
+"這款蘇聯時期的貨車配備V8汽油引擎，不僅是多用途的貨運車，也常用來作為消防車。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_GAZ_3307_TANK_NAME"
-msgstr "GAZ 3307儲槽卡車"
+msgstr "GAZ 3307儲槽貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_GAZ_3307_UNIV_DESCRIPTION"
 msgstr ""
-"這款蘇聯時期的卡車配備V8汽油引擎，不僅是多用途的貨運車，也常用來作為消防車。"
+"這款蘇聯時期的貨車配備V8汽油引擎，不僅是多用途的貨運車，也常用來作為消防車。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_GAZ_3307_UNIV_NAME"
@@ -29350,57 +29350,57 @@ msgstr "GAZ 3307"
 #, fuzzy
 msgid "VEHICLE_TRUCK_GAZ_MM_STAKE_DESCRIPTION"
 msgstr ""
-"這款卡車最初是美國福特AA型卡車的完美復刻，但戰爭期間因關鍵原料短缺而經歷數次"
+"這款貨車最初是美國福特AA型貨車的完美復刻，但戰爭期間因關鍵原料短缺而經歷數次"
 "設計上的更動。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_GAZ_MM_STAKE_NAME"
-msgstr "GAZ MM欄板卡車"
+msgstr "GAZ MM欄板貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_GMC_660_DFM_BOX_DESCRIPTION"
 msgstr ""
-"通用汽車公司於1940年代打造出這款卡車，為用途廣泛的中型卡車，既適合城市運輸，"
+"通用汽車公司於1940年代打造出這款貨車，為用途廣泛的中型貨車，既適合城市運輸，"
 "也適用於農務作業。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_GMC_660_DFM_BOX_NAME"
-msgstr "GMC 660 DFM箱型卡車"
+msgstr "GMC 660 DFM箱型貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_GMC_660_DFM_BULK_DESCRIPTION"
 msgstr ""
-"通用汽車公司於1940年代打造出這款卡車，為用途廣泛的中型卡車，既適合城市運輸，"
+"通用汽車公司於1940年代打造出這款貨車，為用途廣泛的中型貨車，既適合城市運輸，"
 "也適用於農務作業。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_GMC_660_DFM_BULK_NAME"
-msgstr "GMC 660 DFM散料卡車"
+msgstr "GMC 660 DFM散料貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_GMC_660_DFM_STAKE_DESCRIPTION"
 msgstr ""
-"通用汽車公司於1940年代打造出這款卡車，為用途廣泛的中型卡車，既適合城市運輸，"
+"通用汽車公司於1940年代打造出這款貨車，為用途廣泛的中型貨車，既適合城市運輸，"
 "也適用於農務作業。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_GMC_660_DFM_STAKE_NAME"
-msgstr "GMC 660 DFM欄板卡車"
+msgstr "GMC 660 DFM欄板貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_GMC_660_DFM_TANK_DESCRIPTION"
 msgstr ""
-"通用汽車公司於1940年代打造出這款卡車，為用途廣泛的中型卡車，既適合城市運輸，"
+"通用汽車公司於1940年代打造出這款貨車，為用途廣泛的中型貨車，既適合城市運輸，"
 "也適用於農務作業。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_GMC_660_DFM_TANK_NAME"
-msgstr "GMC 660 DFM儲槽卡車"
+msgstr "GMC 660 DFM儲槽貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_GMC_660_DFM_UNIV_DESCRIPTION"
 msgstr ""
-"通用汽車公司於1940年代打造出這款卡車，為用途廣泛的中型卡車，既適合城市運輸，"
+"通用汽車公司於1940年代打造出這款貨車，為用途廣泛的中型貨車，既適合城市運輸，"
 "也適用於農務作業。"
 
 #, fuzzy
@@ -29436,17 +29436,17 @@ msgstr "小型馬車"
 #, fuzzy
 msgid "VEHICLE_TRUCK_ISUZU_ELF_TLD20_TANK_DESCRIPTION"
 msgstr ""
-"這款1960年代的中型卡車在日本以外地區亦被稱為「N系列」，因深受市場歡迎而一路生"
+"這款1960年代的中型貨車在日本以外地區亦被稱為「N系列」，因深受市場歡迎而一路生"
 "產至二十一世紀。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_ISUZU_ELF_TLD20_TANK_NAME"
-msgstr "五十鈴Elf TLD20儲槽卡車"
+msgstr "五十鈴Elf TLD20儲槽貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_ISUZU_ELF_TLD20_UNIV_DESCRIPTION"
 msgstr ""
-"這款1960年代的中型卡車在日本以外地區亦被稱為「N系列」，因深受市場歡迎而一路生"
+"這款1960年代的中型貨車在日本以外地區亦被稱為「N系列」，因深受市場歡迎而一路生"
 "產至二十一世紀。"
 
 #, fuzzy
@@ -29461,7 +29461,7 @@ msgstr ""
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_KENWORTH_K100E_BOX_NAME"
-msgstr "肯沃斯K100E箱型卡車"
+msgstr "肯沃斯K100E箱型貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_KENWORTH_K100E_BULK_DESCRIPTION"
@@ -29471,7 +29471,7 @@ msgstr ""
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_KENWORTH_K100E_BULK_NAME"
-msgstr "肯沃斯K100E散料卡車"
+msgstr "肯沃斯K100E散料貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_KENWORTH_K100E_STAKE_DESCRIPTION"
@@ -29481,7 +29481,7 @@ msgstr ""
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_KENWORTH_K100E_STAKE_NAME"
-msgstr "肯沃斯K100E欄板卡車"
+msgstr "肯沃斯K100E欄板貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_KENWORTH_K100E_TANK_DESCRIPTION"
@@ -29491,48 +29491,48 @@ msgstr ""
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_KENWORTH_K100E_TANK_NAME"
-msgstr "肯沃斯K100E儲槽卡車"
+msgstr "肯沃斯K100E儲槽貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_MACK_AC_STAKE_DESCRIPTION"
 msgstr ""
-"AC重負載卡車以強勁且可靠著稱。獨特的圓錐形引擎蓋讓它獲得了「鬥牛犬」的綽號。"
+"AC重負載貨車以強勁且可靠著稱。獨特的圓錐形引擎蓋讓它獲得了「鬥牛犬」的綽號。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_MACK_AC_STAKE_NAME"
-msgstr "麥克AC欄板卡車"
+msgstr "麥克AC欄板貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_MAN_19_304_BOX_DESCRIPTION"
 msgstr ""
-"這款德國六輪卡車搭載強勁的V8引擎，並首創前掀式引擎蓋，大幅提升維修便利性。"
+"這款德國六輪貨車搭載強勁的V8引擎，並首創前掀式引擎蓋，大幅提升維修便利性。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_MAN_19_304_BOX_NAME"
-msgstr "MAN 19.304箱型卡車"
+msgstr "MAN 19.304箱型貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_MAN_19_304_BULK_DESCRIPTION"
 msgstr ""
-"這款德國六輪卡車搭載強勁的V8引擎，並首創前掀式引擎蓋，大幅提升維修便利性。"
+"這款德國六輪貨車搭載強勁的V8引擎，並首創前掀式引擎蓋，大幅提升維修便利性。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_MAN_19_304_BULK_NAME"
-msgstr "MAN 19.304散料卡車"
+msgstr "MAN 19.304散料貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_MAN_19_304_TANK_DESCRIPTION"
 msgstr ""
-"這款德國六輪卡車搭載強勁的V8引擎，並首創前掀式引擎蓋，大幅提升維修便利性。"
+"這款德國六輪貨車搭載強勁的V8引擎，並首創前掀式引擎蓋，大幅提升維修便利性。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_MAN_19_304_TANK_NAME"
-msgstr "MAN 19.304儲槽卡車"
+msgstr "MAN 19.304儲槽貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_MAN_19_304_UNIV_DESCRIPTION"
 msgstr ""
-"這款德國六輪卡車搭載強勁的V8引擎，並首創前掀式引擎蓋，大幅提升維修便利性。"
+"這款德國六輪貨車搭載強勁的V8引擎，並首創前掀式引擎蓋，大幅提升維修便利性。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_MAN_19_304_UNIV_NAME"
@@ -29541,42 +29541,42 @@ msgstr "MAN 19.304"
 #, fuzzy
 msgid "VEHICLE_TRUCK_PETERBILT_359_BOX_DESCRIPTION"
 msgstr ""
-"彼得比爾特是具相當經典的長途半聯結車，更是美國卡車文化的核心象徵。常以鍍鉻裝"
+"彼得比爾特是具相當經典的長途半聯結車，更是美國貨車文化的核心象徵。常以鍍鉻裝"
 "飾來展現不同風格。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_PETERBILT_359_BOX_NAME"
-msgstr "彼得比爾特359箱型卡車"
+msgstr "彼得比爾特359箱型貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_PETERBILT_359_BULK_DESCRIPTION"
 msgstr ""
-"彼得比爾特是具相當經典的長途半聯結車，更是美國卡車文化的核心象徵。常以鍍鉻裝"
+"彼得比爾特是具相當經典的長途半聯結車，更是美國貨車文化的核心象徵。常以鍍鉻裝"
 "飾來展現不同風格。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_PETERBILT_359_BULK_NAME"
-msgstr "彼得比爾特359散料卡車"
+msgstr "彼得比爾特359散料貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_PETERBILT_359_STAKE_DESCRIPTION"
 msgstr ""
-"彼得比爾特是具相當經典的長途半聯結車，更是美國卡車文化的核心象徵。常以鍍鉻裝"
+"彼得比爾特是具相當經典的長途半聯結車，更是美國貨車文化的核心象徵。常以鍍鉻裝"
 "飾來展現不同風格。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_PETERBILT_359_STAKE_NAME"
-msgstr "彼得比爾特359欄板卡車"
+msgstr "彼得比爾特359欄板貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_PETERBILT_359_TANK_DESCRIPTION"
 msgstr ""
-"彼得比爾特是具相當經典的長途半聯結車，更是美國卡車文化的核心象徵。常以鍍鉻裝"
+"彼得比爾特是具相當經典的長途半聯結車，更是美國貨車文化的核心象徵。常以鍍鉻裝"
 "飾來展現不同風格。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_PETERBILT_359_TANK_NAME"
-msgstr "彼得比爾特359儲槽卡車"
+msgstr "彼得比爾特359儲槽貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_RIVIAN_EDV_DESCRIPTION"
@@ -29586,32 +29586,32 @@ msgstr ""
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_RIVIAN_EDV_NAME"
-msgstr "里維安EDV箱型卡車"
+msgstr "里維安EDV箱型貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_SAURER_C_TYP_BOX_DESCRIPTION"
 msgstr ""
-"C型引擎是瑞士阿道夫・紹勒公司開發的革命性設計，隨後被廣泛應用於多種卡車與巴"
+"C型引擎是瑞士阿道夫・紹勒公司開發的革命性設計，隨後被廣泛應用於多種貨車與巴"
 "士。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_SAURER_C_TYP_BOX_NAME"
-msgstr "薩烏爾C型箱型卡車"
+msgstr "薩烏爾C型箱型貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_SAURER_C_TYP_TANK_DESCRIPTION"
 msgstr ""
-"C型引擎是瑞士阿道夫・紹勒公司開發的革命性設計，隨後被廣泛應用於多種卡車與巴"
+"C型引擎是瑞士阿道夫・紹勒公司開發的革命性設計，隨後被廣泛應用於多種貨車與巴"
 "士。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_SAURER_C_TYP_TANK_NAME"
-msgstr "薩烏爾C型儲槽卡車"
+msgstr "薩烏爾C型儲槽貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_SAURER_C_TYP_UNIV_DESCRIPTION"
 msgstr ""
-"C型引擎是瑞士阿道夫・紹勒公司開發的革命性設計，隨後被廣泛應用於多種卡車與巴"
+"C型引擎是瑞士阿道夫・紹勒公司開發的革命性設計，隨後被廣泛應用於多種貨車與巴"
 "士。"
 
 #, fuzzy
@@ -29621,11 +29621,11 @@ msgstr "薩烏爾C型"
 #, fuzzy
 msgid "VEHICLE_TRUCK_STEAM_LORRY_UNIV_DESCRIPTION"
 msgstr ""
-"這款早期蒸汽卡車起源於英國羅瑟漢附近的馬斯伯勒，用於煤礦與釀酒等地方產業。"
+"這款早期蒸汽貨車起源於英國羅瑟漢附近的馬斯伯勒，用於煤礦與釀酒等地方產業。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_STEAM_LORRY_UNIV_NAME"
-msgstr "蒸汽卡車"
+msgstr "蒸汽貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_TESLA_SEMI_DESCRIPTION"
@@ -29639,7 +29639,7 @@ msgstr "特斯拉Semi"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_URBAN_ETRUCK_DESCRIPTION"
-msgstr "由賓士設計與製造的全電動卡車，透過特殊的空氣力學設計來提升行駛效率。"
+msgstr "由賓士設計與製造的全電動貨車，透過特殊的空氣力學設計來提升行駛效率。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_URBAN_ETRUCK_NAME"
@@ -29648,40 +29648,40 @@ msgstr "賓士Urban eTruck"
 #, fuzzy
 msgid "VEHICLE_TRUCK_VOLVO_FH12_BULK_DESCRIPTION"
 msgstr ""
-"這款瑞典卡車為強勁且可靠的長途運輸主力，兼具安全配備與燃油效率，成為業界標"
+"這款瑞典貨車為強勁且可靠的長途運輸主力，兼具安全配備與燃油效率，成為業界標"
 "竿。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_VOLVO_FH12_BULK_NAME"
-msgstr "富豪FH12散料卡車"
+msgstr "富豪FH12散料貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_VOLVO_FH12_TANK_DESCRIPTION"
 msgstr ""
-"這款瑞典卡車為強勁且可靠的長途運輸主力，兼具安全配備與燃油效率，成為業界標"
+"這款瑞典貨車為強勁且可靠的長途運輸主力，兼具安全配備與燃油效率，成為業界標"
 "竿。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_VOLVO_FH12_TANK_NAME"
-msgstr "富豪FH12儲槽卡車"
+msgstr "富豪FH12儲槽貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_ZIS_150_BULK_DESCRIPTION"
 msgstr ""
-"蘇聯車輛製造商依循改造早期福特車款的經驗，設計出更為現代化且多用途的ZIS卡車。"
+"蘇聯車輛製造商依循改造早期福特車款的經驗，設計出更為現代化且多用途的ZIS貨車。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_ZIS_150_BULK_NAME"
-msgstr "ZIS-150散料卡車"
+msgstr "ZIS-150散料貨車"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_ZIS_150_STAKE_DESCRIPTION"
 msgstr ""
-"蘇聯車輛製造商依循改造早期福特車款的經驗，設計出更為現代化且多用途的ZIS卡車。"
+"蘇聯車輛製造商依循改造早期福特車款的經驗，設計出更為現代化且多用途的ZIS貨車。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_ZIS_150_STAKE_NAME"
-msgstr "ZIS-150欄板卡車"
+msgstr "ZIS-150欄板貨車"
 
 #, fuzzy
 msgid "VEHICLE_WAGGON_BAY_05_DESCRIPTION"
@@ -31562,7 +31562,7 @@ msgstr "熱帶"
 #, fuzzy
 msgctxt "mod-tags"
 msgid "Truck"
-msgstr "卡車"
+msgstr "貨車"
 
 #, fuzzy
 msgctxt "mod-tags"
