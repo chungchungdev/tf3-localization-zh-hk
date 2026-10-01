@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TransportFever3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2026-10-01 18:08+0800\n"
+"PO-Revision-Date: 2026-10-01 19:34+0800\n"
 "Last-Translator: chungchungdev <chungchung.dev@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <chungchung.dev@gmail.com>\n"
 "Language: zh_HK\n"
@@ -13,7 +13,6 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 3.9\n"
 
-#, fuzzy
 msgid ""
 "\n"
 "Of those, these can be subscribed to on the Mod Hub:"
@@ -21,7 +20,6 @@ msgstr ""
 "\n"
 "其中以下項目可以在 Mod Hub 上訂閱："
 
-#, fuzzy
 msgid ""
 "\n"
 "The dependencies are installed and can be activated.\n"
@@ -29,7 +27,6 @@ msgstr ""
 "\n"
 "相依模組已安裝，且可啟用。\n"
 
-#, fuzzy
 msgid ""
 "\n"
 "You can:\n"
@@ -43,7 +40,6 @@ msgstr ""
 " - 跳過啟用其相依模組之步驟；或者\n"
 " - 啟用所有相依模組後繼續操作。"
 
-#, fuzzy
 msgid ""
 "\n"
 "You can:\n"
@@ -55,7 +51,6 @@ msgstr ""
 " - 取消啟用這個模組；或者\n"
 " - 忽略這個警告（但請注意此舉可能導致遊戲不穩定）。"
 
-#, fuzzy
 msgid ""
 "\n"
 "You can:\n"
@@ -67,7 +62,6 @@ msgstr ""
 " - 取消啟用這個模組；或者\n"
 " - 不安裝相依模組，繼續操作。"
 
-#, fuzzy
 msgid ""
 "\n"
 "You can:\n"
@@ -79,7 +73,6 @@ msgstr ""
 " - 取消停用此模組；\n"
 " - 繼續操作並強制停用此模組（可能會引發錯誤）。"
 
-#, fuzzy
 msgid ""
 "\n"
 "You can:\n"
@@ -93,9 +86,8 @@ msgstr ""
 " - 取消啟用此模組；或\n"
 " - 在沒有這些相依項的情況下繼續。"
 
-#, fuzzy
 msgid " (Not Enough Money)"
-msgstr " （金錢不足）"
+msgstr " （資金不足）"
 
 msgid " + "
 msgstr " + "
@@ -106,10 +98,9 @@ msgstr " -速度：{speed}"
 msgid " or "
 msgstr " 或 "
 
-#, fuzzy
 msgid ""
 "\"{name}\" is a key modifier only, this is not a valid key binding input."
-msgstr "「{name}」僅為輔助按鍵，故此按鍵綁定輸入無效。"
+msgstr "「{name}」是修飾鍵，無法按鍵綁定輸入無效。"
 
 msgid "#{sequence} - {name}"
 msgstr "#{sequence} - {name}"
@@ -148,11 +139,9 @@ msgstr "擁有超過5艘船舶：%d點"
 msgid "%d Point(s) for Maximum Vehicle Age"
 msgstr "車輛年限上限：%d點"
 
-#, fuzzy
 msgid "%d for Having Transported at Least 100000 Passengers"
 msgstr "運輸至少100000名乘客：%d點"
 
-#, fuzzy
 msgid "%d for Having Transported at Least 100000 Units of Cargo"
 msgstr "運輸至少100000單位貨物：%d點"
 
@@ -160,7 +149,6 @@ msgstr "運輸至少100000單位貨物：%d點"
 msgid "%d for Having a Fast Vehicle"
 msgstr "擁有快速車輛：%d點"
 
-#, fuzzy
 msgid "%d for Having a Profit of at Least $10M"
 msgstr "獲得至少$1000萬利潤：%d點"
 
@@ -218,7 +206,6 @@ msgstr "（+預購內容）"
 msgid "(Hold) Add Waypoint"
 msgstr "（長按）設置定位點"
 
-#, fuzzy
 msgid "(Hold) Adjust"
 msgstr "（長按）調整"
 
@@ -230,15 +217,12 @@ msgstr "（長按）翻轉區段"
 msgid "(Hold) Force Paint"
 msgstr "（長按）強制繪製"
 
-#, fuzzy
 msgid "(Hold) More Options"
 msgstr "（長按）更多選項"
 
-#, fuzzy
 msgid "(Hold) Move Stop"
 msgstr "（長按）移動 停止"
 
-#, fuzzy
 msgid "(Hold) Precision Mode"
 msgstr "（長按）精確模式"
 
@@ -246,11 +230,9 @@ msgstr "（長按）精確模式"
 msgid "(Hold) Quick Navigation"
 msgstr "（長按）快速導航"
 
-#, fuzzy
 msgid "(Hold) Single Segment"
 msgstr "（長按）單一區段"
 
-#, fuzzy
 msgid "(Hold) Skip"
 msgstr "（長按）跳過"
 
@@ -281,11 +263,9 @@ msgid "({count} town impacted)"
 msgid_plural "({count} towns impacted)"
 msgstr[0] "（{count}座城鎮受到影響）"
 
-#, fuzzy
 msgid "+{countFeedback}"
 msgstr "+{countFeedback}"
 
-#, fuzzy
 msgid "+{percentage}"
 msgstr "+{percentage}"
 
@@ -415,19 +395,15 @@ msgstr "8位元"
 msgid "<None>"
 msgstr "＜無＞"
 
-#, fuzzy
 msgid "<Playlist Empty>"
 msgstr "＜空的播放清單＞"
 
-#, fuzzy
 msgid "<Unknown Artist>"
 msgstr "＜未知歌手＞"
 
-#, fuzzy
 msgid "<Unknown Playlist>"
 msgstr "＜未知播放清單＞"
 
-#, fuzzy
 msgid "<Unknown Title>"
 msgstr "＜未知標題＞"
 
