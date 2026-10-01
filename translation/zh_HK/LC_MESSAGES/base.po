@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TransportFever3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2026-10-01 19:34+0800\n"
+"PO-Revision-Date: 2026-10-01 19:42+0800\n"
 "Last-Translator: chungchungdev <chungchung.dev@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <chungchung.dev@gmail.com>\n"
 "Language: zh_HK\n"
@@ -872,9 +872,8 @@ msgstr "在自由遊戲模式中首次捕捉到幽浮。"
 msgid "ACH_UFO_NAME"
 msgstr "第三類接觸"
 
-#, fuzzy
 msgid "ACH_WAREHOUSE_10K_DESC"
-msgstr "在自由遊戲模式中於單一貨物倉庫儲存超過10,000件貨物。"
+msgstr "在自由遊戲模式中於單一貨倉儲存超過10,000件貨物。"
 
 #, fuzzy
 msgid "ACH_WAREHOUSE_10K_NAME"
@@ -2695,7 +2694,7 @@ msgstr "阿卡巴道路倉庫"
 
 #, fuzzy
 msgid "Aqaba Warehouse"
-msgstr "阿卡巴貨物倉庫"
+msgstr "阿卡巴貨倉"
 
 #, fuzzy
 msgid "Arch"
@@ -3048,7 +3047,7 @@ msgstr "貝塞爾Truck交通站點"
 
 #, fuzzy
 msgid "Bethel Warehouse"
-msgstr "貝塞爾貨物倉庫"
+msgstr "貝塞爾貨倉"
 
 #, fuzzy
 msgid "Beverages"
@@ -6958,7 +6957,7 @@ msgstr "戈勒貨車站"
 
 #, fuzzy
 msgid "Gawler Warehouse"
-msgstr "戈勒貨物倉庫"
+msgstr "戈勒貨倉"
 
 msgid "General"
 msgstr "一般"
@@ -7568,9 +7567,9 @@ msgstr ""
 #, fuzzy
 msgid "HELP_CONSTRUCTION_WAREHOUSES"
 msgstr ""
-"貨物倉庫用於儲存貨物，以及在各種運輸系統之間轉運貨物。\n"
-"經過專用的貨物倉庫可提高裝載速度，但僅能儲存特定類型的貨物。\n"
-"建造過程中會標示可將貨物存入貨物倉庫之車站的涵蓋範圍。"
+"貨倉用於儲存貨物，以及在各種運輸系統之間轉運貨物。\n"
+"經過專用的貨倉可提高裝載速度，但僅能儲存特定類型的貨物。\n"
+"建造過程中會標示可將貨物存入貨倉之車站的涵蓋範圍。"
 
 #, fuzzy
 msgid "HELP_CONSTRUCTION_WATER_BUILDINGS"
@@ -7596,8 +7595,8 @@ msgstr ""
 "此圖層顯示貨物是否能迅速、準時送達目的地。\n"
 "各類型的貨物配送期限不同，需在公司財務視窗內「配送時間」分頁所規定的期限內送"
 "達。\n"
-"各途徑會依照平均配送時間顯示不同顏色，貨物倉庫與車輛上方也會以顏色標籤標示準"
-"時送達的貨物量。\n"
+"各途徑會依照平均配送時間顯示不同顏色，貨倉與車輛上方也會以顏色標籤標示準時送"
+"達的貨物量。\n"
 "配送延誤會對城鎮成長造成負面影響。城鎮目前的評價會標示於城鎮上方。"
 
 #, fuzzy
@@ -7797,9 +7796,8 @@ msgstr ""
 #, fuzzy
 msgid "HELP_STATISTICS_WAREHOUSES"
 msgstr ""
-"貨物倉庫概要顯示所有貨物倉庫的詳細資訊。「路線」反映的是途經該車站的路線數"
-"量。\n"
-"「庫存」標示該貨物倉庫可儲存之貨物類型。\n"
+"貨倉概要顯示所有貨倉的詳細資訊。「路線」反映的是途經該車站的路線數量。\n"
+"「庫存」標示該貨倉可儲存之貨物類型。\n"
 "「存量」、「容量」與「使用狀況」分別表示目前的庫存貨物數量、所有建築的總容"
 "量，以及目前的使用狀況。\n"
 "表格可按照各欄位排序資料。"
@@ -7956,10 +7954,9 @@ msgstr ""
 #, fuzzy
 msgid "HELP_WINDOW_WAREHOUSE"
 msgstr ""
-"此視窗列出貨物倉庫的所有相關資訊，例如庫存、目前裝填量，以及支援之貨物類型"
-"等。\n"
+"此視窗列出貨倉的所有相關資訊，例如庫存、目前裝填量，以及支援之貨物類型等。\n"
 "點擊貨物圖示，即可將庫存空間指定為僅供特定貨物類型使用。\n"
-"點選「配置」按鈕即可加入新模組來擴充貨物倉庫。"
+"點選「配置」按鈕即可加入新模組來擴充貨倉。"
 
 #, fuzzy
 msgid "HQ_MODULE_CORNER_L_DESCRIPTION"
@@ -11271,8 +11268,8 @@ msgstr "購買一輛馬車"
 #, fuzzy
 msgid "MISSION_01_TASK_BUY_COACH_PARAGRAPH"
 msgstr ""
-"在[link=entity_depot_2]倉庫[/link]購買一輛馬車，然後將它指派至貨物倉庫與飯店"
-"之間的路線。"
+"在[link=entity_depot_2]倉庫[/link]購買一輛馬車，然後將它指派至貨倉與飯店之間"
+"的路線。"
 
 #, fuzzy
 msgid "MISSION_01_TASK_BUY_FIRST_TRUCK_HOTEL_HINT"
@@ -11392,7 +11389,7 @@ msgstr ""
 
 #, fuzzy
 msgid "MISSION_01_TASK_GUMBO_BUILD_STORAGE_HINT"
-msgstr "從下方的建設選單中選擇貨物倉庫。"
+msgstr "從下方的建設選單中選擇貨倉。"
 
 #, fuzzy
 msgid "MISSION_01_TASK_GUMBO_BUILD_STORAGE_INSTRUCTION"
@@ -11404,7 +11401,7 @@ msgstr "請建造一座倉庫"
 
 #, fuzzy
 msgid "MISSION_01_TASK_GUMBO_BUILD_STORAGE_PARAGRAPH"
-msgstr "在[link=pos_warehouse_zone]標示區域[/link]內建造通用貨物倉庫！"
+msgstr "在[link=pos_warehouse_zone]標示區域[/link]內建造通用貨倉！"
 
 #, fuzzy
 msgid "MISSION_01_TASK_HOTEL_BONUS_FISH_INSTRUCTION"
@@ -11485,8 +11482,8 @@ msgstr "建立一條運輸路線"
 #, fuzzy
 msgid "MISSION_01_TASK_HOTEL_LINE_PARAGRAPH"
 msgstr ""
-"建立一條連接[link=pos_warehouse_zone]貨物倉庫[/link]旁的車站與"
-"[link=entity_hotel]旅館[/link]的運輸路線。"
+"建立一條連接[link=pos_warehouse_zone]貨倉[/link]旁的車站與[link=entity_hotel]"
+"旅館[/link]的運輸路線。"
 
 #, fuzzy
 msgid "MISSION_01_TASK_MAKE_FIRST_TRUCK_LINE_HOTEL_HINT"
@@ -11538,7 +11535,7 @@ msgstr "建造一座車站"
 
 #, fuzzy
 msgid "MISSION_01_TASK_STATION_PARAGRAPH"
-msgstr "在港口的[link=pos_warehouse_zone]貨物倉庫[/link]旁建造一座道路車站。"
+msgstr "在港口的[link=pos_warehouse_zone]貨倉[/link]旁建造一座道路車站。"
 
 #, fuzzy
 msgid "MISSION_01_TASK_TRANSPORT_FIRST_LOGS_HOTEL_INSTRUCTION"
@@ -12974,7 +12971,7 @@ msgstr ""
 msgid "MISSION_03_TASK_RIDDLE_STEEL_HINT"
 msgstr ""
 "根據薩利姆再次給出的提示，找出適合設置營地的正確路線。你可以在不同路線上配置"
-"多輛貨車，並建造貨物倉庫來提升貨物運輸效率。"
+"多輛貨車，並建造貨倉來提升貨物運輸效率。"
 
 #, fuzzy
 msgid "MISSION_03_TASK_RIDDLE_STEEL_INSTRUCTION"
@@ -15648,7 +15645,7 @@ msgstr "履行或拒絕提供的補貼合約。"
 
 #, fuzzy
 msgid "MISSION_06_TASK_YACHT_HINT"
-msgstr "在附近建造液體貨物倉庫，以便在陸地上儲存石油。"
+msgstr "在附近建造液體貨倉，以便在陸地上儲存石油。"
 
 #, fuzzy
 msgid "MISSION_06_TASK_YACHT_INSTRUCTION"
@@ -17174,7 +17171,7 @@ msgstr ""
 "貨物需在時限內送達。遲到的話城鎮評價就會下降。\n"
 "\n"
 "為確保貨物準時送達，請確保運輸車輛不會卡在塞車路段，並為其規劃最佳運輸路線。"
-"此外，運用專用貨物倉庫即可延後貨物的送達時間。"
+"此外，運用專用貨倉即可延後貨物的送達時間。"
 
 #, fuzzy
 msgid "MISSION_7_GUIDE_HAPPINESS_NAME"
@@ -17209,8 +17206,8 @@ msgstr "污染"
 #, fuzzy
 msgid "MISSION_7_GUIDE_POLLUTION_PARAGRAPH"
 msgstr ""
-"污染主要來自高污染車輛與產業設施，以及車站、貨物倉庫、倉庫等大型建築物 ，並會"
-"影響整個城鎮區域。\n"
+"污染主要來自高污染車輛與產業設施，以及車站、貨倉、倉庫等大型建築物 ，並會影響"
+"整個城鎮區域。\n"
 "要改善污染問題，可改用電氣化車輛，在道路沿線及污染源建築物附近種植樹木，並盡"
 "量減少高污染的基礎設施。在興建基礎設施或購買車輛之前，請記得先確認污染評價。"
 
@@ -18660,7 +18657,7 @@ msgstr "西北貨車站"
 
 #, fuzzy
 msgid "Northwest Warehouse"
-msgstr "西北貨物倉庫"
+msgstr "西北貨倉"
 
 #, fuzzy
 msgid "Norwegian"
@@ -18704,7 +18701,7 @@ msgstr "此非站牌！"
 
 #, fuzzy
 msgid "Not a Warehouse!"
-msgstr "此非貨物倉庫！"
+msgstr "此非貨倉！"
 
 #, fuzzy
 msgid "Not a signal!"
@@ -23028,11 +23025,11 @@ msgstr "顯示／隱藏車輛統計數據"
 
 #, fuzzy
 msgid "Show/Hide Warehouse Menu"
-msgstr "顯示／隱藏貨物倉庫選單"
+msgstr "顯示／隱藏貨倉選單"
 
 #, fuzzy
 msgid "Show/Hide Warehouse Statistics"
-msgstr "顯示／隱藏貨物倉庫統計數據"
+msgstr "顯示／隱藏貨倉統計數據"
 
 #, fuzzy
 msgid "Show/Hide Water Menu"
@@ -23302,7 +23299,7 @@ msgstr "專用月台：{boost}"
 
 #, fuzzy
 msgid "Specialized Warehouse: {boost}"
-msgstr "專用貨物倉庫：{boost}"
+msgstr "專用貨倉：{boost}"
 
 #, fuzzy
 msgid "Speed"
@@ -23537,7 +23534,7 @@ msgstr "煉鋼廠火車站"
 
 #, fuzzy
 msgid "Steel Mill Warehouse"
-msgstr "煉鋼廠貨物倉庫"
+msgstr "煉鋼廠貨倉"
 
 #, fuzzy
 msgid "Stocks"
@@ -24069,8 +24066,8 @@ msgstr "燃料供給"
 msgid "TUTORIAL_A_FUEL_TASK_PARAGRAPH"
 msgstr ""
 "現在可以為[link=entity_town]{TOWN_NAME}[/link]供應燃料了。將"
-"[link=entity_warehouse]貨物倉庫[/link]旁的車站連接到[link=entity_oil_ref]煉油"
-"廠[/link]，再將[link=entity_oil_ref]煉油廠[/link]連接到[link=entity_town]"
+"[link=entity_warehouse]貨倉[/link]旁的車站連接到[link=entity_oil_ref]煉油廠[/"
+"link]，再將[link=entity_oil_ref]煉油廠[/link]連接到[link=entity_town]"
 "{TOWN_NAME}[/link]。規劃單一路線或分為兩條路線皆可。最後別忘了派幾輛貨車到這"
 "些路線上喔！"
 
@@ -24161,19 +24158,19 @@ msgstr "建造一座貨運站"
 #, fuzzy
 msgid "TUTORIAL_A_TRUCK_STATION_TASK_PARAGRAPH"
 msgstr ""
-"要從貨物倉庫載運原油到其他地，必須在[link=entity_warehouse]貨物倉庫[/link]附"
-"近建造一座貨運站。\n"
+"要從貨倉載運原油到其他地，必須在[link=entity_warehouse]貨倉[/link]附近建造一"
+"座貨運站。\n"
 "別忘了將它跟道路連接起來喔！"
 
 #, fuzzy
 msgid "TUTORIAL_A_WAREHOUSE_TASK_NAME"
-msgstr "建造一間貨物倉庫"
+msgstr "建造一間貨倉"
 
 #, fuzzy
 msgid "TUTORIAL_A_WAREHOUSE_TASK_PARAGRAPH"
 msgstr ""
-"在[link=entity_harbor]港口[/link]旁建造貨物倉庫才能將原油桶運送上岸。請注意，"
-"貨物倉庫必須位於港口的涵蓋範圍內。"
+"在[link=entity_harbor]港口[/link]旁建造貨倉才能將原油桶運送上岸。請注意，貨倉"
+"必須位於港口的涵蓋範圍內。"
 
 #, fuzzy
 msgid "TUTORIAL_BEFORE_CARGO_TASK_NAME"
@@ -24448,7 +24445,7 @@ msgstr "更多車輛"
 #, fuzzy
 msgid "TUTORIAL_B_SECOND_VEHICLE_TASK_PARAGRAPH"
 msgstr ""
-"我們注意到你從[link=entity_warehouse]貨物倉庫[/link]到[link=entity_town]"
+"我們注意到你從[link=entity_warehouse]貨倉[/link]到[link=entity_town]"
 "{TOWN_NAME}[/link]的商業區路線上只有一輛車。若想滿足城鎮的需求，建議在每條路"
 "線上都配置多部車輛。先為這條路線增派第二輛貨車吧！"
 
@@ -24752,7 +24749,7 @@ msgstr "建造一間貨倉"
 msgid "TUTORIAL_WAREHOUSE_GUIDE_PARAGRAPH"
 msgstr ""
 "若要在不同運輸方式之間轉運貨物，或建立更複雜的貨運網路，就必須興建貨倉。請將"
-"貨物倉庫設置於車站的涵蓋範圍內，並確認路線設定正確，貨物便會自動運送至貨倉。"
+"貨倉設置於車站的涵蓋範圍內，並確認路線設定正確，貨物便會自動運送至貨倉。"
 
 #, fuzzy
 msgid "TUTORIAL_WELCOME_TASK_NAME"
@@ -26411,7 +26408,7 @@ msgstr "貨車：煉油廠至城鎮"
 
 #, fuzzy
 msgid "Truck: Warehouse to Refinery "
-msgstr "貨車：貨物倉庫至煉油廠"
+msgstr "貨車：貨倉至煉油廠"
 
 #, fuzzy
 msgid "Trucks"
@@ -26717,7 +26714,7 @@ msgstr "維修軌道"
 
 #, fuzzy
 msgid "Upkeep Warehouses"
-msgstr "貨物倉庫維修費"
+msgstr "貨倉維修費"
 
 #, fuzzy
 msgid "Upkeep: {}"
@@ -30251,50 +30248,46 @@ msgstr "音量設定"
 #, fuzzy
 msgid "WAREHOUSE_BULK_DESCRIPTION"
 msgstr ""
-"散裝貨物專用的貨物倉庫。可利用模組擴建。可提升針對散裝貨物專用之車輛的裝載速"
-"度。"
+"散裝貨物專用的貨倉。可利用模組擴建。可提升針對散裝貨物專用之車輛的裝載速度。"
 
 #, fuzzy
 msgid "WAREHOUSE_BULK_NAME"
-msgstr "散裝貨物倉庫"
+msgstr "散裝貨倉"
 
 #, fuzzy
 msgid "WAREHOUSE_FLATBED_DESCRIPTION"
 msgstr ""
-"平板貨物專用的貨物倉庫。可利用模組擴建。可提升針對平板貨物專用之車輛的裝載速"
-"度。"
+"平板貨物專用的貨倉。可利用模組擴建。可提升針對平板貨物專用之車輛的裝載速度。"
 
 #, fuzzy
 msgid "WAREHOUSE_FLATBED_NAME"
-msgstr "平板貨物倉庫"
+msgstr "平板貨倉"
 
 #, fuzzy
 msgid "WAREHOUSE_GOODS_DESCRIPTION"
 msgstr ""
-"一般貨物專用的貨物倉庫。可利用模組擴建。可提升針對一般貨物專用之車輛的裝載速"
-"度。"
+"一般貨物專用的貨倉。可利用模組擴建。可提升針對一般貨物專用之車輛的裝載速度。"
 
 #, fuzzy
 msgid "WAREHOUSE_GOODS_NAME"
-msgstr "一般貨物倉庫"
+msgstr "一般貨倉"
 
 #, fuzzy
 msgid "WAREHOUSE_LIQUID_DESCRIPTION"
 msgstr ""
-"液體貨物專用的貨物倉庫。可利用模組擴建。可提升針對液體貨物專用之車輛的裝載速"
-"度。"
+"液體貨物專用的貨倉。可利用模組擴建。可提升針對液體貨物專用之車輛的裝載速度。"
 
 #, fuzzy
 msgid "WAREHOUSE_LIQUID_NAME"
-msgstr "液體貨物倉庫"
+msgstr "液體貨倉"
 
 #, fuzzy
 msgid "WAREHOUSE_UNIVERSAL_DESCRIPTION"
-msgstr "可用於任何類型貨物的貨物倉庫。可利用模組擴建及客製。"
+msgstr "可用於任何類型貨物的貨倉。可利用模組擴建及客製。"
 
 #, fuzzy
 msgid "WAREHOUSE_UNIVERSAL_NAME"
-msgstr "通用貨物倉庫"
+msgstr "通用貨倉"
 
 msgid "WARNING"
 msgstr "警告"
@@ -30356,15 +30349,15 @@ msgstr "閒晃"
 
 #, fuzzy
 msgid "Warehouse"
-msgstr "貨物倉庫"
+msgstr "貨倉"
 
 #, fuzzy
 msgid "Warehouse Statistics"
-msgstr "貨物倉庫統計數據"
+msgstr "貨倉統計數據"
 
 #, fuzzy
 msgid "Warehouses"
-msgstr "貨物倉庫"
+msgstr "貨倉"
 
 #, fuzzy
 msgid "Warning"
@@ -31578,7 +31571,7 @@ msgstr "車廂"
 #, fuzzy
 msgctxt "mod-tags"
 msgid "Warehouse"
-msgstr "貨物倉庫"
+msgstr "貨倉"
 
 msgid "mod.io Refresh"
 msgstr "重新整理mod.io"
@@ -33224,7 +33217,7 @@ msgstr "{townName}地下站牌"
 
 #, fuzzy
 msgid "{townName} Warehouse"
-msgstr "{townName}貨物倉庫"
+msgstr "{townName}貨倉"
 
 #, fuzzy
 msgid "{townName} Waypoint #{number}"
