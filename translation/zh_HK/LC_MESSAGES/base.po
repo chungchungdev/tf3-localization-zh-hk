@@ -158,19 +158,19 @@ msgstr "擁有「超長」車輛：%d點"
 
 #, fuzzy
 msgid "%d for Rail Network Bridges"
-msgstr "鐵道網路橋梁：%d點"
+msgstr "鐵路網路橋梁：%d點"
 
 #, fuzzy
 msgid "%d for Rail Network Electrification"
-msgstr "鐵道網路電氣化：%d點"
+msgstr "鐵路網路電氣化：%d點"
 
 #, fuzzy
 msgid "%d for Rail Network Length"
-msgstr "鐵道網路長度：%d點"
+msgstr "鐵路網路長度：%d點"
 
 #, fuzzy
 msgid "%d for Rail Network Tunnels"
-msgstr "鐵道網路隧道：%d點"
+msgstr "鐵路網路隧道：%d點"
 
 msgid "%i"
 msgstr "%i"
@@ -7459,7 +7459,7 @@ msgstr ""
 #, fuzzy
 msgid "HELP_CONSTRUCTION_RAIL_BUILDINGS"
 msgstr ""
-"鐵道建築是建立火車路線的基礎。\n"
+"鐵路建築是建立火車路線的基礎。\n"
 "可在世界畫面中放置多個火車站，再於路線調度視窗將它們結合，便能形成路線。\n"
 "倉庫可購買列車，並提供維修所需空間。\n"
 "放置維修設施即可提供額外維修區域。\n"
@@ -7469,7 +7469,7 @@ msgstr ""
 msgid "HELP_CONSTRUCTION_RAIL_TOOLS"
 msgstr ""
 "軌道工具可用來修改現有的軌道。\n"
-"可於軌道上放置號誌，藉此控制鐵道交通。列車必須獨佔目前位置到下一個號誌或火車"
+"可於軌道上放置號誌，藉此控制鐵路交通。列車必須獨佔目前位置到下一個號誌或火車"
 "站之間的整段路徑才能夠行駛。\n"
 "利用電氣化工具與隔音牆工具，即可為現有軌道加裝或移除電纜與隔音牆。"
 
@@ -7481,7 +7481,7 @@ msgstr ""
 "駛。\n"
 "新的軌道類型會隨著時間推進逐漸解鎖。\n"
 "軌道在建造完成後，仍可使用軌道工具進行修改。\n"
-"利用路徑號誌即可控制鐵道交通。"
+"利用路徑號誌即可控制鐵路交通。"
 
 #, fuzzy
 msgid "HELP_CONSTRUCTION_ROADS_CONSTRUCTIONS"
@@ -7668,8 +7668,8 @@ msgstr ""
 #, fuzzy
 msgid "HELP_LAYER_TRAFFIC"
 msgstr ""
-"此圖層顯示幕前的道路與鐵道交通狀況。\n"
-"當道路或鐵道發生壅塞、車速變慢時，該區段會以不同顏色標出。\n"
+"此圖層顯示幕前的道路與鐵路交通狀況。\n"
+"當道路或鐵路發生壅塞、車速變慢時，該區段會以不同顏色標出。\n"
 "道路壅塞會對城鎮成長造成負面影響。城鎮目前的交通評價會標示於城鎮上方。\n"
 "若要紓解交通問題，可改善道路網或公共交通系統。"
 
@@ -11726,7 +11726,7 @@ msgstr "不，我是來自紐奧良的。 那裡離紐約大概就像漢堡到�
 #, fuzzy
 msgid "MISSION_02_CUTSCENE_INTRO_2"
 msgstr ""
-"對，教授！從我小時候在巴勒莫開始，公路和鐵道建設就是我的生命！我見識過一切，"
+"對，教授！從我小時候在巴勒莫開始，公路和鐵路建設就是我的生命！我見識過一切，"
 "也建造過一切。"
 
 #, fuzzy
@@ -12015,11 +12015,11 @@ msgstr "在[link=entity_dump_site]礦渣堆[/link]旁邊建造一座長120公尺
 
 #, fuzzy
 msgid "MISSION_02_TASK_BUILD_DIRT_ROUTE_TRACKS_INSTRUCTION"
-msgstr "多莫多索拉南邊已經有一個轉轍器，我們可以利用它將貨運站連接到鐵道網。"
+msgstr "多莫多索拉南邊已經有一個轉轍器，我們可以利用它將貨運站連接到鐵路網。"
 
 #, fuzzy
 msgid "MISSION_02_TASK_BUILD_DIRT_ROUTE_TRACKS_NAME"
-msgstr "修築鐵道"
+msgstr "修築鐵路"
 
 #, fuzzy
 msgid "MISSION_02_TASK_BUILD_DIRT_ROUTE_TRACKS_PARAGRAPH"
@@ -15602,7 +15602,7 @@ msgstr ""
 
 #, fuzzy
 msgid "MISSION_06_TASK_RAILROAD_NAME"
-msgstr "建造一條鐵道路線"
+msgstr "建造一條鐵路路線"
 
 #, fuzzy
 msgid "MISSION_06_TASK_RAILROAD_PARAGRAPH"
@@ -19812,15 +19812,15 @@ msgstr "半徑"
 
 #, fuzzy
 msgid "Rail"
-msgstr "鐵道"
+msgstr "鐵路"
 
 #, fuzzy
 msgid "Rail Buildings"
-msgstr "鐵道建築"
+msgstr "鐵路建築"
 
 #, fuzzy
 msgid "Rail Constructions"
-msgstr "鐵道建設"
+msgstr "鐵路建設"
 
 #, fuzzy
 msgid "Rail Crossing"
@@ -22976,7 +22976,7 @@ msgstr "顯示／隱藏污染圖層"
 
 #, fuzzy
 msgid "Show/Hide Rail Menu"
-msgstr "顯示／隱藏鐵道選單"
+msgstr "顯示／隱藏鐵路選單"
 
 #, fuzzy
 msgid "Show/Hide Road Menu"
@@ -26191,7 +26191,7 @@ msgstr "列車舒適度"
 
 #, fuzzy
 msgid "Train Fever"
-msgstr "鐵道大亨"
+msgstr "鐵路大亨"
 
 #, fuzzy
 msgid "Train Line"
@@ -27275,7 +27275,7 @@ msgstr "城際125"
 #, fuzzy
 msgid "VEHICLE_MULTIPLEUNIT_ICE1_DESCRIPTION"
 msgstr ""
-"德國首款量產的高速列車，曾在1988年測試時刷新鐵道車輛速度紀錄，時速高達406.9公"
+"德國首款量產的高速列車，曾在1988年測試時刷新鐵路車輛速度紀錄，時速高達406.9公"
 "里。"
 
 #, fuzzy
@@ -27987,7 +27987,7 @@ msgstr "巴登VI c型"
 #, fuzzy
 msgid "VEHICLE_TRAIN_BR89_DESCRIPTION"
 msgstr ""
-"小巧的普魯士T 3機車至今仍廣為人知，是許多鐵道博物館及鐵道模型玩家的入門車型。"
+"小巧的普魯士T 3機車至今仍廣為人知，是許多鐵路博物館及鐵路模型玩家的入門車型。"
 
 #, fuzzy
 msgid "VEHICLE_TRAIN_BR89_NAME"
@@ -28139,7 +28139,7 @@ msgstr "TEE VT 11.5"
 msgid "VEHICLE_TRAIN_EL_18_DESCRIPTION"
 msgstr ""
 "本系列以瑞士Re 460機車改良而成，專門應對斯堪地那維亞地區風景優美但條件嚴峻的"
-"鐵道環境。"
+"鐵路環境。"
 
 #, fuzzy
 msgid "VEHICLE_TRAIN_EL_18_NAME"
@@ -28334,7 +28334,7 @@ msgstr "英國Mark 3客車"
 #, fuzzy
 msgid "VEHICLE_TRAIN_ICE1_FRONT_DESCRIPTION"
 msgstr ""
-"德國首款量產的高速列車，曾在1988年測試時刷新鐵道車輛速度紀錄，時速高達406.9公"
+"德國首款量產的高速列車，曾在1988年測試時刷新鐵路車輛速度紀錄，時速高達406.9公"
 "里。"
 
 #, fuzzy
@@ -28344,7 +28344,7 @@ msgstr "ICE 1"
 #, fuzzy
 msgid "VEHICLE_TRAIN_ICE1_MIDDLE1_DESCRIPTION"
 msgstr ""
-"德國首款量產的高速列車，曾在1988年測試時刷新鐵道車輛速度紀錄，時速高達406.9公"
+"德國首款量產的高速列車，曾在1988年測試時刷新鐵路車輛速度紀錄，時速高達406.9公"
 "里。"
 
 #, fuzzy
@@ -28354,7 +28354,7 @@ msgstr "ICE 1"
 #, fuzzy
 msgid "VEHICLE_TRAIN_ICE1_MIDDLE2_DESCRIPTION"
 msgstr ""
-"德國首款量產的高速列車，曾在1988年測試時刷新鐵道車輛速度紀錄，時速高達406.9公"
+"德國首款量產的高速列車，曾在1988年測試時刷新鐵路車輛速度紀錄，時速高達406.9公"
 "里。"
 
 #, fuzzy
@@ -28787,7 +28787,7 @@ msgstr "輕軌馬車"
 #, fuzzy
 msgid "VEHICLE_TRAM_DUEWAG_BW_DESCRIPTION"
 msgstr ""
-"此系列與同名鐵道車輛相呼應，以單節寬敞車體提供高載客量，並設有多扇車門以加速"
+"此系列與同名鐵路車輛相呼應，以單節寬敞車體提供高載客量，並設有多扇車門以加速"
 "乘客上下車。"
 
 #, fuzzy
@@ -28949,7 +28949,7 @@ msgstr "Skoda 10 T"
 #, fuzzy
 msgid "VEHICLE_TRAM_STADLER_CITYLINK_DESCRIPTION"
 msgstr ""
-"最新一代的輕軌鐵道兼用車，同時配備電動馬達與柴油馬達，可將輕軌路線延伸至市"
+"最新一代的輕軌鐵路兼用車，同時配備電動馬達與柴油馬達，可將輕軌路線延伸至市"
 "郊。"
 
 #, fuzzy
@@ -30678,7 +30678,7 @@ msgstr "航空"
 #, fuzzy
 msgctxt "carrier"
 msgid "Rail"
-msgstr "鐵道"
+msgstr "鐵路"
 
 #, fuzzy
 msgctxt "carrier"
