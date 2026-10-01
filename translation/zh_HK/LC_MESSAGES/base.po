@@ -2632,7 +2632,7 @@ msgstr "套用"
 
 #, fuzzy
 msgid "Apply Color"
-msgstr "套用色彩"
+msgstr "套用顏色"
 
 #, fuzzy
 msgid "Apply Tool"
@@ -3950,7 +3950,7 @@ msgstr "更改視角"
 
 #, fuzzy
 msgid "Change Color"
-msgstr "更改色彩"
+msgstr "更改顏色"
 
 #, fuzzy
 msgid "Change Log"
@@ -4422,7 +4422,7 @@ msgstr "要清除所有Keyframes嗎？"
 
 #, fuzzy
 msgid "Clear Color"
-msgstr "清除色彩"
+msgstr "清除顏色"
 
 #, fuzzy
 msgid "Clear Key Frame List"
@@ -5269,7 +5269,7 @@ msgstr "曲線道路"
 
 #, fuzzy
 msgid "Custom Colors"
-msgstr "自訂色彩"
+msgstr "自訂顏色"
 
 #, fuzzy
 msgid "Custom Parameters"
@@ -19625,7 +19625,7 @@ msgstr "總裁"
 
 #, fuzzy
 msgid "Press <Shift> To Set Custom Color"
-msgstr "按下＜Shift＞設定自訂色彩"
+msgstr "按下＜Shift＞設定自訂顏色"
 
 #, fuzzy
 msgid "Press Any Key Combination..."
@@ -20170,7 +20170,7 @@ msgstr "保留優先度：極高"
 
 #, fuzzy
 msgid "Reset Color"
-msgstr "重設色彩"
+msgstr "重設顏色"
 
 #, fuzzy
 msgid "Reset Filters"
@@ -29103,7 +29103,7 @@ msgstr "哥塔T1電車"
 
 #, fuzzy
 msgid "VEHICLE_TRAM_TYPE_LH_DESCRIPTION"
-msgstr "以獨特色彩聞名的維也納機車，負責整個輕軌系統的維修與服務作業。"
+msgstr "以獨特顏色聞名的維也納機車，負責整個輕軌系統的維修與服務作業。"
 
 #, fuzzy
 msgid "VEHICLE_TRAM_TYPE_LH_NAME"
