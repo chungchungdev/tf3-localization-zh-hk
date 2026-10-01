@@ -3437,7 +3437,7 @@ msgstr "購買一輛馬車！"
 
 #, fuzzy
 msgid "Buy the ship in your ship depot."
-msgstr "在船舶倉庫內購買船隻。"
+msgstr "在船塢內購買船隻。"
 
 #, fuzzy
 msgid "Buy vehicles at {name}."
@@ -5343,7 +5343,7 @@ msgstr "為了購買船舶建造的倉庫建築。可自動維修位於一定半
 
 #, fuzzy
 msgid "DEPOTS_WATER_SHIPYARD_NAME"
-msgstr "船舶倉庫"
+msgstr "船塢"
 
 msgid "DLC"
 msgstr "DLC"
@@ -6128,7 +6128,7 @@ msgstr "埃德雷德港口"
 
 #, fuzzy
 msgid "Eldred Ship Depot"
-msgstr "埃德雷德船舶倉庫"
+msgstr "埃德雷德船塢"
 
 #, fuzzy
 msgid "Eldred Textile Factory"
@@ -8714,7 +8714,7 @@ msgstr "指宿港口"
 
 #, fuzzy
 msgid "Ibusuki Ship Depot"
-msgstr "指宿船舶倉庫"
+msgstr "指宿船塢"
 
 #, fuzzy
 msgid "Ibusuki Steel Mill"
@@ -9545,7 +9545,7 @@ msgstr "湖岸港口"
 
 #, fuzzy
 msgid "Lake Shore Ship Depot"
-msgstr "湖岸船舶倉庫"
+msgstr "湖岸船塢"
 
 #, fuzzy
 msgid "Lake Shore Ship Line"
@@ -18225,7 +18225,7 @@ msgstr "紐奧良車廠"
 
 #, fuzzy
 msgid "New Orleans Ship Depot"
-msgstr "紐奧良船舶倉庫"
+msgstr "紐奧良船塢"
 
 #, fuzzy
 msgid "New Orleans Station"
@@ -22725,7 +22725,7 @@ msgstr "船舶舒適度"
 
 #, fuzzy
 msgid "Ship Depot "
-msgstr "船舶倉庫"
+msgstr "船塢"
 
 #, fuzzy
 msgid "Ship Line"
@@ -22840,7 +22840,7 @@ msgstr "顯示道路車輛"
 
 #, fuzzy
 msgid "Show Ship Depots"
-msgstr "顯示船舶倉庫"
+msgstr "顯示船塢"
 
 #, fuzzy
 msgid "Show Ship Lines"
@@ -23513,7 +23513,7 @@ msgstr "煉鋼廠港口"
 
 #, fuzzy
 msgid "Steel Mill Ship Depot"
-msgstr "煉鋼廠船舶倉庫"
+msgstr "煉鋼廠船塢"
 
 #, fuzzy
 msgid "Steel Mill Train Depot"
@@ -24064,13 +24064,13 @@ msgstr ""
 
 #, fuzzy
 msgid "TUTORIAL_A_HARBOR_SHIPYARD_TASK_NAME"
-msgstr "建造港口與船舶倉庫"
+msgstr "建造港口與船塢"
 
 #, fuzzy
 msgid "TUTORIAL_A_HARBOR_SHIPYARD_TASK_PARAGRAPH"
 msgstr ""
 "要將原油從[link=entity_oil_plt]鑽油平台[/link]運往[link=entity_oil_ref]煉油廠"
-"[/link]，就得先建造水域基礎設施。就從建造一座港口和一個船舶倉庫開始吧。"
+"[/link]，就得先建造水域基礎設施。就從建造一座港口和一個船塢開始吧。"
 
 #, fuzzy
 msgid "TUTORIAL_A_INDUSTRY_WINDOW_TASK_NAME"
@@ -24387,13 +24387,13 @@ msgstr ""
 
 #, fuzzy
 msgid "TUTORIAL_B_HARBOR_SHIPYARD_TASK_NAME"
-msgstr "建造港口與船舶倉庫"
+msgstr "建造港口與船塢"
 
 #, fuzzy
 msgid "TUTORIAL_B_HARBOR_SHIPYARD_TASK_PARAGRAPH"
 msgstr ""
 "要將漁獲從[link=entity_fishing]漁場[/link]運往[link=entity_town]{TOWN_NAME}[/"
-"link]的商業區，就得先建造水域基礎設施。就從建造一座港口和一個船舶倉庫開始吧。"
+"link]的商業區，就得先建造水域基礎設施。就從建造一座港口和一個船塢開始吧。"
 
 #, fuzzy
 msgid "TUTORIAL_B_INDUSTRY_WINDOW_TASK_NAME"
@@ -24582,7 +24582,7 @@ msgstr "水域基礎設施"
 #, fuzzy
 msgid "TUTORIAL_HARBOR_SHIPYARD_GUIDE_PARAGRAPH"
 msgstr ""
-"建立水域基礎設施相當容易。只要興建港口與船舶倉庫即可。船舶分為客船與貨船，且"
+"建立水域基礎設施相當容易。只要興建港口與船塢即可。船舶分為客船與貨船，且"
 "各有小型船與大型船之分。請注意，大型船舶只能停靠大型港口。"
 
 #, fuzzy
@@ -33181,7 +33181,7 @@ msgstr "{townName} 車廠"
 
 #, fuzzy
 msgid "{townName} Ship Depot"
-msgstr "{townName} 船舶倉庫"
+msgstr "{townName} 船塢"
 
 #, fuzzy
 msgid "{townName} Signal #{number}"
