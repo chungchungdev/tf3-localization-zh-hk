@@ -1,0 +1,18 @@
+bus,公車,巴士,true
+箱型卡車,密斗貨車,true
+散料卡車,
+欄板卡車,
+儲槽卡車,罐車
+truck,卡車,貨車,true
+Depot building,倉庫建築,車廠
+maintain,維護,維修
+tram,輕軌列車,
+,人行道,行人路,true
+hotel,旅館/飯店,酒店
+water XXX,水域/水,航運
+line manager,路線調度視窗
+涵蓋範圍,覆蓋範圍,true
+public transport,大眾交通,公共交通,true
+Signal,號誌,信號,false
+汙染,污染
+獨占,獨佔

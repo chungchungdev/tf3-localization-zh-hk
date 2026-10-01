@@ -1,0 +1,30 @@
+{
+  "name": "MOD_NAME",
+  "summary": "MOD_SUMMARY",
+  "description": "MOD_DESCRIPTION",
+  "localization": {
+    "en": {
+      "name": "Localization - Traditional Chinese(Hong Kong)",
+      "summary": "Add zh-HK support for the game.",
+      "description": "Updating as I play"
+    },
+    "zh_TW": {
+      "name": "本地化 - 繁體中文(香港)",
+      "summary": "為遊戲提供繁體中文(香港)語言。",
+      "description": "一邊玩一邊更新。"
+    },
+    "zh_HK": {
+      "name": "本地化 - 繁體中文(香港)",
+      "summary": "為遊戲提供繁體中文(香港)語言。",
+      "description": "一邊玩一邊更新。"
+    }
+  },
+  "authors": [
+    {
+      "name": "chungchungdev",
+      "role": "CREATOR"
+    }
+  ],
+  "tags": ["Localization"],
+  "url": "https://github.com/chungchungdev/tf3-localization-zh-hk"
+}
