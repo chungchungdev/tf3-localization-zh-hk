@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TransportFever3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2026-10-01 19:42+0800\n"
+"PO-Revision-Date: 2026-10-01 19:46+0800\n"
 "Last-Translator: chungchungdev <chungchung.dev@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <chungchung.dev@gmail.com>\n"
 "Language: zh_HK\n"
@@ -5642,7 +5642,7 @@ msgstr "倉庫內有車輛"
 
 #, fuzzy
 msgid "Depot Statistics"
-msgstr "倉庫統計數據"
+msgstr "倉庫統計資料"
 
 #, fuzzy
 msgid "Depots"
@@ -7339,7 +7339,7 @@ msgstr ""
 msgid "HELP_COMPANY_ASSETS"
 msgstr ""
 "此分頁顯示公司資產的各項資訊。\n"
-"左側的統計數據會列出目前的車站、車輛及其他公司資產的數量。\n"
+"左側的統計資料會列出目前的車站、車輛及其他公司資產的數量。\n"
 "圖表則顯示軌道與貨運發展的趨勢。"
 
 #, fuzzy
@@ -8879,7 +8879,7 @@ msgstr "產業規模"
 
 #, fuzzy
 msgid "Industry Statistics"
-msgstr "產業統計數據"
+msgstr "產業統計資料"
 
 #, fuzzy
 msgid "Industry Target Density"
@@ -9792,7 +9792,7 @@ msgstr "路線區段模式"
 
 #, fuzzy
 msgid "Line Statistics"
-msgstr "路線統計數據"
+msgstr "路線統計資料"
 
 #, fuzzy
 msgid "Line Usage"
@@ -12103,11 +12103,11 @@ msgstr "各總站的長度、容量以及等候中的乘客人數都會顯示出
 msgid "MISSION_02_TASK_CHECK_BRIG_STATION_INSTRUCTION"
 msgstr ""
 "可以請您把注意力放在眼前的工作上嗎？隧道建成後，客戶預期客運量將大幅增長。我"
-"們來看看車站的統計數據吧。"
+"們來看看車站的統計資料吧。"
 
 #, fuzzy
 msgid "MISSION_02_TASK_CHECK_BRIG_STATION_NAME"
-msgstr "開啟車站統計數據"
+msgstr "開啟車站統計資料"
 
 #, fuzzy
 msgid "MISSION_02_TASK_CHECK_BRIG_STATION_PARAGRAPH"
@@ -16190,7 +16190,7 @@ msgstr "怎麼了？"
 msgid "MISSION_07_CUTSCENE_SOUTH_EAST_PROBLEM_3"
 msgstr ""
 "M1dw1f3……喔這是助產士的意思吧，他說：「東南區的塞車狀況是不是塞到該有出生統計"
-"數據了？」很好笑吧？"
+"資料了？」很好笑吧？"
 
 #, fuzzy
 msgid "MISSION_07_CUTSCENE_SOUTH_EAST_PROBLEM_4"
@@ -22933,11 +22933,11 @@ msgstr "顯示／隱藏數據圖層選單"
 
 #, fuzzy
 msgid "Show/Hide Depot Statistics"
-msgstr "顯示／隱藏倉庫統計數據"
+msgstr "顯示／隱藏倉庫統計資料"
 
 #, fuzzy
 msgid "Show/Hide Industry Statistics"
-msgstr "顯示／隱藏產業統計數據"
+msgstr "顯示／隱藏產業統計資料"
 
 #, fuzzy
 msgid "Show/Hide Infrastructure Layer"
@@ -22953,7 +22953,7 @@ msgstr "顯示／隱藏路線調度視窗"
 
 #, fuzzy
 msgid "Show/Hide Line Statistics"
-msgstr "顯示／隱藏路線統計數據"
+msgstr "顯示／隱藏路線統計資料"
 
 #, fuzzy
 msgid "Show/Hide Music Player"
@@ -22997,7 +22997,7 @@ msgstr "顯示／隱藏道路選單"
 
 #, fuzzy
 msgid "Show/Hide Station Statistics"
-msgstr "顯示／隱藏車站統計數據"
+msgstr "顯示／隱藏車站統計資料"
 
 #, fuzzy
 msgid "Show/Hide Terrain Layer"
@@ -23005,7 +23005,7 @@ msgstr "顯示／隱藏地形圖層"
 
 #, fuzzy
 msgid "Show/Hide Town Statistics"
-msgstr "顯示／隱藏城鎮統計數據"
+msgstr "顯示／隱藏城鎮統計資料"
 
 #, fuzzy
 msgid "Show/Hide Towns Layer"
@@ -23021,7 +23021,7 @@ msgstr "顯示／隱藏交通圖層"
 
 #, fuzzy
 msgid "Show/Hide Vehicle Statistics"
-msgstr "顯示／隱藏車輛統計數據"
+msgstr "顯示／隱藏車輛統計資料"
 
 #, fuzzy
 msgid "Show/Hide Warehouse Menu"
@@ -23029,7 +23029,7 @@ msgstr "顯示／隱藏貨倉選單"
 
 #, fuzzy
 msgid "Show/Hide Warehouse Statistics"
-msgstr "顯示／隱藏貨倉統計數據"
+msgstr "顯示／隱藏貨倉統計資料"
 
 #, fuzzy
 msgid "Show/Hide Water Menu"
@@ -23469,7 +23469,7 @@ msgstr "車站問題"
 
 #, fuzzy
 msgid "Station Statistics"
-msgstr "車站統計數據"
+msgstr "車站統計資料"
 
 #, fuzzy
 msgid "Stations"
@@ -23490,11 +23490,11 @@ msgstr "{line}上連接的停靠點互相衝突，導致車站不相容。"
 
 #, fuzzy
 msgid "Statistics"
-msgstr "統計數據"
+msgstr "統計資料"
 
 #, fuzzy
 msgid "Stats"
-msgstr "統計數據"
+msgstr "統計資料"
 
 #, fuzzy
 msgid "Steam"
@@ -24599,12 +24599,12 @@ msgstr ""
 
 #, fuzzy
 msgid "TUTORIAL_LINE_STATISTICS_GUIDE_NAME"
-msgstr "路線統計數據"
+msgstr "路線統計資料"
 
 #, fuzzy
 msgid "TUTORIAL_LINE_STATISTICS_GUIDE_PARAGRAPH"
 msgstr ""
-"路線統計數據可顯示哪些路線正在獲利、哪些路線處於虧損，同時也能查看各路線的運"
+"路線統計資料可顯示哪些路線正在獲利、哪些路線處於虧損，同時也能查看各路線的運"
 "輸率，也就是每年可運送的貨物或乘客的單位數。\n"
 "\n"
 "對於由多條相互連接的路線構成的運輸網來說，維持各路線運輸率的平衡相當重要。如"
@@ -24613,12 +24613,12 @@ msgstr ""
 
 #, fuzzy
 msgid "TUTORIAL_LINE_STATISTICS_TASK_NAME"
-msgstr "開啟統計數據"
+msgstr "開啟統計資料"
 
 #, fuzzy
 msgid "TUTORIAL_LINE_STATISTICS_TASK_PARAGRAPH"
 msgstr ""
-"在等待第一批貨物抵達的同時，可以先來看看統計數據視窗。點選路線統計數據按鈕，"
+"在等待第一批貨物抵達的同時，可以先來看看統計資料視窗。點選路線統計資料按鈕，"
 "就能查看所有路線的概況。"
 
 #, fuzzy
@@ -26114,7 +26114,7 @@ msgstr "城鎮評價"
 
 #, fuzzy
 msgid "Town Statistics"
-msgstr "城鎮統計數據"
+msgstr "城鎮統計資料"
 
 #, fuzzy
 msgid "Town {number}"
@@ -30128,7 +30128,7 @@ msgstr "車輛問題"
 
 #, fuzzy
 msgid "Vehicle Statistics"
-msgstr "車輛統計數據"
+msgstr "車輛統計資料"
 
 #, fuzzy
 msgid "Vehicle Store"
@@ -30353,7 +30353,7 @@ msgstr "貨倉"
 
 #, fuzzy
 msgid "Warehouse Statistics"
-msgstr "貨倉統計數據"
+msgstr "貨倉統計資料"
 
 #, fuzzy
 msgid "Warehouses"
