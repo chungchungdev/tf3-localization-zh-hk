@@ -2064,7 +2064,7 @@ msgid ""
 "\n"
 "Higher values will result in more costs, making the game more challenging."
 msgstr ""
-"調整維護軌道、道路與車站等基礎設施所需的成本。\n"
+"調整維修軌道、道路與車站等基礎設施所需的成本。\n"
 "\n"
 "此數值越高，成本就越高昂，也會讓遊戲更有挑戰性。"
 
@@ -2074,7 +2074,7 @@ msgid ""
 "\n"
 "Higher values will result in more costs, making the game more challenging."
 msgstr ""
-"調整維護車輛所需的成本。\n"
+"調整維修車輛所需的成本。\n"
 "\n"
 "此數值越高，成本就越高昂，也會讓遊戲更有挑戰性。"
 
@@ -4329,7 +4329,7 @@ msgid ""
 "\n"
 "\"None\" completely disables the influence of age on vehicle properties."
 msgstr ""
-"選擇若忽略維護，車輛性能因老化受到的影響程度。\n"
+"選擇若忽略維修，車輛性能因老化受到的影響程度。\n"
 "\n"
 "隨著車輛年份增加，噪音、污染和運行成本會上升，而速度、動力與舒適度會下降。\n"
 "\n"
@@ -5315,7 +5315,7 @@ msgstr "循環遊戲速度"
 
 #, fuzzy
 msgid "DEPOTS_RAIL_DEPOT_DESCRIPTION"
-msgstr "為了購買列車建造的倉庫建築。可自動維護位於一定半徑範圍內的列車。"
+msgstr "為了購買列車建造的倉庫建築。可自動維修位於一定半徑範圍內的列車。"
 
 #, fuzzy
 msgid "DEPOTS_RAIL_DEPOT_NAME"
@@ -5323,7 +5323,7 @@ msgstr "鐵路倉庫"
 
 #, fuzzy
 msgid "DEPOTS_RAIL_MAINT_STATION_DESCRIPTION"
-msgstr "可自動維護位於一定半徑範圍內的列車。"
+msgstr "可自動維修位於一定半徑範圍內的列車。"
 
 #, fuzzy
 msgid "DEPOTS_RAIL_MAINT_STATION_NAME"
@@ -5332,7 +5332,7 @@ msgstr "列車維修設施"
 #, fuzzy
 msgid "DEPOTS_ROAD_DEPOT_DESCRIPTION"
 msgstr ""
-"為了購買貨車與巴士建造的倉庫建築。可自動維護位於一定半徑範圍內的貨車與巴士。"
+"為了購買貨車與巴士建造的倉庫建築。可自動維修位於一定半徑範圍內的貨車與巴士。"
 
 #, fuzzy
 msgid "DEPOTS_ROAD_DEPOT_NAME"
@@ -5340,7 +5340,7 @@ msgstr "道路倉庫"
 
 #, fuzzy
 msgid "DEPOTS_ROAD_MAINT_STATION_DESCRIPTION"
-msgstr "可自動維護位於一定半徑範圍內的貨車、巴士與輕軌列車。"
+msgstr "可自動維修位於一定半徑範圍內的貨車、巴士與輕軌列車。"
 
 #, fuzzy
 msgid "DEPOTS_ROAD_MAINT_STATION_NAME"
@@ -5349,7 +5349,7 @@ msgstr "道路車輛維修設施"
 #, fuzzy
 msgid "DEPOTS_ROAD_TRAM_DEPOT_DESCRIPTION"
 msgstr ""
-"為了購買輕軌列車建造的倉庫建築。可自動維護位於一定半徑範圍內的輕軌列車。"
+"為了購買輕軌列車建造的倉庫建築。可自動維修位於一定半徑範圍內的輕軌列車。"
 
 #, fuzzy
 msgid "DEPOTS_ROAD_TRAM_DEPOT_NAME"
@@ -5357,7 +5357,7 @@ msgstr "輕軌倉庫"
 
 #, fuzzy
 msgid "DEPOTS_WATER_MAINT_STATION_DESCRIPTION"
-msgstr "可自動維護位於一定半徑範圍內的船舶。"
+msgstr "可自動維修位於一定半徑範圍內的船舶。"
 
 #, fuzzy
 msgid "DEPOTS_WATER_MAINT_STATION_NAME"
@@ -5365,7 +5365,7 @@ msgstr "船舶維修設施"
 
 #, fuzzy
 msgid "DEPOTS_WATER_SHIPYARD_DESCRIPTION"
-msgstr "為了購買船舶建造的倉庫建築。可自動維護位於一定半徑範圍內的船舶。"
+msgstr "為了購買船舶建造的倉庫建築。可自動維修位於一定半徑範圍內的船舶。"
 
 #, fuzzy
 msgid "DEPOTS_WATER_SHIPYARD_NAME"
@@ -7393,7 +7393,7 @@ msgid "HELP_COMPANY_OVERVIEW"
 msgstr ""
 "財務概況中可看到最近幾年的收入與成本。\n"
 "每個分類都可以展開，檢視更詳細的資訊。\n"
-"車輛可透過售票獲得收入，但也會產生運行成本。車站與軌道等基礎設施亦有其維護成"
+"車輛可透過售票獲得收入，但也會產生運行成本。車站與軌道等基礎設施亦有其維修成"
 "本。"
 
 #, fuzzy
@@ -7794,7 +7794,7 @@ msgstr ""
 "「類型」標示該車站的用途，可能為貨運、客運或混合型。\n"
 "「使用狀況」則提供該車站的目前候車乘客人數及可利用空間之資訊。\n"
 "「延誤」指的是不滿意的乘客數量，或有延誤之貨物數量。\n"
-"「維護」是該車站的年度維護成本。\n"
+"「維修」是該車站的年度維修成本。\n"
 "表格可用車輛類型進行篩選，並能依各欄位排序資料。"
 
 #, fuzzy
@@ -8946,7 +8946,7 @@ msgstr "基礎設施圖層"
 
 #, fuzzy
 msgid "Infrastructure Upkeep"
-msgstr "基礎設施維護"
+msgstr "基礎設施維修"
 
 #, fuzzy
 msgid "Initial Road Angle Range"
@@ -12534,7 +12534,7 @@ msgstr ""
 #, fuzzy
 msgid "MISSION_03_CUTSCENE_INTRO_10"
 msgstr ""
-"維護？那倒是可行。修理？那就不太行啦。但的確有些地方相對安全，我們貝都因人已"
+"維修？那倒是可行。修理？那就不太行啦。但的確有些地方相對安全，我們貝都因人已"
 "經在那安住了好幾百年。"
 
 #, fuzzy
@@ -12589,7 +12589,7 @@ msgstr ""
 
 #, fuzzy
 msgid "MISSION_03_CUTSCENE_INTRO_9"
-msgstr "我聽說沙漠中有些地點可以用來維護、修理車子。"
+msgstr "我聽說沙漠中有些地點可以用來維修、修理車子。"
 
 #, fuzzy
 msgid "MISSION_03_CUTSCENE_IRON_1"
@@ -17173,7 +17173,7 @@ msgstr "維修"
 msgid "MISSION_3_MAINTENANCE_PARAGRAPH"
 msgstr ""
 "瓦迪魯姆沙漠的惡劣環境特別容易耗損車輛。為防止車輛故障，就必須在綠洲建造臨時"
-"維修設施。只要綠洲據點就緒，就會自動維護位於維修範圍內的車輛。但只要車輛離開"
+"維修設施。只要綠洲據點就緒，就會自動維修位於維修範圍內的車輛。但只要車輛離開"
 "該範圍，狀況就會迅速惡化。一旦跌到0%，車輛就會拋錨故障。選取貨車或綠洲，就能"
 "檢視所有維修區域。"
 
@@ -17482,7 +17482,7 @@ msgid ""
 "Locked roads become player owned and will cause upkeep costs."
 msgstr ""
 "將道路標記為鎖定狀態。城鎮無法更改或延伸鎖定後的道路。鎖定後的道路歸玩家所"
-"有，並會產生維護費用。"
+"有，並會產生維修費用。"
 
 #, fuzzy
 msgid "Marketing"
@@ -20554,7 +20554,7 @@ msgstr ""
 
 #, fuzzy
 msgid "STATIONS_AIR_AIRFIELD_HANGAR_DESCRIPTION"
-msgstr "為購買小型飛機建造的倉庫建築。可自動維護位於一定半徑範圍內的飛機。"
+msgstr "為購買小型飛機建造的倉庫建築。可自動維修位於一定半徑範圍內的飛機。"
 
 #, fuzzy
 msgid "STATIONS_AIR_AIRFIELD_HANGAR_NAME"
@@ -20604,7 +20604,7 @@ msgstr "進場燈"
 
 #, fuzzy
 msgid "STATIONS_AIR_AIRPORT_HANGAR_DESCRIPTION"
-msgstr "用於購買小型與大型飛機的倉庫建築。可自動維護位於一定半徑範圍內的飛機。"
+msgstr "用於購買小型與大型飛機的倉庫建築。可自動維修位於一定半徑範圍內的飛機。"
 
 #, fuzzy
 msgid "STATIONS_AIR_AIRPORT_HANGAR_NAME"
@@ -20656,7 +20656,7 @@ msgstr "直升機起降場"
 msgid "STATIONS_AIR_HELIPORT_DESCRIPTION"
 msgstr ""
 "供客運與貨運使用之直升機起降場，附帶用於購買直升機的倉庫。可利用模組擴建。可"
-"自動維護位於一定半徑範圍內的直升機。"
+"自動維修位於一定半徑範圍內的直升機。"
 
 #, fuzzy
 msgid "STATIONS_AIR_HELIPORT_NAME"
@@ -23874,7 +23874,7 @@ msgstr "若要在不同運輸方式之間轉運貨物，就必須建造貨運倉
 
 #, fuzzy
 msgid "TIP_CONSTRUCTION_2"
-msgstr "橋梁與隧道的建設、維護成本依其高度與深度而異。"
+msgstr "橋梁與隧道的建設、維修成本依其高度與深度而異。"
 
 #, fuzzy
 msgid "TIP_CONSTRUCTION_3"
@@ -23992,7 +23992,7 @@ msgstr ""
 
 #, fuzzy
 msgid "TIP_VEHICLES_8"
-msgstr "倉庫與維修設施可維護位於其涵蓋範圍內的車輛。"
+msgstr "倉庫與維修設施可維修位於其涵蓋範圍內的車輛。"
 
 #, fuzzy
 msgid "TRACK_HIGHSPEED_CATENARY_DESCRIPTION"
@@ -24244,7 +24244,7 @@ msgstr "建造一座道路倉庫"
 msgid "TUTORIAL_BUILD_ROAD_DEPOT_GUIDE_PARAGRAPH"
 msgstr ""
 "道路倉庫具備兩種功能。一為道路車輛的商店，可購買、改裝及替換貨車和巴士；二為"
-"保養維護維修範圍內的車輛。"
+"保養維修維修範圍內的車輛。"
 
 #, fuzzy
 msgid "TUTORIAL_BUILD_ROAD_DEPOT_TASK_NAME"
@@ -26713,39 +26713,39 @@ msgstr "安裝電纜來升級軌道，使電力列車得以行駛。"
 
 #, fuzzy
 msgid "Upkeep"
-msgstr "維護"
+msgstr "維修"
 
 #, fuzzy
 msgid "Upkeep Buildings"
-msgstr "建築維護費"
+msgstr "建築維修費"
 
 #, fuzzy
 msgid "Upkeep Depots"
-msgstr "維護倉庫"
+msgstr "維修倉庫"
 
 #, fuzzy
 msgid "Upkeep Other"
-msgstr "維護其他設施"
+msgstr "維修其他設施"
 
 #, fuzzy
 msgid "Upkeep Roads"
-msgstr "維護道路"
+msgstr "維修道路"
 
 #, fuzzy
 msgid "Upkeep Stations"
-msgstr "維護車站"
+msgstr "維修車站"
 
 #, fuzzy
 msgid "Upkeep Tracks"
-msgstr "維護軌道"
+msgstr "維修軌道"
 
 #, fuzzy
 msgid "Upkeep Warehouses"
-msgstr "貨物倉庫維護費"
+msgstr "貨物倉庫維修費"
 
 #, fuzzy
 msgid "Upkeep: {}"
-msgstr "維護：{}"
+msgstr "維修：{}"
 
 #, fuzzy
 msgid "Upload"
@@ -27603,7 +27603,7 @@ msgstr "容克斯F 13赫塔"
 #, fuzzy
 msgid "VEHICLE_PLANE_JUNKERS_JU_52_DESCRIPTION"
 msgstr ""
-"這款德國飛機暱稱「Ju嬸」，以易於維護見長，專為在基礎設施匱乏的地區運送大量貨"
+"這款德國飛機暱稱「Ju嬸」，以易於維修見長，專為在基礎設施匱乏的地區運送大量貨"
 "物設計。"
 
 #, fuzzy
