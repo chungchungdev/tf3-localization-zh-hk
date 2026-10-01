@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TransportFever3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2026-10-01 16:41+0800\n"
+"PO-Revision-Date: 2026-10-01 18:08+0800\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Traditional) <info@urbangames.com>\n"
 "Language: zh_TW\n"
@@ -97,15 +97,12 @@ msgstr ""
 msgid " (Not Enough Money)"
 msgstr " （金錢不足）"
 
-#, fuzzy
 msgid " + "
 msgstr " + "
 
-#, fuzzy
 msgid " - Speed: {speed}"
 msgstr " -速度：{speed}"
 
-#, fuzzy
 msgid " or "
 msgstr " 或 "
 
@@ -114,15 +111,12 @@ msgid ""
 "\"{name}\" is a key modifier only, this is not a valid key binding input."
 msgstr "「{name}」僅為輔助按鍵，故此按鍵綁定輸入無效。"
 
-#, fuzzy
 msgid "#{sequence} - {name}"
 msgstr "#{sequence} - {name}"
 
-#, fuzzy
 msgid "%.0f%%"
 msgstr "%.0f%%"
 
-#, fuzzy
 msgid "%.2f"
 msgstr "%.2f"
 
@@ -190,42 +184,33 @@ msgstr "鐵道網路長度：%d點"
 msgid "%d for Rail Network Tunnels"
 msgstr "鐵道網路隧道：%d點"
 
-#, fuzzy
 msgid "%i"
 msgstr "%i"
 
-#, fuzzy
 msgid "%s"
 msgstr "%s"
 
-#, fuzzy
 msgid "%s %s"
 msgstr "%s %s"
 
-#, fuzzy
 msgid "%s Day"
 msgid_plural "%s Days"
 msgstr[0] "%s日"
 
-#, fuzzy
 msgid "%s Month"
 msgid_plural "%s Months"
 msgstr[0] "%s月"
 
-#, fuzzy
 msgid "%s Year"
 msgid_plural "%s Years"
 msgstr[0] "%s年"
 
-#, fuzzy
 msgid "%s m"
 msgstr "%s m"
 
-#, fuzzy
 msgid "'{otherAction}': [{otherCombo}]"
 msgstr "'{otherAction}': [{otherCombo}]"
 
-#, fuzzy
 msgid "(+ Pre-Order content)"
 msgstr "（+預購內容）"
 
@@ -281,11 +266,9 @@ msgstr "（長按）整體區段"
 msgid "(No Target)"
 msgstr "（無目標）"
 
-#, fuzzy
 msgid "(Optional)"
 msgstr "（可選）"
 
-#, fuzzy
 msgid "(Required)"
 msgstr "（必要）"
 
@@ -306,55 +289,42 @@ msgstr "+{countFeedback}"
 msgid "+{percentage}"
 msgstr "+{percentage}"
 
-#, fuzzy
 msgid ", Radius: {radius}"
 msgstr "，半徑：{radius}"
 
-#, fuzzy
 msgid "-"
 msgstr "-"
 
-#, fuzzy
 msgid "--"
 msgstr "--"
 
-#, fuzzy
 msgid "-{percentage}"
 msgstr "-{percentage}"
 
-#, fuzzy
 msgid "..."
 msgstr "……"
 
-#, fuzzy
 msgid "/km"
 msgstr "/km"
 
-#, fuzzy
 msgid "/mi"
 msgstr "/mi"
 
-#, fuzzy
 msgid "0%"
 msgstr "0%"
 
-#, fuzzy
 msgid "1 : 1"
 msgstr "1 : 1"
 
-#, fuzzy
 msgid "1 : 2"
 msgstr "1 : 2"
 
-#, fuzzy
 msgid "1 : 3"
 msgstr "1 : 3"
 
-#, fuzzy
 msgid "1 : 4"
 msgstr "1 : 4"
 
-#, fuzzy
 msgid "1 : 5"
 msgstr "1 : 5"
 
@@ -363,15 +333,12 @@ msgid "1 Additional Use"
 msgid_plural "{count} Additional Uses"
 msgstr[0] "額外使用1次"
 
-#, fuzzy
 msgid "1 min"
 msgstr "1分鐘"
 
-#, fuzzy
 msgid "10 min"
 msgstr "10分鐘"
 
-#, fuzzy
 msgid "100%"
 msgstr "100%"
 
@@ -379,7 +346,6 @@ msgstr "100%"
 msgid "1000 mm"
 msgstr "1000 mm"
 
-#, fuzzy
 msgid "125%"
 msgstr "125%"
 
@@ -387,11 +353,9 @@ msgstr "125%"
 msgid "1435 mm"
 msgstr "1435 mm"
 
-#, fuzzy
 msgid "15 min"
 msgstr "15分鐘"
 
-#, fuzzy
 msgid "150%"
 msgstr "150%"
 
@@ -403,27 +367,21 @@ msgstr "1500 mm"
 msgid "16 Bit"
 msgstr "16位元"
 
-#, fuzzy
 msgid "175%"
 msgstr "175%"
 
-#, fuzzy
 msgid "2 min"
 msgstr "2分鐘"
 
-#, fuzzy
 msgid "200%"
 msgstr "200%"
 
-#, fuzzy
 msgid "25%"
 msgstr "25%"
 
-#, fuzzy
 msgid "2x Income for {duration}"
 msgstr "{duration}內獲得2倍收入"
 
-#, fuzzy
 msgid "30 min"
 msgstr "30分鐘"
 
@@ -431,15 +389,12 @@ msgstr "30分鐘"
 msgid "3rd Rail"
 msgstr "第三軌"
 
-#, fuzzy
 msgid "5 min"
 msgstr "5分鐘"
 
-#, fuzzy
 msgid "50%"
 msgstr "50%"
 
-#, fuzzy
 msgid "60 min"
 msgstr "60分鐘"
 
@@ -447,7 +402,6 @@ msgstr "60分鐘"
 msgid "600 mm"
 msgstr "600 mm"
 
-#, fuzzy
 msgid "75%"
 msgstr "75%"
 
@@ -455,11 +409,9 @@ msgstr "75%"
 msgid "750 mm"
 msgstr "750 mm"
 
-#, fuzzy
 msgid "8 Bit"
 msgstr "8位元"
 
-#, fuzzy
 msgid "<None>"
 msgstr "＜無＞"
 
@@ -479,11 +431,9 @@ msgstr "＜未知播放清單＞"
 msgid "<Unknown Title>"
 msgstr "＜未知標題＞"
 
-#, fuzzy
 msgid ">5000 years"
 msgstr ">5000年"
 
-#, fuzzy
 msgid "A Grieving Day"
 msgstr "悲傷的一天"
 
@@ -1862,11 +1812,9 @@ msgstr "接受"
 msgid "Accept the World as It Is"
 msgstr "不修改世界設定"
 
-#, fuzzy
 msgid "Accomplishment"
 msgstr "成就"
 
-#, fuzzy
 msgid "Account"
 msgstr "帳號"
 
@@ -2424,7 +2372,6 @@ msgstr ""
 msgid "After a long search, the team had to give up the search for oil."
 msgstr "歷經漫長搜尋後，團隊最終放棄了尋找石油的計畫。"
 
-#, fuzzy
 msgid "Age"
 msgstr "年份"
 
@@ -2542,7 +2489,6 @@ msgstr "阿德蓋特"
 msgid "Align Terrain"
 msgstr "對齊地形"
 
-#, fuzzy
 msgid "All"
 msgstr "全部"
 
@@ -2609,11 +2555,9 @@ msgid ""
 msgstr ""
 "當這些車道上沒有車輛，但其他時相有車輛等待時，允許提前結束或跳過此時相。"
 
-#, fuzzy
 msgid "Already Built"
 msgstr "已建造"
 
-#, fuzzy
 msgid "Already Used"
 msgstr "已使用"
 
@@ -2621,7 +2565,6 @@ msgstr "已使用"
 msgid "Alternative"
 msgstr "替代"
 
-#, fuzzy
 msgid "Ambient Occlusion (SSAO)"
 msgstr "環境光遮蔽（SSAO）"
 
@@ -2667,23 +2610,18 @@ msgstr ""
 msgid "Anfishiyyeh Camp Site"
 msgstr "安菲希耶營地"
 
-#, fuzzy
 msgid "Angle: {angle}°"
 msgstr "角度：{angle}°"
 
-#, fuzzy
 msgid "Animal"
 msgstr "動物"
 
-#, fuzzy
 msgid "Animal Died"
 msgstr "動物死亡"
 
-#, fuzzy
 msgid "Animals"
 msgstr "動物"
 
-#, fuzzy
 msgid "Annual Interest Rate"
 msgstr "年利率"
 
@@ -2715,7 +2653,6 @@ msgstr "任意貨物"
 msgid "Any Cargo Type"
 msgstr "任意貨物類型"
 
-#, fuzzy
 msgid "Apply"
 msgstr "套用"
 
@@ -2761,7 +2698,6 @@ msgstr "正在套用……"
 msgid "Approaching"
 msgstr "接近中"
 
-#, fuzzy
 msgid "April"
 msgstr "四月"
 
@@ -2952,24 +2888,19 @@ msgstr "音訊"
 msgid "Audio Settings"
 msgstr "音訊設定"
 
-#, fuzzy
 msgid "August"
 msgstr "八月"
 
-#, fuzzy
 msgid "Auth Code"
 msgstr "驗證碼"
 
-#, fuzzy
 msgid ""
 "Auth code is expired, please check your email for the most recent auth code."
 msgstr "驗證碼已過期，請檢查你的電子郵件，收取最新的驗證碼。"
 
-#, fuzzy
 msgid "Auth code validation error, please check the input."
 msgstr "驗證碼錯誤，請檢查輸入內容。"
 
-#, fuzzy
 msgid "Author"
 msgstr "作者"
 
@@ -2995,19 +2926,15 @@ msgstr[0] "自動重新命名{count}條路線"
 msgid "Auto-detect connections"
 msgstr "自動偵測連接"
 
-#, fuzzy
 msgid "Autosave"
 msgstr "自動儲存"
 
-#, fuzzy
 msgid "Autosave Interval"
 msgstr "自動儲存間隔"
 
-#, fuzzy
 msgid "Autosave..."
 msgstr "自動儲存……"
 
-#, fuzzy
 msgid "Autosaves To Keep"
 msgstr "自動存檔保留數量"
 
@@ -3051,15 +2978,12 @@ msgstr ""
 "定貨物類型進行篩選，便可快速找到符合需求的車輛。在左側選取車輛後，詳細資訊便"
 "會顯示在右側，包括容量、速度及動力等。"
 
-#, fuzzy
 msgid "Back"
 msgstr "返回"
 
-#, fuzzy
 msgid "Back With Right-Click"
 msgstr "使用滑鼠右鍵返回"
 
-#, fuzzy
 msgid "Balance"
 msgstr "收支"
 
@@ -3067,7 +2991,6 @@ msgstr "收支"
 msgid "Ballast"
 msgstr "碎石"
 
-#, fuzzy
 msgid "Bank Account"
 msgstr "銀行帳戶"
 
@@ -3647,9 +3570,8 @@ msgstr "標記可能存在石油位置的浮標。"
 msgid "CAMPAIGN_NAME"
 msgstr "活動"
 
-#, fuzzy
 msgid "CEO"
-msgstr "執行長"
+msgstr "行政總裁"
 
 #, fuzzy
 msgid "CRITICAL"
@@ -3671,111 +3593,84 @@ msgstr "月曆"
 msgid "Calendar Speed"
 msgstr "月曆速度"
 
-#, fuzzy
 msgid "Camera"
 msgstr "視角"
 
-#, fuzzy
 msgid "Camera Config Name"
 msgstr "視角配置名稱"
 
-#, fuzzy
 msgid "Camera Focal Length"
 msgstr "視角焦距"
 
-#, fuzzy
 msgid "Camera Manager"
 msgstr "視角管理模式"
 
-#, fuzzy
 msgid "Camera Move Backward"
 msgstr "視角後退"
 
-#, fuzzy
 msgid "Camera Move Forward"
 msgstr "視角前進"
 
-#, fuzzy
 msgid "Camera Move Left"
 msgstr "視角左移"
 
-#, fuzzy
 msgid "Camera Move Right"
 msgstr "視角右移"
 
-#, fuzzy
 msgid "Camera Movement Speed"
 msgstr "視角移動速度"
 
-#, fuzzy
 msgid "Camera Rotate Left"
 msgstr "視角向左旋轉"
 
-#, fuzzy
 msgid "Camera Rotate Right"
 msgstr "視角向右旋轉"
 
-#, fuzzy
 msgid "Camera Tilt Down"
 msgstr "視角下俯"
 
-#, fuzzy
 msgid "Camera Tilt Up"
 msgstr "視角上仰"
 
-#, fuzzy
 msgid "Camera Tool"
 msgstr "視角工具"
 
-#, fuzzy
 msgid "Camera Tool: Add Key Frame"
 msgstr "視角工具：加入Keyframe"
 
-#, fuzzy
 msgid "Camera Tool: Capture"
 msgstr "視角工具：擷取"
 
-#, fuzzy
 msgid "Camera Tool: Clear Key Frames"
 msgstr "視角工具：清除Keyframes"
 
-#, fuzzy
 msgid "Camera Tool: Load"
 msgstr "視角工具：載入"
 
-#, fuzzy
 msgid "Camera Tool: Pause"
 msgstr "視角工具：暫停"
 
-#, fuzzy
 msgid "Camera Tool: Play"
 msgstr "視角工具：播放"
 
-#, fuzzy
 msgid "Camera Tool: Save"
 msgstr "視角工具：儲存"
 
-#, fuzzy
 msgid "Camera Tool: Start Recording"
 msgstr "視角工具：開始錄製"
 
-#, fuzzy
 msgid "Camera Tool: Stop"
 msgstr "視角工具：停止"
 
-#, fuzzy
 msgid "Camera Tool: Toggle Play/Pause"
 msgstr "視角工具：切換播放／暫停"
 
-#, fuzzy
 msgid "Camera Tool: Toggle Play/Stop"
 msgstr "視角工具：切換播放／停止"
 
-#, fuzzy
 msgid "Camera Zoom In"
 msgstr "視角拉近"
 
-#, fuzzy
 msgid "Camera Zoom Out"
 msgstr "視角拉遠"
 
@@ -4935,13 +4830,11 @@ msgstr "將這個地點與交通系統連接，讓貨物得以運送至此處。
 msgid "Connect with Tracks "
 msgstr "以軌道連接"
 
-#, fuzzy
 msgid "Connecting..."
 msgstr "正在連接……"
 
-#, fuzzy
 msgid "Console"
-msgstr "控制器"
+msgstr "遊戲主機"
 
 #, fuzzy
 msgid "Construction"
@@ -5027,27 +4920,21 @@ msgstr "選單與視窗說明"
 msgid "Context:"
 msgstr "背景資訊："
 
-#, fuzzy
 msgid "Continue"
 msgstr "繼續"
 
-#, fuzzy
 msgid "Continue Anyway"
 msgstr "仍要繼續"
 
-#, fuzzy
 msgid "Continue Playing"
 msgstr "繼續遊玩"
 
-#, fuzzy
 msgid "Continuous"
 msgstr "連續"
 
-#, fuzzy
 msgid "Continuous Zoom"
 msgstr "連續縮放"
 
-#, fuzzy
 msgid ""
 "Continuously zoom the camera.\n"
 "\n"
@@ -5057,7 +4944,6 @@ msgstr ""
 "\n"
 "停用此設定時會採分段式縮放，啟用此設定則可連續縮放。"
 
-#, fuzzy
 msgid "Contour Lines"
 msgstr "等高線"
 
@@ -5085,7 +4971,6 @@ msgstr "冷卻時間：{remainingTime}"
 msgid "Coordinator"
 msgstr "協調員"
 
-#, fuzzy
 msgid "Copy"
 msgstr "複製"
 
@@ -5093,23 +4978,18 @@ msgstr "複製"
 msgid "Corn"
 msgstr "玉米"
 
-#, fuzzy
 msgid "Cost"
 msgstr "成本"
 
-#, fuzzy
 msgid "Cost:"
 msgstr "成本："
 
-#, fuzzy
 msgid "Cost: {cost}"
 msgstr "成本：{cost}"
 
-#, fuzzy
 msgid "Costs"
 msgstr "成本"
 
-#, fuzzy
 msgid "Costs: {}"
 msgstr "成本：{}"
 
@@ -5245,7 +5125,6 @@ msgstr "需填寫國家／地區。"
 msgid "Coverage"
 msgstr "涵蓋範圍"
 
-#, fuzzy
 msgid "Cow"
 msgstr "牛"
 
@@ -5492,7 +5371,6 @@ msgstr "為了購買船舶建造的倉庫建築。可自動維護位於一定半
 msgid "DEPOTS_WATER_SHIPYARD_NAME"
 msgstr "船舶倉庫"
 
-#, fuzzy
 msgid "DLC"
 msgstr "DLC"
 
@@ -5566,7 +5444,6 @@ msgstr ""
 "預購組合包內含《運輸業大亨3》玩家初期支援專屬內容，可為遊戲世界增添更多經典元"
 "素與氛圍："
 
-#, fuzzy
 msgid "DMCA"
 msgstr "著作權相關（DMCA）"
 
@@ -5574,7 +5451,6 @@ msgstr "著作權相關（DMCA）"
 msgid "Data Layers"
 msgstr "數據圖層"
 
-#, fuzzy
 msgid "Date"
 msgstr "日期"
 
@@ -5582,19 +5458,15 @@ msgstr "日期"
 msgid "Date Added"
 msgstr "加入日期"
 
-#, fuzzy
 msgid "Date Saved"
 msgstr "儲存日期"
 
-#, fuzzy
 msgid "Date Updated"
 msgstr "更新日期"
 
-#, fuzzy
 msgid "Date of Birth"
 msgstr "出生日期"
 
-#, fuzzy
 msgid "Date of birth is required."
 msgstr "需填寫出生日期。"
 
@@ -5622,7 +5494,6 @@ msgstr "達沃港口"
 msgid "Davao Tire Factory"
 msgstr "達沃輪胎工廠"
 
-#, fuzzy
 msgid "Day"
 msgstr "日"
 
@@ -5642,27 +5513,21 @@ msgstr "期限已過"
 msgid "Deadzone"
 msgstr "無反應區"
 
-#, fuzzy
 msgid "Debt"
 msgstr "債務"
 
-#, fuzzy
 msgid "Debt + Cash"
 msgstr "債務 + 現金"
 
-#, fuzzy
 msgid "Debt and Cash"
 msgstr "債務與現金"
 
-#, fuzzy
 msgid "Debug Graph"
 msgstr "除錯圖表"
 
-#, fuzzy
 msgid "Debug Mode"
 msgstr "除錯模式"
 
-#, fuzzy
 msgid "Debug Options"
 msgstr "除錯選項"
 
@@ -5670,7 +5535,6 @@ msgstr "除錯選項"
 msgid "Debug options that can be helpful to troubleshoot issues."
 msgstr "有助於排解各類問題的除錯選項。"
 
-#, fuzzy
 msgid "December"
 msgstr "十二月"
 
@@ -5686,7 +5550,6 @@ msgstr "裝飾"
 msgid "Decrease Displayed Years"
 msgstr "減少顯示年份"
 
-#, fuzzy
 msgid "Deer"
 msgstr "鹿"
 
@@ -5771,7 +5634,6 @@ msgstr "配送靈敏度"
 msgid "Delivery Time"
 msgstr "配送時間"
 
-#, fuzzy
 msgid "Deluxe Edition"
 msgstr "豪華版"
 
@@ -5836,7 +5698,6 @@ msgstr[0] "取消選擇路線"
 msgid "Deselect Vehicle"
 msgstr "取消選擇車輛"
 
-#, fuzzy
 msgid "Desert"
 msgstr "沙漠"
 
@@ -5848,23 +5709,18 @@ msgstr "沙漠（匯入）"
 msgid "Desert Sand"
 msgstr "沙漠沙地"
 
-#, fuzzy
 msgid "Destination"
 msgstr "目的地"
 
-#, fuzzy
 msgid "Destination: {stopName}"
 msgstr "目的地：{stopName}"
 
-#, fuzzy
 msgid "Destination: {stopName} via {viaName}"
 msgstr "目的地：{stopName}（經由{viaName}）"
 
-#, fuzzy
 msgid "Destinations"
 msgstr "目的地"
 
-#, fuzzy
 msgid "Destinations:\n"
 msgstr "目的地：\n"
 
@@ -6245,7 +6101,6 @@ msgstr "收益"
 msgid "Earnings Details"
 msgstr "收益詳細資訊"
 
-#, fuzzy
 msgid "Economy"
 msgstr "經濟"
 
@@ -6325,7 +6180,6 @@ msgstr "電氣化"
 msgid "Electrification Tool"
 msgstr "電氣化工具"
 
-#, fuzzy
 msgid "Elephant"
 msgstr "大象"
 
@@ -6333,7 +6187,6 @@ msgstr "大象"
 msgid "Elevator"
 msgstr "電梯"
 
-#, fuzzy
 msgid "Email"
 msgstr "電子郵件"
 
@@ -6515,11 +6368,9 @@ msgstr "啟用此模組極有可能導致遊戲當機。"
 msgid "End Tutorial"
 msgstr "結束教學"
 
-#, fuzzy
 msgid "Engineer"
 msgstr "工程師"
 
-#, fuzzy
 msgid "English"
 msgstr "英文"
 
@@ -6603,7 +6454,6 @@ msgstr "橡皮擦模式"
 msgid "Eraser Tool"
 msgstr "橡皮擦工具"
 
-#, fuzzy
 msgid "Error"
 msgstr "錯誤"
 
@@ -6611,7 +6461,6 @@ msgstr "錯誤"
 msgid "Error Loading Settings File"
 msgstr "載入設定檔時發生錯誤"
 
-#, fuzzy
 msgid "European"
 msgstr "歐洲"
 
@@ -6775,11 +6624,9 @@ msgstr "濮陽"
 msgid "Fareham Saw Mill"
 msgstr "濮陽鋸木廠"
 
-#, fuzzy
 msgid "Farms"
 msgstr "農場"
 
-#, fuzzy
 msgid "February"
 msgstr "二月"
 
@@ -6787,7 +6634,6 @@ msgstr "二月"
 msgid "Feldspathic Sand"
 msgstr "長石沙地"
 
-#, fuzzy
 msgid "Fertilizer"
 msgstr "肥料"
 
@@ -6799,31 +6645,24 @@ msgstr "節慶參加者"
 msgid "Fetching Info..."
 msgstr "正在取得資訊……"
 
-#, fuzzy
 msgid "File"
 msgstr "檔案"
 
-#, fuzzy
 msgid "File Error"
 msgstr "檔案錯誤"
 
-#, fuzzy
 msgid "File Name"
 msgstr "檔案名稱"
 
-#, fuzzy
 msgid "File Not Found"
 msgstr "找不到檔案"
 
-#, fuzzy
 msgid "File Size"
 msgstr "檔案大小"
 
-#, fuzzy
 msgid "File:"
 msgstr "檔案："
 
-#, fuzzy
 msgid "Filesystem Error"
 msgstr "檔案系統錯誤"
 
@@ -6831,15 +6670,12 @@ msgstr "檔案系統錯誤"
 msgid "Fill Level"
 msgstr "裝填量"
 
-#, fuzzy
 msgid "Filter"
 msgstr "篩選"
 
-#, fuzzy
 msgid "Filter Savegames..."
 msgstr "篩選遊戲存檔……"
 
-#, fuzzy
 msgid "Finances"
 msgstr "財務狀況"
 
@@ -6893,7 +6729,6 @@ msgid ""
 "the nearest town."
 msgstr "整平地形。改變地形將導致距離最近的城鎮聲望下降。"
 
-#, fuzzy
 msgid "Flip / Select Mode"
 msgstr "翻轉／選擇模式"
 
@@ -6909,7 +6744,6 @@ msgstr "飛行"
 msgid "Foc."
 msgstr "焦距"
 
-#, fuzzy
 msgid "Folder:"
 msgstr "資料夾："
 
@@ -6969,11 +6803,9 @@ msgstr "拋棄"
 msgid "Fortune and glory, kid. Fortune and glory."
 msgstr "財富和榮耀，孩子。這就是財富和榮耀。"
 
-#, fuzzy
 msgid "Fox"
 msgstr "狐狸"
 
-#, fuzzy
 msgid "Frame Rate"
 msgstr "幀率"
 
@@ -6989,7 +6821,6 @@ msgstr "自由視角"
 msgid "Freelancers"
 msgstr "自由工作者"
 
-#, fuzzy
 msgid "French"
 msgstr "法文"
 
@@ -6997,11 +6828,9 @@ msgstr "法文"
 msgid "French Quarter Hotel"
 msgstr "法國區酒店"
 
-#, fuzzy
 msgid "Frequency"
 msgstr "頻率"
 
-#, fuzzy
 msgid "Frequency: {count}"
 msgstr "頻率：{count}"
 
@@ -7009,7 +6838,6 @@ msgstr "頻率：{count}"
 msgid "From"
 msgstr "從"
 
-#, fuzzy
 msgid "Fuel"
 msgstr "燃料"
 
@@ -7156,7 +6984,6 @@ msgstr "戈勒卡車站"
 msgid "Gawler Warehouse"
 msgstr "戈勒貨物倉庫"
 
-#, fuzzy
 msgid "General"
 msgstr "一般"
 
@@ -7512,7 +7339,6 @@ msgstr "模組化的港口，供小型船舶使用。需放置於海岸線上。
 msgid "HARBOR_SMALL_NAME"
 msgstr "小型客運／貨運港口"
 
-#, fuzzy
 msgid "HDR Scale"
 msgstr "HDR範圍"
 
@@ -7525,7 +7351,6 @@ msgstr ""
 "可將距離最近的城鎮升級為首都，並提升其成長速率。亦可利用模組來擴展總部，取得"
 "更多額外效益。"
 
-#, fuzzy
 msgid "HEADQUARTERS_NAME"
 msgstr "總部"
 
@@ -8280,11 +8105,9 @@ msgstr "用於裝飾總部的老樹。"
 msgid "HQ_MODULE_TREE_OAK_NAME"
 msgstr "老樹"
 
-#, fuzzy
 msgid "HUD"
 msgstr "HUD"
 
-#, fuzzy
 msgid "HUD Filters"
 msgstr "HUD 篩選器"
 
@@ -8473,11 +8296,9 @@ msgstr "自貢"
 msgid "Hungerford Livestock Farm"
 msgstr "自貢畜牧農場"
 
-#, fuzzy
 msgid "I have read and agree to the {document}"
 msgstr "我已閱讀並同意{document}"
 
-#, fuzzy
 msgid "I wish to receive news and offers from Paradox Interactive."
 msgstr "我希望收到來自Paradox Interactive的最新消息與優惠資訊。"
 
@@ -9188,7 +9009,6 @@ msgstr "檢視模式"
 msgid "Installation Pending"
 msgstr "正在等待安裝"
 
-#, fuzzy
 msgid "Installed"
 msgstr "已安裝"
 
@@ -9196,15 +9016,12 @@ msgstr "已安裝"
 msgid "Instruments"
 msgstr "樂器"
 
-#, fuzzy
 msgid "Insufficient Storage Space"
 msgstr "儲存空間不足"
 
-#, fuzzy
 msgid "Interface"
 msgstr "介面"
 
-#, fuzzy
 msgid "Interface Scaling"
 msgstr "介面縮放"
 
@@ -9224,7 +9041,6 @@ msgstr "交叉路口"
 msgid "Intimidating"
 msgstr "威嚇"
 
-#, fuzzy
 msgid "Invalid"
 msgstr "無效"
 
@@ -9257,31 +9073,24 @@ msgstr "無效的魔術數字。"
 msgid "Invalid mount point."
 msgstr "無效的掛載點。"
 
-#, fuzzy
 msgid "Invert"
 msgstr "反轉"
 
-#, fuzzy
 msgid "Invert Panning"
 msgstr "反轉平移"
 
-#, fuzzy
 msgid "Invert Rotation"
 msgstr "反轉旋轉"
 
-#, fuzzy
 msgid "Invert Rotation Keys"
 msgstr "反轉旋轉按鍵"
 
-#, fuzzy
 msgid "Invert Tilt"
 msgstr "反轉傾斜"
 
-#, fuzzy
 msgid "Invert Zoom"
 msgstr "反轉縮放"
 
-#, fuzzy
 msgid "Invert Zooming"
 msgstr "反轉縮放"
 
@@ -9359,7 +9168,6 @@ msgstr "投資"
 msgid "Invisible Model"
 msgstr "隱形模型"
 
-#, fuzzy
 msgid "Iron Ore"
 msgstr "鐵礦"
 
@@ -9367,15 +9175,12 @@ msgstr "鐵礦"
 msgid "Iron Ore Dust"
 msgstr "鐵礦粉"
 
-#, fuzzy
 msgid "Iron Ore Mine"
 msgstr "鐵礦場"
 
-#, fuzzy
 msgid "Islands"
 msgstr "島嶼"
 
-#, fuzzy
 msgid "Italian"
 msgstr "義大利文"
 
@@ -9383,11 +9188,9 @@ msgstr "義大利文"
 msgid "Jane Doe"
 msgstr "無名氏（女）"
 
-#, fuzzy
 msgid "January"
 msgstr "一月"
 
-#, fuzzy
 msgid "Japanese"
 msgstr "日文"
 
@@ -9443,11 +9246,9 @@ msgstr "傑弗森維爾站"
 msgid "John Doe"
 msgstr "無名氏（男）"
 
-#, fuzzy
 msgid "July"
 msgstr "七月"
 
-#, fuzzy
 msgid "June"
 msgstr "六月"
 
@@ -9551,7 +9352,6 @@ msgstr "肯納站"
 msgid "Kerosene"
 msgstr "煤油"
 
-#, fuzzy
 msgid "Key Frame {frame_num}"
 msgstr "Keyframe{frame_num}"
 
@@ -9563,11 +9363,9 @@ msgstr "按鍵對應設定"
 msgid "Key Visuals"
 msgstr "主視覺"
 
-#, fuzzy
 msgid "Keyboard"
 msgstr "鍵盤"
 
-#, fuzzy
 msgid "Keyboard Settings"
 msgstr "鍵盤設定"
 
@@ -9825,7 +9623,6 @@ msgstr "地標建設進度"
 msgid "Landmark Required Resources"
 msgstr "地標所需資源"
 
-#, fuzzy
 msgid "Landmarks"
 msgstr "地標"
 
@@ -9833,19 +9630,15 @@ msgstr "地標"
 msgid "Landscaping"
 msgstr "景觀"
 
-#, fuzzy
 msgid "Lane Mode"
 msgstr "車道模式"
 
-#, fuzzy
 msgid "Lanes"
 msgstr "車道"
 
-#, fuzzy
 msgid "Language"
 msgstr "語言"
 
-#, fuzzy
 msgid "Large"
 msgstr "大"
 
@@ -9951,27 +9744,21 @@ msgstr "出發吧！"
 msgid "Let's get started!"
 msgstr "我們開始吧！"
 
-#, fuzzy
 msgid "Level"
 msgstr "等級"
 
-#, fuzzy
 msgid "Level 1"
 msgstr "等級1"
 
-#, fuzzy
 msgid "Level 2"
 msgstr "等級2"
 
-#, fuzzy
 msgid "Level 3"
 msgstr "等級3"
 
-#, fuzzy
 msgid "Level 4"
 msgstr "等級4"
 
-#, fuzzy
 msgid "Level:"
 msgstr "等級："
 
@@ -9983,7 +9770,6 @@ msgstr "已達使用年限"
 msgid "Light Rail"
 msgstr "輕軌"
 
-#, fuzzy
 msgid "Likes"
 msgstr "按讚數"
 
@@ -18300,15 +18086,12 @@ msgstr "多號誌"
 msgid "Multiple Unit"
 msgstr "聯結式列車"
 
-#, fuzzy
 msgid "Music"
 msgstr "音樂"
 
-#, fuzzy
 msgid "Music Player"
 msgstr "音樂播放器"
 
-#, fuzzy
 msgid "Mute"
 msgstr "靜音"
 
@@ -18971,7 +18754,6 @@ msgstr "目前可使用之車輛不足。"
 msgid "Notifications"
 msgstr "通知"
 
-#, fuzzy
 msgid "November"
 msgstr "十一月"
 
@@ -18995,7 +18777,6 @@ msgstr "已供應城鎮數量"
 msgid "Number of Towns"
 msgstr "城鎮數量"
 
-#, fuzzy
 msgid "OK"
 msgstr "OK"
 
@@ -19059,7 +18840,6 @@ msgstr "油輪1"
 msgid "Oil Ship 2"
 msgstr "油輪2"
 
-#, fuzzy
 msgid "Ok"
 msgstr "OK"
 
@@ -19067,7 +18847,6 @@ msgstr "OK"
 msgid "Ok, I got it!"
 msgstr "好，我明白了！"
 
-#, fuzzy
 msgid "Okay"
 msgstr "OK"
 
@@ -19153,11 +18932,9 @@ msgid ""
 "useful files."
 msgstr "開啟使用者資料夾，內含遊戲存檔、螢幕截圖與其他重要檔案。"
 
-#, fuzzy
 msgid "Open {name}."
 msgstr "開啟{name}。"
 
-#, fuzzy
 msgid "Opportunity"
 msgstr "機會"
 
@@ -20196,7 +19973,6 @@ msgstr ""
 "\n"
 "請注意此設定不會影響起始選單。"
 
-#, fuzzy
 msgid "Reflections (SSR)"
 msgstr "反射（SSR）"
 
@@ -20208,7 +19984,6 @@ msgstr "森林復育"
 msgid "Refresh"
 msgstr "重新整理"
 
-#, fuzzy
 msgid "Refund: {}"
 msgstr "退款：{}"
 
@@ -20392,35 +20167,27 @@ msgstr "檢舉已送出"
 msgid "Report Type"
 msgstr "檢舉項目"
 
-#, fuzzy
 msgid "Reputation"
 msgstr "聲望"
 
-#, fuzzy
 msgid "Reputation Rating"
 msgstr "聲譽評價"
 
-#, fuzzy
 msgid "Reputation Recovery"
 msgstr "聲望恢復"
 
-#, fuzzy
 msgid "Reputation Recovery: +{percent}"
 msgstr "聲望恢復：+{percent}"
 
-#, fuzzy
 msgid "Reputation improved in {townName}."
 msgstr "{townName}的聲望提升了。"
 
-#, fuzzy
 msgid "Reputation: -{value} {townsString}"
 msgstr "聲望：-{value} {townsString}"
 
-#, fuzzy
 msgid "Required mods or DLCs are missing."
 msgstr "缺少必要模組或DLC。"
 
-#, fuzzy
 msgid "Requirements"
 msgstr "需求"
 
@@ -20428,15 +20195,12 @@ msgstr "需求"
 msgid "Resend Auth Code"
 msgstr "重新發送驗證碼"
 
-#, fuzzy
 msgid "Reservation Priority: High"
 msgstr "保留優先度：高"
 
-#, fuzzy
 msgid "Reservation Priority: Standard"
 msgstr "保留優先度：標準"
 
-#, fuzzy
 msgid "Reservation Priority: Very High"
 msgstr "保留優先度：極高"
 
@@ -22392,7 +22156,6 @@ msgstr "黃色沙地"
 msgid "Satisfaction"
 msgstr "滿意度"
 
-#, fuzzy
 msgid "Save"
 msgstr "儲存"
 
@@ -22508,7 +22271,6 @@ msgstr "比例"
 msgid "Scattered"
 msgstr "零星"
 
-#, fuzzy
 msgid "School"
 msgstr "學校"
 
@@ -22584,15 +22346,12 @@ msgstr "希福德站"
 msgid "Seaford Train Depot"
 msgstr "希福德鐵路倉庫"
 
-#, fuzzy
 msgid "Search"
 msgstr "搜尋"
 
-#, fuzzy
 msgid "Search..."
 msgstr "搜尋……"
 
-#, fuzzy
 msgid "Seed"
 msgstr "種子"
 
@@ -22600,11 +22359,9 @@ msgstr "種子"
 msgid "Seeking"
 msgstr "尋找中"
 
-#, fuzzy
 msgid "Select"
 msgstr "選擇"
 
-#, fuzzy
 msgid "Select All"
 msgstr "全選"
 
@@ -22795,7 +22552,6 @@ msgstr "資深局長"
 msgid "Sensitivity Settings"
 msgstr "靈敏度設定"
 
-#, fuzzy
 msgid "September"
 msgstr "九月"
 
@@ -23580,15 +23336,12 @@ msgstr "速度"
 msgid "Speed Limit"
 msgstr "速度限制"
 
-#, fuzzy
 msgid "Speed: 1x"
 msgstr "速度：1倍"
 
-#, fuzzy
 msgid "Speed: 2x"
 msgstr "速度：2倍"
 
-#, fuzzy
 msgid "Speed: 4x"
 msgstr "速度：4倍"
 
@@ -26113,11 +25866,9 @@ msgstr "六角形地磚"
 msgid "Tilt the camera: "
 msgstr "傾斜視角： "
 
-#, fuzzy
 msgid "Time"
 msgstr "時間"
 
-#, fuzzy
 msgid "Time Left"
 msgstr "剩餘時間"
 
@@ -26722,7 +26473,6 @@ msgstr "土格加勞市港口"
 msgid "Tuguegarao City Steel Mill"
 msgstr "土格加勞市煉鋼廠"
 
-#, fuzzy
 msgid "Tunnel"
 msgstr "隧道"
 
@@ -26762,15 +26512,12 @@ msgstr "雙井"
 msgid "Tycoon"
 msgstr "鐵路大亨"
 
-#, fuzzy
 msgid "Type"
 msgstr "類型"
 
-#, fuzzy
 msgid "Type A"
 msgstr "A型"
 
-#, fuzzy
 msgid "Type C"
 msgstr "C型"
 
@@ -27056,7 +26803,6 @@ msgstr "尤萊德拉煤礦場東"
 msgid "Uraidla Train Station"
 msgstr "尤萊德拉火車站"
 
-#, fuzzy
 msgid "Urban Games Hot Air Balloon"
 msgstr "Urban Games熱氣球"
 
@@ -30300,71 +30046,54 @@ msgstr "此系列的標準化現代客車用於捷克及其周邊國家的長途
 msgid "VEHICLE_WAGGON_VIAGGIO_NAME"
 msgstr "西門子Viaggio"
 
-#, fuzzy
 msgid "VSync"
 msgstr "垂直同步"
 
-#, fuzzy
 msgid "Validate"
 msgstr "驗證"
 
-#, fuzzy
 msgid "Validate Mod Files"
 msgstr "驗證模組檔案"
 
-#, fuzzy
 msgid "Validate Mod Size"
 msgstr "驗證模組大小"
 
-#, fuzzy
 msgid "Validating... Please Wait"
 msgstr "正在驗證...請稍候"
 
-#, fuzzy
 msgid "Validating: {task}"
 msgstr "正在驗證：{task}"
 
-#, fuzzy
 msgid "Validation Error"
 msgstr "驗證錯誤"
 
-#, fuzzy
 msgid "Validation Issues Detected"
 msgstr "偵測到驗證問題"
 
-#, fuzzy
 msgid "Validation Report"
 msgstr "驗證報告"
 
-#, fuzzy
 msgid "Validation error"
 msgstr "驗證錯誤"
 
-#, fuzzy
 msgid "Validation error, please check your input."
 msgstr "驗證錯誤，請檢查輸入內容。"
 
-#, fuzzy
 msgid "Validation: No Issues Found"
 msgstr "驗證：未發現問題"
 
-#, fuzzy
 msgid "Validation: {critical} Critical Issues"
 msgstr "驗證：{critical}項嚴重問題"
 
-#, fuzzy
 msgid "Validation: {errors} Errors"
 msgstr "驗證：{errors}項錯誤"
 
-#, fuzzy
 msgid "Validation: {errors} Errors, {warnings} Warnings"
 msgstr "驗證：{errors}項錯誤、{warnings}項警告"
 
-#, fuzzy
 msgid "Validation: {warnings} Warnings"
 msgstr "驗證：{warnings}項警告"
 
-#, fuzzy
 msgid "Vegetables"
 msgstr "蔬菜"
 
@@ -30536,7 +30265,6 @@ msgstr "語音旁白"
 msgid "Voice-Overs"
 msgstr "配音"
 
-#, fuzzy
 msgid "Volcano"
 msgstr "火山"
 
@@ -30592,7 +30320,6 @@ msgstr "可用於任何類型貨物的貨物倉庫。可利用模組擴建及客
 msgid "WAREHOUSE_UNIVERSAL_NAME"
 msgstr "通用貨物倉庫"
 
-#, fuzzy
 msgid "WARNING"
 msgstr "警告"
 
@@ -30612,7 +30339,6 @@ msgstr "薩比特谷地營地"
 msgid "Wagon"
 msgstr "車廂"
 
-#, fuzzy
 msgid "Wait"
 msgstr "等待"
 
@@ -30724,7 +30450,6 @@ msgstr "通化"
 msgid "Wetherby Oil Platform"
 msgstr "通化鑽油平台"
 
-#, fuzzy
 msgid "Wheat"
 msgstr "小麥"
 
@@ -30759,11 +30484,9 @@ msgstr "視窗設定"
 msgid "Windowed"
 msgstr "一般視窗"
 
-#, fuzzy
 msgid "Wolf"
 msgstr "狼"
 
-#, fuzzy
 msgid "Wood"
 msgstr "木材"
 
@@ -30771,19 +30494,15 @@ msgstr "木材"
 msgid "Woodstock Logging Camp"
 msgstr "伍茲塔克伐木營地"
 
-#, fuzzy
 msgid "Wool"
 msgstr "羊毛"
 
-#, fuzzy
 msgid "Work"
 msgstr "工作"
 
-#, fuzzy
 msgid "Work: {count}"
 msgstr "工作：{count}"
 
-#, fuzzy
 msgid "Workers"
 msgstr "工人"
 
@@ -30808,19 +30527,15 @@ msgstr "工作負載"
 msgid "Workplaces"
 msgstr "工作場所"
 
-#, fuzzy
 msgid "World"
 msgstr "世界"
 
-#, fuzzy
 msgid "X Rotation"
 msgstr "X軸旋轉"
 
-#, fuzzy
 msgid "Y Rotation"
 msgstr "Y軸旋轉"
 
-#, fuzzy
 msgid "Yacht"
 msgstr "遊艇"
 
@@ -30875,24 +30590,19 @@ msgid ""
 "the corresponding mission target."
 msgstr "點選藍色標示的文字，即可自動將視角移至對應的任務目標。"
 
-#, fuzzy
 msgid "You have earned the special award."
 msgstr "你獲得了特別獎勵。"
 
-#, fuzzy
 msgid "You have earned {stars} star."
 msgid_plural "You have earned {stars} stars."
 msgstr[0] "你獲得了{stars}顆星星。"
 
-#, fuzzy
 msgid "You may retry the installation attempt or unsubscribe from the mod."
 msgstr "你可重試安裝操作，或取消訂閱此模組。"
 
-#, fuzzy
 msgid "You must be 13 or older to access the Mod Hub."
 msgstr "玩家須年滿13歲方可使用模組中心。"
 
-#, fuzzy
 msgid ""
 "You must be at least 16 years old to create a Paradox Account. Please check "
 "your input and try again."
@@ -30902,7 +30612,6 @@ msgstr "需年滿16歲才能建立Paradox帳號。請檢查輸入內容後再試
 msgid "You're a Good Friend"
 msgstr "你真夠義氣"
 
-#, fuzzy
 msgid ""
 "Your Account for PlayStation™Network is linked to a Paradox Account. Do you "
 "wish to automatically log in to your Paradox Account?"
@@ -30910,7 +30619,6 @@ msgstr ""
 "你的PlayStation™Network帳戶已連結至Paradox帳號。是否要自動登入你的Paradox帳"
 "號？"
 
-#, fuzzy
 msgid ""
 "Your Account for XBOX network is linked to a Paradox Account. Do you wish to "
 "automatically log in to your Paradox Account?"
@@ -30921,11 +30629,9 @@ msgstr ""
 msgid "Your Delivery "
 msgstr "你的配送"
 
-#, fuzzy
 msgid "Your name (optional)"
 msgstr "你的名字（選填）"
 
-#, fuzzy
 msgid ""
 "Your platform account is linked to a Paradox Account. Do you wish to "
 "automatically log in to your Paradox Account?"
@@ -30943,7 +30649,6 @@ msgstr "尤蘭作物農場"
 msgid "Yulan Port"
 msgstr "尤蘭港口"
 
-#, fuzzy
 msgid "Z Rotation"
 msgstr "Z軸旋轉"
 
@@ -30971,7 +30676,6 @@ msgstr "以游標為基準拉近"
 msgid "Zoom Out From Cursor"
 msgstr "以游標為基準拉遠"
 
-#, fuzzy
 msgid "Zoom Sensitivity"
 msgstr "縮放靈敏度"
 
@@ -30983,11 +30687,9 @@ msgstr "拉近視角時以滑鼠游標為基準，而非畫面中心點。"
 msgid "Zoom out from the mouse cursor instead of the center of the screen."
 msgstr "拉遠視角時以滑鼠游標為基準，而非畫面中心點。"
 
-#, fuzzy
 msgid "Zoom the camera: "
 msgstr "縮放視角： "
 
-#, fuzzy
 msgid "[UserData]/"
 msgstr "[UserData]/"
 
@@ -30999,12 +30701,10 @@ msgstr "[{key}]已被使用："
 msgid "[{key}] is used by a predefined function and cannot be assigned."
 msgstr "[{key}]已用於預設功能，無法進行設定。"
 
-#, fuzzy
 msgctxt "auto-rename-additional-lines"
 msgid "+{count}"
 msgstr "+{count}"
 
-#, fuzzy
 msgid "average={average} dB={db}"
 msgstr "平均={average} dB={db}"
 
@@ -31053,70 +30753,56 @@ msgctxt "cloud-transparency-settings"
 msgid "Near Screen Center"
 msgstr "靠近螢幕中央"
 
-#, fuzzy
 msgctxt "cloud-transparency-settings"
 msgid "None"
 msgstr "無"
 
-#, fuzzy
 msgctxt "construction-size"
 msgid "Large"
 msgstr "大"
 
-#, fuzzy
 msgctxt "construction-size"
 msgid "Medium"
 msgstr "中"
 
-#, fuzzy
 msgctxt "construction-size"
 msgid "Small"
 msgstr "小"
 
-#, fuzzy
 msgid "current={current} dB={db}"
 msgstr "目前={current} dB={db}"
 
-#, fuzzy
 msgctxt "day_night_cycle"
 msgid "Custom"
 msgstr "自訂"
 
-#, fuzzy
 msgid "degree"
 msgstr "度"
 
-#, fuzzy
 msgctxt "difficulty-settings"
 msgid "Custom"
 msgstr "自訂"
 
-#, fuzzy
 msgctxt "difficulty-settings"
 msgid "Easy"
 msgstr "簡單"
 
-#, fuzzy
 msgctxt "difficulty-settings"
 msgid "Hard"
 msgstr "困難"
 
-#, fuzzy
 msgctxt "difficulty-settings"
 msgid "Normal"
 msgstr "普通"
 
-#, fuzzy
 msgctxt "difficulty-settings"
 msgid "Very Hard"
 msgstr "極度困難"
 
-#, fuzzy
 msgctxt "distance-unit-settings"
 msgid "Imperial"
 msgstr "英制"
 
-#, fuzzy
 msgctxt "distance-unit-settings"
 msgid "Metric"
 msgstr "公制"
@@ -31126,97 +30812,78 @@ msgctxt "financial"
 msgid "Assets"
 msgstr "資產"
 
-#, fuzzy
 msgctxt "force-unit-settings"
 msgid "Kilogram-Force (kgf)"
 msgstr "公斤力（kgf）"
 
-#, fuzzy
 msgctxt "force-unit-settings"
 msgid "Kilonewton (kN)"
 msgstr "千牛頓（kN）"
 
-#, fuzzy
 msgctxt "force-unit-settings"
 msgid "Pound Force (lbf)"
 msgstr "磅力（lbf）"
 
-#, fuzzy
 msgctxt "gameSpeed"
 msgid "1x"
 msgstr "1x"
 
-#, fuzzy
 msgctxt "gameSpeed"
 msgid "2x"
 msgstr "2x"
 
-#, fuzzy
 msgctxt "gameSpeed"
 msgid "4x"
 msgstr "4x"
 
-#, fuzzy
 msgctxt "graphics-api"
 msgid "AGC"
 msgstr "AGC"
 
-#, fuzzy
 msgctxt "graphics-api"
 msgid "DX12"
 msgstr "DX12"
 
-#, fuzzy
 msgctxt "graphics-api"
 msgid "None"
 msgstr "無"
 
-#, fuzzy
 msgctxt "graphics-api"
 msgid "OpenGL"
 msgstr "OpenGL"
 
-#, fuzzy
 msgctxt "graphics-api"
 msgid "Vulkan"
 msgstr "Vulkan"
 
-#, fuzzy
 msgctxt "graphics-quality-settings"
 msgid "Custom"
 msgstr "自訂"
 
-#, fuzzy
 msgctxt "graphics-quality-settings"
 msgid "High"
 msgstr "高"
 
-#, fuzzy
 msgctxt "graphics-quality-settings"
 msgid "Low"
 msgstr "低"
 
-#, fuzzy
 msgctxt "graphics-quality-settings"
 msgid "Medium"
 msgstr "中"
 
-#, fuzzy
 msgctxt "graphics-quality-settings"
 msgid "Off"
 msgstr "關閉"
 
-#, fuzzy
 msgctxt "graphics-quality-settings"
 msgid "Performance"
 msgstr "性能"
 
-#, fuzzy
 msgctxt "graphics-quality-settings"
 msgid "Quality"
 msgstr "品質"
 
-#, fuzzy
 msgctxt "graphics-quality-settings"
 msgid "Very High"
 msgstr "極高"
@@ -31236,82 +30903,66 @@ msgctxt "icon-overlap-settings"
 msgid "Near Mouse Cursor"
 msgstr "靠近滑鼠游標"
 
-#, fuzzy
 msgctxt "icon-overlap-settings"
 msgid "Never"
 msgstr "永不"
 
-#, fuzzy
 msgctxt "industry-boost-factor"
 msgid "High"
 msgstr "高"
 
-#, fuzzy
 msgctxt "industry-boost-factor"
 msgid "Low"
 msgstr "低"
 
-#, fuzzy
 msgctxt "industry-boost-factor"
 msgid "Normal"
 msgstr "普通"
 
-#, fuzzy
 msgctxt "industry-boost-factor"
 msgid "Random"
 msgstr "隨機"
 
-#, fuzzy
 msgctxt "industry-boost-factor"
 msgid "Very High"
 msgstr "極高"
 
-#, fuzzy
 msgctxt "industry-boost-factor"
 msgid "Very Low"
 msgstr "極低"
 
-#, fuzzy
 msgctxt "industry-closure-frequency"
 msgid "Never"
 msgstr "永不"
 
-#, fuzzy
 msgctxt "industry-closure-frequency"
 msgid "Often"
 msgstr "經常"
 
-#, fuzzy
 msgctxt "industry-closure-frequency"
 msgid "Rarely"
 msgstr "極少"
 
-#, fuzzy
 msgctxt "industry-closure-frequency"
 msgid "Sometimes"
 msgstr "偶爾"
 
-#, fuzzy
 msgctxt "industry-closure-frequency"
 msgid "Very Often"
 msgstr "頻繁"
 
-#, fuzzy
 msgctxt "industry-size"
 msgid "Large"
 msgstr "大"
 
-#, fuzzy
 msgctxt "industry-size"
 msgid "Medium"
 msgstr "中"
 
-#, fuzzy
 msgctxt "industry-size"
 msgid "Random"
 msgstr "隨機"
 
-#, fuzzy
 msgctxt "industry-size"
 msgid "Small"
 msgstr "小"
@@ -31346,107 +30997,86 @@ msgctxt "job-title"
 msgid "Production"
 msgstr "製作"
 
-#, fuzzy
 msgctxt "keyboard-key"
 msgid "Alt"
 msgstr "Alt"
 
-#, fuzzy
 msgctxt "keyboard-key"
 msgid "Backspace"
 msgstr "Backspace"
 
-#, fuzzy
 msgctxt "keyboard-key"
 msgid "Cmd"
 msgstr "Cmd"
 
-#, fuzzy
 msgctxt "keyboard-key"
 msgid "Ctrl"
 msgstr "Ctrl"
 
-#, fuzzy
 msgctxt "keyboard-key"
 msgid "Delete"
 msgstr "Delete"
 
-#, fuzzy
 msgctxt "keyboard-key"
 msgid "End"
 msgstr "End"
 
-#, fuzzy
 msgctxt "keyboard-key"
 msgid "Esc"
 msgstr "Esc"
 
-#, fuzzy
 msgctxt "keyboard-key"
 msgid "Home"
 msgstr "Home"
 
-#, fuzzy
 msgctxt "keyboard-key"
 msgid "Insert"
 msgstr "Insert"
 
-#, fuzzy
 msgctxt "keyboard-key"
 msgid "PageDown"
 msgstr "PageDown"
 
-#, fuzzy
 msgctxt "keyboard-key"
 msgid "PageUp"
 msgstr "PageUp"
 
-#, fuzzy
 msgctxt "keyboard-key"
 msgid "Return"
 msgstr "Return"
 
-#, fuzzy
 msgctxt "keyboard-key"
 msgid "Shift"
 msgstr "Shift"
 
-#, fuzzy
 msgctxt "keyboard-key"
 msgid "Space"
 msgstr "空白"
 
-#, fuzzy
 msgctxt "keyboard-key"
 msgid "Tab"
 msgstr "Tab"
 
-#, fuzzy
 msgctxt "keyboard-key"
 msgid "Win"
 msgstr "Win"
 
-#, fuzzy
 msgctxt "landmark-required-resources"
 msgid "High"
 msgstr "高"
 
-#, fuzzy
 msgctxt "landmark-required-resources"
 msgid "Low"
 msgstr "低"
 
-#, fuzzy
 msgctxt "landmark-required-resources"
 msgid "None"
 msgstr "無"
 
-#, fuzzy
 msgctxt "landmark-required-resources"
 msgid "Normal"
 msgstr "普通"
 
-#, fuzzy
 msgctxt "landmark-required-resources"
 msgid "Very High"
 msgstr "極高"
@@ -31456,7 +31086,6 @@ msgctxt "layer-infrastructure-areas"
 msgid "Cargo"
 msgstr "貨物"
 
-#, fuzzy
 msgctxt "layer-infrastructure-areas"
 msgid "None"
 msgstr "無"
@@ -31476,7 +31105,6 @@ msgctxt "layer-rating-label"
 msgid "Bad"
 msgstr "差"
 
-#, fuzzy
 msgctxt "layer-rating-label"
 msgid "Fast"
 msgstr "快"
@@ -31486,141 +31114,113 @@ msgctxt "layer-rating-label"
 msgid "Good"
 msgstr "佳"
 
-#, fuzzy
 msgctxt "layer-rating-label"
 msgid "High"
 msgstr "高"
 
-#, fuzzy
 msgctxt "layer-rating-label"
 msgid "Low"
 msgstr "低"
 
-#, fuzzy
 msgctxt "layer-rating-label"
 msgid "Slow"
 msgstr "慢"
 
-#, fuzzy
 msgid "less than a month"
-msgstr "小於一個月"
+msgstr "少於一個月"
 
-#, fuzzy
 msgctxt "loan-type"
 msgid "Custom"
 msgstr "自訂"
 
-#, fuzzy
 msgctxt "map-generator-preview"
 msgid "Industry"
 msgid_plural "Industries"
 msgstr[0] "產業"
 
-#, fuzzy
 msgctxt "map-generator-preview"
 msgid "Town"
 msgid_plural "Towns"
 msgstr[0] "城鎮"
 
-#, fuzzy
 msgctxt "map-industry-density"
 msgid "Dense"
 msgstr "密集"
 
-#, fuzzy
 msgctxt "map-industry-density"
 msgid "Medium"
 msgstr "中"
 
-#, fuzzy
 msgctxt "map-industry-density"
 msgid "Packed"
 msgstr "緊密"
 
-#, fuzzy
 msgctxt "map-industry-density"
 msgid "Scattered"
 msgstr "零星"
 
-#, fuzzy
 msgctxt "map-industry-density"
 msgid "Sparse"
 msgstr "稀疏"
 
-#, fuzzy
 msgctxt "map-size"
 msgid "Gigantomaniac"
 msgstr "巨型狂熱者"
 
-#, fuzzy
 msgctxt "map-size"
 msgid "Huge"
 msgstr "巨大"
 
-#, fuzzy
 msgctxt "map-size"
 msgid "Large"
 msgstr "大"
 
-#, fuzzy
 msgctxt "map-size"
 msgid "Medium"
 msgstr "中"
 
-#, fuzzy
 msgctxt "map-size"
 msgid "Megalomaniac"
 msgstr "狂人級"
 
-#, fuzzy
 msgctxt "map-size"
 msgid "Small"
 msgstr "小"
 
-#, fuzzy
 msgctxt "map-size"
 msgid "Tiny"
 msgstr "迷你"
 
-#, fuzzy
 msgctxt "map-size"
 msgid "Very Large"
 msgstr "極大"
 
-#, fuzzy
 msgctxt "map-town-density"
 msgid "Dense"
 msgstr "密集"
 
-#, fuzzy
 msgctxt "map-town-density"
 msgid "Medium"
 msgstr "中"
 
-#, fuzzy
 msgctxt "map-town-density"
 msgid "Packed"
 msgstr "緊密"
 
-#, fuzzy
 msgctxt "map-town-density"
 msgid "Scattered"
 msgstr "零星"
 
-#, fuzzy
 msgctxt "map-town-density"
 msgid "Sparse"
 msgstr "稀疏"
 
-#, fuzzy
 msgid "mission2"
 msgstr "任務2"
 
-#, fuzzy
 msgid "mission8"
 msgstr "任務8"
 
-#, fuzzy
 msgid "mission8_"
 msgstr "任務8_"
 
@@ -32004,46 +31604,37 @@ msgctxt "mod-tags"
 msgid "Warehouse"
 msgstr "貨物倉庫"
 
-#, fuzzy
 msgid "mod.io Refresh"
 msgstr "重新整理mod.io"
 
-#, fuzzy
 msgctxt "modhub-login"
 msgid "Account"
 msgstr "帳號"
 
-#, fuzzy
 msgctxt "modhub-login"
 msgid "Account for PlayStation™Network"
-msgstr "PlayStation™Network的帳戶"
+msgstr "PlayStation™Network帳戶"
 
-#, fuzzy
 msgctxt "modhub-login"
 msgid "Epic Games"
 msgstr "Epic Games"
 
-#, fuzzy
 msgctxt "modhub-login"
 msgid "GOG.com"
 msgstr "GOG.com"
 
-#, fuzzy
 msgctxt "modhub-login"
 msgid "Mod.io"
 msgstr "Mod.io"
 
-#, fuzzy
 msgctxt "modhub-login"
 msgid "Paradox Account"
 msgstr "Paradox帳號"
 
-#, fuzzy
 msgctxt "modhub-login"
 msgid "Steam"
 msgstr "Steam"
 
-#, fuzzy
 msgctxt "modhub-login"
 msgid "Steam (Offline)"
 msgstr "Steam（離線）"
@@ -32077,7 +31668,6 @@ msgstr "裝載"
 msgid "oasis Ground"
 msgstr "綠洲大地"
 
-#, fuzzy
 msgctxt "objects"
 msgid "Animals"
 msgstr "動物"
@@ -32087,7 +31677,6 @@ msgctxt "objects"
 msgid "Assets"
 msgstr "資產"
 
-#, fuzzy
 msgctxt "objects"
 msgid "People"
 msgstr "人"
@@ -32097,7 +31686,6 @@ msgctxt "objects"
 msgid "Vehicles"
 msgstr "車輛"
 
-#, fuzzy
 msgid "or log in with"
 msgstr "或使用以下方式登入"
 
@@ -32121,22 +31709,18 @@ msgctxt "paradox"
 msgid "I Consent"
 msgstr "我同意"
 
-#, fuzzy
 msgctxt "platform-pc"
 msgid "Achievement Earned"
 msgstr "已取得成就"
 
-#, fuzzy
 msgctxt "platform-pc"
 msgid "Achievements"
 msgstr "成就"
 
-#, fuzzy
 msgctxt "platform-pc"
 msgid "Achievements Disabled!"
 msgstr "成就系統已停用！"
 
-#, fuzzy
 msgctxt "platform-pc"
 msgid "Achievements cannot be earned."
 msgstr "無法取得成就。"
@@ -32387,32 +31971,26 @@ msgid ""
 "the left stick is used."
 msgstr "切換操作全螢幕選單時使用之操作桿。停用此設定時，將使用左操作桿。"
 
-#, fuzzy
 msgctxt "platform-playstation"
 msgid "Trophies"
 msgstr "獎盃"
 
-#, fuzzy
 msgctxt "platform-playstation"
 msgid "Trophies Disabled!"
 msgstr "獎盃系統已停用！"
 
-#, fuzzy
 msgctxt "platform-playstation"
 msgid "Trophies cannot be earned."
 msgstr "無法取得獎盃。"
 
-#, fuzzy
 msgctxt "platform-xbox"
 msgid "Achievements"
 msgstr "成就"
 
-#, fuzzy
 msgctxt "platform-xbox"
 msgid "Achievements Disabled!"
 msgstr "成就系統已停用！"
 
-#, fuzzy
 msgctxt "platform-xbox"
 msgid "Achievements cannot be earned."
 msgstr "無法取得成就。"
@@ -32545,12 +32123,10 @@ msgctxt "plural"
 msgid "Aircraft"
 msgstr "飛行器"
 
-#, fuzzy
 msgctxt "power-unit-settings"
 msgid "Horsepower (hp)"
 msgstr "馬力（hp）"
 
-#, fuzzy
 msgctxt "power-unit-settings"
 msgid "Kilowatt (kW)"
 msgstr "千瓦（kW）"
@@ -32565,7 +32141,6 @@ msgctxt "rain-effect-settings"
 msgid "Cockpit Only"
 msgstr "僅駕駛艙"
 
-#, fuzzy
 msgctxt "rain-effect-settings"
 msgid "Never"
 msgstr "永不"
@@ -33038,12 +32613,10 @@ msgctxt "vehicle-property-rating"
 msgid "Very Poor"
 msgstr "極差"
 
-#, fuzzy
 msgctxt "vehicle-size"
 msgid "Large"
 msgstr "大"
 
-#, fuzzy
 msgctxt "vehicle-size"
 msgid "Small"
 msgstr "小"
@@ -33057,29 +32630,24 @@ msgstr "裝載"
 msgid "via"
 msgstr "經由"
 
-#, fuzzy
 msgctxt "weight-unit-settings"
 msgid "Kilogram (kg)"
 msgstr "公斤（kg）"
 
-#, fuzzy
 msgctxt "weight-unit-settings"
 msgid "Pounds (lb)"
 msgstr "磅（lb）"
 
-#, fuzzy
 msgctxt "weight-unit-settings"
 msgid "Short Tonne (t)"
 msgstr "短噸（t）"
 
-#, fuzzy
 msgctxt "weight-unit-settings"
 msgid "Tonne (t)"
 msgstr "公噸（t）"
 
-#, fuzzy
 msgid "your.email@example.com (optional)"
-msgstr "your.email@example.com（電子郵件信箱，選填）"
+msgstr "your.email@example.com（電郵地址，選填）"
 
 #, fuzzy
 msgid "{Cargocount} Additional Cargo Not Shown"
@@ -33093,11 +32661,9 @@ msgstr "{PERCENT}下降中"
 msgid "{PERCENT} Increasing"
 msgstr "{PERCENT}上升中"
 
-#, fuzzy
 msgid "{TOWN_NAME}"
 msgstr "{TOWN_NAME}"
 
-#, fuzzy
 msgid "{amount}"
 msgstr "{amount}"
 
@@ -33127,7 +32693,6 @@ msgid ""
 "to heaven."
 msgstr "{animalName}為了科技進步而犧牲。如今已在前往天堂的道路上。"
 
-#, fuzzy
 msgid "{autoRename} - {select}"
 msgstr "{autoRename} - {select}"
 
@@ -33139,11 +32704,9 @@ msgstr "{bytes} B"
 msgid "{cargoCount} cargo of {vehicle} was not unloaded on line."
 msgstr "{vehicle}上有{cargoCount}件貨物未在路線上卸載。"
 
-#, fuzzy
 msgid "{cargoType}: {loadSpeed}x"
 msgstr "{cargoType}：{loadSpeed}x"
 
-#, fuzzy
 msgid "{constructionName} {subConstructionType}"
 msgstr "{constructionName} {subConstructionType}"
 
@@ -33155,11 +32718,9 @@ msgstr "{cost1}至{cost2}／年{units}"
 msgid "{cost1} to {cost2}{units}"
 msgstr "{cost1}至{cost2}{units}"
 
-#, fuzzy
 msgid "{cost}/Year{units}"
 msgstr "{cost}／年{units}"
 
-#, fuzzy
 msgid "{cost}/year"
 msgstr "{cost}／年"
 
@@ -33167,7 +32728,6 @@ msgstr "{cost}／年"
 msgid "{countFeedback} Additional Feedback Messages"
 msgstr "{countFeedback}則額外回饋訊息"
 
-#, fuzzy
 msgid "{count}"
 msgstr "{count}"
 
@@ -33205,46 +32765,36 @@ msgid "{count} Vehicle With Problems"
 msgid_plural "{count} Vehicles With Problems"
 msgstr[0] "{count}部車輛出現問題"
 
-#, fuzzy
 msgid "{count} Year"
 msgid_plural "{count} Years"
 msgstr[0] "{count} 年"
 
-#, fuzzy
 msgid "{count} day"
 msgid_plural "{count} days"
 msgstr[0] "{count}日"
 
-#, fuzzy
 msgid "{count} month"
 msgid_plural "{count} months"
 msgstr[0] "{count}月"
 
-#, fuzzy
 msgid "{count} x {cost} - {refund}"
 msgstr "{count} x {cost} - {refund}"
 
-#, fuzzy
 msgid "{count}/{capacity}"
 msgstr "{count}／{capacity}"
 
-#, fuzzy
 msgid "{count}/{total}"
 msgstr "{count}／{total}"
 
-#, fuzzy
 msgid "{currentProgress} per Year"
 msgstr "每年{currentProgress}"
 
-#, fuzzy
 msgid "{currentProgress}/{maxProgress}"
 msgstr "{currentProgress}/{maxProgress}"
 
-#, fuzzy
 msgid "{currentProgress}/{maxProgress} per Year"
 msgstr "每年{currentProgress}/{maxProgress}"
 
-#, fuzzy
 msgid "{currentValue}/{targetValue}"
 msgstr "{currentValue}／{targetValue}"
 
@@ -33252,7 +32802,6 @@ msgstr "{currentValue}／{targetValue}"
 msgid "{currentWorkers} of {neededWorkers} Workers"
 msgstr "已有{currentWorkers}名工人，共需{neededWorkers}名"
 
-#, fuzzy
 msgid "{current}/{total}"
 msgstr "{current}／{total}"
 
@@ -33288,7 +32837,6 @@ msgstr "{force} kgf"
 msgid "{force} lbf"
 msgstr "{force} lbf"
 
-#, fuzzy
 msgid "{framerate} FPS"
 msgstr "{framerate} FPS"
 
@@ -33301,7 +32849,6 @@ msgstr ""
 "{fromTownName}正在尋找運輸業者。在{fromTownName}與{toTownName}之間建立無需轉"
 "乘的交通路線，運送兩地之間的乘客。"
 
-#, fuzzy
 msgid "{from} – {to}"
 msgstr "{from} – {to}"
 
@@ -33309,11 +32856,9 @@ msgstr "{from} – {to}"
 msgid "{gigaBytes} GB"
 msgstr "{gigaBytes} GB"
 
-#, fuzzy
 msgid "{hours}h {minutes}m"
 msgstr "{hours}小時{minutes}分"
 
-#, fuzzy
 msgid "{industryCount}"
 msgstr "{industryCount}"
 
@@ -33354,7 +32899,6 @@ msgid ""
 "its visitors."
 msgstr "{landmarkName}正在尋找可靠的合作夥伴，負責運送遊客。"
 
-#, fuzzy
 msgid ""
 "{length}\n"
 "x\n"
@@ -33364,19 +32908,15 @@ msgstr ""
 "x\n"
 "{width}"
 
-#, fuzzy
 msgid "{loadSpeed}x"
 msgstr "{loadSpeed}x"
 
-#, fuzzy
 msgid "{location} {year}"
 msgstr "{location} {year}"
 
-#, fuzzy
 msgid "{maintenanceCost}/{maintenancePeriod}"
 msgstr "{maintenanceCost}／{maintenancePeriod}"
 
-#, fuzzy
 msgid "{mapSize} ({mapFormat})"
 msgstr "{mapSize}（{mapFormat}）"
 
@@ -33384,31 +32924,24 @@ msgstr "{mapSize}（{mapFormat}）"
 msgid "{megaBytes} MB"
 msgstr "{megaBytes} MB"
 
-#, fuzzy
 msgid "{message} (Error Code: {code})"
 msgstr "{message}（錯誤碼：{code}）"
 
-#, fuzzy
 msgid "{minutes} min"
 msgstr "{minutes}分"
 
-#, fuzzy
 msgid "{minutes} min {seconds} s"
 msgstr "{minutes}分{seconds}秒"
 
-#, fuzzy
 msgid "{minutes}:{seconds}"
 msgstr "{minutes}:{seconds}"
 
-#, fuzzy
 msgid "{minutes}m {seconds}s"
 msgstr "{minutes}分{seconds}秒"
 
-#, fuzzy
 msgid "{money} per Min"
 msgstr "每分鐘{money}元"
 
-#, fuzzy
 msgid "{money} per Year"
 msgstr "每年{money}元"
 
@@ -33423,11 +32956,9 @@ msgstr[0] ""
 "{nameList}\n"
 "與另1項"
 
-#, fuzzy
 msgid "{name}"
 msgstr "{name}"
 
-#, fuzzy
 msgid "{name} ({message})"
 msgstr "{name}（{message}）"
 
@@ -33455,7 +32986,6 @@ msgstr "{name}：動力不足"
 msgid "{name}: {speed} (in {time} or {distance})"
 msgstr "{name}：{speed}（單位為{time}或 {distance}）"
 
-#, fuzzy
 msgid "{name}: {value}"
 msgstr "{name}：{value}"
 
@@ -33520,19 +33050,15 @@ msgstr "缺少{number}個參照軌道類型。"
 msgid "{number} referenced tunnel types not found."
 msgstr "缺少{number}個參照隧道類型。"
 
-#, fuzzy
 msgid "{numerator}/{denominator}"
 msgstr "{numerator}／{denominator}"
 
-#, fuzzy
 msgid "{num} Mods Refreshed"
 msgstr "已重新整理{num}個模組"
 
-#, fuzzy
 msgid "{part}/{total}"
 msgstr "{part}／{total}"
 
-#, fuzzy
 msgid "{percentage}"
 msgstr "{percentage}"
 
@@ -33552,7 +33078,6 @@ msgstr "升至{role}之進度已達{percentage}。"
 msgid "{percent} of demand for {cargoName} is currently met."
 msgstr "目前{cargoName}的需求滿足率為{percent}。"
 
-#, fuzzy
 msgid "{playlistIndex} - {artist} - {title}"
 msgstr "{playlistIndex} - {artist} - {title}"
 
@@ -33564,11 +33089,9 @@ msgstr "{power} hp"
 msgid "{power} kW"
 msgstr "{power} kW"
 
-#, fuzzy
 msgid "{remainingTime}"
 msgstr "{remainingTime}"
 
-#, fuzzy
 msgid "{remainingTime} left"
 msgstr "尚餘{remainingTime}"
 
@@ -33576,23 +33099,18 @@ msgstr "尚餘{remainingTime}"
 msgid "{role} is the highest rank."
 msgstr "{role}為最高等級。"
 
-#, fuzzy
 msgid "{satisfied}/{total}"
 msgstr "{satisfied}／{total}"
 
-#, fuzzy
 msgid "{seconds} s"
 msgstr "{seconds}秒"
 
-#, fuzzy
 msgid "{seconds}s"
 msgstr "{seconds}秒"
 
-#, fuzzy
 msgid "{speed} km/h"
 msgstr "{speed} km/h"
 
-#, fuzzy
 msgid "{speed} mph"
 msgstr "{speed} mph"
 
@@ -33652,15 +33170,12 @@ msgstr "{stationName}未與道路連接。"
 msgid "{stationName} is overcrowded, passengers will be leaving."
 msgstr "{stationName}過度擁擠，乘客將開始離開。"
 
-#, fuzzy
 msgid "{stored}/{capacity}"
 msgstr "{stored}／{capacity}"
 
-#, fuzzy
 msgid "{text} {currentCounter}"
 msgstr "{text} {currentCounter}"
 
-#, fuzzy
 msgid "{text} {currentProgress}/{maxProgress}"
 msgstr "{text} {currentProgress}/{maxProgress}"
 
@@ -33680,7 +33195,6 @@ msgstr "{total}／{budget} MB"
 msgid "{total} of Lifetime ({age} Remaining)"
 msgstr "已達使用年限之{total}（尚餘{age}）"
 
-#, fuzzy
 msgid "{townCount}"
 msgstr "{townCount}"
 
@@ -33747,7 +33261,6 @@ msgid ""
 msgstr ""
 "{townName}需要熟練的物流公司。將貨物運送至{townName}，供應該地所需的貨物。"
 
-#, fuzzy
 msgid "{townName} {constructionName}"
 msgstr "{townName} {constructionName}"
 
@@ -33759,11 +33272,9 @@ msgstr ""
 "{town}已進一步發展，其產業與商業建築也開始提供新的產品。因此該城鎮目前也需要"
 "新的貨物類型：{cargoName}。"
 
-#, fuzzy
 msgid "{trackTime} / {trackLength}"
 msgstr "{trackTime} / {trackLength}"
 
-#, fuzzy
 msgid "{used}/{capacity}"
 msgstr "{used}／{capacity}"
 
@@ -33771,11 +33282,9 @@ msgstr "{used}／{capacity}"
 msgid "{username} Transport"
 msgstr "{username}交通"
 
-#, fuzzy
 msgid "{value}x"
 msgstr "{value}x"
 
-#, fuzzy
 msgid "{vehicleEffect}: {percent}"
 msgstr "{vehicleEffect}：{percent}"
 
@@ -33799,34 +33308,27 @@ msgstr "{weight} lb"
 msgid "{weight} t"
 msgstr "{weight} t"
 
-#, fuzzy
 msgid "{width} x {height}"
 msgstr "{width} x {height}"
 
-#, fuzzy
 msgid "{yearFrom}"
 msgstr "{yearFrom}"
 
-#, fuzzy
 msgid "{years} Years"
 msgstr "{years}年"
 
-#, fuzzy
 msgid "{} day"
 msgid_plural "{} days"
 msgstr[0] "{}日"
 
-#, fuzzy
 msgid "{} month"
 msgid_plural "{} months"
 msgstr[0] "{}月"
 
-#, fuzzy
 msgid "{} year"
 msgid_plural "{} years"
 msgstr[0] "{}年"
 
-#, fuzzy
 msgid ""
 "© 2026 Urban Games GmbH. Published by Paradox Interactive AB. \n"
 "All trademarks, logos and copyrights are the property of their respective "
@@ -33840,6 +33342,5 @@ msgstr ""
 "Transport Fever and all related intellectual property rights are the "
 "exclusive property of Urban Games GmbH."
 
-#, fuzzy
 msgid "≤{amount}"
 msgstr "≤{amount}"
