@@ -75,7 +75,7 @@ fi
 log_info "[Step 3/5] Removing fuzzy translation flags..."
 PO_NO_FUZZY="$TEMP_DIR/base_clean.po"
 
-msgattrib --no-fuzzy "$PO_TEMP" -o "$PO_NO_FUZZY"
+msgattrib --clear-fuzzy "$PO_TEMP" -o "$PO_NO_FUZZY"
 log_success "Fuzzy entries cleared."
 
 # Step 4: Compile .po to .mo
