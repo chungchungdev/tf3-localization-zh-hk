@@ -301,39 +301,36 @@ try {
 
     Write-Log "Found $($poFiles.Count) PO file(s) in: $poFolder" "SUCCESS"
 
-    Start-Step "Removing fuzzy flags from PO files"
+    Start-Step "Removing fuzzy flags and compiling PO files into MO files"
 
-    foreach ($poFile in $poFiles) {
-        $temporaryPoFile = Join-Path $poFile.DirectoryName ("{0}.no-fuzzy.{1}.tmp" -f $poFile.BaseName, [guid]::NewGuid().ToString("N"))
+$tempFolder = [System.IO.Path]::GetTempPath()
+Write-Log "Temporary PO files will be created in: $tempFolder"
 
-        try {
-            Write-Log "Removing fuzzy flags: $($poFile.FullName)"
+foreach ($poFile in $poFiles) {
+    $temporaryPoFileName = "{0}.no-fuzzy.{1}.po" -f `
+        $poFile.BaseName, `
+        [guid]::NewGuid().ToString("N")
 
-            & $msgattrib --clear-fuzzy --output-file=$temporaryPoFile $poFile.FullName
+    $temporaryPoFile = Join-Path $tempFolder $temporaryPoFileName
+    $moFile = Join-Path $poFile.DirectoryName ($poFile.BaseName + ".mo")
 
-            if ($LASTEXITCODE -ne 0) {
-                throw "msgattrib.exe failed with exit code $LASTEXITCODE for: $($poFile.FullName)"
-            }
+    try {
+        Write-Log "Creating temporary fuzzy-free PO file for: $($poFile.FullName)"
+        Write-Log "Temporary PO path: $temporaryPoFile"
 
-            Move-Item -LiteralPath $temporaryPoFile -Destination $poFile.FullName -Force
+        & $msgattrib --clear-fuzzy --output-file=$temporaryPoFile $poFile.FullName
+
+        if ($LASTEXITCODE -ne 0) {
+            throw "msgattrib.exe failed with exit code $LASTEXITCODE for: $($poFile.FullName)"
         }
-        finally {
-            if (Test-Path -LiteralPath $temporaryPoFile) {
-                Remove-Item -LiteralPath $temporaryPoFile -Force -ErrorAction SilentlyContinue
-            }
+
+        if (-not (Test-Path -LiteralPath $temporaryPoFile -PathType Leaf)) {
+            throw "msgattrib.exe completed, but no temporary PO file was created: $temporaryPoFile"
         }
-    }
 
-    Write-Log "Removed fuzzy flags from all PO file(s)." "SUCCESS"
+        Write-Log "Compiling '$($poFile.Name)' into '$([System.IO.Path]::GetFileName($moFile))'"
 
-    Start-Step "Compiling PO files into MO files"
-
-    foreach ($poFile in $poFiles) {
-        $moFile = Join-Path $poFile.DirectoryName ($poFile.BaseName + ".mo")
-
-        Write-Log "Compiling '$($poFile.Name)' -> '$([System.IO.Path]::GetFileName($moFile))'"
-
-        & $msgfmt --output-file=$moFile $poFile.FullName
+        & $msgfmt --output-file=$moFile $temporaryPoFile
 
         if ($LASTEXITCODE -ne 0) {
             throw "msgfmt.exe failed with exit code $LASTEXITCODE for: $($poFile.FullName)"
@@ -342,9 +339,18 @@ try {
         if (-not (Test-Path -LiteralPath $moFile -PathType Leaf)) {
             throw "Compilation appeared to succeed, but no MO file was created: $moFile"
         }
-    }
 
-    Write-Log "Compiled $($poFiles.Count) MO file(s)." "SUCCESS"
+        Write-Log "Compiled MO file: $moFile" "SUCCESS"
+    }
+    finally {
+        if (Test-Path -LiteralPath $temporaryPoFile -PathType Leaf) {
+            Remove-Item -LiteralPath $temporaryPoFile -Force
+            Write-Log "Removed temporary PO file: $temporaryPoFile"
+        }
+    }
+}
+
+Write-Log "Created fuzzy-free temporary PO files and compiled $($poFiles.Count) MO file(s)." "SUCCESS"
 
     Start-Step "Copying compiled MO files into src"
 
