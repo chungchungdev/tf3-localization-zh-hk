@@ -497,7 +497,7 @@ msgid ""
 "A sophisticated marketing campaign has been launched. While the campaign is "
 "running, residents are subtly enticed to use public transportation more "
 "often."
-msgstr "精心設計的行銷活動已實施。在活動期間內，居民會更傾向於搭乘大眾交通。"
+msgstr "精心設計的行銷活動已實施。在活動期間內，居民會更傾向於搭乘公共交通。"
 
 #, fuzzy
 msgid "A station appears consecutively twice."
@@ -4808,17 +4808,17 @@ msgstr "連接城鎮"
 #, fuzzy
 msgid ""
 "Connect this location with public transport to allow residents to work here."
-msgstr "將這個地點與大眾交通連接，讓居民可在此工作。"
+msgstr "將這個地點與公共交通連接，讓居民可在此工作。"
 
 #, fuzzy
 msgid ""
 "Connect this location with public transport to enable residents to live here."
-msgstr "將這個地點與大眾交通連接，讓居民可在此居住。"
+msgstr "將這個地點與公共交通連接，讓居民可在此居住。"
 
 #, fuzzy
 msgid ""
 "Connect this location with public transport to enable residents to visit it."
-msgstr "將這個地點與大眾交通連接，讓居民可前往該處。"
+msgstr "將這個地點與公共交通連接，讓居民可前往該處。"
 
 #, fuzzy
 msgid ""
@@ -7470,7 +7470,7 @@ msgstr ""
 #, fuzzy
 msgid "HELP_CONSTRUCTION_PERKS_MECHANICS"
 msgstr ""
-"可在城鎮中展開行銷活動，藉此吸引更多居民使用大眾交通。\n"
+"可在城鎮中展開行銷活動，藉此吸引更多居民使用公共交通。\n"
 "針對任一產業執行產業綠化，即可減少其排放量。\n"
 "這些工具會在達到更高公司等級後解鎖。"
 
@@ -7630,8 +7630,8 @@ msgstr ""
 "此圖層顯示城鎮內各區的資訊。\n"
 "居民住在住宅區，前往商業區購物，並在工業區或產業裡工作。他們會從家裡前往商"
 "店，返回家裡後再通勤上班。\n"
-"若設有大眾交通，居民才會前往遠處的產業工作。居民也常會到鄰近城鎮購物或工作。"
-"因此應依其需求建立大眾交通路線。\n"
+"若設有公共交通，居民才會前往遠處的產業工作。居民也常會到鄰近城鎮購物或工作。"
+"因此應依其需求建立公共交通路線。\n"
 "建築目前的等級會以顏色深淺表示。"
 
 #, fuzzy
@@ -7660,13 +7660,13 @@ msgid "HELP_LAYER_PASSENGER_FLOW"
 msgstr ""
 "此圖層顯示使用特定途徑前往目的地的旅客人數。\n"
 "放大畫面即可顯示更為詳細的資料。\n"
-"可分別顯示或隱藏私人交通與大眾交通的資訊，亦可僅檢視自特定城鎮出發的旅客數"
+"可分別顯示或隱藏私人交通與公共交通的資訊，亦可僅檢視自特定城鎮出發的旅客數"
 "據。"
 
 #, fuzzy
 msgid "HELP_LAYER_PASSENGER_SATISFACTION"
 msgstr ""
-"此圖層顯示乘客使用大眾交通時的幸福度。\n"
+"此圖層顯示乘客使用公共交通時的幸福度。\n"
 "乘客從家裡出發時心情愉悅，但旅程越久心情就會越差。乘坐舒適度高的車輛能使幸福"
 "度下降得較慢，而舒適度低的車輛則會使幸福度下降較快。若乘客必須在車站久候，幸"
 "福度會下降得更快。乘客只要一回到家中，心情就會恢復。\n"
@@ -7697,7 +7697,7 @@ msgstr ""
 "此圖層顯示幕前的道路與鐵道交通狀況。\n"
 "當道路或鐵道發生壅塞、車速變慢時，該區段會以不同顏色標出。\n"
 "道路壅塞會對城鎮成長造成負面影響。城鎮目前的交通評價會標示於城鎮上方。\n"
-"若要紓解交通問題，可改善道路網或大眾交通系統。"
+"若要紓解交通問題，可改善道路網或公共交通系統。"
 
 #, fuzzy
 msgid "HELP_MANAGEMENT"
@@ -7802,7 +7802,7 @@ msgid "HELP_STATISTICS_TOWNS"
 msgstr ""
 "城鎮概要顯示所有城鎮的詳細資訊。\n"
 "「大小」與「人口」反映的是該城鎮目前的規模。\n"
-"「大眾交通」與「私人交通」反映的是分別有多少居民使用這兩種方式出行。\n"
+"「公共交通」與「私人交通」反映的是分別有多少居民使用這兩種方式出行。\n"
 "同時也能檢視貨物需求與目前的涵蓋範圍。\n"
 "右側的長條圖則反映該城鎮目前的各項評價。\n"
 "表格可按照各欄位排序資料。"
@@ -19791,7 +19791,7 @@ msgstr "公共服務"
 
 #, fuzzy
 msgid "Public Transport"
-msgstr "大眾交通"
+msgstr "公共交通"
 
 #, fuzzy
 msgid "Public Transport and Residential Supplies"
@@ -21742,7 +21742,7 @@ msgstr "大型街道"
 msgid "STREET_TOWN_NEW_LARGE_TRAM_ELECTRIFIED_DESC"
 msgstr ""
 "這條六線道柏油道路附設行人路，很適合城鎮內的道路需求。與道路結合的輕軌軌道可"
-"提供更有效率的大眾交通。"
+"提供更有效率的公共交通。"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_LARGE_TRAM_ELECTRIFIED_NAME"
@@ -21790,7 +21790,7 @@ msgstr "中型街道"
 msgid "STREET_TOWN_NEW_MEDIUM_TRAM_ELECTRIFIED_DESC"
 msgstr ""
 "這條四線道柏油道路附設行人路，很適合城鎮內的道路需求。與道路結合的輕軌軌道可"
-"提供更有效率的大眾交通。"
+"提供更有效率的公共交通。"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_MEDIUM_TRAM_ELECTRIFIED_NAME"
@@ -21838,7 +21838,7 @@ msgstr "中型單行道"
 msgid "STREET_TOWN_NEW_ONE_WAY_MEDIUM_TRAM_ELECTRIFIED_DESC"
 msgstr ""
 "這條四線道的單向柏油道路附設行人路，很適合城鎮內的道路需求。與道路結合的輕軌"
-"軌道可提供更有效率的大眾交通。"
+"軌道可提供更有效率的公共交通。"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_MEDIUM_TRAM_ELECTRIFIED_NAME"
@@ -21886,7 +21886,7 @@ msgstr "小型單行道"
 msgid "STREET_TOWN_NEW_ONE_WAY_SMALL_TRAM_ELECTRIFIED_DESC"
 msgstr ""
 "這條二線道的單向柏油道路附設行人路，很適合城鎮內的道路需求。與道路結合的輕軌"
-"軌道可提供更有效率的大眾交通。"
+"軌道可提供更有效率的公共交通。"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_SMALL_TRAM_ELECTRIFIED_NAME"
@@ -21932,7 +21932,7 @@ msgstr "小型街道"
 msgid "STREET_TOWN_NEW_SMALL_TRAM_ELECTRIFIED_DESC"
 msgstr ""
 "這條二線道柏油道路附設行人路，很適合城鎮內的道路需求。與道路結合的輕軌軌道可"
-"提供更有效率的大眾交通。"
+"提供更有效率的公共交通。"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_SMALL_TRAM_ELECTRIFIED_NAME"
@@ -21978,13 +21978,13 @@ msgstr "大型街道"
 msgid "STREET_TOWN_OLD_LARGE_TRAM_DESC"
 msgstr ""
 "這條六線道鵝卵石道路附設行人路，很適合城鎮內的道路需求。與道路結合的輕軌軌道"
-"可提供更有效率的大眾交通。"
+"可提供更有效率的公共交通。"
 
 #, fuzzy
 msgid "STREET_TOWN_OLD_LARGE_TRAM_ELECTRIFIED_DESC"
 msgstr ""
 "這條六線道鵝卵石道路附設行人路，很適合城鎮內的道路需求。與道路結合的輕軌軌道"
-"可提供更有效率的大眾交通。"
+"可提供更有效率的公共交通。"
 
 #, fuzzy
 msgid "STREET_TOWN_OLD_LARGE_TRAM_ELECTRIFIED_NAME"
@@ -22026,13 +22026,13 @@ msgstr "中型街道"
 msgid "STREET_TOWN_OLD_MEDIUM_TRAM_DESC"
 msgstr ""
 "這條四線道鵝卵石道路附設行人路，很適合城鎮內的道路需求。與道路結合的輕軌軌道"
-"可提供更有效率的大眾交通。"
+"可提供更有效率的公共交通。"
 
 #, fuzzy
 msgid "STREET_TOWN_OLD_MEDIUM_TRAM_ELECTRIFIED_DESC"
 msgstr ""
 "這條四線道鵝卵石道路附設行人路，很適合城鎮內的道路需求。與道路結合的輕軌軌道"
-"可提供更有效率的大眾交通。"
+"可提供更有效率的公共交通。"
 
 #, fuzzy
 msgid "STREET_TOWN_OLD_MEDIUM_TRAM_ELECTRIFIED_NAME"
@@ -22074,13 +22074,13 @@ msgstr "小型街道"
 msgid "STREET_TOWN_OLD_SMALL_TRAM_DESC"
 msgstr ""
 "這條二線道鵝卵石道路附設行人路，很適合城鎮內的道路需求。與道路結合的輕軌軌道"
-"可提供更有效率的大眾交通。"
+"可提供更有效率的公共交通。"
 
 #, fuzzy
 msgid "STREET_TOWN_OLD_SMALL_TRAM_ELECTRIFIED_DESC"
 msgstr ""
 "這條二線道鵝卵石道路附設行人路，很適合城鎮內的道路需求。與道路結合的輕軌軌道"
-"可提供更有效率的大眾交通。"
+"可提供更有效率的公共交通。"
 
 #, fuzzy
 msgid "STREET_TOWN_OLD_SMALL_TRAM_ELECTRIFIED_NAME"
@@ -25316,7 +25316,7 @@ msgid ""
 "{fromTownName} and {toTownName} has not been implemented, representing a "
 "failure to fulfill contractual obligations."
 msgstr ""
-"未能開通原先承諾建立的{fromTownName}與{toTownName}之間的直達大眾交通路線，此"
+"未能開通原先承諾建立的{fromTownName}與{toTownName}之間的直達公共交通路線，此"
 "為未履行合約義務。"
 
 #, fuzzy
@@ -26893,7 +26893,7 @@ msgstr "戴姆勒雙層座巴士"
 #, fuzzy
 msgid "VEHICLE_BUS_AMERICAN_POST_COACH_DESCRIPTION"
 msgstr ""
-"早期曾用於大眾交通與遞送郵件的標準馬車。在引擎發明前，它是旅行不可或缺的交通"
+"早期曾用於公共交通與遞送郵件的標準馬車。在引擎發明前，它是旅行不可或缺的交通"
 "工具。"
 
 #, fuzzy
@@ -26959,7 +26959,7 @@ msgstr "賓士eCitaro"
 #, fuzzy
 msgid "VEHICLE_BUS_ET13_DESCRIPTION"
 msgstr ""
-"ET 13為奧地利製造，是相當普遍的機動巴士，也是該地區大眾交通邁向機動化的重要里"
+"ET 13為奧地利製造，是相當普遍的機動巴士，也是該地區公共交通邁向機動化的重要里"
 "程碑。"
 
 #, fuzzy
@@ -27016,7 +27016,7 @@ msgstr "金龍Merry Combo"
 #, fuzzy
 msgid "VEHICLE_BUS_LONDON_BUS_DESCRIPTION"
 msgstr ""
-"1950年代推出的經典Routemaster雙層巴士，設有開放式後門平台，是倫敦大眾交通的經"
+"1950年代推出的經典Routemaster雙層巴士，設有開放式後門平台，是倫敦公共交通的經"
 "典象徵。"
 
 #, fuzzy
@@ -27086,7 +27086,7 @@ msgstr "薩烏爾圖舍爾"
 #, fuzzy
 msgid "VEHICLE_BUS_SCANIA_VABIS_H15_DESCRIPTION"
 msgstr ""
-"此巴士車型具有獨特的前置引擎設計，對於20世紀中期瑞典大眾交通的發展有著舉足輕"
+"此巴士車型具有獨特的前置引擎設計，對於20世紀中期瑞典公共交通的發展有著舉足輕"
 "重的影響。"
 
 #, fuzzy
@@ -28892,7 +28892,7 @@ msgstr "AEG動力電車"
 
 #, fuzzy
 msgid "VEHICLE_TRAM_HONGKONG_DESCRIPTION"
-msgstr "香港的雙層路面電車是當地大眾交通的經典象徵，深受觀光客與市民喜愛。"
+msgstr "香港的雙層路面電車是當地公共交通的經典象徵，深受觀光客與市民喜愛。"
 
 #, fuzzy
 msgid "VEHICLE_TRAM_HONGKONG_NAME"
