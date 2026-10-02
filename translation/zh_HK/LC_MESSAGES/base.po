@@ -3374,9 +3374,8 @@ msgstr "雅安作物農場"
 msgid "Bury St Edmunds Logging Camp"
 msgstr "雅安伐木營地"
 
-#, fuzzy
 msgid "Bus Lane Tool"
-msgstr "巴士專用道工具"
+msgstr "巴士專線工具"
 
 #, fuzzy
 msgid "Bus and Tram Stops"
@@ -7500,7 +7499,7 @@ msgstr ""
 msgid "HELP_CONSTRUCTION_ROADS_TOOLS"
 msgstr ""
 "道路工具可用來修改現有道路。\n"
-"其中包含可新增或移除輕軌軌道、巴士專用道或隔音牆等特定額外設施所需的工具。\n"
+"其中包含可新增或移除輕軌軌道、巴士專線或隔音牆等特定額外設施所需的工具。\n"
 "使用時可選擇將更動內容以對稱形式套用於雙側車道，或僅套用於單側車道。\n"
 "鎖定工具可將道路標記為鎖定狀態，防止系統自行更動道路。\n"
 "路口工具則可用來修改路口的道路與輕軌車道配置。"
@@ -7521,7 +7520,7 @@ msgstr ""
 "道路工具可用來修改現有的道路。\n"
 "使用輕軌軌道工具即可新增或移除輕軌軌道。位於交叉路口的軌道會自動生成，但仍可"
 "透過路口工具調整。\n"
-"利用巴士專用道工具即可新增或移除巴士專用道。巴士專用道僅供貨車與巴士行駛，一"
+"利用巴士專線工具即可新增或移除巴士專線。巴士專線僅供貨車與巴士行駛，一"
 "般情況下汽車不會行駛於該車道。\n"
 "使用時可選擇要將更動內容以對稱形式套用於雙側車道，或僅套用於單側車道。"
 
@@ -21436,11 +21435,10 @@ msgstr "大型鄉村道路（設有隔音牆）"
 msgid "STREET_COUNTRY_NEW_LARGE_BUS_DESC"
 msgstr ""
 "這條六線道柏油道路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度下"
-"降。巴士專用道僅供巴士與貨車行駛，私人車輛原則上不得進入。"
+"降。巴士專線僅供巴士與貨車行駛，私人車輛原則上不得進入。"
 
-#, fuzzy
 msgid "STREET_COUNTRY_NEW_LARGE_BUS_NAME"
-msgstr "大型鄉村道路（設有巴士專用道）"
+msgstr "大型鄉村道路（設有巴士專線）"
 
 #, fuzzy
 msgid "STREET_COUNTRY_NEW_LARGE_DESC"
@@ -21466,11 +21464,11 @@ msgstr "中型鄉村道路（設有隔音牆）"
 msgid "STREET_COUNTRY_NEW_MEDIUM_BUS_DESC"
 msgstr ""
 "這條四線道柏油道路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度下"
-"降。巴士專用道僅供巴士與貨車行駛，私人車輛原則上不得進入。"
+"降。巴士專線僅供巴士與貨車行駛，私人車輛原則上不得進入。"
 
 #, fuzzy
 msgid "STREET_COUNTRY_NEW_MEDIUM_BUS_NAME"
-msgstr "中型鄉村道路（設有巴士專用道）"
+msgstr "中型鄉村道路（設有巴士專線）"
 
 #, fuzzy
 msgid "STREET_COUNTRY_NEW_MEDIUM_DESC"
@@ -21682,12 +21680,12 @@ msgstr "大型街道（設有隔音牆）"
 #, fuzzy
 msgid "STREET_TOWN_NEW_LARGE_BUS_DESC"
 msgstr ""
-"這條六線道柏油道路附設行人路，很適合城鎮內的道路需求。巴士專用道僅供巴士與卡"
+"這條六線道柏油道路附設行人路，很適合城鎮內的道路需求。巴士專線僅供巴士與卡"
 "車行駛，私人車輛原則上不得進入。"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_LARGE_BUS_NAME"
-msgstr "大型街道（設有巴士專用道）"
+msgstr "大型街道（設有巴士專線）"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_LARGE_DESC"
@@ -21730,12 +21728,12 @@ msgstr "中型街道（設有隔音牆）"
 #, fuzzy
 msgid "STREET_TOWN_NEW_MEDIUM_BUS_DESC"
 msgstr ""
-"這條四線道柏油道路附設行人路，很適合城鎮內的道路需求。巴士專用道僅供巴士與卡"
+"這條四線道柏油道路附設行人路，很適合城鎮內的道路需求。巴士專線僅供巴士與卡"
 "車行駛，私人車輛原則上不得進入。"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_MEDIUM_BUS_NAME"
-msgstr "中型街道（設有巴士專用道）"
+msgstr "中型街道（設有巴士專線）"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_MEDIUM_DESC"
@@ -21778,12 +21776,12 @@ msgstr "中型單行道（設有隔音牆）"
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_MEDIUM_BUS_DESC"
 msgstr ""
-"這條四線道的單向柏油道路附設行人路，很適合城鎮內的道路需求。巴士專用道僅供公"
+"這條四線道的單向柏油道路附設行人路，很適合城鎮內的道路需求。巴士專線僅供公"
 "車與貨車行駛，私人車輛原則上不得進入。"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_MEDIUM_BUS_NAME"
-msgstr "中型單行道（設有巴士專用道）"
+msgstr "中型單行道（設有巴士專線）"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_MEDIUM_DESC"
@@ -21826,12 +21824,12 @@ msgstr "小型單行道（設有隔音牆）"
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_SMALL_BUS_DESC"
 msgstr ""
-"這條二線道的單向柏油道路附設行人路，很適合城鎮內的道路需求。巴士專用道僅供公"
+"這條二線道的單向柏油道路附設行人路，很適合城鎮內的道路需求。巴士專線僅供公"
 "車與貨車行駛，私人車輛原則上不得進入。"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_SMALL_BUS_NAME"
-msgstr "小型單行道（設有巴士專用道）"
+msgstr "小型單行道（設有巴士專線）"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_SMALL_DESC"
@@ -26656,7 +26654,7 @@ msgstr "正在等待上載"
 #, fuzzy
 msgid ""
 "Upgrade roads with bus lanes, making them exclusive to buses and trucks."
-msgstr "設置巴士專用道來升級道路。該專用道僅供巴士與貨車行駛。"
+msgstr "設置巴士專線來升級道路。該專用道僅供巴士與貨車行駛。"
 
 #, fuzzy
 msgid "Upgrade roads with tram tracks."
