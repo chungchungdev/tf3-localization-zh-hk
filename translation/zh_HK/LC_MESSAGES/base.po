@@ -23560,27 +23560,21 @@ msgstr "太陽與月亮位置"
 msgid "Supervisor"
 msgstr "督導"
 
-#, fuzzy
 msgid "Supplied"
 msgstr "已供應"
 
-#, fuzzy
 msgid "Supplied: {count}"
 msgstr "已供應：{count}"
 
-#, fuzzy
 msgid "Supplier"
 msgstr "供應商"
 
-#, fuzzy
 msgid "Suppliers"
 msgstr "供應商"
 
-#, fuzzy
 msgid "Supplies"
 msgstr "供應"
 
-#, fuzzy
 msgid "Supplies Rating"
 msgstr "供應評價"
 
@@ -23592,15 +23586,12 @@ msgstr "供給"
 msgid "Supply Industry"
 msgstr "供應產業"
 
-#, fuzzy
 msgid "Supply Percentage"
 msgstr "供應百分比"
 
-#, fuzzy
 msgid "Supply Resources To Build This Landmark"
 msgstr "提供資源以建造此地標"
 
-#, fuzzy
 msgid "Supply Town"
 msgstr "供應城鎮"
 
