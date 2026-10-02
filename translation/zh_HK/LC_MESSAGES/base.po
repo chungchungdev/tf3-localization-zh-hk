@@ -7089,11 +7089,11 @@ msgstr "熱帶高山草叢"
 
 #, fuzzy
 msgid "Grass Brown"
-msgstr "棕色草叢"
+msgstr "啡色草叢"
 
 #, fuzzy
 msgid "Grass Brown Subarctic"
-msgstr "副極地棕色草叢"
+msgstr "副極地啡色草叢"
 
 #, fuzzy
 msgid "Grass Cutted Dark"
@@ -7165,7 +7165,7 @@ msgstr "砂礫"
 
 #, fuzzy
 msgid "Gravel Brown"
-msgstr "棕色砂礫"
+msgstr "啡色砂礫"
 
 #, fuzzy
 msgid "Gravel Dry"
@@ -12340,7 +12340,7 @@ msgstr "我們會把他的遺體帶回來，在這裡妥善安葬。這樣才合
 #, fuzzy
 msgid "MISSION_03_CUTSCENE_BERGUNG_COMPLETE_1"
 msgstr ""
-"我們找到一具骸骨，他身著美式衣物、戴棕色帽子，手中拿著鞭子，除此之外沒有任何"
+"我們找到一具骸骨，他身著美式衣物、戴啡色帽子，手中拿著鞭子，除此之外沒有任何"
 "能用於辨認身份的線索。願他的靈魂安息。"
 
 #, fuzzy
