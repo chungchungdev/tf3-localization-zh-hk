@@ -562,7 +562,7 @@ msgstr "銷售大師"
 
 #, fuzzy
 msgid "ACH_ALL_CLIMATES_DESC"
-msgstr "在自由遊戲模式中進行一局涵蓋所有氣候區的遊戲。"
+msgstr "在自由遊戲模式中進行一局包括所有氣候區的遊戲。"
 
 #, fuzzy
 msgid "ACH_ALL_CLIMATES_NAME"
@@ -5026,9 +5026,8 @@ msgstr "國家／地區"
 msgid "Country/Region is required."
 msgstr "需填寫國家／地區。"
 
-#, fuzzy
 msgid "Coverage"
-msgstr "涵蓋範圍"
+msgstr "覆蓋範圍"
 
 msgid "Cow"
 msgstr "牛"
@@ -7303,7 +7302,7 @@ msgstr ""
 "可在世界畫面中放置多個建築，再於路線調度視窗將它們結合，便能形成路線。\n"
 "飛行場與機場可供飛機使用，而直升機起降場則供直升機使用。\n"
 "與之結合的倉庫可購買飛行器，並提供維修所需空間。\n"
-"建造過程中會標示其涵蓋範圍及維修區域。"
+"建造過程中會標示其覆蓋範圍及維修區域。"
 
 #, fuzzy
 msgid "HELP_CONSTRUCTION_GENERATOR_INDUSTRIES"
@@ -7389,7 +7388,7 @@ msgstr ""
 "可在世界畫面中放置多個火車站，再於路線調度視窗將它們結合，便能形成路線。\n"
 "倉庫可購買列車，並提供維修所需空間。\n"
 "放置維修設施即可提供額外維修區域。\n"
-"建造過程中會標示火車站的涵蓋範圍，以及倉庫與維修設施的維修區域。"
+"建造過程中會標示火車站的覆蓋範圍，以及倉庫與維修設施的維修區域。"
 
 #, fuzzy
 msgid "HELP_CONSTRUCTION_RAIL_TOOLS"
@@ -7444,7 +7443,7 @@ msgstr ""
 "線。\n"
 "倉庫可購買貨車、巴士或輕軌，並提供維修所需空間。\n"
 "放置維修設施即可提供額外維修區域。\n"
-"建造過程中會標示火車站的涵蓋範圍，以及倉庫與維修設施的維修區域。"
+"建造過程中會標示火車站的覆蓋範圍，以及倉庫與維修設施的維修區域。"
 
 #, fuzzy
 msgid "HELP_CONSTRUCTION_ROAD_TOOLS"
@@ -7494,7 +7493,7 @@ msgid "HELP_CONSTRUCTION_WAREHOUSES"
 msgstr ""
 "貨倉用於儲存貨物，以及在各種運輸系統之間轉運貨物。\n"
 "經過專用的貨倉可提高裝載速度，但僅能儲存特定類型的貨物。\n"
-"建造過程中會標示可將貨物存入貨倉之車站的涵蓋範圍。"
+"建造過程中會標示可將貨物存入貨倉之車站的覆蓋範圍。"
 
 #, fuzzy
 msgid "HELP_CONSTRUCTION_WATER_BUILDINGS"
@@ -7504,7 +7503,7 @@ msgstr ""
 "線。\n"
 "倉庫可購買船舶，並提供維修所需空間。\n"
 "放置維修設施即可提供額外維修區域。\n"
-"建造過程中會標示港口的涵蓋範圍，以及倉庫與維修設施的維修區域。"
+"建造過程中會標示港口的覆蓋範圍，以及倉庫與維修設施的維修區域。"
 
 #, fuzzy
 msgid "HELP_LAYER_CARGO_FLOW"
@@ -7537,10 +7536,10 @@ msgstr ""
 #, fuzzy
 msgid "HELP_LAYER_INFRASTRUCTURE"
 msgstr ""
-"此圖層顯示軌道與道路的速度限制、涵蓋範圍及維修區域。\n"
+"此圖層顯示軌道與道路的速度限制、覆蓋範圍及維修區域。\n"
 "軌道與道路的彎曲度越大，行駛速度上限越小，因此建議玩家盡可能建造直線道路。\n"
 "不同軌道、道路與橋梁均有不同速度限制。\n"
-"可選擇是否顯示客運站與貨運站的涵蓋範圍，或維修設施與倉庫的維修區域。"
+"可選擇是否顯示客運站與貨運站的覆蓋範圍，或維修設施與倉庫的維修區域。"
 
 #, fuzzy
 msgid "HELP_LAYER_INTRO"
@@ -7703,7 +7702,7 @@ msgstr ""
 "城鎮概要顯示所有城鎮的詳細資訊。\n"
 "「大小」與「人口」反映的是該城鎮目前的規模。\n"
 "「公共交通」與「私人交通」反映的是分別有多少居民使用這兩種方式出行。\n"
-"同時也能檢視貨物需求與目前的涵蓋範圍。\n"
+"同時也能檢視貨物需求與目前的覆蓋範圍。\n"
 "右側的長條圖則反映該城鎮目前的各項評價。\n"
 "表格可按照各欄位排序資料。"
 
@@ -19576,7 +19575,7 @@ msgstr "大眾運輸與住宅區供應"
 
 #, fuzzy
 msgid "Public transport coverage is {percent}."
-msgstr "大眾運輸涵蓋率為{percent}。"
+msgstr "大眾運輸覆蓋率為{percent}。"
 
 #, fuzzy
 msgid "Publisher"
@@ -20339,7 +20338,7 @@ msgstr "倉庫"
 #, fuzzy
 msgid "STATIONS_AIR_AIRFIELD_MAIN_BUILDING_DESCRIPTION"
 msgstr ""
-"可擴大乘客與貨物涵蓋範圍的主建築。可提供乘客道路出入口，並提升車站的乘客乘載"
+"可擴大乘客與貨物覆蓋範圍的主建築。可提供乘客道路出入口，並提升車站的乘客乘載"
 "量。"
 
 #, fuzzy
@@ -20389,7 +20388,7 @@ msgstr "倉庫"
 #, fuzzy
 msgid "STATIONS_AIR_AIRPORT_MAIN_BUILDING_DESCRIPTION"
 msgstr ""
-"可擴大乘客與貨物涵蓋範圍的主建築。可提供乘客道路出入口，並提升車站的乘客乘載"
+"可擴大乘客與貨物覆蓋範圍的主建築。可提供乘客道路出入口，並提升車站的乘客乘載"
 "量。"
 
 #, fuzzy
@@ -20497,7 +20496,7 @@ msgstr "乘客地下通道"
 #, fuzzy
 msgid "STATIONS_RAIL_MODULAR_MAIN_BUILDING_1_A_DESCRIPTION"
 msgstr ""
-"客運站的小型主建築。可擴大乘客的涵蓋範圍，並提升車站的乘客乘載量及乘客對誤點"
+"客運站的小型主建築。可擴大乘客的覆蓋範圍，並提升車站的乘客乘載量及乘客對誤點"
 "的容忍度。"
 
 #, fuzzy
@@ -20507,7 +20506,7 @@ msgstr "小型主建築"
 #, fuzzy
 msgid "STATIONS_RAIL_MODULAR_MAIN_BUILDING_1_B_DESCRIPTION"
 msgstr ""
-"客運站的小型主建築。可擴大乘客的涵蓋範圍，並提升車站的乘客乘載量及乘客對誤點"
+"客運站的小型主建築。可擴大乘客的覆蓋範圍，並提升車站的乘客乘載量及乘客對誤點"
 "的容忍度。"
 
 #, fuzzy
@@ -20516,7 +20515,7 @@ msgstr "小型主建築"
 
 #, fuzzy
 msgid "STATIONS_RAIL_MODULAR_MAIN_BUILDING_1_CARGO_DESCRIPTION"
-msgstr "貨運站的小型主建築，可擴大貨物的涵蓋範圍。"
+msgstr "貨運站的小型主建築，可擴大貨物的覆蓋範圍。"
 
 #, fuzzy
 msgid "STATIONS_RAIL_MODULAR_MAIN_BUILDING_1_CARGO_NAME"
@@ -20525,7 +20524,7 @@ msgstr "小型貨運主建築"
 #, fuzzy
 msgid "STATIONS_RAIL_MODULAR_MAIN_BUILDING_1_C_DESCRIPTION"
 msgstr ""
-"客運站的小型主建築。可擴大乘客的涵蓋範圍，並提升車站的乘客乘載量及乘客對誤點"
+"客運站的小型主建築。可擴大乘客的覆蓋範圍，並提升車站的乘客乘載量及乘客對誤點"
 "的容忍度。"
 
 #, fuzzy
@@ -20535,7 +20534,7 @@ msgstr "小型主建築"
 #, fuzzy
 msgid "STATIONS_RAIL_MODULAR_MAIN_BUILDING_2_A_DESCRIPTION"
 msgstr ""
-"客運站的中型主建築。可擴大乘客的涵蓋範圍，並提升車站的乘客乘載量及乘客對誤點"
+"客運站的中型主建築。可擴大乘客的覆蓋範圍，並提升車站的乘客乘載量及乘客對誤點"
 "的容忍度。"
 
 #, fuzzy
@@ -20545,7 +20544,7 @@ msgstr "中型主建築"
 #, fuzzy
 msgid "STATIONS_RAIL_MODULAR_MAIN_BUILDING_2_B_DESCRIPTION"
 msgstr ""
-"客運站的中型主建築。可擴大乘客的涵蓋範圍，並提升車站的乘客乘載量及乘客對誤點"
+"客運站的中型主建築。可擴大乘客的覆蓋範圍，並提升車站的乘客乘載量及乘客對誤點"
 "的容忍度。"
 
 #, fuzzy
@@ -20554,7 +20553,7 @@ msgstr "中型主建築"
 
 #, fuzzy
 msgid "STATIONS_RAIL_MODULAR_MAIN_BUILDING_2_CARGO_DESCRIPTION"
-msgstr "貨運站的中型主建築，可擴大貨物的涵蓋範圍。"
+msgstr "貨運站的中型主建築，可擴大貨物的覆蓋範圍。"
 
 #, fuzzy
 msgid "STATIONS_RAIL_MODULAR_MAIN_BUILDING_2_CARGO_NAME"
@@ -20563,7 +20562,7 @@ msgstr "中型主建築"
 #, fuzzy
 msgid "STATIONS_RAIL_MODULAR_MAIN_BUILDING_2_C_DESCRIPTION"
 msgstr ""
-"客運站的中型主建築。可擴大乘客的涵蓋範圍，並提升車站的乘客乘載量及乘客對誤點"
+"客運站的中型主建築。可擴大乘客的覆蓋範圍，並提升車站的乘客乘載量及乘客對誤點"
 "的容忍度。"
 
 #, fuzzy
@@ -20573,7 +20572,7 @@ msgstr "中型主建築"
 #, fuzzy
 msgid "STATIONS_RAIL_MODULAR_MAIN_BUILDING_3_A_DESCRIPTION"
 msgstr ""
-"客運站的大型主建築。可擴大乘客的涵蓋範圍，並提升車站的乘客乘載量及乘客對誤點"
+"客運站的大型主建築。可擴大乘客的覆蓋範圍，並提升車站的乘客乘載量及乘客對誤點"
 "的容忍度。"
 
 #, fuzzy
@@ -20583,7 +20582,7 @@ msgstr "大型主建築"
 #, fuzzy
 msgid "STATIONS_RAIL_MODULAR_MAIN_BUILDING_3_B_DESCRIPTION"
 msgstr ""
-"客運站的大型主建築。可擴大乘客的涵蓋範圍，並提升車站的乘客乘載量及乘客對誤點"
+"客運站的大型主建築。可擴大乘客的覆蓋範圍，並提升車站的乘客乘載量及乘客對誤點"
 "的容忍度。"
 
 #, fuzzy
@@ -20592,7 +20591,7 @@ msgstr "大型主建築"
 
 #, fuzzy
 msgid "STATIONS_RAIL_MODULAR_MAIN_BUILDING_3_CARGO_DESCRIPTION"
-msgstr "貨運站的大型主建築，可擴大貨物的涵蓋範圍。"
+msgstr "貨運站的大型主建築，可擴大貨物的覆蓋範圍。"
 
 #, fuzzy
 msgid "STATIONS_RAIL_MODULAR_MAIN_BUILDING_3_CARGO_NAME"
@@ -20601,7 +20600,7 @@ msgstr "大型貨運主建築"
 #, fuzzy
 msgid "STATIONS_RAIL_MODULAR_MAIN_BUILDING_3_C_DESCRIPTION"
 msgstr ""
-"客運站的大型主建築。可擴大乘客的涵蓋範圍，並提升車站的乘客乘載量及乘客對誤點"
+"客運站的大型主建築。可擴大乘客的覆蓋範圍，並提升車站的乘客乘載量及乘客對誤點"
 "的容忍度。"
 
 #, fuzzy
@@ -20767,7 +20766,7 @@ msgstr "乘客月台"
 #, fuzzy
 msgid "STATIONS_RAIL_MODULAR_SIDE_BUILDING_1_A_DESCRIPTION"
 msgstr ""
-"客運站的小型附屬建築。可擴大乘客的涵蓋範圍，並提升車站的乘客乘載量及乘客對誤"
+"客運站的小型附屬建築。可擴大乘客的覆蓋範圍，並提升車站的乘客乘載量及乘客對誤"
 "點的容忍度。"
 
 #, fuzzy
@@ -20777,7 +20776,7 @@ msgstr "小型附屬建築"
 #, fuzzy
 msgid "STATIONS_RAIL_MODULAR_SIDE_BUILDING_1_B_DESCRIPTION"
 msgstr ""
-"客運站的小型附屬建築。可擴大乘客的涵蓋範圍，並提升車站的乘客乘載量及乘客對誤"
+"客運站的小型附屬建築。可擴大乘客的覆蓋範圍，並提升車站的乘客乘載量及乘客對誤"
 "點的容忍度。"
 
 #, fuzzy
@@ -20786,7 +20785,7 @@ msgstr "小型附屬建築"
 
 #, fuzzy
 msgid "STATIONS_RAIL_MODULAR_SIDE_BUILDING_1_CARGO_DESCRIPTION"
-msgstr "貨運站的小型附屬建築，可擴大貨物的涵蓋範圍。"
+msgstr "貨運站的小型附屬建築，可擴大貨物的覆蓋範圍。"
 
 #, fuzzy
 msgid "STATIONS_RAIL_MODULAR_SIDE_BUILDING_1_CARGO_NAME"
@@ -20795,7 +20794,7 @@ msgstr "小型貨運附屬建築"
 #, fuzzy
 msgid "STATIONS_RAIL_MODULAR_SIDE_BUILDING_1_C_DESCRIPTION"
 msgstr ""
-"客運站的小型附屬建築。可擴大乘客的涵蓋範圍，並提升車站的乘客乘載量及乘客對誤"
+"客運站的小型附屬建築。可擴大乘客的覆蓋範圍，並提升車站的乘客乘載量及乘客對誤"
 "點的容忍度。"
 
 #, fuzzy
@@ -20805,7 +20804,7 @@ msgstr "小型附屬建築"
 #, fuzzy
 msgid "STATIONS_RAIL_MODULAR_SIDE_BUILDING_2_A_DESCRIPTION"
 msgstr ""
-"客運站的中型附屬建築。可擴大乘客的涵蓋範圍，並提升車站的乘客乘載量及乘客對誤"
+"客運站的中型附屬建築。可擴大乘客的覆蓋範圍，並提升車站的乘客乘載量及乘客對誤"
 "點的容忍度。"
 
 #, fuzzy
@@ -20815,7 +20814,7 @@ msgstr "中型附屬建築"
 #, fuzzy
 msgid "STATIONS_RAIL_MODULAR_SIDE_BUILDING_2_B_DESCRIPTION"
 msgstr ""
-"客運站的中型附屬建築。可擴大乘客的涵蓋範圍，並提升車站的乘客乘載量及乘客對誤"
+"客運站的中型附屬建築。可擴大乘客的覆蓋範圍，並提升車站的乘客乘載量及乘客對誤"
 "點的容忍度。"
 
 #, fuzzy
@@ -20824,7 +20823,7 @@ msgstr "中型附屬建築"
 
 #, fuzzy
 msgid "STATIONS_RAIL_MODULAR_SIDE_BUILDING_2_CARGO_DESCRIPTION"
-msgstr "貨運站的中型附屬建築，可擴大貨物的涵蓋範圍。"
+msgstr "貨運站的中型附屬建築，可擴大貨物的覆蓋範圍。"
 
 #, fuzzy
 msgid "STATIONS_RAIL_MODULAR_SIDE_BUILDING_2_CARGO_NAME"
@@ -20833,7 +20832,7 @@ msgstr "中型附屬建築"
 #, fuzzy
 msgid "STATIONS_RAIL_MODULAR_SIDE_BUILDING_2_C_DESCRIPTION"
 msgstr ""
-"客運站的中型附屬建築。可擴大乘客的涵蓋範圍，並提升車站的乘客乘載量及乘客對誤"
+"客運站的中型附屬建築。可擴大乘客的覆蓋範圍，並提升車站的乘客乘載量及乘客對誤"
 "點的容忍度。"
 
 #, fuzzy
@@ -20843,7 +20842,7 @@ msgstr "中型附屬建築"
 #, fuzzy
 msgid "STATIONS_RAIL_MODULAR_SIDE_BUILDING_3_A_DESCRIPTION"
 msgstr ""
-"客運站的大型附屬建築。可擴大乘客的涵蓋範圍，並提升車站的乘客乘載量及乘客對誤"
+"客運站的大型附屬建築。可擴大乘客的覆蓋範圍，並提升車站的乘客乘載量及乘客對誤"
 "點的容忍度。"
 
 #, fuzzy
@@ -20853,7 +20852,7 @@ msgstr "大型附屬建築"
 #, fuzzy
 msgid "STATIONS_RAIL_MODULAR_SIDE_BUILDING_3_B_DESCRIPTION"
 msgstr ""
-"客運站的大型附屬建築。可擴大乘客的涵蓋範圍，並提升車站的乘客乘載量及乘客對誤"
+"客運站的大型附屬建築。可擴大乘客的覆蓋範圍，並提升車站的乘客乘載量及乘客對誤"
 "點的容忍度。"
 
 #, fuzzy
@@ -20862,7 +20861,7 @@ msgstr "大型附屬建築"
 
 #, fuzzy
 msgid "STATIONS_RAIL_MODULAR_SIDE_BUILDING_3_CARGO_DESCRIPTION"
-msgstr "貨運站的大型附屬建築，可擴大貨物的涵蓋範圍。"
+msgstr "貨運站的大型附屬建築，可擴大貨物的覆蓋範圍。"
 
 #, fuzzy
 msgid "STATIONS_RAIL_MODULAR_SIDE_BUILDING_3_CARGO_NAME"
@@ -20871,7 +20870,7 @@ msgstr "大型貨運附屬建築"
 #, fuzzy
 msgid "STATIONS_RAIL_MODULAR_SIDE_BUILDING_3_C_DESCRIPTION"
 msgstr ""
-"客運站的大型附屬建築。可擴大乘客的涵蓋範圍，並提升車站的乘客乘載量及乘客對誤"
+"客運站的大型附屬建築。可擴大乘客的覆蓋範圍，並提升車站的乘客乘載量及乘客對誤"
 "點的容忍度。"
 
 #, fuzzy
@@ -20880,7 +20879,7 @@ msgstr "大型附屬建築"
 
 #, fuzzy
 msgid "STATIONS_RAIL_MODULAR_STAIRS_DESCRIPTION"
-msgstr "可擴展乘客涵蓋範圍的側邊入口。"
+msgstr "可擴展乘客覆蓋範圍的側邊入口。"
 
 #, fuzzy
 msgid "STATIONS_RAIL_MODULAR_STAIRS_NAME"
@@ -21131,7 +21130,7 @@ msgstr "大型主建築"
 #, fuzzy
 msgid "STATIONS_WATER_PASSENGER_DOCK_25_25_DESCRIPTION"
 msgstr ""
-"港口的小型建築。可擴大乘客及貨物的涵蓋範圍，並提升車站的乘客乘載量及乘客對誤"
+"港口的小型建築。可擴大乘客及貨物的覆蓋範圍，並提升車站的乘客乘載量及乘客對誤"
 "點的容忍度。"
 
 #, fuzzy
@@ -21158,7 +21157,7 @@ msgstr "主要棧橋"
 #, fuzzy
 msgid "STATIONS_WATER_PASSENGER_DOCK_50_50_DESCRIPTION"
 msgstr ""
-"港口的大型建築。可擴大乘客及貨物的涵蓋範圍，並提升車站的乘客乘載量及乘客對誤"
+"港口的大型建築。可擴大乘客及貨物的覆蓋範圍，並提升車站的乘客乘載量及乘客對誤"
 "點的容忍度。"
 
 #, fuzzy
@@ -23755,7 +23754,7 @@ msgstr ""
 
 #, fuzzy
 msgid "TIP_VEHICLES_8"
-msgstr "倉庫與維修設施可維修位於其涵蓋範圍內的車輛。"
+msgstr "倉庫與維修設施可維修位於其覆蓋範圍內的車輛。"
 
 #, fuzzy
 msgid "TRACK_HIGHSPEED_CATENARY_DESCRIPTION"
@@ -23959,7 +23958,7 @@ msgstr "建造一間貨倉"
 msgid "TUTORIAL_A_WAREHOUSE_TASK_PARAGRAPH"
 msgstr ""
 "在[link=entity_harbor]港口[/link]旁建造貨倉才能將原油桶運送上岸。請注意，貨倉"
-"必須位於港口的涵蓋範圍內。"
+"必須位於港口的覆蓋範圍內。"
 
 #, fuzzy
 msgid "TUTORIAL_BEFORE_CARGO_TASK_NAME"
@@ -24022,7 +24021,7 @@ msgstr "建造一座道路停靠站"
 msgid "TUTORIAL_BUILD_ROAD_STOP_1_GUIDE_PARAGRAPH"
 msgstr ""
 "道路停靠站可供乘客上下車，也可卸載貨物。設置停靠站時，住宅建築會標示為綠色，"
-"商業建築為藍色，工業建築則為黃色。位於涵蓋範圍內的建築用地也會有額外標示：綠"
+"商業建築為藍色，工業建築則為黃色。位於覆蓋範圍內的建築用地也會有額外標示：綠"
 "色代表可供乘客使用，藍色代表可處理貨物，白色則代表兩者皆可。"
 
 #, fuzzy
@@ -24285,7 +24284,7 @@ msgstr "建造一間貨倉"
 msgid "TUTORIAL_B_WAREHOUSE_TASK_PARAGRAPH"
 msgstr ""
 "在[link=entity_harbor]港口[/link]旁建造一間貨倉才能將漁獲運送上岸。請注意貨倉"
-"必須位於港口的涵蓋範圍內。"
+"必須位於港口的覆蓋範圍內。"
 
 #, fuzzy
 msgid "TUTORIAL_CAMERA_TASK_NAME"
@@ -24536,7 +24535,7 @@ msgstr "建造一間貨倉"
 msgid "TUTORIAL_WAREHOUSE_GUIDE_PARAGRAPH"
 msgstr ""
 "若要在不同運輸方式之間轉運貨物，或建立更複雜的貨運網路，就必須興建貨倉。請將"
-"貨倉設置於車站的涵蓋範圍內，並確認路線設定正確，貨物便會自動運送至貨倉。"
+"貨倉設置於車站的覆蓋範圍內，並確認路線設定正確，貨物便會自動運送至貨倉。"
 
 #, fuzzy
 msgid "TUTORIAL_WELCOME_TASK_NAME"
