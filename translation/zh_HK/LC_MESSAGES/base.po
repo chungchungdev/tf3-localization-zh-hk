@@ -2761,37 +2761,29 @@ msgstr "該產業多年來未被使用，因而無法支撐營運，只得永久
 msgid "Ascending"
 msgstr "遞增"
 
-#, fuzzy
 msgid "Asian"
 msgstr "亞洲"
 
-#, fuzzy
 msgid "Asphalt"
-msgstr "柏油"
+msgstr "瀝青"
 
-#, fuzzy
 msgid "Asphalt Brown"
-msgstr "棕色柏油"
+msgstr "啡色瀝青"
 
-#, fuzzy
 msgid "Asphalt Light"
-msgstr "淺色柏油"
+msgstr "淺色瀝青"
 
-#, fuzzy
 msgid "Asphalt Medium"
-msgstr "中等柏油"
+msgstr "中等瀝青"
 
-#, fuzzy
 msgid "Asphalt Medium Light"
-msgstr "中等淺色柏油"
+msgstr "中等淺色瀝青"
 
-#, fuzzy
 msgid "Asphalt Old"
-msgstr "老舊柏油"
+msgstr "老舊瀝青"
 
-#, fuzzy
 msgid "Asphalt Very Light"
-msgstr "極淺色柏油"
+msgstr "極淺色瀝青"
 
 #, fuzzy
 msgid "Asset"
@@ -13880,7 +13872,7 @@ msgstr "普普通通。我們還是太慢了。你呢？現在要幹嘛？需要
 
 #, fuzzy
 msgid "MISSION_05_CUTSCENE_LIGHTHOUSE_OUTRO_3"
-msgstr "幾塊新木板、抹點柏油就修得起來。你認識莫克維德的崔格夫·托瑪森嗎？"
+msgstr "幾塊新木板、抹點瀝青就修得起來。你認識莫克維德的崔格夫·托瑪森嗎？"
 
 #, fuzzy
 msgid "MISSION_05_CUTSCENE_LIGHTHOUSE_OUTRO_4"
@@ -21619,7 +21611,7 @@ msgstr "小型街道"
 #, fuzzy
 msgid "STREET_HIGHWAY_NEW_LARGE_BARRIERS_DESC"
 msgstr ""
-"這條三線道柏油高速公路可供車輛高速行駛至遠距離的地點。隔音牆可減少交通噪音。"
+"這條三線道瀝青高速公路可供車輛高速行駛至遠距離的地點。隔音牆可減少交通噪音。"
 
 #, fuzzy
 msgid "STREET_HIGHWAY_NEW_LARGE_BARRIERS_NAME"
@@ -21627,7 +21619,7 @@ msgstr "三線道高速公路（設有隔音牆）"
 
 #, fuzzy
 msgid "STREET_HIGHWAY_NEW_LARGE_DESC"
-msgstr "這條三線道柏油高速公路可供車輛高速行駛至遠距離的地點。"
+msgstr "這條三線道瀝青高速公路可供車輛高速行駛至遠距離的地點。"
 
 #, fuzzy
 msgid "STREET_HIGHWAY_NEW_LARGE_NAME"
@@ -21636,7 +21628,7 @@ msgstr "三線道高速公路"
 #, fuzzy
 msgid "STREET_HIGHWAY_NEW_MEDIUM_BARRIERS_DESC"
 msgstr ""
-"這條二線道柏油高速公路可供車輛高速行駛至遠距離的地點。隔音牆可減少交通噪音。"
+"這條二線道瀝青高速公路可供車輛高速行駛至遠距離的地點。隔音牆可減少交通噪音。"
 
 #, fuzzy
 msgid "STREET_HIGHWAY_NEW_MEDIUM_BARRIERS_NAME"
@@ -21644,7 +21636,7 @@ msgstr "二線道高速公路（設有隔音牆）"
 
 #, fuzzy
 msgid "STREET_HIGHWAY_NEW_MEDIUM_DESC"
-msgstr "這條二線道柏油高速公路可供車輛高速行駛至遠距離的地點。"
+msgstr "這條二線道瀝青高速公路可供車輛高速行駛至遠距離的地點。"
 
 #, fuzzy
 msgid "STREET_HIGHWAY_NEW_MEDIUM_NAME"
@@ -21653,7 +21645,7 @@ msgstr "二線道高速公路"
 #, fuzzy
 msgid "STREET_HIGHWAY_NEW_SMALL_BARRIERS_DESC"
 msgstr ""
-"這條單線道柏油高速公路可供車輛高速行駛至遠距離的地點。隔音牆可減少交通噪音。"
+"這條單線道瀝青高速公路可供車輛高速行駛至遠距離的地點。隔音牆可減少交通噪音。"
 
 #, fuzzy
 msgid "STREET_HIGHWAY_NEW_SMALL_BARRIERS_NAME"
@@ -21661,7 +21653,7 @@ msgstr "單線道高速公路（設有隔音牆）"
 
 #, fuzzy
 msgid "STREET_HIGHWAY_NEW_SMALL_DESC"
-msgstr "這條單線道柏油高速公路可供車輛高速行駛至遠距離的地點。"
+msgstr "這條單線道瀝青高速公路可供車輛高速行駛至遠距離的地點。"
 
 #, fuzzy
 msgid "STREET_HIGHWAY_NEW_SMALL_NAME"
