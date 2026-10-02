@@ -4816,15 +4816,12 @@ msgstr "建設選項8"
 msgid "Construction Site"
 msgstr "建築地盤"
 
-#, fuzzy
 msgid "Construction finished"
 msgstr "建設完成"
 
-#, fuzzy
 msgid "Consumed"
 msgstr "已消耗"
 
-#, fuzzy
 msgid "Consumer"
 msgstr "消費者"
 
@@ -4875,9 +4872,8 @@ msgstr ""
 msgid "Contour Lines"
 msgstr "等高線"
 
-#, fuzzy
 msgid "Contracts Fulfilled"
-msgstr "已完成合約"
+msgstr "已履行合約"
 
 #, fuzzy
 msgid "Contribution"
@@ -4887,11 +4883,9 @@ msgstr "貢獻度"
 msgid "Contributors"
 msgstr "協力人員"
 
-#, fuzzy
 msgid "Cooldown: {cooldown}"
 msgstr "冷卻時間：{cooldown}"
 
-#, fuzzy
 msgid "Cooldown: {remainingTime}"
 msgstr "冷卻時間：{remainingTime}"
 
@@ -4902,9 +4896,8 @@ msgstr "協調員"
 msgid "Copy"
 msgstr "複製"
 
-#, fuzzy
 msgid "Corn"
-msgstr "玉米"
+msgstr "粟米"
 
 msgid "Cost"
 msgstr "成本"
@@ -4921,11 +4914,9 @@ msgstr "成本"
 msgid "Costs: {}"
 msgstr "成本：{}"
 
-#, fuzzy
 msgid "Cotton Field"
 msgstr "棉花田"
 
-#, fuzzy
 msgid "Cougar"
 msgstr "美洲獅"
 
@@ -4937,13 +4928,11 @@ msgstr "無法連接替代終端"
 msgid "Could Not Connect Stations"
 msgstr "無法連接站點"
 
-#, fuzzy
 msgid "Could not authenticate."
 msgstr "無法驗證。"
 
-#, fuzzy
 msgid "Could not clone vehicles (not enough money)."
-msgstr "無法複製車輛（金錢不足）。"
+msgstr "無法複製載具（資金不足）。"
 
 #, fuzzy
 msgid "Could not connect all alternative terminals on {line}."
@@ -4989,39 +4978,30 @@ msgstr ""
 msgid "Could not find suitable depot."
 msgstr "找不到適用之倉庫。"
 
-#, fuzzy
 msgid "Could not find suitable location: {}."
-msgstr "找不到合適的地點：{}。"
+msgstr "找不到合適地點：{}。"
 
-#, fuzzy
 msgid "Could not initialize game."
 msgstr "無法初始化遊戲。"
 
-#, fuzzy
 msgid "Could not initialize game: try removing the mod '{modName}'."
-msgstr "無法初始化遊戲，請嘗試移除模組「{modName}」。"
+msgstr "無法初始化遊戲，請嘗試移除以下模組「{modName}」。"
 
-#, fuzzy
 msgid "Could not initialize user profile backend."
 msgstr "無法初始化使用者個人檔案後端。"
 
-#, fuzzy
 msgid "Could not load savegame, not all required mods are installed."
 msgstr "無法載入遊戲存檔；尚未安裝所有必要模組。"
 
-#, fuzzy
 msgid "Could not refresh"
 msgstr "無法重新整理"
 
-#, fuzzy
 msgid "Could not request email auth code."
 msgstr "無法取得電子郵件驗證碼。"
 
-#, fuzzy
 msgid "Could not retrieve Terms Of Use"
-msgstr "載入使用條款失敗"
+msgstr "無法載入使用條款"
 
-#, fuzzy
 msgid ""
 "Could not save game. Please check free\n"
 "disk space and/or folder permissions."
@@ -5033,7 +5013,6 @@ msgstr ""
 msgid "Count"
 msgstr "數量"
 
-#, fuzzy
 msgid "Countdown "
 msgstr "倒數"
 
@@ -5041,11 +5020,9 @@ msgstr "倒數"
 msgid "Country Roads"
 msgstr "鄉村道路"
 
-#, fuzzy
 msgid "Country/Region"
 msgstr "國家／地區"
 
-#, fuzzy
 msgid "Country/Region is required."
 msgstr "需填寫國家／地區。"
 
