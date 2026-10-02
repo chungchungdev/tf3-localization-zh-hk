@@ -578,7 +578,7 @@ msgstr "大亨中的大亨"
 
 #, fuzzy
 msgid "ACH_ALL_MEDALS_DESC"
-msgstr "取得活動任務的所有獎章。"
+msgstr "取得劇情任務的所有獎章。"
 
 #, fuzzy
 msgid "ACH_ALL_MEDALS_NAME"
@@ -586,7 +586,7 @@ msgstr "收藏家"
 
 #, fuzzy
 msgid "ACH_ALL_STARS_DESC"
-msgstr "收集活動任務中的所有星星。"
+msgstr "收集劇情任務中的所有星星。"
 
 #, fuzzy
 msgid "ACH_ALL_STARS_NAME"
@@ -634,7 +634,7 @@ msgstr "跨世紀大亨"
 
 #, fuzzy
 msgid "ACH_CAMPAIGN_ALL_DESC"
-msgstr "完成所有活動任務。"
+msgstr "完成所有劇情任務。"
 
 #, fuzzy
 msgid "ACH_CAMPAIGN_ALL_NAME"
@@ -642,7 +642,7 @@ msgstr "劇情大師"
 
 #, fuzzy
 msgid "ACH_CAMPAIGN_FIRST_DESC"
-msgstr "完成第一項活動任務。"
+msgstr "完成第一項劇情任務。"
 
 #, fuzzy
 msgid "ACH_CAMPAIGN_FIRST_NAME"
@@ -2245,7 +2245,7 @@ msgstr "調整音樂的音量。"
 
 #, fuzzy
 msgid "Adjust the volume of voice-overs during campaign missions."
-msgstr "調整活動任務中語音旁白的音量。"
+msgstr "調整劇情任務中語音旁白的音量。"
 
 #, fuzzy
 msgid "Adjust the weather."
@@ -3524,7 +3524,7 @@ msgstr "標記可能存在石油位置的浮標。"
 
 #, fuzzy
 msgid "CAMPAIGN_NAME"
-msgstr "活動"
+msgstr "劇情"
 
 msgid "CEO"
 msgstr "行政總裁"
@@ -3630,53 +3630,41 @@ msgstr "視角拉近"
 msgid "Camera Zoom Out"
 msgstr "視角拉遠"
 
-#, fuzzy
 msgid "Campaign"
-msgstr "活動"
+msgstr "劇情"
 
-#, fuzzy
 msgid "Campaign Design"
-msgstr "活動設計"
+msgstr "劇情設計"
 
-#, fuzzy
 msgid "Campaign Mission 01"
-msgstr "活動任務01"
+msgstr "劇情任務01"
 
-#, fuzzy
 msgid "Campaign Mission 02"
-msgstr "活動任務02"
+msgstr "劇情任務02"
 
-#, fuzzy
 msgid "Campaign Mission 03"
-msgstr "活動任務03"
+msgstr "劇情任務03"
 
-#, fuzzy
 msgid "Campaign Mission 04"
-msgstr "活動任務04"
+msgstr "劇情任務04"
 
-#, fuzzy
 msgid "Campaign Mission 05"
-msgstr "活動任務05"
+msgstr "劇情任務05"
 
-#, fuzzy
 msgid "Campaign Mission 06"
-msgstr "活動任務06"
+msgstr "劇情任務06"
 
-#, fuzzy
 msgid "Campaign Mission 07"
-msgstr "活動任務07"
+msgstr "劇情任務07"
 
-#, fuzzy
 msgid "Campaign Mission 08"
-msgstr "活動任務08"
+msgstr "劇情任務08"
 
-#, fuzzy
 msgid "Campaign Music"
-msgstr "戰役音樂"
+msgstr "劇情音樂"
 
-#, fuzzy
 msgid "Campaign Story"
-msgstr "戰役故事"
+msgstr "劇情故事"
 
 #, fuzzy
 msgid "Campgrounds"
@@ -19248,7 +19236,7 @@ msgstr "播放啟動畫面音效。"
 
 #, fuzzy
 msgid "Play voice-overs during the campaign missions."
-msgstr "於活動任務中播放語音旁白。"
+msgstr "於劇情任務中播放語音旁白。"
 
 #, fuzzy
 msgid "Player Owned"
@@ -30973,7 +30961,7 @@ msgstr "巴士"
 #, fuzzy
 msgctxt "mod-tags"
 msgid "Campaign"
-msgstr "活動"
+msgstr "劇情"
 
 #, fuzzy
 msgctxt "mod-tags"
