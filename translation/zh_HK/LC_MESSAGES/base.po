@@ -8947,7 +8947,6 @@ msgstr "介面"
 msgid "Interface Scaling"
 msgstr "介面縮放"
 
-#, fuzzy
 msgid "Internal Error (See Console for Details)"
 msgstr "內部錯誤（詳情請參閱控制台）"
 
@@ -8971,19 +8970,15 @@ msgid "Invalid Configuration, {count} Module Will Collide"
 msgid_plural "Invalid Configuration, {count} Modules Will Collide"
 msgstr[0] "此配置無效，{count}個模組將產生衝突。"
 
-#, fuzzy
 msgid "Invalid HEX Color!"
 msgstr "無效的HEX色碼！"
 
-#, fuzzy
 msgid "Invalid Input"
 msgstr "無效輸入"
 
-#, fuzzy
 msgid "Invalid Lane Configuration"
 msgstr "無效的車道配置"
 
-#, fuzzy
 msgid "Invalid file type."
 msgstr "無效的檔案類型。"
 
@@ -8991,7 +8986,6 @@ msgstr "無效的檔案類型。"
 msgid "Invalid magic number."
 msgstr "無效的魔術數字。"
 
-#, fuzzy
 msgid "Invalid mount point."
 msgstr "無效的掛載點。"
 
@@ -9082,7 +9076,6 @@ msgstr ""
 msgid "Invert the used heightmap."
 msgstr "反轉使用的高度圖"
 
-#, fuzzy
 msgid "Investments"
 msgstr "投資"
 
@@ -9250,7 +9243,6 @@ msgstr "讓住宅區保有低噪音的環境。"
 msgid "Keep the pollution level in the municipal area low."
 msgstr "降低市區內的污染程度。"
 
-#, fuzzy
 msgid "Kenner"
 msgstr "肯納"
 
@@ -9262,7 +9254,6 @@ msgstr "肯納 - 紐奧良火車路線"
 msgid "Kenner Maintenance Building"
 msgstr "肯納維修設施"
 
-#, fuzzy
 msgid "Kenner Port"
 msgstr "肯納港口"
 
@@ -9270,7 +9261,6 @@ msgstr "肯納港口"
 msgid "Kenner Station"
 msgstr "肯納站"
 
-#, fuzzy
 msgid "Kerosene"
 msgstr "煤油"
 
@@ -9355,7 +9345,6 @@ msgstr ""
 msgid "LANDMARK_ARENA_OF_VERONA_NAME"
 msgstr "圓形劇場"
 
-#, fuzzy
 msgid "LANDMARK_EIFFEL_TOWER_DESCRIPTION"
 msgstr ""
 "艾菲爾鐵塔是永不過時的創新與技術象徵，站在這座宏偉傑作的頂端，便可將周邊地區"
@@ -9363,11 +9352,9 @@ msgstr ""
 "\n"
 "可提升市區內道路車輛的速度。"
 
-#, fuzzy
 msgid "LANDMARK_EIFFEL_TOWER_NAME"
 msgstr "艾菲爾鐵塔"
 
-#, fuzzy
 msgid "LANDMARK_GREATPYRAMID_DESCRIPTION"
 msgstr ""
 "這座金字塔由數百萬噸的石塊堆砌而成，抵抗了千年的風吹雨打，是偉大文明的不朽遺"
@@ -9375,23 +9362,19 @@ msgstr ""
 "\n"
 "可提升市區內列車的速度。"
 
-#, fuzzy
 msgid "LANDMARK_GREATPYRAMID_NAME"
 msgstr "大金字塔"
 
-#, fuzzy
 msgid "LANDMARK_LIGHTHOUSE_DESCRIPTION"
 msgstr ""
 "大燈塔世世代代都在指引船員，帶領他們返回安全的港灣。它無懼風浪，始終屹立不"
 "搖。\n"
 "\n"
-"可提升市區內水上車輛的速度。"
+"可提升市區內船舶的速度。"
 
-#, fuzzy
 msgid "LANDMARK_LIGHTHOUSE_NAME"
 msgstr "大燈塔"
 
-#, fuzzy
 msgid "LANDMARK_NEUSCHWANSTEIN_DESCRIPTION"
 msgstr ""
 "這座聞名世界的城堡雄偉地矗立於綠意盎然的森林與山丘之中。它猶如童話中的經典城"
@@ -9399,42 +9382,36 @@ msgstr ""
 "\n"
 "可提升市區內道路車輛的舒適度。"
 
-#, fuzzy
 msgid "LANDMARK_NEUSCHWANSTEIN_NAME"
 msgstr "新天鵝堡"
 
-#, fuzzy
 msgid "LANDMARK_OPERA_HOUSE_DESCRIPTION"
 msgstr ""
 "宏偉壯麗的歌劇院猶如音樂與歌曲的聖殿，每個角落都迴盪著觀眾陶醉的掌聲。\n"
 "\n"
 "可提升市區內列車的舒適度。"
 
-#, fuzzy
 msgid "LANDMARK_OPERA_HOUSE_NAME"
 msgstr "歌劇院"
 
-#, fuzzy
 msgid "LANDMARK_SHIP_MUSEUM_DESCRIPTION"
 msgstr ""
 "這艘船的歷史悠久，其斑駁木材與高聳桅杆都在訴說著大海無情的力量。它體現的正是"
 "航海的黃金時代。\n"
 "\n"
-"可提升市區內水上車輛的舒適度。"
+"可提升市區內船舶的舒適度。"
 
 #, fuzzy
 msgid "LANDMARK_SHIP_MUSEUM_NAME"
 msgstr "船舶博物館"
 
-#, fuzzy
 msgid "LANDMARK_STATUE_OF_LIBERTY_DESCRIPTION"
 msgstr ""
 "這座雕像如一座驕傲地屹立於海面之上的燈塔一般。它不僅是座紀念碑，更是熱情好客"
 "與自由的象徵。\n"
 "\n"
-"可減少市區內水上車輛的污染。"
+"可減少市區內船舶的污染。"
 
-#, fuzzy
 msgid "LANDMARK_STATUE_OF_LIBERTY_NAME"
 msgstr "自由女神像"
 
@@ -9457,23 +9434,20 @@ msgstr ""
 "\n"
 "可減少市區內航空車輛的噪音。"
 
-#, fuzzy
 msgid "LANDMARK_TAJMAHAL_NAME"
 msgstr "泰姬瑪哈陵"
 
-#, fuzzy
 msgid "LANDMARK_WESTMINSTER_DESCRIPTION"
 msgstr ""
 "這座宮殿擁有引人注目的哥德式建築與極具標誌性的鐘樓，在周圍建物中顯得格外耀"
 "眼，也是堅毅精神的象徵。\n"
 "\n"
-"可提升市區內所有車輛的速度。"
+"可提升市區內所有載具的速度。"
 
 #, fuzzy
 msgid "LANDMARK_WESTMINSTER_NAME"
 msgstr "國會大廈"
 
-#, fuzzy
 msgid "LANDMARK_WHITE_HERON_CASTLE_DESCRIPTION"
 msgstr ""
 "這座城是個融合了傳統與力量的日本建築傑作。它既是優美的宮殿，同時也是堅不可摧"
@@ -9481,7 +9455,6 @@ msgstr ""
 "\n"
 "可減少市區內列車的污染。"
 
-#, fuzzy
 msgid "LANDMARK_WHITE_HERON_CASTLE_NAME"
 msgstr "姬路城"
 
@@ -9501,15 +9474,12 @@ msgstr "湖岸船塢"
 msgid "Lake Shore Ship Line"
 msgstr "湖岸船舶路線"
 
-#, fuzzy
 msgid "Lakes"
 msgstr "湖泊"
 
-#, fuzzy
 msgid "Lamps"
 msgstr "燈"
 
-#, fuzzy
 msgid "Land Animals"
 msgstr "陸上動物"
 
@@ -9529,7 +9499,6 @@ msgstr "起降平台"
 msgid "Landing pad for helicopters."
 msgstr "直升機的起降平台。"
 
-#, fuzzy
 msgid "Landmark"
 msgstr "地標"
 
@@ -9739,15 +9708,12 @@ msgstr "路線問題"
 msgid "Line Segment Mode"
 msgstr "路線區段模式"
 
-#, fuzzy
 msgid "Line Statistics"
 msgstr "路線統計資料"
 
-#, fuzzy
 msgid "Line Usage"
 msgstr "路線使用量"
 
-#, fuzzy
 msgid "Line Usage: {percentage}"
 msgstr "路線使用量：{percentage}"
 
@@ -9785,19 +9751,15 @@ msgstr "液體貨物"
 msgid "Livestock Field"
 msgstr "畜牧場"
 
-#, fuzzy
 msgid "Load Camera Config"
 msgstr "載入視角配置"
 
-#, fuzzy
 msgid "Load Climate"
 msgstr "載入氣候"
 
-#, fuzzy
 msgid "Load Custom Map"
 msgstr "載入自訂地圖"
 
-#, fuzzy
 msgid "Load Game"
 msgstr "載入遊戲"
 
@@ -10005,7 +9967,7 @@ msgstr "洛丁"
 
 #, fuzzy
 msgid "Løding Bus Line"
-msgstr "洛丁Bus路線"
+msgstr "洛丁巴士路線"
 
 #, fuzzy
 msgid "Løding Bus Station"
@@ -17733,15 +17695,12 @@ msgstr "模組無法使用。"
 msgid "Mod is not installed and cannot be configured."
 msgstr "模組尚未安裝，無法調整配置。"
 
-#, fuzzy
 msgid "Mod is not installed."
 msgstr "模組尚未安裝。"
 
-#, fuzzy
 msgid "Mode"
 msgstr "模式"
 
-#, fuzzy
 msgid "Model"
 msgstr "型號"
 
@@ -17757,55 +17716,43 @@ msgstr "模型資料驗證"
 msgid "Model Meshes Load"
 msgstr "模型網格載入"
 
-#, fuzzy
 msgid "Modify"
 msgstr "修改"
 
-#, fuzzy
 msgid "Modify All Vehicles"
-msgstr "修改所有車輛"
+msgstr "修改所有載具"
 
-#, fuzzy
 msgid "Modify Selected Vehicle"
 msgid_plural "Modify Selected Vehicles"
-msgstr[0] "修改已選擇之車輛"
+msgstr[0] "修改已選擇的載具"
 
-#, fuzzy
 msgid "Modify Vehicles"
-msgstr "修改車輛"
+msgstr "修改載具"
 
-#, fuzzy
 msgid "Modify an industry to reduce its emissions."
 msgstr "調整產業來減少其排放量。"
 
-#, fuzzy
 msgid ""
 "Modify the terrain with a heightmap texture. Changing the terrain results in "
 "a loss of reputation in the nearest town."
 msgstr "透過高度圖紋理來修改地形。改變地形將導致距離最近的城鎮聲望下降。"
 
-#, fuzzy
 msgid "Modify {count} Vehicle for {cost}"
 msgid_plural "Modify {count} Vehicles for {cost}"
-msgstr[0] "以{cost}修改{count}部車輛"
+msgstr[0] "以{cost}修改{count}架載具"
 
-#, fuzzy
 msgid "Mods"
 msgstr "模組"
 
-#, fuzzy
 msgid "Mods ({count})"
 msgstr "模組（{count}）"
 
-#, fuzzy
 msgid "Mods ({numMods})"
 msgstr "模組（{numMods}）"
 
-#, fuzzy
 msgid "Mods that are still being downloaded will not be available."
 msgstr "尚在下載中的模組無法使用。"
 
-#, fuzzy
 msgid "Modular train station for cargo and passengers."
 msgstr "模組化的貨運火車站，可運送貨物與乘客。"
 
@@ -17813,11 +17760,9 @@ msgstr "模組化的貨運火車站，可運送貨物與乘客。"
 msgid "Module Builder Only"
 msgstr "僅限模組建造器"
 
-#, fuzzy
 msgid "Money Number Format"
 msgstr "金額數字格式"
 
-#, fuzzy
 msgid "Month"
 msgstr "月"
 
@@ -17865,79 +17810,60 @@ msgstr "中等苔蘚岩石"
 msgid "Mountains"
 msgstr "山峰"
 
-#, fuzzy
 msgid "Mouse"
 msgstr "滑鼠"
 
-#, fuzzy
 msgid "Mouse Control"
 msgstr "滑鼠控制"
 
-#, fuzzy
 msgid "Mouse Movement Sensitivity"
 msgstr "滑鼠移動靈敏度"
 
-#, fuzzy
 msgid "Mouse Position Info"
 msgstr "滑鼠位置資訊"
 
-#, fuzzy
 msgid "Mouse Settings"
 msgstr "滑鼠設定"
 
-#, fuzzy
 msgid "Mouse Wheel Sensitivity"
 msgstr "滑鼠滾輪靈敏度"
 
-#, fuzzy
 msgid "Move Down"
 msgstr "向下移動"
 
-#, fuzzy
 msgid "Move Environment Down"
 msgstr "環境下移"
 
-#, fuzzy
 msgid "Move Environment Up"
 msgstr "環境上移"
 
-#, fuzzy
 msgid "Move Fade Down"
 msgstr "將淡出效果下移"
 
-#, fuzzy
 msgid "Move Fade Up"
 msgstr "將淡出效果上移"
 
-#, fuzzy
 msgid "Move Key Frame Down"
 msgstr "將Keyframe下移"
 
-#, fuzzy
 msgid "Move Key Frame Up"
 msgstr "將Keyframe上移"
 
-#, fuzzy
 msgid "Move Left"
 msgstr "向左移動"
 
-#, fuzzy
 msgid "Move Mod Down"
 msgstr "將模組下移"
 
-#, fuzzy
 msgid "Move Mod Up"
 msgstr "將模組上移"
 
-#, fuzzy
 msgid "Move Mod to Bottom"
 msgstr "將模組移至底部"
 
-#, fuzzy
 msgid "Move Mod to Top"
 msgstr "將模組移至頂部"
 
-#, fuzzy
 msgid "Move Right"
 msgstr "向右移動"
 
@@ -17957,7 +17883,6 @@ msgstr "移動停留點模式"
 msgid "Move Stop Up"
 msgstr "向上移動 停止"
 
-#, fuzzy
 msgid "Move Up"
 msgstr "向上移動"
 
@@ -18010,31 +17935,24 @@ msgstr "音樂播放器"
 msgid "Mute"
 msgstr "靜音"
 
-#, fuzzy
 msgid "My Mods"
 msgstr "我的模組"
 
-#, fuzzy
 msgid "Mørkved"
 msgstr "莫克維德"
 
-#, fuzzy
 msgid "Mørkved Port"
 msgstr "莫克維德港口"
 
-#, fuzzy
 msgid "Mørkved Ship Depot"
-msgstr "莫克維德Ship倉庫"
+msgstr "莫克維德船塢"
 
-#, fuzzy
 msgid "N/A"
 msgstr "不適用"
 
-#, fuzzy
 msgid "Nagata"
 msgstr "長田"
 
-#, fuzzy
 msgid "Nagata Port"
 msgstr "長田港口"
 
@@ -18046,18 +17964,15 @@ msgstr "中之神"
 msgid "Nakanokami Airfield"
 msgstr "中之神飛行場"
 
-#, fuzzy
 msgid "Nakatane"
 msgstr "中種子"
 
 msgid "Nakatane Road Depot"
 msgstr "中種子車廠"
 
-#, fuzzy
 msgid "Name"
 msgstr "名稱"
 
-#, fuzzy
 msgid "Names"
 msgstr "名稱"
 
@@ -18069,7 +17984,6 @@ msgstr "納羅斯堡"
 msgid "Narrowsburg Port"
 msgstr "納羅斯堡港口"
 
-#, fuzzy
 msgid "Nature Reserve Center"
 msgstr "自然保護中心"
 
@@ -18089,11 +18003,9 @@ msgstr "瑙爾斯塔煉油廠"
 msgid "Naurstad Station"
 msgstr "瑙爾斯塔站"
 
-#, fuzzy
 msgid "Navigable Waters"
 msgstr "可航行水域"
 
-#, fuzzy
 msgid ""
 "Navigate back, close windows and abort actions with right-click.\n"
 "\n"
@@ -18103,35 +18015,27 @@ msgstr ""
 "\n"
 "即使停用滑鼠右鍵功能，仍可使用ESC鍵。"
 
-#, fuzzy
 msgid "Never"
 msgstr "永不"
 
-#, fuzzy
 msgid "New Cargo Demand"
 msgstr "新貨物需求"
 
-#, fuzzy
 msgid "New Construction"
 msgstr "新建設"
 
-#, fuzzy
 msgid "New Construction Available"
 msgstr "可建造的新建設"
 
-#, fuzzy
 msgid "New Constructions Available"
 msgstr "可建造的新建設"
 
-#, fuzzy
 msgid "New Game"
 msgstr "新遊戲"
 
-#, fuzzy
 msgid "New Game - Load Map"
 msgstr "新遊戲 - 載入地圖"
 
-#, fuzzy
 msgid "New Game - Settings"
 msgstr "新遊戲 - 設定"
 
@@ -18139,11 +18043,9 @@ msgstr "新遊戲 - 設定"
 msgid "New Industry Founded"
 msgstr "新產業已建立"
 
-#, fuzzy
 msgid "New Line"
 msgstr "新路線"
 
-#, fuzzy
 msgid "New Loans"
 msgstr "新貸款"
 
@@ -18153,7 +18055,7 @@ msgstr "紐奧良"
 
 #, fuzzy
 msgid "New Orleans Bus Line"
-msgstr "紐奧良Bus路線"
+msgstr "紐奧良巴士路線"
 
 #, fuzzy
 msgid "New Orleans Fishing Grounds"
@@ -18189,11 +18091,11 @@ msgstr "紐奧良輕軌車廠"
 
 #, fuzzy
 msgid "New Orleans Tram Line 1"
-msgstr "紐奧良Tram路線1"
+msgstr "紐奧良輕軌路線1"
 
 #, fuzzy
 msgid "New Orleans Tram Line 2"
-msgstr "紐奧良Tram路線2"
+msgstr "紐奧良輕軌路線2"
 
 #, fuzzy
 msgid "New Profile Name"
@@ -25545,7 +25447,7 @@ msgstr ""
 "大燈塔將在這處工地逐步成形。請供應所有必要資源來完成此建案，讓這座壯觀的建築"
 "得以誕生。\n"
 "\n"
-"完工後，它將可提升市區內所有水上車輛的最高速度。"
+"完工後，它將可提升市區內所有船舶的最高速度。"
 
 #, fuzzy
 msgid ""
@@ -25600,7 +25502,7 @@ msgstr ""
 "船舶博物館將在這處工地逐步成形。請供應所有必要資源來完成此建案，讓這座壯觀的"
 "建築得以誕生。\n"
 "\n"
-"完工後，它將可提升市區內所有水上車輛的舒適度。"
+"完工後，它將可提升市區內所有船舶的舒適度。"
 
 #, fuzzy
 msgid ""
@@ -25614,7 +25516,7 @@ msgstr ""
 "自由女神像將在這處工地逐步成形。請供應所有必要資源來完成此建案，讓這座壯觀的"
 "建築得以誕生。\n"
 "\n"
-"完工後，它將可減少市區內所有水上車輛的污染。"
+"完工後，它將可減少市區內所有船舶的污染。"
 
 #, fuzzy
 msgid ""
