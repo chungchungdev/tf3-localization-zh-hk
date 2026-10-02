@@ -2703,7 +2703,6 @@ msgstr "拱橋"
 msgid "Are you sure that you want to end the tutorial?"
 msgstr "確定要結束教學嗎？"
 
-#, fuzzy
 msgid "Are you sure to delete preset {preset}"
 msgstr "確定要刪除預設組合{preset}嗎？"
 
@@ -3719,7 +3718,6 @@ msgstr "無法設置停靠站。"
 msgid "Cannot add waypoint."
 msgstr "無法設置定位點。"
 
-#, fuzzy
 msgid "Cannot delete line."
 msgstr "無法刪除路線。"
 
@@ -3757,7 +3755,7 @@ msgstr "容量調整係數"
 
 #, fuzzy
 msgid "Capture Image"
-msgstr "擷取圖片"
+msgstr "截圖"
 
 #, fuzzy
 msgid "Capture Latlong"
@@ -3767,15 +3765,12 @@ msgstr "擷取經緯度"
 msgid "Car"
 msgstr "開車"
 
-#, fuzzy
 msgid "Cargo"
 msgstr "貨物"
 
-#, fuzzy
 msgid "Cargo Demand"
 msgstr "貨物需求"
 
-#, fuzzy
 msgid "Cargo Experience"
 msgstr "貨運經驗值"
 
@@ -3783,7 +3778,6 @@ msgstr "貨運經驗值"
 msgid "Cargo Filter"
 msgstr "貨物篩選條件"
 
-#, fuzzy
 msgid "Cargo Flow"
 msgstr "貨物流動"
 
@@ -3791,7 +3785,6 @@ msgstr "貨物流動"
 msgid "Cargo Flow Layer"
 msgstr "貨物流動圖層"
 
-#, fuzzy
 msgid "Cargo Income"
 msgstr "貨運收益"
 
@@ -3799,15 +3792,12 @@ msgstr "貨運收益"
 msgid "Cargo Not Unloaded"
 msgstr "貨物未卸載"
 
-#, fuzzy
 msgid "Cargo Satisfaction"
 msgstr "貨運滿意度"
 
-#, fuzzy
 msgid "Cargo Satisfaction Layer"
 msgstr "貨物運輸滿意度圖層"
 
-#, fuzzy
 msgid "Cargo Station"
 msgstr "貨運站"
 
@@ -3815,7 +3805,6 @@ msgstr "貨運站"
 msgid "Cargo Stop Incompatible With Passenger Vehicles"
 msgstr "貨運站點與客運車輛不相容"
 
-#, fuzzy
 msgid "Cargo Supply Rating"
 msgstr "貨物供應評價"
 
@@ -3851,7 +3840,6 @@ msgstr "模組化的貨運火車站，可運送所有類型的貨物。可利用
 msgid "Cargo stop cannot be used by passenger vehicles."
 msgstr "客運運具無法使用貨運停留點。"
 
-#, fuzzy
 msgid "Cargo: {type}"
 msgstr "貨物：{type}"
 
@@ -3867,7 +3855,6 @@ msgstr "汽車"
 msgid "Cart"
 msgstr "購物車"
 
-#, fuzzy
 msgid "Catch Me!"
 msgstr "抓我！"
 
@@ -3895,7 +3882,6 @@ msgstr "宿霧港口"
 msgid "Cebu Rubber Farm"
 msgstr "宿霧橡膠農場"
 
-#, fuzzy
 msgid "Cement"
 msgstr "水泥"
 
