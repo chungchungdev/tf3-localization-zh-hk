@@ -4689,11 +4689,10 @@ msgid ""
 "steadily and reached a new level: {townType}."
 msgstr "恭喜，在良好的經營下，{townName}得以穩定成長，並升級為：{townType}。"
 
-#, fuzzy
 msgid ""
 "Congratulations, the first passenger just boarded a transit vehicle in "
 "{townName}!"
-msgstr "恭喜，{townName}剛剛迎來了第一位搭乘大眾運輸的乘客！"
+msgstr "恭喜，{townName}剛剛迎來了第一位搭乘公共交通工具的乘客！"
 
 #, fuzzy
 msgid ""
@@ -5276,12 +5275,12 @@ msgstr "DLC"
 #, fuzzy
 msgid "DLC_DELUXE_UPGRADE_PACK_DESCRIPTION"
 msgstr ""
-"Transport Fever 3: Deluxe Edition 增添了經典載具、更多世界知名地標，以及來自"
+"運輸業大亨3：豪華版 增添了經典載具、更多世界知名地標，以及來自"
 "全球的特殊野生動物，讓你在主遊戲的基礎上將運輸網路提升到全新境界。\n"
 "\n"
 "六款海陸空傳奇載具：\n"
 "- 協和號客機：史上最快的客機\n"
-"- 倫敦巴士：永恆經典的大眾運輸象徵\n"
+"- 倫敦巴士：永恆經典的公共交通工具象徵\n"
 "- 環歐快車：豪華鐵路之旅的里程碑\n"
 "- 彼得比爾特359：兼具強大動力與耐力的傳奇貨車\n"
 "- 香港路面電車：經典的雙層路面電車\n"
@@ -5308,17 +5307,14 @@ msgstr ""
 "- 趣味元素：遊戲中還有 3 個精彩元素等著你發現\n"
 "- 系列作品原聲帶：伴隨著我們歷代作品中的樂曲，打造出你的運輸網路"
 
-#, fuzzy
 msgid "DLC_DELUXE_UPGRADE_PACK_NAME"
-msgstr "豪華升級"
+msgstr "豪華版升級"
 
-#, fuzzy
 msgid "DLC_DELUXE_UPGRADE_PACK_SUMMARY"
 msgstr ""
-"Transport Fever 3: Deluxe Edition 增添了經典載具、更多世界知名地標，以及來自"
+"運輸業大亨3：豪華版 增添了經典載具、更多世界知名地標，以及來自"
 "全球的特殊野生動物，讓你在主遊戲的基礎上將運輸網路提升到全新境界。"
 
-#, fuzzy
 msgid "DLC_PREORDER_PACK_DESCRIPTION"
 msgstr ""
 "預購組合包內含《運輸業大亨3》玩家初期支援專屬內容，可為遊戲世界增添更多經典元"
@@ -5333,11 +5329,9 @@ msgstr ""
 "雄偉的野生動物\n"
 "- 熱帶象：象徵熱帶地區力量與生命的雄偉生靈"
 
-#, fuzzy
 msgid "DLC_PREORDER_PACK_NAME"
 msgstr "預購包"
 
-#, fuzzy
 msgid "DLC_PREORDER_PACK_SUMMARY"
 msgstr ""
 "預購組合包內含《運輸業大亨3》玩家初期支援專屬內容，可為遊戲世界增添更多經典元"
@@ -9548,7 +9542,7 @@ msgstr "發射台"
 msgid ""
 "Launch a marketing campaign in a town to boost reputation and encourage more "
 "residents to use public transportation."
-msgstr "在城鎮中展開行銷活動可提升聲望，並吸引更多居民使用大眾運輸。"
+msgstr "在城鎮中展開行銷活動可提升聲望，並吸引更多居民乘搭公共交通工具。"
 
 #, fuzzy
 msgid "Lava Rock"
@@ -17055,13 +17049,12 @@ msgstr ""
 msgid "MISSION_7_GUIDE_HAPPINESS_NAME"
 msgstr "乘客幸福度"
 
-#, fuzzy
 msgid "MISSION_7_GUIDE_HAPPINESS_PARAGRAPH"
 msgstr ""
-"乘客等候大眾運輸時間過長，或長時間搭乘舒適度不足的車輛，心情就會變差。\n"
+"乘客等候公共交通工具時間過長，或長時間搭乘舒適度不足的載具，心情就會變差。\n"
 "\n"
 "若要提升乘客的幸福度，長途客運路線應使用舒適度較高的車輛。此外也可以使用巴士"
-"專用道，將車道保留給大眾運輸，或是建造地下輕軌，提供更快速的運輸與更大的載客"
+"專用道，將車道保留給公共交通工具，或是建造地下輕軌，提供更快速的運輸與更大的載客"
 "量。"
 
 #, fuzzy
@@ -19569,13 +19562,11 @@ msgstr "公共服務"
 msgid "Public Transport"
 msgstr "公共交通"
 
-#, fuzzy
 msgid "Public Transport and Residential Supplies"
-msgstr "大眾運輸與住宅區供應"
+msgstr "公共交通與住宅區供應"
 
-#, fuzzy
 msgid "Public transport coverage is {percent}."
-msgstr "大眾運輸覆蓋率為{percent}。"
+msgstr "公共交通覆蓋率為{percent}。"
 
 #, fuzzy
 msgid "Publisher"
@@ -24031,7 +24022,7 @@ msgstr "建造一座道路停靠站"
 #, fuzzy
 msgid "TUTORIAL_BUILD_ROAD_STOP_1_TASK_PARAGRAPH"
 msgstr ""
-"所有城鎮都需要大眾運輸，因此就先來處理這部分吧。在建設選單中選擇一個道路停靠"
+"所有城鎮都需要公共交通，因此就先來處理這部分吧。在建設選單中選擇一個道路停靠"
 "站，然後將它設置在[link=entity_town]{TOWN_NAME}[/link]的住宅區裡。"
 
 #, fuzzy
