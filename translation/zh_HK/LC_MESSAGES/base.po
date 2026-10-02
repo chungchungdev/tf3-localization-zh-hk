@@ -18025,10 +18025,10 @@ msgid "New Construction"
 msgstr "新建設"
 
 msgid "New Construction Available"
-msgstr "可建造的新建設"
+msgstr "新建築現已開放"
 
 msgid "New Constructions Available"
-msgstr "可建造的新建設"
+msgstr "新建築現已開放"
 
 msgid "New Game"
 msgstr "新遊戲"
@@ -18101,7 +18101,6 @@ msgstr "紐奧良輕軌路線2"
 msgid "New Profile Name"
 msgstr "新個人資料名稱"
 
-#, fuzzy
 msgid "New Road Available"
 msgstr "新道路現已開放"
 
@@ -18109,25 +18108,20 @@ msgstr "新道路現已開放"
 msgid "New Subsidy Available"
 msgstr "有可申請的新補助"
 
-#, fuzzy
 msgid "New Track Type"
 msgstr "新軌道類型"
 
-#, fuzzy
 msgid "New Tram Tracks Available"
 msgstr "新輕軌軌道已開放"
 
-#, fuzzy
 msgid "New Vehicle"
-msgstr "新車輛"
+msgstr "新載具"
 
-#, fuzzy
 msgid "New Vehicle Available"
-msgstr "新車輛上市"
+msgstr "新載具上市"
 
-#, fuzzy
 msgid "New Vehicles Available"
-msgstr "新車輛上市"
+msgstr "新載具上市"
 
 #, fuzzy
 msgid "Next"
