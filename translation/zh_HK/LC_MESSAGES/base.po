@@ -29816,7 +29816,7 @@ msgstr "植被橡皮擦工具"
 
 #, fuzzy
 msgid "Vehicle"
-msgstr "車輛"
+msgstr "載具"
 
 #, fuzzy
 msgid "Vehicle Comfort"
@@ -29900,7 +29900,7 @@ msgstr "車輛目前無法使用。"
 
 #, fuzzy
 msgid "Vehicles"
-msgstr "車輛"
+msgstr "載具"
 
 #, fuzzy
 msgid "Vehicles Are Not Valid"
@@ -31270,7 +31270,7 @@ msgstr "植被"
 #, fuzzy
 msgctxt "mod-tags"
 msgid "Vehicle"
-msgstr "車輛"
+msgstr "載具"
 
 #, fuzzy
 msgctxt "mod-tags"
@@ -31361,7 +31361,7 @@ msgstr "人"
 #, fuzzy
 msgctxt "objects"
 msgid "Vehicles"
-msgstr "車輛"
+msgstr "載具"
 
 msgid "or log in with"
 msgstr "或使用以下方式登入"
