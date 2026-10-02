@@ -23563,7 +23563,6 @@ msgstr "吊橋"
 msgid "Swamp Soil"
 msgstr "沼澤土壤"
 
-#, fuzzy
 msgid "Swamps"
 msgstr "沼澤"
 
@@ -23571,7 +23570,6 @@ msgstr "沼澤"
 msgid "Swedish"
 msgstr "瑞典文"
 
-#, fuzzy
 msgid "Swimming"
 msgstr "游泳"
 
@@ -23587,11 +23585,9 @@ msgstr "對稱車道"
 msgid "Symmetry"
 msgstr "對稱性"
 
-#, fuzzy
 msgid "Synchronizing ..."
 msgstr "正在同步……"
 
-#, fuzzy
 msgid "System"
 msgstr "系統"
 
