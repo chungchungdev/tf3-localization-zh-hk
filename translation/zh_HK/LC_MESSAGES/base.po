@@ -2550,11 +2550,10 @@ msgstr "美洲"
 msgid "Amount of cargo or passengers a line can transport per year."
 msgstr "路線每年可運輸的貨物或乘客總量。"
 
-#, fuzzy
 msgid ""
 "An account with this email address already exists. Please log in or use a "
 "different email address."
-msgstr "此電子郵件地址已註冊帳號。請登入，或使用其他電子郵件地址。"
+msgstr "已經有帳號以此電郵地址註冊。請登入，或使用其他電郵地址。"
 
 #, fuzzy
 msgid "An unknown line issue occured."
@@ -24868,11 +24867,10 @@ msgstr "文字縮放"
 msgid "Textures"
 msgstr "材質"
 
-#, fuzzy
 msgid ""
 "Thank you for creating a Paradox Account! We have sent you a link to confirm "
 "your email address."
-msgstr "感謝你建立Paradox帳號！我們已寄送電子郵件地址驗證連結給你。"
+msgstr "感謝你建立Paradox帳號！我們已寄送電郵地址驗證連結給你。"
 
 #, fuzzy
 msgid "Thank you for your report. It has been submitted successfully."
@@ -25057,7 +25055,7 @@ msgstr "依賴項「{dependency}」無法解析為 mod.io mod id，上載已取�
 msgid ""
 "The email address you entered is invalid. Please check your input and try "
 "again."
-msgstr "你輸入的電子郵件地址無效。請檢查輸入內容後再試一次。"
+msgstr "你輸入的電郵地址無效。請檢查輸入內容後再試一次。"
 
 #, fuzzy
 msgid ""
