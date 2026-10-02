@@ -1771,7 +1771,6 @@ msgstr "遭劫持"
 msgid "Abducting"
 msgstr "劫持中"
 
-#, fuzzy
 msgid "Abort"
 msgstr "終止"
 
@@ -1779,11 +1778,9 @@ msgstr "終止"
 msgid "Abu Khashaba Canyon Camp Site"
 msgstr "阿布哈沙巴峽谷營地"
 
-#, fuzzy
 msgid "Accept"
 msgstr "接受"
 
-#, fuzzy
 msgid "Accept the World as It Is"
 msgstr "不修改世界設定"
 
@@ -4403,39 +4400,30 @@ msgstr "清除Keyframe清單"
 msgid "Clear Proposal"
 msgstr "清除建議"
 
-#, fuzzy
 msgid "Cliff Canyon Brown"
-msgstr "棕色峽谷峭壁"
+msgstr "啡色峽谷峭壁"
 
-#, fuzzy
 msgid "Cliff Canyon Red"
 msgstr "紅色峽谷峭壁"
 
-#, fuzzy
 msgid "Cliff Canyon Rocky"
 msgstr "岩質峽谷峭壁"
 
-#, fuzzy
 msgid "Cliff Canyon Rocky Brown"
-msgstr "棕色岩質峽谷峭壁"
+msgstr "啡色岩質峽谷峭壁"
 
-#, fuzzy
 msgid "Cliff Mesa"
 msgstr "台地岩壁"
 
-#, fuzzy
 msgid "Cliff Rock Medium"
 msgstr "中型岩壁"
 
-#, fuzzy
 msgid "Cliff Rock Rough"
 msgstr "粗糙岩壁"
 
-#, fuzzy
 msgid "Climate"
 msgstr "氣候"
 
-#, fuzzy
 msgid "Clone"
 msgstr "複製"
 
@@ -4448,11 +4436,9 @@ msgid "Clone Selected Vehicle"
 msgid_plural "Clone Selected Vehicles"
 msgstr[0] "複製已選擇之車輛"
 
-#, fuzzy
 msgid "Close"
 msgstr "關閉"
 
-#, fuzzy
 msgid "Close All"
 msgstr "全部關閉"
 
@@ -4464,11 +4450,9 @@ msgstr ""
 "關閉所有視窗並用[iaHint=IA_INSPECTOR/]切換至檢視模式，然後選擇3D世界中標有"
 "{TOWN_NAME}的HUD圖示。"
 
-#, fuzzy
 msgid "Closed Beta Version: Strictly Confidential"
 msgstr "封閉Beta測試版本：絕對機密"
 
-#, fuzzy
 msgid "Clothes"
 msgstr "衣物"
 
