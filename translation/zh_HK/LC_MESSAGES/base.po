@@ -1791,7 +1791,7 @@ msgid "Accomplishment"
 msgstr "成就"
 
 msgid "Account"
-msgstr "帳號"
+msgstr "銀行戶口"
 
 #, fuzzy
 msgid "Action Buttons"
