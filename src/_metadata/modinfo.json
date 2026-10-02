@@ -1,7 +1,7 @@
 {
   "name": "Localization - Hong Kong",
   "summary": "Add Traditional Chinese(Hong Kong) support for the game.",
-  "description": "Make the official Traditional Chinese more idiomatic to Hong Kong people and fix some suspected AI slop translations.\nUpdating as I play",
+  "description": "Make the official Traditional Chinese more idiomatic to Hong Kong people and fix some suspected AI slop translations.\nUpdating as I play.",
   "localization": {
     "en": {
       "name": "Localization - Traditional Chinese(Hong Kong)",
