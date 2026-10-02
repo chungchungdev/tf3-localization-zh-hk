@@ -4813,9 +4813,8 @@ msgstr "建設選項7"
 msgid "Construction Option 8"
 msgstr "建設選項8"
 
-#, fuzzy
 msgid "Construction Site"
-msgstr "建設工地"
+msgstr "建築地盤"
 
 #, fuzzy
 msgid "Construction finished"
@@ -12064,9 +12063,8 @@ msgstr "側線已經完成了，洛倫佐。機器應該很快就會運到了！
 msgid "MISSION_02_TASK_DELIVER_MACHINES_CONTINUED_NAME"
 msgstr "運送機器"
 
-#, fuzzy
 msgid "MISSION_02_TASK_DELIVER_MACHINES_CONTINUED_PARAGRAPH"
-msgstr "將機械運送至[link=entity_construction_tunnel]建設工地[/link]。"
+msgstr "將機械運送至[link=entity_construction_tunnel]建築地盤[/link]。"
 
 #, fuzzy
 msgid "MISSION_02_TASK_DELIVER_MACHINES_INSTRUCTION"
@@ -12253,9 +12251,8 @@ msgstr "現在我們必須等機器運到。"
 msgid "MISSION_02_TASK_WAIT_FOR_MACHINES_NAME"
 msgstr "運送機器"
 
-#, fuzzy
 msgid "MISSION_02_TASK_WAIT_FOR_MACHINES_PARAGRAPH"
-msgstr "將機械運送至[link=entity_construction_tunnel]建設工地[/link]。"
+msgstr "將機械運送至[link=entity_construction_tunnel]建築地盤[/link]。"
 
 #, fuzzy
 msgid "MISSION_03_CHARACTER_1_INFO"
@@ -23595,13 +23592,11 @@ msgstr "提供資源以建造此地標"
 msgid "Supply Town"
 msgstr "供應城鎮"
 
-#, fuzzy
 msgid "Supply resources to the construction site."
-msgstr "為建設工地供應資源。"
+msgstr "為建築地盤供應資源。"
 
-#, fuzzy
 msgid "Supply the construction site with resources."
-msgstr "供應建設工地所需的資源。"
+msgstr "供應建築地盤所需的資源。"
 
 #, fuzzy
 msgid "Supported Cargo:"
@@ -26250,9 +26245,8 @@ msgstr "隧道"
 msgid "Tunnel Building Not Allowed In Current Mission"
 msgstr "目前任務不允許建造隧道"
 
-#, fuzzy
 msgid "Tunnel Construction Site"
-msgstr "隧道建設工地"
+msgstr "隧道建築地盤"
 
 #, fuzzy
 msgid "Tunnel Height"
