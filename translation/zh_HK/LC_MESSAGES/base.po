@@ -21424,7 +21424,7 @@ msgstr "中型機場滑行道"
 #, fuzzy
 msgid "STREET_COUNTRY_NEW_LARGE_BARRIERS_DESC"
 msgstr ""
-"這條六線道柏油道路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度下"
+"這條六線道瀝青路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度下"
 "降。隔音牆可減少交通噪音。"
 
 #, fuzzy
@@ -21434,7 +21434,7 @@ msgstr "大型鄉村道路（設有隔音牆）"
 #, fuzzy
 msgid "STREET_COUNTRY_NEW_LARGE_BUS_DESC"
 msgstr ""
-"這條六線道柏油道路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度下"
+"這條六線道瀝青路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度下"
 "降。巴士專線僅供巴士與貨車行駛，私人車輛原則上不得進入。"
 
 msgid "STREET_COUNTRY_NEW_LARGE_BUS_NAME"
@@ -21443,7 +21443,7 @@ msgstr "大型鄉村道路（設有巴士專線）"
 #, fuzzy
 msgid "STREET_COUNTRY_NEW_LARGE_DESC"
 msgstr ""
-"這條六線道柏油道路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度下"
+"這條六線道瀝青路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度下"
 "降。"
 
 #, fuzzy
@@ -21453,7 +21453,7 @@ msgstr "大型鄉村道路"
 #, fuzzy
 msgid "STREET_COUNTRY_NEW_MEDIUM_BARRIERS_DESC"
 msgstr ""
-"這條四線道柏油道路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度下"
+"這條四線道瀝青路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度下"
 "降。隔音牆可減少交通噪音。"
 
 #, fuzzy
@@ -21463,7 +21463,7 @@ msgstr "中型鄉村道路（設有隔音牆）"
 #, fuzzy
 msgid "STREET_COUNTRY_NEW_MEDIUM_BUS_DESC"
 msgstr ""
-"這條四線道柏油道路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度下"
+"這條四線道瀝青路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度下"
 "降。巴士專線僅供巴士與貨車行駛，私人車輛原則上不得進入。"
 
 #, fuzzy
@@ -21473,7 +21473,7 @@ msgstr "中型鄉村道路（設有巴士專線）"
 #, fuzzy
 msgid "STREET_COUNTRY_NEW_MEDIUM_DESC"
 msgstr ""
-"這條四線道柏油道路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度下"
+"這條四線道瀝青路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度下"
 "降。"
 
 #, fuzzy
@@ -21483,7 +21483,7 @@ msgstr "中型鄉村道路"
 #, fuzzy
 msgid "STREET_COUNTRY_NEW_SMALL_BARRIERS_DESC"
 msgstr ""
-"這條二線道柏油道路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度下"
+"這條二線道瀝青路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度下"
 "降。隔音牆可減少交通噪音。"
 
 #, fuzzy
@@ -21493,7 +21493,7 @@ msgstr "小型鄉村道路（設有隔音牆）"
 #, fuzzy
 msgid "STREET_COUNTRY_NEW_SMALL_DESC"
 msgstr ""
-"這條二線道柏油道路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度下"
+"這條二線道瀝青路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度下"
 "降。"
 
 #, fuzzy
@@ -21670,7 +21670,7 @@ msgstr "單線道高速公路"
 #, fuzzy
 msgid "STREET_TOWN_NEW_LARGE_BARRIERS_DESC"
 msgstr ""
-"這條六線道柏油道路附設行人路，很適合城鎮內的道路需求。隔音牆可減少交通噪音，"
+"這條六線道瀝青路附設行人路，很適合城鎮內的道路需求。隔音牆可減少交通噪音，"
 "但也會使建築的建造受限。"
 
 #, fuzzy
@@ -21680,7 +21680,7 @@ msgstr "大型街道（設有隔音牆）"
 #, fuzzy
 msgid "STREET_TOWN_NEW_LARGE_BUS_DESC"
 msgstr ""
-"這條六線道柏油道路附設行人路，很適合城鎮內的道路需求。巴士專線僅供巴士與卡"
+"這條六線道瀝青路附設行人路，很適合城鎮內的道路需求。巴士專線僅供巴士與卡"
 "車行駛，私人車輛原則上不得進入。"
 
 #, fuzzy
@@ -21689,7 +21689,7 @@ msgstr "大型街道（設有巴士專線）"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_LARGE_DESC"
-msgstr "這條六線道柏油道路附設行人路，很適合城鎮內的道路需求。"
+msgstr "這條六線道瀝青路附設行人路，很適合城鎮內的道路需求。"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_LARGE_NAME"
@@ -21698,7 +21698,7 @@ msgstr "大型街道"
 #, fuzzy
 msgid "STREET_TOWN_NEW_LARGE_TRAM_ELECTRIFIED_DESC"
 msgstr ""
-"這條六線道柏油道路附設行人路，很適合城鎮內的道路需求。與道路結合的輕軌軌道可"
+"這條六線道瀝青路附設行人路，很適合城鎮內的道路需求。與道路結合的輕軌軌道可"
 "提供更有效率的公共交通。"
 
 #, fuzzy
@@ -21708,7 +21708,7 @@ msgstr "大型街道（設有輕軌軌道）"
 #, fuzzy
 msgid "STREET_TOWN_NEW_LARGE_TREES_DESC"
 msgstr ""
-"這條六線道柏油道路附設行人路，很適合城鎮內的道路需求。樹木可減少污染與噪音，"
+"這條六線道瀝青路附設行人路，很適合城鎮內的道路需求。樹木可減少污染與噪音，"
 "但也會使行駛速度降低。"
 
 #, fuzzy
@@ -21718,7 +21718,7 @@ msgstr "大型街道（設有行道樹）"
 #, fuzzy
 msgid "STREET_TOWN_NEW_MEDIUM_BARRIERS_DESC"
 msgstr ""
-"這條四線道柏油道路附設行人路，很適合城鎮內的道路需求。隔音牆可減少交通噪音，"
+"這條四線道瀝青路附設行人路，很適合城鎮內的道路需求。隔音牆可減少交通噪音，"
 "但也會使建築的建造受限。"
 
 #, fuzzy
@@ -21728,7 +21728,7 @@ msgstr "中型街道（設有隔音牆）"
 #, fuzzy
 msgid "STREET_TOWN_NEW_MEDIUM_BUS_DESC"
 msgstr ""
-"這條四線道柏油道路附設行人路，很適合城鎮內的道路需求。巴士專線僅供巴士與卡"
+"這條四線道瀝青路附設行人路，很適合城鎮內的道路需求。巴士專線僅供巴士與貨"
 "車行駛，私人車輛原則上不得進入。"
 
 #, fuzzy
@@ -21737,7 +21737,7 @@ msgstr "中型街道（設有巴士專線）"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_MEDIUM_DESC"
-msgstr "這條四線道柏油道路附設行人路，很適合城鎮內的道路需求。"
+msgstr "這條四線道瀝青路附設行人路，很適合城鎮內的道路需求。"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_MEDIUM_NAME"
@@ -21746,7 +21746,7 @@ msgstr "中型街道"
 #, fuzzy
 msgid "STREET_TOWN_NEW_MEDIUM_TRAM_ELECTRIFIED_DESC"
 msgstr ""
-"這條四線道柏油道路附設行人路，很適合城鎮內的道路需求。與道路結合的輕軌軌道可"
+"這條四線道瀝青路附設行人路，很適合城鎮內的道路需求。與道路結合的輕軌軌道可"
 "提供更有效率的公共交通。"
 
 #, fuzzy
@@ -21756,7 +21756,7 @@ msgstr "中型街道（設有輕軌軌道）"
 #, fuzzy
 msgid "STREET_TOWN_NEW_MEDIUM_TREES_DESC"
 msgstr ""
-"這條四線道柏油道路附設行人路，很適合城鎮內的道路需求。樹木可減少污染與噪音，"
+"這條四線道瀝青路附設行人路，很適合城鎮內的道路需求。樹木可減少污染與噪音，"
 "但也會使行駛速度降低。"
 
 #, fuzzy
@@ -21766,7 +21766,7 @@ msgstr "中型街道（設有行道樹）"
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_MEDIUM_BARRIERS_DESC"
 msgstr ""
-"這條四線道的單向柏油道路附設行人路，很適合城鎮內的道路需求。隔音牆可減少交通"
+"這條四線道的單向瀝青路附設行人路，很適合城鎮內的道路需求。隔音牆可減少交通"
 "噪音，但也會使建築的建造受限。"
 
 #, fuzzy
@@ -21776,7 +21776,7 @@ msgstr "中型單行道（設有隔音牆）"
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_MEDIUM_BUS_DESC"
 msgstr ""
-"這條四線道的單向柏油道路附設行人路，很適合城鎮內的道路需求。巴士專線僅供公"
+"這條四線道的單向瀝青路附設行人路，很適合城鎮內的道路需求。巴士專線僅供公"
 "車與貨車行駛，私人車輛原則上不得進入。"
 
 #, fuzzy
@@ -21785,7 +21785,7 @@ msgstr "中型單行道（設有巴士專線）"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_MEDIUM_DESC"
-msgstr "這條四線道的單向柏油道路附設行人路，很適合城鎮內的道路需求。"
+msgstr "這條四線道的單向瀝青路附設行人路，很適合城鎮內的道路需求。"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_MEDIUM_NAME"
@@ -21794,7 +21794,7 @@ msgstr "中型單行道"
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_MEDIUM_TRAM_ELECTRIFIED_DESC"
 msgstr ""
-"這條四線道的單向柏油道路附設行人路，很適合城鎮內的道路需求。與道路結合的輕軌"
+"這條四線道的單向瀝青路附設行人路，很適合城鎮內的道路需求。與道路結合的輕軌"
 "軌道可提供更有效率的公共交通。"
 
 #, fuzzy
@@ -21804,7 +21804,7 @@ msgstr "中型單行道（設有輕軌軌道）"
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_MEDIUM_TREES_DESC"
 msgstr ""
-"這條四線道的單向柏油道路附設行人路，很適合城鎮內的道路需求。樹木可減少污染與"
+"這條四線道的單向瀝青路附設行人路，很適合城鎮內的道路需求。樹木可減少污染與"
 "噪音，但也會使行駛速度降低。"
 
 #, fuzzy
@@ -21814,7 +21814,7 @@ msgstr "中型單行道（設有行道樹）"
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_SMALL_BARRIERS_DESC"
 msgstr ""
-"這條二線道的單向柏油道路附設行人路，很適合城鎮內的道路需求。隔音牆可減少交通"
+"這條二線道的單向瀝青路附設行人路，很適合城鎮內的道路需求。隔音牆可減少交通"
 "噪音，但也會使建築的建造受限。"
 
 #, fuzzy
@@ -21824,7 +21824,7 @@ msgstr "小型單行道（設有隔音牆）"
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_SMALL_BUS_DESC"
 msgstr ""
-"這條二線道的單向柏油道路附設行人路，很適合城鎮內的道路需求。巴士專線僅供公"
+"這條二線道的單向瀝青路附設行人路，很適合城鎮內的道路需求。巴士專線僅供公"
 "車與貨車行駛，私人車輛原則上不得進入。"
 
 #, fuzzy
@@ -21833,7 +21833,7 @@ msgstr "小型單行道（設有巴士專線）"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_SMALL_DESC"
-msgstr "這條二線道的單向柏油道路附設行人路，很適合城鎮內的道路需求。"
+msgstr "這條二線道的單向瀝青路附設行人路，很適合城鎮內的道路需求。"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_SMALL_NAME"
@@ -21842,7 +21842,7 @@ msgstr "小型單行道"
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_SMALL_TRAM_ELECTRIFIED_DESC"
 msgstr ""
-"這條二線道的單向柏油道路附設行人路，很適合城鎮內的道路需求。與道路結合的輕軌"
+"這條二線道的單向瀝青路附設行人路，很適合城鎮內的道路需求。與道路結合的輕軌"
 "軌道可提供更有效率的公共交通。"
 
 #, fuzzy
@@ -21852,7 +21852,7 @@ msgstr "小型單行道（設有輕軌軌道）"
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_SMALL_TREES_DESC"
 msgstr ""
-"這條二線道的單向柏油道路附設行人路，很適合城鎮內的道路需求。樹木可減少污染與"
+"這條二線道的單向瀝青路附設行人路，很適合城鎮內的道路需求。樹木可減少污染與"
 "噪音，但也會使行駛速度降低。"
 
 #, fuzzy
@@ -21861,7 +21861,7 @@ msgstr "小型單行道（設有行道樹）"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_XSMALL_DESC"
-msgstr "這條狹窄的二線道單向柏油道路附設行人路，很適合城鎮內的道路需求。"
+msgstr "這條狹窄的二線道單向瀝青路附設行人路，很適合城鎮內的道路需求。"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_XSMALL_NAME"
@@ -21870,7 +21870,7 @@ msgstr "狹窄單行道"
 #, fuzzy
 msgid "STREET_TOWN_NEW_SMALL_BARRIERS_DESC"
 msgstr ""
-"這條二線道柏油道路附設行人路，很適合城鎮內的道路需求。隔音牆可減少交通噪音，"
+"這條二線道瀝青路附設行人路，很適合城鎮內的道路需求。隔音牆可減少交通噪音，"
 "但也會使建築的建造樣受限。"
 
 #, fuzzy
@@ -21879,7 +21879,7 @@ msgstr "小型街道（設有隔音牆）"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_SMALL_DESC"
-msgstr "這條二線道柏油道路附設行人路，很適合城鎮內的道路需求。"
+msgstr "這條二線道瀝青路附設行人路，很適合城鎮內的道路需求。"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_SMALL_NAME"
@@ -21888,7 +21888,7 @@ msgstr "小型街道"
 #, fuzzy
 msgid "STREET_TOWN_NEW_SMALL_TRAM_ELECTRIFIED_DESC"
 msgstr ""
-"這條二線道柏油道路附設行人路，很適合城鎮內的道路需求。與道路結合的輕軌軌道可"
+"這條二線道瀝青路附設行人路，很適合城鎮內的道路需求。與道路結合的輕軌軌道可"
 "提供更有效率的公共交通。"
 
 #, fuzzy
@@ -21898,7 +21898,7 @@ msgstr "小型街道（設有輕軌軌道）"
 #, fuzzy
 msgid "STREET_TOWN_NEW_SMALL_TREES_DESC"
 msgstr ""
-"這條二線道柏油道路附設行人路，很適合城鎮內的道路需求。樹木可減少污染與噪音，"
+"這條二線道瀝青路附設行人路，很適合城鎮內的道路需求。樹木可減少污染與噪音，"
 "但也會使行駛速度降低。"
 
 #, fuzzy
@@ -21907,7 +21907,7 @@ msgstr "小型街道（設有行道樹）"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_XSMALL_DESC"
-msgstr "這條狹窄的二線道柏油道路附設行人路，很適合城鎮內的道路需求。"
+msgstr "這條狹窄的二線道瀝青路附設行人路，很適合城鎮內的道路需求。"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_XSMALL_NAME"
