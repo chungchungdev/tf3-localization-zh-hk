@@ -5111,11 +5111,10 @@ msgstr "路口"
 msgid "Crossing Tool"
 msgstr "路口工具"
 
-#, fuzzy
 msgid ""
 "Crossings can now be equipped with traffic lights. These improve traffic "
 "flow, as their phases can be configured according to specific needs."
-msgstr "現在可在路口設置交通號誌。號誌時相可依需求調整，有助於交通順暢。"
+msgstr "現在可在路口設置交通燈。燈號時相可依需求調整，有助於交通順暢。"
 
 #, fuzzy
 msgid "Crosswalk Tool"
@@ -6186,9 +6185,8 @@ msgstr "啟用或停用城鎮聲望對城鎮發展的影響。"
 msgid "Enable or disable the tutorial."
 msgstr "啟用或停用教學。"
 
-#, fuzzy
 msgid "Enable or disable traffic lights on crossings."
-msgstr "啟用或停用路口的交通號誌。"
+msgstr "啟用或停用路口的交通燈。"
 
 #, fuzzy
 msgid ""
@@ -7751,15 +7749,14 @@ msgstr ""
 "各類型皆有不同速度限制，顯示在橋梁圖片下方。\n"
 "升級成本取決於所選類型與橋梁長度。"
 
-#, fuzzy
 msgid "HELP_WINDOW_CROSSING"
 msgstr ""
-"此視窗可啟用或停用交通號誌。\n"
-"啟用後，可調整各個號誌的時相。\n"
+"此視窗可啟用或停用交通燈。\n"
+"啟用後，可調整各個燈號的時相。\n"
 "選取某個時相即可預覽其綠燈與紅燈車道，點選車道即可切換。\n"
 "可設定各時相的持續時間，亦可設定在沒有車輛等待時略過該時相，並指定可略過時相"
 "的最短持續時間。\n"
-"動態進度條會顯示目前時相的剩餘時間。"
+"動態進度列會顯示目前時相的剩餘時間。"
 
 #, fuzzy
 msgid "HELP_WINDOW_DEPOT"
@@ -17073,14 +17070,13 @@ msgstr ""
 msgid "MISSION_7_GUIDE_TRAFFIC_NAME"
 msgstr "交通"
 
-#, fuzzy
 msgid "MISSION_7_GUIDE_TRAFFIC_PARAGRAPH"
 msgstr ""
 "道路能容納的車流量有限、道路配置不符合交通流量，或繁忙道路上有太多連續路口，"
-"都可能造成交通壅塞。\n"
+"都可能造成塞車。\n"
 "\n"
-"要預防塞車，可以在交通密集區域周邊興建替代道路，也可以增加壅塞區域之間的連接"
-"道路，將車流分散到不同路線。另外還能利用路口與交通號誌工具來調整各個路口的車"
+"要預防塞車，可以在交通密集區域周邊興建替代道路，也可以增加塞車區域之間的連接"
+"道路，將車流分散到不同路線。另外還能利用路口與交通燈工具來調整各個路口的車"
 "流。"
 
 #, fuzzy
@@ -25911,17 +25907,14 @@ msgstr "交通流動"
 msgid "Traffic Layer"
 msgstr "交通圖層"
 
-#, fuzzy
 msgid "Traffic Light Tool"
-msgstr "交通號誌工具"
+msgstr "交通燈工具"
 
-#, fuzzy
 msgid "Traffic Lights"
-msgstr "交通號誌"
+msgstr "交通燈"
 
-#, fuzzy
 msgid "Traffic Lights Available"
-msgstr "交通號誌已開放"
+msgstr "交通燈已開放"
 
 #, fuzzy
 msgid "Traffic Rating"
