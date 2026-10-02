@@ -17248,9 +17248,8 @@ msgstr "連雲港漁場"
 msgid "Manage Line"
 msgstr "管理路線"
 
-#, fuzzy
 msgid "Manage Vehicles"
-msgstr "管理車輛"
+msgstr "管理載具"
 
 #, fuzzy
 msgid "Manager"
@@ -23789,10 +23788,9 @@ msgstr "標準軌道"
 msgid "TUTORIAL_ASSIGN_VEHICLE_TASK_NAME"
 msgstr "指派車輛"
 
-#, fuzzy
 msgid "TUTORIAL_ASSIGN_VEHICLE_TASK_PARAGRAPH"
 msgstr ""
-"選擇[link=entity_depot]車廠[/link]後按下管理車輛按鈕，就能開啟路線調度視窗，"
+"選擇[link=entity_depot]車廠[/link]後按下管理載具按鈕，就能開啟路線調度視窗，"
 "並自動選擇你的巴士。利用派遣至路線按鈕，就能將巴士指派至新路線。"
 
 #, fuzzy
