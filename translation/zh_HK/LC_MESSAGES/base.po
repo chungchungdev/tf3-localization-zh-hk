@@ -4226,7 +4226,6 @@ msgstr "檢查所需檔案"
 msgid "Check the Latest Release Notes"
 msgstr "查看最新更新說明"
 
-#, fuzzy
 msgid "Checking account link status..."
 msgstr "正在檢查帳號連結狀態……"
 
@@ -5082,7 +5081,6 @@ msgstr "鶴"
 msgid "Cranes Flock"
 msgstr "鶴群"
 
-#, fuzzy
 msgid "Create Account"
 msgstr "建立帳號"
 
@@ -5090,7 +5088,6 @@ msgstr "建立帳號"
 msgid "Create Line "
 msgstr "建立路線"
 
-#, fuzzy
 msgid "Create New Account"
 msgstr "建立新帳號"
 
@@ -5102,7 +5099,6 @@ msgstr "建立新遊戲"
 msgid "Create New Map"
 msgstr "建立新地圖"
 
-#, fuzzy
 msgid "Create Paradox Account"
 msgstr "建立Paradox帳號"
 
@@ -5191,7 +5187,6 @@ msgstr "文化"
 msgid "Curated"
 msgstr "精選"
 
-#, fuzzy
 msgid "Current Account"
 msgstr "目前帳號"
 
@@ -9792,11 +9787,9 @@ msgstr "路線{line}配置錯誤。"
 msgid "Lines"
 msgstr "路線"
 
-#, fuzzy
 msgid "Link Account"
 msgstr "連結帳號"
 
-#, fuzzy
 msgid "Linking accounts..."
 msgstr "正在連結帳號……"
 
@@ -19058,15 +19051,12 @@ msgstr "平移模式"
 msgid "Paper"
 msgstr "紙"
 
-#, fuzzy
 msgid "Paradox Account Link"
 msgstr "Paradox帳號連結"
 
-#, fuzzy
 msgid "Paradox Account: {email}"
 msgstr "Paradox帳號：{email}"
 
-#, fuzzy
 msgid ""
 "Paradox Interactive will link your Account for PlayStation™Network to allow "
 "you to get automatically logged in to your Paradox Account when starting the "
@@ -19076,7 +19066,6 @@ msgstr ""
 "Paradox Interactive將連結你的PlayStation™Network帳戶，以便在遊戲啟動時自動登"
 "入Paradox帳號。 若你不想再使用這個功能，請前往設定畫面解除連結。"
 
-#, fuzzy
 msgid ""
 "Paradox Interactive will link your Account for Steam to allow you to get "
 "automatically logged in to your Paradox Account when starting the game. "
@@ -19086,7 +19075,6 @@ msgstr ""
 "Paradox Interactive將連結你的Steam帳號，以便在遊戲啟動時自動登入Paradox帳"
 "號。 若你不想再使用這個功能，請前往設定畫面解除連結。"
 
-#, fuzzy
 msgid ""
 "Paradox Interactive will link your Account for XBOX network to allow you to "
 "get automatically logged in to your Paradox Account when starting the game. "
@@ -19096,7 +19084,6 @@ msgstr ""
 "Paradox Interactive將連結你的XBOX 網路的帳號，以便在遊戲啟動時自動登入Paradox"
 "帳號。 若你不想再使用這個功能，請前往設定畫面解除連結。"
 
-#, fuzzy
 msgid ""
 "Paradox Interactive will link your platform account to allow you to get "
 "automatically logged in to your Paradox Account when starting the game. "
@@ -24973,7 +24960,6 @@ msgstr "多部車輛的狀況極差。"
 msgid "The construction of the landmark has finished."
 msgstr "這座地標的建設工程已完成。"
 
-#, fuzzy
 msgid ""
 "The currently logged in Paradox Account and the Account for "
 "PlayStation™Network are linked to other accounts. Do you wish to overwrite "
@@ -24982,27 +24968,23 @@ msgstr ""
 "目前登入的Paradox帳號與PlayStation™Network帳戶已與其他帳號連結。是否要覆寫這"
 "些現有的連結？"
 
-#, fuzzy
 msgid ""
 "The currently logged in Paradox Account and the Account for "
 "PlayStation™Network are linked. Do you want to unlink?"
 msgstr ""
 "目前登入的Paradox帳號與PlayStation™Network帳戶已有連結。是否要解除連結？"
 
-#, fuzzy
 msgid ""
 "The currently logged in Paradox Account and the Account for Steam are linked "
 "to other accounts. Do you wish to overwrite these links?"
 msgstr ""
 "目前登入的Paradox帳號與Steam帳號已與其他帳號連結。是否要覆寫這些現有的連結？"
 
-#, fuzzy
 msgid ""
 "The currently logged in Paradox Account and the Account for Steam are "
 "linked. Do you want to unlink?"
 msgstr "目前登入的Paradox帳號與Steam帳號已連結。是否要解除連結？"
 
-#, fuzzy
 msgid ""
 "The currently logged in Paradox Account and the Account for XBOX network are "
 "linked to other accounts. Do you wish to overwrite these links?"
@@ -25010,26 +24992,22 @@ msgstr ""
 "目前登入的Paradox帳號與XBOX 網路的帳號已與其他帳號連結。是否要覆寫這些現有的"
 "連結？"
 
-#, fuzzy
 msgid ""
 "The currently logged in Paradox Account and the Account for XBOX network are "
 "linked. Do you want to unlink?"
 msgstr "目前登入的Paradox帳號與XBOX 網路的帳號已有連結。是否要解除連結？"
 
-#, fuzzy
 msgid ""
 "The currently logged in Paradox Account and the platform account are linked "
 "to other accounts. Do you wish to overwrite these links?"
 msgstr ""
 "目前登入的Paradox帳號與平台帳號已與其他帳號連結。是否要覆寫這些現有的連結？"
 
-#, fuzzy
 msgid ""
 "The currently logged in Paradox Account and the platform account are linked. "
 "Do you want to unlink?"
 msgstr "目前登入的Paradox帳號與平台帳號已有連結。是否要解除連結？"
 
-#, fuzzy
 msgid ""
 "The date of birth you entered is invalid. Please check your input and try "
 "again."
@@ -25478,45 +25456,38 @@ msgstr "無大型船舶可用路徑。"
 msgid "Third Party Libraries"
 msgstr "第三方程式庫"
 
-#, fuzzy
 msgid ""
 "This Account for PlayStation™Network is already linked to a different "
 "Paradox Account. Would you like to overwrite the link?"
 msgstr ""
 "此PlayStation™Network帳戶已連結至另一個Paradox帳號。是否要覆寫現有的連結？"
 
-#, fuzzy
 msgid ""
 "This Account for Steam is already linked to a different Paradox Account. "
 "Would you like to overwrite the link?"
 msgstr "此Steam帳號已連結至另一個Paradox帳號。是否要覆寫現有的連結？"
 
-#, fuzzy
 msgid ""
 "This Account for XBOX network is already linked to a different Paradox "
 "Account. Would you like to overwrite the link?"
 msgstr "此XBOX 網路的帳號已連結至另一個Paradox帳號。是否要覆寫現有的連結？"
 
-#, fuzzy
 msgid ""
 "This Paradox Account is already linked to a different Account for "
 "PlayStation™Network. Would you like to overwrite the link?"
 msgstr ""
 "此Paradox帳號已連結至另一個PlayStation™Network帳戶。是否要覆寫現有的連結？"
 
-#, fuzzy
 msgid ""
 "This Paradox Account is already linked to a different Account for Steam. "
 "Would you like to overwrite the link?"
 msgstr "此Paradox帳號已連結至另一個Steam帳號。是否要覆寫現有的連結？"
 
-#, fuzzy
 msgid ""
 "This Paradox Account is already linked to a different Account for XBOX "
 "network. Would you like to overwrite the link?"
 msgstr "此Paradox帳號已連結至另一個XBOX 網路的帳號。是否要覆寫現有的連結？"
 
-#, fuzzy
 msgid ""
 "This Paradox Account is already linked to a different platform account. "
 "Would you like to overwrite the link?"
@@ -25742,7 +25713,6 @@ msgstr "此模組需要以下相依項："
 msgid "This mod requires the following dependencies:\n"
 msgstr "此模組需下述相依模組：\n"
 
-#, fuzzy
 msgid ""
 "This platform account is already linked to a different Paradox Account. "
 "Would you like to overwrite the link?"
@@ -26543,11 +26513,9 @@ msgstr "停靠站發生未知問題"
 msgid "Unlimited Use"
 msgstr "無限次使用"
 
-#, fuzzy
 msgid "Unlink Account"
 msgstr "解除帳號連結"
 
-#, fuzzy
 msgid "Unlinking accounts..."
 msgstr "正在解除帳號連結……"
 
