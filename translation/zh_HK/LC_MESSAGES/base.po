@@ -2966,7 +2966,7 @@ msgid "Ballast"
 msgstr "碎石"
 
 msgid "Bank Account"
-msgstr "銀行帳戶"
+msgstr "銀行戶口"
 
 #, fuzzy
 msgid "Barriers"
@@ -3382,7 +3382,6 @@ msgstr "巴士專用道工具"
 msgid "Bus and Tram Stops"
 msgstr "巴士與輕軌站牌"
 
-#, fuzzy
 msgid "Buses"
 msgstr "巴士"
 
@@ -3434,9 +3433,8 @@ msgstr "購買一輛貨車！"
 msgid "Buy a Wagon!"
 msgstr "購買一輛馬車！"
 
-#, fuzzy
 msgid "Buy the ship in your ship depot."
-msgstr "在船塢內購買船隻。"
+msgstr "在船塢購買船隻。"
 
 #, fuzzy
 msgid "Buy vehicles at {name}."
@@ -3451,13 +3449,11 @@ msgid "Buy {count} Vehicle for {cost}"
 msgid_plural "Buy {count} Vehicles for {cost}"
 msgstr[0] "以{cost}購買{count}部車輛"
 
-#, fuzzy
 msgid ""
 "By creating an account you confirm that you have read, understood, and "
 "accepted our User Agreement and Privacy Policy."
 msgstr "建立帳戶即表示您確認已閱讀、瞭解並接受我們的使用者協議和隱私權政策。"
 
-#, fuzzy
 msgid "By submitting this mod, you agree to the mod.io terms of use."
 msgstr "送出此模組，即代表你同意mod.io之使用條款。"
 
@@ -7811,7 +7807,7 @@ msgstr ""
 msgid "HELP_VEHICLE_STORE"
 msgstr ""
 "在車輛商店可購買新的車輛，並調整車輛編組。\n"
-"左側清單顯示目前可購買的所有車輛。可購買的車輛會依據遊戲年份與所選倉庫類型而"
+"左側清單顯示目前可購買的所有車輛。可購買的車輛會根據遊戲年份與所選倉庫類型而"
 "變。\n"
 "選擇車輛後，便會在右側顯示其詳細資訊。各車輛的性能參數尤其重要，因為不同環境"
 "需要不同特性的車輛，每種車輛也都有其優點與缺點。\n"
@@ -10018,7 +10014,7 @@ msgstr "登入並訂閱"
 
 #, fuzzy
 msgid "Log in to Upload"
-msgstr "登入即可上傳"
+msgstr "登入即可上載"
 
 #, fuzzy
 msgid "Logging Out"
@@ -18424,7 +18420,7 @@ msgstr "無隧道"
 
 #, fuzzy
 msgid "No Uploads Pending"
-msgstr "無待上傳項目"
+msgstr "無待上載項目"
 
 #, fuzzy
 msgid "No available Import Generator."
@@ -19493,7 +19489,7 @@ msgstr "請先登入才能使用模組中心。"
 
 #, fuzzy
 msgid "Please log in to upload your mod."
-msgstr "請登入以上傳你的模組。"
+msgstr "請登入以上載你的模組。"
 
 #, fuzzy
 msgid "Please provide your birthdate so we can verify your age."
@@ -25079,7 +25075,7 @@ msgstr "相依模組尚未安裝。\n"
 msgid ""
 "The dependency '{dependency}' cannot be parsed as mod.io mod id, the upload "
 "was cancelled."
-msgstr "依賴項「{dependency}」無法解析為 mod.io mod id，上傳已取消。"
+msgstr "依賴項「{dependency}」無法解析為 mod.io mod id，上載已取消。"
 
 #, fuzzy
 msgid ""
@@ -25200,11 +25196,11 @@ msgstr "任務「{mission}」失敗。"
 
 #, fuzzy
 msgid "The mod could not be cooked, the upload was cancelled."
-msgstr "無法處理模組，上傳已取消。"
+msgstr "無法處理模組，上載已取消。"
 
 #, fuzzy
 msgid "The mod could not be validated, the upload was cancelled."
-msgstr "無法驗證模組，上傳已取消。"
+msgstr "無法驗證模組，上載已取消。"
 
 #, fuzzy
 msgid ""
@@ -25214,13 +25210,13 @@ msgstr "模組中心目前無法使用，請檢查你的網路連線，或稍後
 
 #, fuzzy
 msgid "The mod validation found errors, the upload was cancelled."
-msgstr "模組驗證發現錯誤，上傳已取消。"
+msgstr "模組驗證發現錯誤，上載已取消。"
 
 #, fuzzy
 msgid ""
 "The mod validation found more errors than the ones you confirmed, the upload "
 "was cancelled."
-msgstr "模組驗證發現的錯誤多於你確認的錯誤，上傳已取消。"
+msgstr "模組驗證發現的錯誤多於你確認的錯誤，上載已取消。"
 
 #, fuzzy
 msgid ""
@@ -25739,7 +25735,7 @@ msgstr "此地圖來自模組。"
 
 #, fuzzy
 msgid "This mod has critical errors and cannot be uploaded."
-msgstr "此模組存在嚴重錯誤，無法上傳。"
+msgstr "此模組存在嚴重錯誤，無法上載。"
 
 #, fuzzy
 msgid ""
@@ -25786,7 +25782,7 @@ msgstr "這名居民很快樂。"
 msgid ""
 "This savegame contains unexpected files and cannot be uploaded. Please "
 "restart the game and try again."
-msgstr "此存檔包含意外檔案，無法上傳。請重新啟動遊戲後重試。"
+msgstr "此存檔包含意外檔案，無法上載。請重新啟動遊戲後重試。"
 
 #, fuzzy
 msgid "This savegame is built into the game and cannot be deleted."
@@ -26655,7 +26651,7 @@ msgstr "更新模型"
 
 #, fuzzy
 msgid "Update Pending"
-msgstr "正在等待上傳"
+msgstr "正在等待上載"
 
 #, fuzzy
 msgid ""
@@ -26708,39 +26704,39 @@ msgstr "維修：{}"
 
 #, fuzzy
 msgid "Upload"
-msgstr "上傳"
+msgstr "上載"
 
 #, fuzzy
 msgid "Upload Failed"
-msgstr "上傳失敗"
+msgstr "上載失敗"
 
 #, fuzzy
 msgid "Upload Mod: Unavailable"
-msgstr "上傳模組：無法使用"
+msgstr "上載模組：無法使用"
 
 #, fuzzy
 msgid "Upload Partially Failed"
-msgstr "上傳部分失敗"
+msgstr "上載部分失敗"
 
 #, fuzzy
 msgid "Upload Successful"
-msgstr "上傳成功"
+msgstr "上載成功"
 
 #, fuzzy
 msgid "Uploading Mods"
-msgstr "正在上傳模組"
+msgstr "正在上載模組"
 
 #, fuzzy
 msgid "Uploading gallery images"
-msgstr "正在上傳圖庫圖片"
+msgstr "正在上載圖庫圖片"
 
 #, fuzzy
 msgid "Uploading mod file"
-msgstr "正在上傳模組檔案"
+msgstr "正在上載模組檔案"
 
 #, fuzzy
 msgid "Uploading... Please Wait"
-msgstr "正在上傳……請稍候"
+msgstr "正在上載……請稍候"
 
 #, fuzzy
 msgid "Upper {stationName}"
@@ -26777,7 +26773,6 @@ msgstr "使用同意書"
 msgid "Use Current Camera Environment"
 msgstr "使用目前視角環境"
 
-#, fuzzy
 msgid "Use Free Camera"
 msgstr "使用自由視角"
 
@@ -26785,7 +26780,6 @@ msgstr "使用自由視角"
 msgid "Use Preview Env"
 msgstr "使用預覽環境"
 
-#, fuzzy
 msgid "Use System Mouse Cursor"
 msgstr "使用系統滑鼠游標"
 
@@ -26793,21 +26787,17 @@ msgstr "使用系統滑鼠游標"
 msgid ""
 "Use the cargo filter in the vehicle store to filter by the cargo type you're "
 "interested in."
-msgstr "使用車輛商店內的貨物篩選功能，依據你需要的貨物類型進行篩選。"
+msgstr "使用車輛商店內的貨物篩選功能，根據你需要的貨物類型進行篩選。"
 
-#, fuzzy
 msgid "Use this bridge type when needed."
-msgstr "視需求使用此類橋梁。"
+msgstr "有需要時使用這種橋梁。"
 
-#, fuzzy
 msgid "Use this crossing type when needed."
-msgstr "視需求使用此類路口。"
+msgstr "有需要時使用這種路口。"
 
-#, fuzzy
 msgid "Use this tunnel type when needed."
-msgstr "視需求使用此類隧道。"
+msgstr "有需要時使用這種隧道。"
 
-#, fuzzy
 msgid "User Mod"
 msgstr "使用者模組"
 
@@ -26823,17 +26813,15 @@ msgstr "使用者名稱或電子郵件"
 msgid "Uses: {numAvailable}"
 msgstr "使用次數：{numAvailable}"
 
-#, fuzzy
 msgid ""
 "Using the latest scientific methods, the experts have improved the "
 "ecological footprint of the industry, resulting in fewer emissions."
-msgstr "專家利用最新的科學技術減少產業的生態足跡，降低其排放量。"
+msgstr "專家利用最新科技減少產業的生態足跡，降低其排放量。"
 
-#, fuzzy
 msgid ""
 "Using the latest scientific methods, the experts have improved the "
 "ecological footprint of {constructionName}, resulting in fewer emissions."
-msgstr "專家利用最新的科學技術減少{constructionName}的生態足跡，降低其排放量。"
+msgstr "專家利用最新科技減少{constructionName}的生態足跡，降低其排放量。"
 
 #, fuzzy
 msgid "Utilization"
@@ -31336,9 +31324,8 @@ msgstr "聯結式列車"
 #, fuzzy
 msgctxt "mod-tags"
 msgid "My Uploads"
-msgstr "我的上傳內容"
+msgstr "我的上載內容"
 
-#, fuzzy
 msgctxt "mod-tags"
 msgid "Official"
 msgstr "官方"
@@ -31348,17 +31335,14 @@ msgctxt "mod-tags"
 msgid "Other Asset"
 msgstr "其他資產"
 
-#, fuzzy
 msgctxt "mod-tags"
 msgid "Plane"
 msgstr "飛機"
 
-#, fuzzy
 msgctxt "mod-tags"
 msgid "Port"
 msgstr "港口"
 
-#, fuzzy
 msgctxt "mod-tags"
 msgid "Public"
 msgstr "公開"
@@ -31368,7 +31352,6 @@ msgctxt "mod-tags"
 msgid "Rail Crossing"
 msgstr "平交道"
 
-#, fuzzy
 msgctxt "mod-tags"
 msgid "Rail Station"
 msgstr "火車站"
@@ -31378,7 +31361,6 @@ msgctxt "mod-tags"
 msgid "Resident"
 msgstr "居民"
 
-#, fuzzy
 msgctxt "mod-tags"
 msgid "Road"
 msgstr "道路"
@@ -31393,12 +31375,10 @@ msgctxt "mod-tags"
 msgid "Road Station"
 msgstr "道路車站"
 
-#, fuzzy
 msgctxt "mod-tags"
 msgid "Rock"
 msgstr "岩石"
 
-#, fuzzy
 msgctxt "mod-tags"
 msgid "Savegame"
 msgstr "遊戲存檔"
@@ -31408,12 +31388,10 @@ msgctxt "mod-tags"
 msgid "Script Mod"
 msgstr "腳本模組"
 
-#, fuzzy
 msgctxt "mod-tags"
 msgid "Settings"
 msgstr "設定"
 
-#, fuzzy
 msgctxt "mod-tags"
 msgid "Shader"
 msgstr "著色器"
@@ -31428,7 +31406,6 @@ msgctxt "mod-tags"
 msgid "Signal"
 msgstr "號誌"
 
-#, fuzzy
 msgctxt "mod-tags"
 msgid "Sound"
 msgstr "音效"
@@ -31448,7 +31425,6 @@ msgctxt "mod-tags"
 msgid "Station"
 msgstr "車站"
 
-#, fuzzy
 msgctxt "mod-tags"
 msgid "Status"
 msgstr "狀態"
@@ -31458,17 +31434,14 @@ msgctxt "mod-tags"
 msgid "Subarctic"
 msgstr "副極地"
 
-#, fuzzy
 msgctxt "mod-tags"
 msgid "Subscribed"
 msgstr "已訂閱"
 
-#, fuzzy
 msgctxt "mod-tags"
 msgid "Temperate"
 msgstr "溫帶"
 
-#, fuzzy
 msgctxt "mod-tags"
 msgid "Testing"
 msgstr "測試中"
@@ -31503,37 +31476,31 @@ msgctxt "mod-tags"
 msgid "Tram"
 msgstr "輕軌"
 
-#, fuzzy
 msgctxt "mod-tags"
 msgid "Tropical"
 msgstr "熱帶"
 
-#, fuzzy
 msgctxt "mod-tags"
 msgid "Truck"
 msgstr "貨車"
 
-#, fuzzy
 msgctxt "mod-tags"
 msgid "Tunnel"
 msgstr "隧道"
 
-#, fuzzy
 msgctxt "mod-tags"
 msgid "Uploaded"
-msgstr "已上傳"
+msgstr "已上載"
 
-#, fuzzy
 msgctxt "mod-tags"
 msgid "Urban Games"
-msgstr "城市遊戲"
+msgstr "Urban Games"
 
 #, fuzzy
 msgctxt "mod-tags"
 msgid "User Mods"
 msgstr "使用者模組"
 
-#, fuzzy
 msgctxt "mod-tags"
 msgid "Vegetation"
 msgstr "植被"
@@ -31548,7 +31515,6 @@ msgctxt "mod-tags"
 msgid "Wagon"
 msgstr "車廂"
 
-#, fuzzy
 msgctxt "mod-tags"
 msgid "Warehouse"
 msgstr "貨倉"
