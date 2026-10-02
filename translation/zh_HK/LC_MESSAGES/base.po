@@ -6742,18 +6742,17 @@ msgstr "投入探勘資金"
 msgid "Furniture"
 msgstr "家具"
 
-#, fuzzy
 msgid "GAMEPAD_EXTEND_LINE_GUIDE_PARAGRAPH"
 msgstr ""
-"有時會需要修改既有的路線。先在3D世界或路線調度視窗中選擇要修改的路線。可以透"
+"有時會需要修改既有的路線。先在3D世界或路線管理視窗中選擇要修改的路線。可以透"
 "過多種方式進行修改：移動停靠站、移除停靠站，或在3D世界中選取車站來加入額外的"
-"停靠站。系統會將停靠站新增至路線調度視窗中目前所選的停靠站後方。"
+"停靠站。系統會將停靠站新增至路線管理視窗中目前所選的停靠站後方。"
 
 #, fuzzy
 msgid "GAMEPAD_WAYPOINT_GUIDE_PARAGRAPH"
 msgstr ""
 "若要讓車輛改道避開安靜的城鎮道路，或者想緩解交通壅塞，可以在路線中加入定位"
-"點。在路線調度視窗中選擇要加入定位點的位置的下一停靠站，長按"
+"點。在路線管理視窗中選擇要加入定位點的位置的下一停靠站，長按"
 "[iaHint=IA_PRECISION_MODE/]並將游標移至地圖目標位置後按下[iaHint=IA_APPLY/]，"
 "即可放置定位點。"
 
@@ -7281,7 +7280,7 @@ msgstr ""
 msgid "HELP_CONSTRUCTION_AIR_BUILDINGS"
 msgstr ""
 "航空建築是建立航空路線的基礎。\n"
-"可在世界畫面中放置多個建築，再於路線調度視窗將它們結合，便能形成路線。\n"
+"可在世界畫面中放置多個建築，再於路線管理視窗將它們結合，便能形成路線。\n"
 "飛行場與機場可供飛機使用，而直升機起降場則供直升機使用。\n"
 "與之結合的倉庫可購買飛行器，並提供維修所需空間。\n"
 "建造過程中會標示其覆蓋範圍及維修區域。"
@@ -7367,7 +7366,7 @@ msgstr ""
 msgid "HELP_CONSTRUCTION_RAIL_BUILDINGS"
 msgstr ""
 "鐵路建築是建立火車路線的基礎。\n"
-"可在世界畫面中放置多個火車站，再於路線調度視窗將它們結合，便能形成路線。\n"
+"可在世界畫面中放置多個火車站，再於路線管理視窗將它們結合，便能形成路線。\n"
 "倉庫可購買列車，並提供維修所需空間。\n"
 "放置維修設施即可提供額外維修區域。\n"
 "建造過程中會標示火車站的覆蓋範圍，以及倉庫與維修設施的維修區域。"
@@ -7421,7 +7420,7 @@ msgstr ""
 msgid "HELP_CONSTRUCTION_ROAD_BUILDINGS"
 msgstr ""
 "道路建築是建立貨車、巴士與輕軌路線的基礎。\n"
-"可在世界畫面中放置多個停留點或巴士站，再於路線調度視窗將它們結合，便能形成路"
+"可在世界畫面中放置多個停留點或巴士站，再於路線管理視窗將它們結合，便能形成路"
 "線。\n"
 "倉庫可購買貨車、巴士或輕軌，並提供維修所需空間。\n"
 "放置維修設施即可提供額外維修區域。\n"
@@ -7481,7 +7480,7 @@ msgstr ""
 msgid "HELP_CONSTRUCTION_WATER_BUILDINGS"
 msgstr ""
 "水域建築是建立船舶路線的基礎。\n"
-"可在世界畫面中沿著海岸線放置多個港口，再於路線調度視窗將它們結合，便能形成路"
+"可在世界畫面中沿著海岸線放置多個港口，再於路線管理視窗將它們結合，便能形成路"
 "線。\n"
 "倉庫可購買船舶，並提供維修所需空間。\n"
 "放置維修設施即可提供額外維修區域。\n"
@@ -7583,7 +7582,7 @@ msgstr ""
 #, fuzzy
 msgid "HELP_MANAGEMENT"
 msgstr ""
-"「路線調度」是用來建立、管理整個運輸網路及調度車輛的主要工具。\n"
+"「路線管理」是用來建立、管理整個運輸網路及調度車輛的主要工具。\n"
 "這個工具分為兩個部分，上半部可建立新路線，並顯示所有現有路線清單。下半部則可"
 "用來管理或指派已選定的車輛。\n"
 "點選路線名稱即可顯示所有停留點的清單，並同步在下半部列出已指派至該路線的所有"
@@ -9647,15 +9646,15 @@ msgstr "路線異常"
 
 #, fuzzy
 msgid "Line Management"
-msgstr "路線調度"
+msgstr "路線管理"
 
 #, fuzzy
 msgid "Line Manager"
-msgstr "路線調度視窗"
+msgstr "路線管理視窗"
 
 #, fuzzy
 msgid "Line Manager Only"
-msgstr "僅限路線管理器"
+msgstr "僅限路線管理視窗"
 
 #, fuzzy
 msgid "Line Problem"
@@ -11165,7 +11164,7 @@ msgstr "在[link=entity_shipyard]船塢[/link]裡給漁民們購買一艘新船�
 
 #, fuzzy
 msgid "MISSION_01_TASK_DELETE_LOGS_LINE_HINT"
-msgstr "使用路線調度視窗來刪除路線。馬車會自動出售。"
+msgstr "使用路線管理視窗來刪除路線。馬車會自動出售。"
 
 #, fuzzy
 msgid "MISSION_01_TASK_DELETE_LOGS_LINE_INSTRUCTION"
@@ -11183,7 +11182,7 @@ msgstr "刪除木材運送路線。"
 
 #, fuzzy
 msgid "MISSION_01_TASK_EXTEND_LINE_HINT"
-msgstr "使用路線調度視窗來編輯路線。"
+msgstr "使用路線管理視窗來編輯路線。"
 
 #, fuzzy
 msgid "MISSION_01_TASK_EXTEND_LINE_INSTRUCTION"
@@ -11349,7 +11348,7 @@ msgstr ""
 
 #, fuzzy
 msgid "MISSION_01_TASK_MAKE_FIRST_TRUCK_LINE_HOTEL_HINT"
-msgstr "從下方的建設選單中選擇路線調度視窗。"
+msgstr "從下方的建設選單中選擇路線管理視窗。"
 
 #, fuzzy
 msgid "MISSION_01_TASK_MAKE_FIRST_TRUCK_LINE_HOTEL_INSTRUCTION"
@@ -12789,7 +12788,7 @@ msgstr "將機械運送至[link=entity_excavation_site]挖掘地點[/link]。"
 msgid "MISSION_03_TASK_RIDDLE_IRON_HINT"
 msgstr ""
 "解開薩利姆的謎語，判斷三條路徑中哪一條才是正確路線。沿著這條路線將工具運送至"
-"各個營地，建立維修營地。建好一座營地後，請使用路線調度視窗調整路線，繼續前往"
+"各個營地，建立維修營地。建好一座營地後，請使用路線管理視窗調整路線，繼續前往"
 "下一個營地。"
 
 #, fuzzy
@@ -17160,9 +17159,9 @@ msgstr "延伸路線"
 #, fuzzy
 msgid "MOUSE_EXTEND_LINE_GUIDE_PARAGRAPH"
 msgstr ""
-"有時會需要修改既有的路線。先在3D世界或路線調度視窗中選擇要修改的路線。可以透"
+"有時會需要修改既有的路線。先在3D世界或路線管理視窗中選擇要修改的路線。可以透"
 "過多種方式進行修改：在視窗中拖放各個停靠站來重新排序、用垃圾桶圖示移除停靠"
-"站，或在3D世界中選取車站來新增停靠站。系統會將停靠站新增至路線調度視窗中目前"
+"站，或在3D世界中選取車站來新增停靠站。系統會將停靠站新增至路線管理視窗中目前"
 "所選的停靠站後方。"
 
 #, fuzzy
@@ -17173,7 +17172,7 @@ msgstr "加入定位點"
 msgid "MOUSE_WAYPOINT_GUIDE_PARAGRAPH"
 msgstr ""
 "若要讓車輛改道避開安靜的城鎮道路，或者想緩解交通壅塞，可以在路線中加入定位"
-"點。在路線調度視窗中選擇要加入定位點的位置的下一停靠站，長按"
+"點。在路線管理視窗中選擇要加入定位點的位置的下一停靠站，長按"
 "[iaHint=IA_PRECISION_MODE/]並同時點擊地圖，即可放置定位點。"
 
 #, fuzzy
@@ -22727,7 +22726,7 @@ msgstr "顯示／隱藏景觀選單"
 
 #, fuzzy
 msgid "Show/Hide Line Manager"
-msgstr "顯示／隱藏路線調度視窗"
+msgstr "顯示／隱藏路線管理視窗"
 
 #, fuzzy
 msgid "Show/Hide Line Statistics"
@@ -23642,25 +23641,25 @@ msgstr "查看產業視窗，即可確認貨物供應來源及產品配送對象
 
 #, fuzzy
 msgid "TIP_LVM_1"
-msgstr "在路線調度視窗中，點選世界畫面上的車站圖示即可建立新路線。"
+msgstr "在路線管理視窗中，點選世界畫面上的車站圖示即可建立新路線。"
 
 #, fuzzy
 msgid "TIP_LVM_2"
-msgstr "在路線調度視窗中，選擇想延伸的路線區間後，即可為現有路線新增車站。"
+msgstr "在路線管理視窗中，選擇想延伸的路線區間後，即可為現有路線新增車站。"
 
 #, fuzzy
 msgid "TIP_LVM_3"
 msgstr ""
-"在路線調度視窗中，先選擇路線，再將游標移至停留點上，即可調整各停留點的裝載規"
+"在路線管理視窗中，先選擇路線，再將游標移至停留點上，即可調整各停留點的裝載規"
 "則。"
 
 #, fuzzy
 msgid "TIP_LVM_4"
-msgstr "在路線調度視窗中，點選世界畫面上的車輛圖示即可選取車輛。"
+msgstr "在路線管理視窗中，點選世界畫面上的車輛圖示即可選取車輛。"
 
 #, fuzzy
 msgid "TIP_LVM_5"
-msgstr "在路線調度視窗中，選擇世界畫面上的路線，即可將車輛派遣至該路線。"
+msgstr "在路線管理視窗中，選擇世界畫面上的路線，即可將車輛派遣至該路線。"
 
 #, fuzzy
 msgid "TIP_MISC_1"
@@ -23790,7 +23789,7 @@ msgstr "指派車輛"
 
 msgid "TUTORIAL_ASSIGN_VEHICLE_TASK_PARAGRAPH"
 msgstr ""
-"選擇[link=entity_depot]車廠[/link]後按下管理載具按鈕，就能開啟路線調度視窗，"
+"選擇[link=entity_depot]車廠[/link]後按下管理載具按鈕，就能開啟路線管理視窗，"
 "並自動選擇你的巴士。利用派遣至路線按鈕，就能將巴士指派至新路線。"
 
 #, fuzzy
@@ -24329,7 +24328,7 @@ msgstr "建立第一條路線"
 #, fuzzy
 msgid "TUTORIAL_FIRST_LINE_GUIDE_PARAGRAPH"
 msgstr ""
-"路線調度視窗是管理所有路線的核心介面。視窗包含三個面板：第一個顯示目前的路線"
+"路線管理視窗是管理所有路線的核心介面。視窗包含三個面板：第一個顯示目前的路線"
 "清單，第二個顯示目前選取的所有車輛清單，最下方則顯示所選路線的各個停靠站及其"
 "順序。此外也能篩選並修改所選路線與車輛的功能。按下「新路線」按鈕或直接點選3D"
 "世界中的任一車站，即可建立新路線。"
@@ -24338,9 +24337,8 @@ msgstr ""
 msgid "TUTORIAL_FIRST_LINE_TASK_NAME"
 msgstr "建立第一條路線"
 
-#, fuzzy
 msgid "TUTORIAL_FIRST_LINE_TASK_PARAGRAPH"
-msgstr "開啟路線調度視窗，建立一條將三個車站連接起來的新路線。"
+msgstr "開啟路線管理視窗，建立一條將三個車站連接起來的新路線。"
 
 #, fuzzy
 msgid "TUTORIAL_FIRST_PASSENGER_TASK_NAME"
@@ -24922,7 +24920,7 @@ msgstr "這條路線目前沒有設定裝載貨物。"
 
 #, fuzzy
 msgid "The line manager lets you manage all the lines."
-msgstr "透過路線調度視窗可管理所有路線。"
+msgstr "透過路線管理視窗可管理所有路線。"
 
 #, fuzzy
 msgid "The map format and map size are experimental."
@@ -30283,7 +30281,7 @@ msgid ""
 "existing line and if a suitable depot exists, you can select the buy "
 "vehicles button to open the vehicle store."
 msgstr ""
-"你也可以直接從路線調度視窗購買車輛。選取現有路線後，如果有合適的倉庫，就可以"
+"你也可以直接從路線管理視窗購買車輛。選取現有路線後，如果有合適的倉庫，就可以"
 "選擇「購買車輛」按鈕開啟車輛商店。"
 
 #, fuzzy
