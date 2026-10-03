@@ -8575,19 +8575,15 @@ msgstr "三向的高速公路交匯處。"
 msgid "INFRA_STREET_CONSTR_T_INTERCHANGE_NAME"
 msgstr "T形交匯處"
 
-#, fuzzy
 msgid "INFRA_TUNNEL_CONCRETE_NAME"
 msgstr "混凝土隧道"
 
-#, fuzzy
 msgid "INFRA_TUNNEL_MODERN_NAME"
 msgstr "現代化隧道"
 
-#, fuzzy
 msgid "INFRA_TUNNEL_PLACEHOLDER_NAME"
 msgstr "暫定隧道"
 
-#, fuzzy
 msgid "INFRA_TUNNEL_ROCK_NAME"
 msgstr "岩石隧道"
 
@@ -18189,7 +18185,6 @@ msgstr "無交通運輸"
 msgid "No Transports or Supplies"
 msgstr "無交通運輸或供應"
 
-#, fuzzy
 msgid "No Tunnel"
 msgstr "無隧道"
 
@@ -25745,7 +25740,6 @@ msgstr "軌道總長"
 msgid "Total Track and Road Length"
 msgstr "軌道及道路總長"
 
-#, fuzzy
 msgid "Total Tunnel Length"
 msgstr "隧道總長"
 
@@ -26156,11 +26150,9 @@ msgstr "目前任務不允許建造隧道"
 msgid "Tunnel Construction Site"
 msgstr "隧道建築地盤"
 
-#, fuzzy
 msgid "Tunnel Height"
 msgstr "隧道高度"
 
-#, fuzzy
 msgid "Tunnels"
 msgstr "隧道"
 
