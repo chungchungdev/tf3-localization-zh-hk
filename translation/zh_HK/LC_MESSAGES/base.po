@@ -2092,7 +2092,7 @@ msgstr ""
 
 #, fuzzy
 msgid "Adjust the influence of traffic congestion on town growth."
-msgstr "調整交通壅塞程度對城鎮發展的影響。"
+msgstr "調整交通擠塞程度對城鎮發展的影響。"
 
 #, fuzzy
 msgid ""
@@ -2102,7 +2102,7 @@ msgid ""
 msgstr ""
 "調整交通對城鎮發展的影響。\n"
 "\n"
-"數值越高，城鎮對交通壅塞的敏感度就越高。"
+"數值越高，城鎮對交通擠塞的敏感度就越高。"
 
 #, fuzzy
 msgid "Adjust the mode in which the time of the day evolves."
@@ -4659,7 +4659,7 @@ msgstr "確認儲存"
 
 #, fuzzy
 msgid "Congestion Level"
-msgstr "壅塞程度"
+msgstr "擠塞程度"
 
 #, fuzzy
 msgid "Congratulations! The expedition team has found an oil reservoir!"
@@ -6749,7 +6749,7 @@ msgstr ""
 #, fuzzy
 msgid "GAMEPAD_WAYPOINT_GUIDE_PARAGRAPH"
 msgstr ""
-"若要讓車輛改道避開安靜的城鎮道路，或者想緩解交通壅塞，可以在路線中加入定位"
+"若要讓車輛改道避開安靜的城鎮道路，或者想緩解交通擠塞，可以在路線中加入定位"
 "點。在路線管理視窗中選擇要加入定位點的位置的下一停靠站，長按"
 "[iaHint=IA_PRECISION_MODE/]並將游標移至地圖目標位置後按下[iaHint=IA_APPLY/]，"
 "即可放置定位點。"
@@ -7573,8 +7573,8 @@ msgstr ""
 msgid "HELP_LAYER_TRAFFIC"
 msgstr ""
 "此圖層顯示幕前的道路與鐵路交通狀況。\n"
-"當道路或鐵路發生壅塞、車速變慢時，該區段會以不同顏色標出。\n"
-"道路壅塞會對城鎮成長造成負面影響。城鎮目前的交通評價會標示於城鎮上方。\n"
+"當道路或鐵路發生擠塞、車速變慢時，該區段會以不同顏色標出。\n"
+"道路擠塞會對城鎮成長造成負面影響。城鎮目前的交通評價會標示於城鎮上方。\n"
 "若要紓解交通問題，可改善道路網或公共交通系統。"
 
 #, fuzzy
@@ -17157,7 +17157,7 @@ msgstr "加入定位點"
 #, fuzzy
 msgid "MOUSE_WAYPOINT_GUIDE_PARAGRAPH"
 msgstr ""
-"若要讓車輛改道避開安靜的城鎮道路，或者想緩解交通壅塞，可以在路線中加入定位"
+"若要讓車輛改道避開安靜的城鎮道路，或者想緩解交通擠塞，可以在路線中加入定位"
 "點。在路線管理視窗中選擇要加入定位點的位置的下一停靠站，長按"
 "[iaHint=IA_PRECISION_MODE/]並同時點擊地圖，即可放置定位點。"
 
@@ -23675,7 +23675,7 @@ msgstr "可透過模組中心下載新的遊戲內容。"
 #, fuzzy
 msgid "TIP_TOWNS_3"
 msgstr ""
-"避免城鎮出現長時間等候、壅塞、過度噪音、排放污染等現象，這些因素均會阻礙城鎮"
+"避免城鎮出現長時間等候、擠塞、過度噪音、排放污染等現象，這些因素均會阻礙城鎮"
 "發展。"
 
 #, fuzzy
@@ -25869,17 +25869,15 @@ msgstr "軌道"
 msgid "Tractive Effort"
 msgstr "牽引力"
 
-#, fuzzy
 msgid "Traffic"
 msgstr "交通"
 
-#, fuzzy
 msgid "Traffic Congestion"
-msgstr "交通壅塞程度"
+msgstr "交通擠塞程度"
 
 #, fuzzy
 msgid "Traffic Flow"
-msgstr "交通流動"
+msgstr "交通流量"
 
 #, fuzzy
 msgid "Traffic Layer"
@@ -31981,27 +31979,27 @@ msgstr "最多6種類型的貨物"
 #, fuzzy
 msgctxt "town-congestion-level"
 msgid "Bad"
-msgstr "差"
+msgstr "嚴重擠塞"
 
 #, fuzzy
 msgctxt "town-congestion-level"
 msgid "Good"
-msgstr "佳"
+msgstr "繁忙"
 
 #, fuzzy
 msgctxt "town-congestion-level"
 msgid "Mediocre"
-msgstr "中等"
+msgstr "擠塞"
 
 #, fuzzy
 msgctxt "town-congestion-level"
 msgid "Very Bad"
-msgstr "極差"
+msgstr "癱瘓"
 
 #, fuzzy
 msgctxt "town-congestion-level"
 msgid "Very Good"
-msgstr "極佳"
+msgstr "暢通"
 
 #, fuzzy
 msgctxt "town-level"
