@@ -8731,23 +8731,20 @@ msgstr "產業供應"
 msgid "Industrial Town Buildings"
 msgstr "工業城鎮建築"
 
-#, fuzzy
 msgid "Industries"
 msgstr "產業"
 
-#, fuzzy
 msgid "Industry"
 msgstr "產業"
 
 #, fuzzy
 msgid "Industry Closing"
-msgstr "工業關閉"
+msgstr "產業關閉"
 
 #, fuzzy
 msgid "Industry Closing Frequency"
-msgstr "工業關閉頻率"
+msgstr "產業關閉頻率"
 
-#, fuzzy
 msgid "Industry Density"
 msgstr "產業密度"
 
@@ -8755,37 +8752,30 @@ msgstr "產業密度"
 msgid "Industry Founded"
 msgstr "產業已建立"
 
-#, fuzzy
 msgid "Industry Greenification"
 msgstr "產業綠化"
 
-#, fuzzy
 msgid "Industry Is About To Close"
 msgstr "工業即將關閉"
 
-#, fuzzy
 msgid "Industry Noise: {percent}"
 msgstr "產業噪音：{percent}"
 
-#, fuzzy
 msgid "Industry Pollution: {percent}"
 msgstr "產業污染：{percent}"
 
-#, fuzzy
 msgid "Industry Productivity"
 msgstr "產業產能"
 
-#, fuzzy
 msgid "Industry Size"
 msgstr "產業規模"
 
-#, fuzzy
 msgid "Industry Statistics"
 msgstr "產業統計資料"
 
 #, fuzzy
 msgid "Industry Target Density"
-msgstr "產業密度目標"
+msgstr "產業目標密度"
 
 #, fuzzy
 msgid "Industry Tracks"
