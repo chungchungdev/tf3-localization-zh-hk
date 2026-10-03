@@ -18365,7 +18365,6 @@ msgstr "未選取車輛、車廠或路線。"
 msgid "Node Locked"
 msgstr "Node已鎖定"
 
-#, fuzzy
 msgid "Noise"
 msgstr "噪音"
 
@@ -18393,7 +18392,6 @@ msgstr "降低噪音：{formattedPollution}{units}"
 msgid "Noise Sensitivity"
 msgstr "噪音靈敏度"
 
-#, fuzzy
 msgid "Noise Source"
 msgstr "噪音來源"
 
@@ -18401,7 +18399,6 @@ msgstr "噪音來源"
 msgid "Noise at Building Position: {noise}"
 msgstr "建築位置噪音：{noise}"
 
-#, fuzzy
 msgid "Noise: {formattedNoise}{units}"
 msgstr "噪音：{formattedNoise}{units}"
 
