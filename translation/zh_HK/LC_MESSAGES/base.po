@@ -18609,13 +18609,12 @@ msgstr "有車站於{line}路線上連續出現兩次。"
 msgid "On the Way"
 msgstr "移動途中"
 
-#, fuzzy
 msgid "One-Way"
-msgstr "單行道"
+msgstr "單程路"
 
 #, fuzzy
 msgid "One-Way Road Cannot Have Stops/Waypoints on Both Sides"
-msgstr "不得同時於單向道路兩側設置站牌／定位點"
+msgstr "不得同時於單程路兩側設置站牌／定位點"
 
 #, fuzzy
 msgid "Oolitic Sand"
@@ -21529,9 +21528,8 @@ msgstr ""
 "這條四線道的單向瀝青路附設行人路，很適合城鎮內的道路需求。隔音牆可減少交通"
 "噪音，但也會使建築的建造受限。"
 
-#, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_MEDIUM_BARRIERS_NAME"
-msgstr "中型單行道（設有隔音牆）"
+msgstr "中型單程路（設有隔音牆）"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_MEDIUM_BUS_DESC"
@@ -21539,17 +21537,15 @@ msgstr ""
 "這條四線道的單向瀝青路附設行人路，很適合城鎮內的道路需求。巴士專線僅供公"
 "車與貨車行駛，私人車輛原則上不得進入。"
 
-#, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_MEDIUM_BUS_NAME"
-msgstr "中型單行道（設有巴士專線）"
+msgstr "中型單程路（設有巴士專線）"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_MEDIUM_DESC"
 msgstr "這條四線道的單向瀝青路附設行人路，很適合城鎮內的道路需求。"
 
-#, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_MEDIUM_NAME"
-msgstr "中型單行道"
+msgstr "中型單程路"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_MEDIUM_TRAM_ELECTRIFIED_DESC"
@@ -21557,9 +21553,8 @@ msgstr ""
 "這條四線道的單向瀝青路附設行人路，很適合城鎮內的道路需求。與道路結合的輕軌"
 "軌道可提供更有效率的公共交通。"
 
-#, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_MEDIUM_TRAM_ELECTRIFIED_NAME"
-msgstr "中型單行道（設有輕軌軌道）"
+msgstr "中型單程路（設有輕軌軌道）"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_MEDIUM_TREES_DESC"
@@ -21567,9 +21562,8 @@ msgstr ""
 "這條四線道的單向瀝青路附設行人路，很適合城鎮內的道路需求。樹木可減少污染與"
 "噪音，但也會使行駛速度降低。"
 
-#, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_MEDIUM_TREES_NAME"
-msgstr "中型單行道（設有行道樹）"
+msgstr "中型單程路（設有行道樹）"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_SMALL_BARRIERS_DESC"
@@ -21577,9 +21571,8 @@ msgstr ""
 "這條二線道的單向瀝青路附設行人路，很適合城鎮內的道路需求。隔音牆可減少交通"
 "噪音，但也會使建築的建造受限。"
 
-#, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_SMALL_BARRIERS_NAME"
-msgstr "小型單行道（設有隔音牆）"
+msgstr "小型單程路（設有隔音牆）"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_SMALL_BUS_DESC"
@@ -21587,17 +21580,15 @@ msgstr ""
 "這條二線道的單向瀝青路附設行人路，很適合城鎮內的道路需求。巴士專線僅供公"
 "車與貨車行駛，私人車輛原則上不得進入。"
 
-#, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_SMALL_BUS_NAME"
-msgstr "小型單行道（設有巴士專線）"
+msgstr "小型單程路（設有巴士專線）"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_SMALL_DESC"
 msgstr "這條二線道的單向瀝青路附設行人路，很適合城鎮內的道路需求。"
 
-#, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_SMALL_NAME"
-msgstr "小型單行道"
+msgstr "小型單程路"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_SMALL_TRAM_ELECTRIFIED_DESC"
@@ -21605,9 +21596,8 @@ msgstr ""
 "這條二線道的單向瀝青路附設行人路，很適合城鎮內的道路需求。與道路結合的輕軌"
 "軌道可提供更有效率的公共交通。"
 
-#, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_SMALL_TRAM_ELECTRIFIED_NAME"
-msgstr "小型單行道（設有輕軌軌道）"
+msgstr "小型單程路（設有輕軌軌道）"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_SMALL_TREES_DESC"
@@ -21615,17 +21605,15 @@ msgstr ""
 "這條二線道的單向瀝青路附設行人路，很適合城鎮內的道路需求。樹木可減少污染與"
 "噪音，但也會使行駛速度降低。"
 
-#, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_SMALL_TREES_NAME"
-msgstr "小型單行道（設有行道樹）"
+msgstr "小型單程路（設有行道樹）"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_XSMALL_DESC"
 msgstr "這條狹窄的二線道單向瀝青路附設行人路，很適合城鎮內的道路需求。"
 
-#, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_XSMALL_NAME"
-msgstr "狹窄單行道"
+msgstr "狹窄單程路"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_SMALL_BARRIERS_DESC"
