@@ -3310,8 +3310,8 @@ msgid ""
 "roundabouts, highway T-intersections and cloverleaf interchanges are now "
 "available in the roads menu."
 msgstr ""
-"打造錯綜複雜的道路網變得更加容易了。道路選單內已新增圓環、高速公路T形交叉路口"
-"與四葉形交流道等預設選項。"
+"打造錯綜複雜的道路網變得更加容易了。道路選單內已新增圓環、高速公路T形交匯處"
+"與四葉形交匯處等預設選項。"
 
 #, fuzzy
 msgid "Building town..."
@@ -7391,7 +7391,7 @@ msgstr ""
 msgid "HELP_CONSTRUCTION_ROADS_CONSTRUCTIONS"
 msgstr ""
 "道路建設功能可用於建造預先設定好的道路架構。\n"
-"這類架構相當多元，從圓環到複雜的高速公路交叉路口皆有。"
+"這類架構相當多元，從圓環到複雜的高速公路交匯處皆有。"
 
 #, fuzzy
 msgid "HELP_CONSTRUCTION_ROADS_ROADS"
@@ -7428,7 +7428,7 @@ msgstr ""
 msgid "HELP_CONSTRUCTION_ROAD_TOOLS"
 msgstr ""
 "道路工具可用來修改現有的道路。\n"
-"使用輕軌軌道工具即可新增或移除輕軌軌道。位於交叉路口的軌道會自動生成，但仍可"
+"使用輕軌軌道工具即可新增或移除輕軌軌道。位於交匯處的軌道會自動生成，但仍可"
 "透過路口工具調整。\n"
 "利用巴士專線工具即可新增或移除巴士專線。巴士專線僅供貨車與巴士行駛，一"
 "般情況下汽車不會行駛於該車道。\n"
@@ -8539,53 +8539,41 @@ msgstr "用於引導交通的普通路徑號誌，也可做為單向號誌。"
 msgid "INFRA_SIGNAL_PATH_C_NAME"
 msgstr "路徑號誌"
 
-#, fuzzy
 msgid "INFRA_STREET_CONSTR_CLOVERLEAF_DESCRIPTION"
-msgstr "四向的高速公路交叉路口。"
+msgstr "四向的高速公路交匯處。"
 
-#, fuzzy
 msgid "INFRA_STREET_CONSTR_CLOVERLEAF_NAME"
-msgstr "四葉形交流道"
+msgstr "四葉形交匯處"
 
-#, fuzzy
 msgid "INFRA_STREET_CONSTR_DIAMOND_DESCRIPTION"
-msgstr "四向高速公路交叉口。"
+msgstr "四向高速公路交匯處。"
 
-#, fuzzy
 msgid "INFRA_STREET_CONSTR_DIAMOND_NAME"
-msgstr "菱形交流道"
+msgstr "鑽石型交匯處"
 
-#, fuzzy
 msgid "INFRA_STREET_CONSTR_DIVERGING_DIAMOND_DESCRIPTION"
-msgstr "四向高速公路交叉口。"
+msgstr "四向高速公路交匯處。"
 
-#, fuzzy
 msgid "INFRA_STREET_CONSTR_DIVERGING_DIAMOND_NAME"
-msgstr "分流式菱形交流道"
+msgstr "交叉鑽石型交匯處"
 
-#, fuzzy
 msgid "INFRA_STREET_CONSTR_ROUNDABOUT_DESCRIPTION"
-msgstr "環形交叉路口。"
+msgstr "環形交匯處。"
 
-#, fuzzy
 msgid "INFRA_STREET_CONSTR_ROUNDABOUT_NAME"
-msgstr "圓環"
+msgstr "迴旋處"
 
-#, fuzzy
 msgid "INFRA_STREET_CONSTR_TRUMPET_INTERCHANGE_DESCRIPTION"
-msgstr "三向高速公路交叉口。"
+msgstr "三向高速公路交匯處。"
 
-#, fuzzy
 msgid "INFRA_STREET_CONSTR_TRUMPET_INTERCHANGE_NAME"
-msgstr "喇叭形交流道"
+msgstr "喇叭形交匯處"
 
-#, fuzzy
 msgid "INFRA_STREET_CONSTR_T_INTERCHANGE_DESCRIPTION"
-msgstr "三向的高速公路交叉路口。"
+msgstr "三向的高速公路交匯處。"
 
-#, fuzzy
 msgid "INFRA_STREET_CONSTR_T_INTERCHANGE_NAME"
-msgstr "T形交叉路口"
+msgstr "T形交匯處"
 
 #, fuzzy
 msgid "INFRA_TUNNEL_CONCRETE_NAME"
@@ -8899,7 +8887,7 @@ msgstr "主要連接中斷"
 
 #, fuzzy
 msgid "Intersections"
-msgstr "交叉路口"
+msgstr "交匯處"
 
 #, fuzzy
 msgid "Intimidating"
