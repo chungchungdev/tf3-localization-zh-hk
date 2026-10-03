@@ -2015,9 +2015,9 @@ msgid ""
 "Higher values will result in more expensive vehicles, making the game more "
 "challenging."
 msgstr ""
-"調整購買車輛所需的成本。\n"
+"調整購買載具所需的成本。\n"
 "\n"
-"此數值越高，車輛的售價就越貴，也會讓遊戲更有挑戰性。"
+"此數值越高，載具的售價就越貴，也會讓遊戲更有挑戰性。"
 
 #, fuzzy
 msgid ""
@@ -2934,7 +2934,7 @@ msgstr "購買一輛馬車"
 #, fuzzy
 msgid "BUY_WAGON_GUIDE_PARAGRAPH"
 msgstr ""
-"在車輛商店中可購買運送乘客與貨物的車輛。《運輸業大亨3》針對各種運輸方式設有不"
+"在載具店中可購買運送乘客與貨物的載具。《運輸業大亨3》針對各種運輸方式設有不"
 "同的商店，包括道路車輛、輕軌、列車、船舶、飛機及直升機。使用篩選列依乘客或特"
 "定貨物類型進行篩選，便可快速找到符合需求的車輛。在左側選取車輛後，詳細資訊便"
 "會顯示在右側，包括容量、速度及動力等。"
@@ -3397,15 +3397,15 @@ msgstr "購買貨車"
 
 #, fuzzy
 msgid "Buy Vehicles"
-msgstr "購買車輛"
+msgstr "購買載具"
 
 #, fuzzy
 msgid "Buy Vehicles At {name}"
-msgstr "在{name}購買車輛"
+msgstr "在{name}購買載具"
 
 #, fuzzy
 msgid "Buy Vehicles In Depot"
-msgstr "在倉庫購買車輛"
+msgstr "在倉庫購買載具"
 
 #, fuzzy
 msgid "Buy a Train!"
@@ -3424,16 +3424,16 @@ msgstr "在船塢購買船隻。"
 
 #, fuzzy
 msgid "Buy vehicles at {name}."
-msgstr "於{name}購買車輛。"
+msgstr "於{name}購買載具。"
 
 #, fuzzy
 msgid "Buy vehicles for {lineName} at {depotName}."
-msgstr "於{depotName}為{lineName}購置車輛。"
+msgstr "於{depotName}為{lineName}購置載具。"
 
 #, fuzzy
 msgid "Buy {count} Vehicle for {cost}"
 msgid_plural "Buy {count} Vehicles for {cost}"
-msgstr[0] "以{cost}購買{count}部車輛"
+msgstr[0] "以{cost}購買{count}部載具"
 
 msgid ""
 "By creating an account you confirm that you have read, understood, and "
@@ -24063,10 +24063,10 @@ msgstr "購買一輛客運車輛"
 #, fuzzy
 msgid "TUTORIAL_BUY_BUS_GUIDE_PARAGRAPH"
 msgstr ""
-"在車輛商店中可以購買運送乘客與貨物的車輛。《運輸業大亨3》設有針對各種運輸方式"
-"的不同商店，包括道路車輛、輕軌、列車、船舶、飛機及直升機。使用篩選列依乘客或"
-"特定貨物類型進行篩選，便可快速找到符合需求的車輛。在左側選取車輛後，其詳細資"
-"訊便會顯示在右側，包括容量、速度及動力等。"
+"《運輸業大亨3》設有多種運輸方式，包括道路車輛、輕軌、列車、船舶、飛機及直升機。"
+"你可以在它們各自對應的載具廠購買新載具。"
+"在篩選列選擇貨物或乘客，可以篩選適合運載的載具。在左邊列表選取載具後，右邊會"
+"顯示詳細資訊，例如運載量、最高速度、功率。"
 
 #, fuzzy
 msgid "TUTORIAL_BUY_BUS_TASK_NAME"
@@ -24078,7 +24078,6 @@ msgstr ""
 "在商店中購買一輛載運乘客的車輛。選擇[link=entity_depot]車廠[/link]後按下管理"
 "車輛按鈕。"
 
-#, fuzzy
 msgid "TUTORIAL_BUY_TRAIN_GUIDE_NAME"
 msgstr "購買列車"
 
@@ -24090,15 +24089,12 @@ msgstr ""
 "化了嗎？若已電氣化，就可以購買電力機車。此外也請確認列車與車站的長度是否相"
 "符。若列車長度超出車站，裝卸貨物與乘客上下車的時間將會大幅增加。"
 
-#, fuzzy
 msgid "TUTORIAL_BUY_TRAIN_TASK_NAME"
 msgstr "購買列車"
 
-#, fuzzy
 msgid "TUTORIAL_BUY_TRAIN_TASK_PARAGRAPH"
-msgstr "太好啦！現在終於可以購買列車了。別忘了加掛幾節可載運乘客的車廂。"
+msgstr "太好啦！現在終於可以購買列車了。別忘了加裝幾節載客車廂。"
 
-#, fuzzy
 msgid "TUTORIAL_B_CONNECT_INDUSTRY_1_TASK_NAME"
 msgstr "建造道路"
 
@@ -24109,7 +24105,6 @@ msgstr ""
 "[link=entity_forest]森林[/link]與[link=entity_saw]鋸木廠[/link]之間修築道路，"
 "藉此建立供應鏈。"
 
-#, fuzzy
 msgid "TUTORIAL_B_CONNECT_INDUSTRY_2_TASK_NAME"
 msgstr "建造道路"
 
@@ -25646,8 +25641,8 @@ msgid ""
 "line by selecting the Buy Vehicles button."
 msgstr ""
 "若要建立新路線，可點擊「新路線」按鈕，或直接點選3D世界中任一停靠站的圖示，系"
-"統便會自動建立一條新路線。之後便可加入更多停靠站。如果附近已設置適用的倉庫，"
-"只要點選「購買車輛」按鈕，就能立刻將車輛指派至該路線。"
+"統便會自動建立一條新路線。之後便可加入更多停靠站。如果附近已有適用的載具廠，"
+"只要點選「購買載具」按鈕，就能立刻將載具指派至該路線。"
 
 #, fuzzy
 msgid ""
@@ -30270,8 +30265,8 @@ msgid ""
 "existing line and if a suitable depot exists, you can select the buy "
 "vehicles button to open the vehicle store."
 msgstr ""
-"你也可以直接從路線管理視窗購買車輛。選取現有路線後，如果有合適的倉庫，就可以"
-"選擇「購買車輛」按鈕開啟車輛商店。"
+"你也可以直接從路線管理視窗購買載具。選取現有路線後，如果有合適的載具廠，就可以"
+"選擇「購買載具」按鈕開啟載具商店。"
 
 #, fuzzy
 msgid ""
