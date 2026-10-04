@@ -8065,9 +8065,8 @@ msgstr "直升機"
 msgid "Helicopters Available"
 msgstr "直升機已開放"
 
-#, fuzzy
 msgid "Helipad"
-msgstr "直升機起降場"
+msgstr "直升機停機坪"
 
 #, fuzzy
 msgid "Help"
@@ -20341,13 +20340,11 @@ msgstr "直升機航廈"
 msgid "STATIONS_AIR_AIRPORT_TERMINAL_NAME"
 msgstr "航廈"
 
-#, fuzzy
 msgid "STATIONS_AIR_HELIPAD_DESCRIPTION"
-msgstr "供客運與貨運使用之小型直升機起降平台。"
+msgstr "供客運與貨運使用之小型直升機停機坪。"
 
-#, fuzzy
 msgid "STATIONS_AIR_HELIPAD_NAME"
-msgstr "直升機起降場"
+msgstr "直升機停機坪"
 
 #, fuzzy
 msgid "STATIONS_AIR_HELIPORT_DESCRIPTION"
