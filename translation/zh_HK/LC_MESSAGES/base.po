@@ -8096,11 +8096,9 @@ msgstr "高速"
 msgid "Highest Town Level Reached"
 msgstr "已達城鎮等級上限"
 
-#, fuzzy
 msgid "Highways"
 msgstr "高速公路"
 
-#, fuzzy
 msgid "Highways Are Now Available"
 msgstr "高速公路現已開放"
 
@@ -25583,11 +25581,9 @@ msgstr ""
 "為支援高速客運列車的營運需求，鐵路選單現已新增高速軌道。這種專用軌道可讓列車"
 "以最快速度行駛，但也會造成大量污染。"
 
-#, fuzzy
 msgid "To unsubscribe, please return to the main menu."
 msgstr "若要取消訂閱，請返回主選單。"
 
-#, fuzzy
 msgid "Today, {time}"
 msgstr "今天{time}"
 
@@ -25631,27 +25627,22 @@ msgstr "網路請求次數過多，請稍後再試一次。"
 msgid "Too many vehicles selected."
 msgstr "選擇之載具數量過多。"
 
-#, fuzzy
 msgid "Tools"
 msgstr "工具"
 
 #, fuzzy
 msgid "Tools Factory"
-msgstr "工具工廠"
+msgstr "工具廠"
 
-#, fuzzy
 msgid "Top Speed"
 msgstr "最高速度"
 
-#, fuzzy
 msgid "Top Speed for Slopes:"
 msgstr "坡道最高速度："
 
-#, fuzzy
 msgid "Top Speed: {formattedSpeed}"
-msgstr "最快速度：{formattedSpeed}"
+msgstr "最高速度：{formattedSpeed}"
 
-#, fuzzy
 msgid "Total Bridge Length"
 msgstr "橋梁總長"
 
@@ -25663,19 +25654,15 @@ msgstr "總容量"
 msgid "Total Earnings"
 msgstr "總收益"
 
-#, fuzzy
 msgid "Total Electrified Track Length"
 msgstr "電氣化軌道總長"
 
-#, fuzzy
 msgid "Total Road Length"
 msgstr "道路總長"
 
-#, fuzzy
 msgid "Total Track Length"
 msgstr "軌道總長"
 
-#, fuzzy
 msgid "Total Track and Road Length"
 msgstr "軌道及道路總長"
 
@@ -25706,11 +25693,9 @@ msgstr "城鎮管理機關"
 msgid "Town Builder"
 msgstr "城鎮建造"
 
-#, fuzzy
 msgid "Town Cargo Demands"
 msgstr "城鎮貨物需求"
 
-#, fuzzy
 msgid "Town Density"
 msgstr "城鎮密度"
 
@@ -25722,19 +25707,15 @@ msgstr "未啟用城鎮發展"
 msgid "Town Growth: +{percent}"
 msgstr "城鎮發展：+{percent}"
 
-#, fuzzy
 msgid "Town Level Up"
 msgstr "城鎮等級提升"
 
-#, fuzzy
 msgid "Town Not Connected"
 msgstr "城鎮未連接"
 
-#, fuzzy
 msgid "Town Rating Decreasing"
 msgstr "城鎮評價正在下降"
 
-#, fuzzy
 msgid "Town Rating Is Decreasing"
 msgstr "城鎮評價正在下降"
 
@@ -25746,27 +25727,21 @@ msgstr "城鎮評價非常差"
 msgid "Town Rating Very Poor"
 msgstr "城鎮評價極差"
 
-#, fuzzy
 msgid "Town Ratings"
 msgstr "城鎮評價"
 
-#, fuzzy
 msgid "Town Statistics"
 msgstr "城鎮統計資料"
 
-#, fuzzy
 msgid "Town {number}"
 msgstr "城鎮{number}"
 
-#, fuzzy
 msgid "Towns"
 msgstr "城鎮"
 
-#, fuzzy
 msgid "Towns / Industries"
 msgstr "城鎮／產業"
 
-#, fuzzy
 msgid "Towns Layer"
 msgstr "城鎮圖層"
 
@@ -25774,15 +25749,12 @@ msgstr "城鎮圖層"
 msgid "Track Builder Mode"
 msgstr "軌道建造模式"
 
-#, fuzzy
 msgid "Track Tools"
 msgstr "軌道工具"
 
-#, fuzzy
 msgid "Track Type"
 msgstr "軌道類型"
 
-#, fuzzy
 msgid "Tracks"
 msgstr "軌道"
 
@@ -25796,11 +25768,9 @@ msgstr "交通"
 msgid "Traffic Congestion"
 msgstr "交通擠塞程度"
 
-#, fuzzy
 msgid "Traffic Flow"
 msgstr "交通流量"
 
-#, fuzzy
 msgid "Traffic Layer"
 msgstr "交通圖層"
 
@@ -25813,7 +25783,6 @@ msgstr "交通燈"
 msgid "Traffic Lights Available"
 msgstr "交通燈已開放"
 
-#, fuzzy
 msgid "Traffic Rating"
 msgstr "交通評價"
 
@@ -25825,7 +25794,6 @@ msgstr "交通評價紅利"
 msgid "Traffic Sensitivity"
 msgstr "交通靈敏度"
 
-#, fuzzy
 msgid "Train"
 msgid_plural "Trains"
 msgstr[0] "火車"
