@@ -27285,7 +27285,7 @@ msgstr ""
 
 #, fuzzy
 msgid "VEHICLE_SHIP_HONG_KONG_FERRY_BOAT_NAME"
-msgstr "子午線渡輪"
+msgstr "午星號"
 
 #, fuzzy
 msgid "VEHICLE_SHIP_HOVERCRAFT_AP1_88_DESCRIPTION"
