@@ -30657,7 +30657,6 @@ msgctxt "landmark-required-resources"
 msgid "Very High"
 msgstr "極高"
 
-#, fuzzy
 msgctxt "layer-infrastructure-areas"
 msgid "Cargo"
 msgstr "貨物"
@@ -30666,12 +30665,10 @@ msgctxt "layer-infrastructure-areas"
 msgid "None"
 msgstr "無"
 
-#, fuzzy
 msgctxt "layer-infrastructure-areas"
 msgid "Passengers"
 msgstr "乘客"
 
-#, fuzzy
 msgctxt "layer-infrastructure-areas"
 msgid "Vehicle Maintenance"
 msgstr "載具維修"
@@ -30685,7 +30682,6 @@ msgctxt "layer-rating-label"
 msgid "Fast"
 msgstr "快"
 
-#, fuzzy
 msgctxt "layer-rating-label"
 msgid "Good"
 msgstr "佳"
