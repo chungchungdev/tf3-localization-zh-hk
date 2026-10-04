@@ -2388,7 +2388,7 @@ msgstr "飛行器污染"
 
 #, fuzzy
 msgid "Aircraft Top Speed"
-msgstr "飛行器最快速度"
+msgstr "飛行器最高速度"
 
 #, fuzzy
 msgid "Aircraft {number}"
@@ -20096,7 +20096,7 @@ msgstr "道路車輛污染"
 
 #, fuzzy
 msgid "Road Vehicle Top Speed"
-msgstr "道路車輛最快速度"
+msgstr "道路車輛最高速度"
 
 #, fuzzy
 msgid "Road Vehicle {number}"
@@ -22441,7 +22441,7 @@ msgstr "船舶污染"
 
 #, fuzzy
 msgid "Ship Top Speed"
-msgstr "船舶最快速度"
+msgstr "船舶最高速度"
 
 #, fuzzy
 msgid "Ship Waypoint"
@@ -25579,7 +25579,7 @@ msgid ""
 "though it comes at the cost of high pollution."
 msgstr ""
 "為支援高速客運列車的營運需求，鐵路選單現已新增高速軌道。這種專用軌道可讓列車"
-"以最快速度行駛，但也會造成大量污染。"
+"以最高速度行駛，但也會造成大量污染。"
 
 msgid "To unsubscribe, please return to the main menu."
 msgstr "若要取消訂閱，請返回主選單。"
@@ -25828,7 +25828,7 @@ msgstr "火車站"
 
 #, fuzzy
 msgid "Train Top Speed"
-msgstr "列車最快速度"
+msgstr "列車最高速度"
 
 #, fuzzy
 msgid "Train {number}"
@@ -25877,7 +25877,7 @@ msgstr "輕軌站"
 
 #, fuzzy
 msgid "Tram Top Speed"
-msgstr "輕軌最快速度"
+msgstr "輕軌最高速度"
 
 #, fuzzy
 msgid "Tram Track"
