@@ -5932,9 +5932,8 @@ msgstr ""
 msgid "ERROR"
 msgstr "錯誤"
 
-#, fuzzy
 msgid "ERROR (Console)"
-msgstr "錯誤（控制器）"
+msgstr "錯誤（遊戲主機）"
 
 #, fuzzy
 msgid "EULA"
@@ -24926,11 +24925,10 @@ msgid ""
 "was cancelled."
 msgstr "模組驗證發現的錯誤多於你確認的錯誤，上載已取消。"
 
-#, fuzzy
 msgid ""
 "The mod will not be uploaded for console platforms due to critical console "
 "errors."
-msgstr "此模組有嚴重的主機平台錯誤，因此不會上架至主機平台。"
+msgstr "此模組有嚴重的遊戲主機平台錯誤，因此不會上架至遊戲主機平台。"
 
 #, fuzzy
 msgid "The number of industries exceeds the limit of {limit}."
@@ -29955,9 +29953,8 @@ msgstr "通用貨倉"
 msgid "WARNING"
 msgstr "警告"
 
-#, fuzzy
 msgid "WARNING (Console)"
-msgstr "警告（控制器）"
+msgstr "警告（遊戲主機）"
 
 #, fuzzy
 msgid "Wadi Al-Amda Camp Site"
