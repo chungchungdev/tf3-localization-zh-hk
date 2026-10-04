@@ -25959,11 +25959,9 @@ msgstr "城鎮之間的旅行時間過長"
 msgid "Travel time between {fromTownName} and {toTownName} is too long."
 msgstr "{fromTownName}與{toTownName}之間的旅程時間過長。"
 
-#, fuzzy
 msgid "Trees"
 msgstr "樹木"
 
-#, fuzzy
 msgid "Trees Removed"
 msgstr "已移除的樹木"
 
@@ -26062,7 +26060,6 @@ msgstr "隧道高度"
 msgid "Tunnels"
 msgstr "隧道"
 
-#, fuzzy
 msgid "Tutorial"
 msgstr "教學"
 
@@ -26093,7 +26090,7 @@ msgstr "C型"
 
 #, fuzzy
 msgid "UFO"
-msgstr "幽浮"
+msgstr "UFO"
 
 #, fuzzy
 msgid "UGC Hosting"
@@ -26111,7 +26108,6 @@ msgstr "烏姆弗魯斯營地"
 msgid "Unable To Align Terrain"
 msgstr "無法對齊地形"
 
-#, fuzzy
 msgid "Unavailable"
 msgstr "無法使用"
 
@@ -26123,7 +26119,6 @@ msgstr "地下"
 msgid "Underground Mode"
 msgstr "地下模式"
 
-#, fuzzy
 msgid "Undo"
 msgstr "還原"
 
@@ -26218,51 +26213,39 @@ msgstr "卸貨中"
 msgid "Unlocked at Rank: {rank}"
 msgstr "解鎖等級：{rank}"
 
-#, fuzzy
 msgid "Unmute"
 msgstr "取消靜音"
 
-#, fuzzy
 msgid "Unnamed Industry"
 msgstr "未命名的產業"
 
-#, fuzzy
 msgid "Unnamed Savegame"
 msgstr "未命名的遊戲存檔"
 
-#, fuzzy
 msgid "Unnamed Town"
 msgstr "未命名的城鎮"
 
-#, fuzzy
 msgid "Unnamed landmark"
 msgstr "未命名的地標"
 
-#, fuzzy
 msgid "Unspecified"
 msgstr "未指定"
 
-#, fuzzy
 msgid "Unsubscribe"
 msgstr "取消訂閱"
 
-#, fuzzy
 msgid "Up to {cost}{units}"
 msgstr "最高{cost}{units}"
 
-#, fuzzy
 msgid "Update"
 msgstr "更新"
 
-#, fuzzy
 msgid "Update Metadata"
-msgstr "更新詮釋資料"
+msgstr "更新元數據"
 
-#, fuzzy
 msgid "Update Models"
 msgstr "更新模型"
 
-#, fuzzy
 msgid "Update Pending"
 msgstr "正在等待上載"
 
@@ -26315,39 +26298,30 @@ msgstr "貨倉維修費"
 msgid "Upkeep: {}"
 msgstr "維修：{}"
 
-#, fuzzy
 msgid "Upload"
 msgstr "上載"
 
-#, fuzzy
 msgid "Upload Failed"
 msgstr "上載失敗"
 
-#, fuzzy
 msgid "Upload Mod: Unavailable"
 msgstr "上載模組：無法使用"
 
-#, fuzzy
 msgid "Upload Partially Failed"
 msgstr "上載部分失敗"
 
-#, fuzzy
 msgid "Upload Successful"
 msgstr "上載成功"
 
-#, fuzzy
 msgid "Uploading Mods"
 msgstr "正在上載模組"
 
-#, fuzzy
 msgid "Uploading gallery images"
 msgstr "正在上載圖庫圖片"
 
-#, fuzzy
 msgid "Uploading mod file"
 msgstr "正在上載模組檔案"
 
-#, fuzzy
 msgid "Uploading... Please Wait"
 msgstr "正在上載……請稍候"
 
@@ -26374,11 +26348,9 @@ msgstr "尤萊德拉火車站"
 msgid "Urban Games Hot Air Balloon"
 msgstr "Urban Games熱氣球"
 
-#, fuzzy
 msgid "Usage"
 msgstr "使用量"
 
-#, fuzzy
 msgid "Usage Consent"
 msgstr "使用同意書"
 
@@ -26422,7 +26394,6 @@ msgstr "使用者個人檔案建立失敗"
 msgid "Username or Email"
 msgstr "使用者名稱或電子郵件"
 
-#, fuzzy
 msgid "Uses: {numAvailable}"
 msgstr "使用次數：{numAvailable}"
 
