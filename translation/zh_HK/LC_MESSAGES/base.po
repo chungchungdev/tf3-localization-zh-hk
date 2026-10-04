@@ -27277,13 +27277,11 @@ msgstr ""
 msgid "VEHICLE_SHIP_HERKULES_XI_UNIVERSAL_NAME"
 msgstr "海格力斯XI拖船"
 
-#, fuzzy
 msgid "VEHICLE_SHIP_HONG_KONG_FERRY_BOAT_DESCRIPTION"
 msgstr ""
 "這艘客運渡輪的特色為其獨特配色與雙層設計。多艘同款船隻目前正服役於香港的客運"
 "渡輪服務。"
 
-#, fuzzy
 msgid "VEHICLE_SHIP_HONG_KONG_FERRY_BOAT_NAME"
 msgstr "午星號"
 
@@ -28982,7 +28980,7 @@ msgstr "五十鈴Elf TLD20"
 msgid "VEHICLE_TRUCK_KENWORTH_K100E_BOX_DESCRIPTION"
 msgstr ""
 "這款美國半聯結車同樣常見於澳洲與紐西蘭。雙排氣管與引擎置於駕駛室下方的配置，"
-"成為變形金剛柯博文造型的靈感來源。"
+"成為變形金剛柯柏文造型的靈感來源。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_KENWORTH_K100E_BOX_NAME"
@@ -28992,7 +28990,7 @@ msgstr "肯沃斯K100E箱型貨車"
 msgid "VEHICLE_TRUCK_KENWORTH_K100E_BULK_DESCRIPTION"
 msgstr ""
 "這款美國半聯結車同樣常見於澳洲與紐西蘭。雙排氣管與引擎置於駕駛室下方的配置，"
-"成為變形金剛柯博文造型的靈感來源。"
+"成為變形金剛柯柏文造型的靈感來源。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_KENWORTH_K100E_BULK_NAME"
@@ -29002,7 +29000,7 @@ msgstr "肯沃斯K100E散料貨車"
 msgid "VEHICLE_TRUCK_KENWORTH_K100E_STAKE_DESCRIPTION"
 msgstr ""
 "這款美國半聯結車同樣常見於澳洲與紐西蘭。雙排氣管與引擎置於駕駛室下方的配置，"
-"成為變形金剛柯博文造型的靈感來源。"
+"成為變形金剛柯柏文造型的靈感來源。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_KENWORTH_K100E_STAKE_NAME"
@@ -29012,7 +29010,7 @@ msgstr "肯沃斯K100E欄板貨車"
 msgid "VEHICLE_TRUCK_KENWORTH_K100E_TANK_DESCRIPTION"
 msgstr ""
 "這款美國半聯結車同樣常見於澳洲與紐西蘭。雙排氣管與引擎置於駕駛室下方的配置，"
-"成為變形金剛柯博文造型的靈感來源。"
+"成為變形金剛柯柏文造型的靈感來源。"
 
 #, fuzzy
 msgid "VEHICLE_TRUCK_KENWORTH_K100E_TANK_NAME"
