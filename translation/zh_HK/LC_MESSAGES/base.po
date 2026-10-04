@@ -3274,7 +3274,6 @@ msgstr "建造大型碼頭"
 msgid "Build a Small Dock"
 msgstr "建造小型碼頭"
 
-#, fuzzy
 msgid "Build a Warehouse"
 msgstr "建造一間貨倉"
 
@@ -7460,7 +7459,6 @@ msgstr ""
 "城鎮大小與貨物需求均可選擇。\n"
 "要讓地圖能夠正常遊玩，需先放置多個城鎮，並以道路連接它們。"
 
-#, fuzzy
 msgid "HELP_CONSTRUCTION_WAREHOUSES"
 msgstr ""
 "貨倉用於儲存貨物，以及在各種運輸系統之間轉運貨物。\n"
@@ -7846,7 +7844,6 @@ msgstr ""
 "載具必須妥善保養，才能發揮最大性能。載具若缺乏維修，會導致性能降低，並使排放"
 "量增加。可在其途徑上建造專用維修設施來改善保養狀況。"
 
-#, fuzzy
 msgid "HELP_WINDOW_WAREHOUSE"
 msgstr ""
 "此視窗列出貨倉的所有相關資訊，例如庫存、目前裝填量，以及支援之貨物類型等。\n"
@@ -11223,7 +11220,6 @@ msgstr "您無法想像人們對於能有一座新倉庫會有多麼感激。"
 msgid "MISSION_01_TASK_GUMBO_BUILD_STORAGE_NAME"
 msgstr "請建造一座倉庫"
 
-#, fuzzy
 msgid "MISSION_01_TASK_GUMBO_BUILD_STORAGE_PARAGRAPH"
 msgstr "在[link=pos_warehouse_zone]標示區域[/link]內建造通用貨倉！"
 
@@ -18401,7 +18397,6 @@ msgstr "西北鐵路車廠"
 msgid "Northwest Truck Station"
 msgstr "西北貨車站"
 
-#, fuzzy
 msgid "Northwest Warehouse"
 msgstr "西北貨倉"
 
@@ -18445,7 +18440,6 @@ msgstr "此非車站！"
 msgid "Not a Stop!"
 msgstr "此非站牌！"
 
-#, fuzzy
 msgid "Not a Warehouse!"
 msgstr "此非貨倉！"
 
@@ -22730,11 +22724,9 @@ msgstr "顯示／隱藏交通圖層"
 msgid "Show/Hide Vehicle Statistics"
 msgstr "顯示／隱藏載具統計資料"
 
-#, fuzzy
 msgid "Show/Hide Warehouse Menu"
 msgstr "顯示／隱藏貨倉選單"
 
-#, fuzzy
 msgid "Show/Hide Warehouse Statistics"
 msgstr "顯示／隱藏貨倉統計資料"
 
@@ -23004,7 +22996,6 @@ msgstr "專用類型不符：{penalty}"
 msgid "Specialized Terminal: {boost}"
 msgstr "專用月台：{boost}"
 
-#, fuzzy
 msgid "Specialized Warehouse: {boost}"
 msgstr "專用貨倉：{boost}"
 
@@ -23851,7 +23842,6 @@ msgstr ""
 "座貨運站。\n"
 "別忘了將它跟道路連接起來喔！"
 
-#, fuzzy
 msgid "TUTORIAL_A_WAREHOUSE_TASK_NAME"
 msgstr "建造一間貨倉"
 
@@ -24172,7 +24162,6 @@ msgstr ""
 "座貨運站。\n"
 "別忘了將它與道路連接喔！"
 
-#, fuzzy
 msgid "TUTORIAL_B_WAREHOUSE_TASK_NAME"
 msgstr "建造一間貨倉"
 
@@ -24422,7 +24411,6 @@ msgstr ""
 "類。專用車輛雖能大幅提升裝載效率，但靈活性較低。此外，請避免在專用車站裝卸類"
 "型不符的貨物，否則將受到嚴重懲罰。"
 
-#, fuzzy
 msgid "TUTORIAL_WAREHOUSE_GUIDE_NAME"
 msgstr "建造一間貨倉"
 
@@ -25052,11 +25040,10 @@ msgid ""
 "available."
 msgstr "起始年份會影響城鎮的外觀與可使用的載具。"
 
-#, fuzzy
 msgid ""
 "The station is not functional yet, as no warehouse, industry or town "
 "building is in the catchment area."
-msgstr "由於服務範圍內沒有倉庫、工業設施或城鎮建築，因此該加油站目前無法運作。"
+msgstr "由於服務範圍內沒有倉庫、工業設施或城鎮建築，因此該貨運站目前無法運作。"
 
 #, fuzzy
 msgid "The stop is incompatible."
@@ -26062,7 +26049,6 @@ msgstr "小跑"
 msgid "Truck: Refinery to Town "
 msgstr "貨車：煉油廠至城鎮"
 
-#, fuzzy
 msgid "Truck: Warehouse to Refinery "
 msgstr "貨車：貨倉至煉油廠"
 
@@ -29884,51 +29870,40 @@ msgstr "配音"
 msgid "Volcano"
 msgstr "火山"
 
-#, fuzzy
 msgid "Volume Settings"
 msgstr "音量設定"
 
-#, fuzzy
 msgid "WAREHOUSE_BULK_DESCRIPTION"
 msgstr ""
-"散裝貨物專用的貨倉。可利用模組擴建。可提升針對散裝貨物專用之車輛的裝載速度。"
+"散裝貨物專用的貨倉。可利用模組擴建。可提升針對散裝貨物專用載具的裝載速度。"
 
-#, fuzzy
 msgid "WAREHOUSE_BULK_NAME"
 msgstr "散裝貨倉"
 
-#, fuzzy
 msgid "WAREHOUSE_FLATBED_DESCRIPTION"
 msgstr ""
-"平板貨物專用的貨倉。可利用模組擴建。可提升針對平板貨物專用之車輛的裝載速度。"
+"平板貨物專用的貨倉。可利用模組擴建。可提升針對平板貨物專用載具的裝載速度。"
 
-#, fuzzy
 msgid "WAREHOUSE_FLATBED_NAME"
 msgstr "平板貨倉"
 
-#, fuzzy
 msgid "WAREHOUSE_GOODS_DESCRIPTION"
 msgstr ""
-"一般貨物專用的貨倉。可利用模組擴建。可提升針對一般貨物專用之車輛的裝載速度。"
+"一般貨物專用的貨倉。可利用模組擴建。可提升針對一般貨物專用載具的裝載速度。"
 
-#, fuzzy
 msgid "WAREHOUSE_GOODS_NAME"
 msgstr "一般貨倉"
 
-#, fuzzy
 msgid "WAREHOUSE_LIQUID_DESCRIPTION"
 msgstr ""
-"液體貨物專用的貨倉。可利用模組擴建。可提升針對液體貨物專用之車輛的裝載速度。"
+"液體貨物專用的貨倉。可利用模組擴建。可提升針對液體貨物專用載具的裝載速度。"
 
-#, fuzzy
 msgid "WAREHOUSE_LIQUID_NAME"
 msgstr "液體貨倉"
 
-#, fuzzy
 msgid "WAREHOUSE_UNIVERSAL_DESCRIPTION"
 msgstr "可用於任何類型貨物的貨倉。可利用模組擴建及客製。"
 
-#, fuzzy
 msgid "WAREHOUSE_UNIVERSAL_NAME"
 msgstr "通用貨倉"
 
@@ -29989,19 +29964,15 @@ msgstr "步行中"
 msgid "Wandering"
 msgstr "閒晃"
 
-#, fuzzy
 msgid "Warehouse"
 msgstr "貨倉"
 
-#, fuzzy
 msgid "Warehouse Statistics"
 msgstr "貨倉統計資料"
 
-#, fuzzy
 msgid "Warehouses"
 msgstr "貨倉"
 
-#, fuzzy
 msgid "Warning"
 msgstr "警告"
 
@@ -32829,7 +32800,6 @@ msgstr "{townName} 輕軌車廠"
 msgid "{townName} Underground Stop"
 msgstr "{townName}地下站牌"
 
-#, fuzzy
 msgid "{townName} Warehouse"
 msgstr "{townName}貨倉"
 
