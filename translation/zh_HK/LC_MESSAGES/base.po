@@ -27111,15 +27111,13 @@ msgstr ""
 msgid "VEHICLE_PLANE_FOKKER_F_VII_A_NAME"
 msgstr "福克F VII A"
 
-#, fuzzy
 msgid "VEHICLE_PLANE_HERCULES_L100_DESCRIPTION"
 msgstr ""
-"赫拉克勒斯為洛克希德的軍用運輸機C-130E之民用版本，配備軍規等級的導航與通訊設"
+"海格力斯為洛歇的軍用運輸機C-130E之民用版本，配備軍規等級的導航與通訊設"
 "備。"
 
-#, fuzzy
 msgid "VEHICLE_PLANE_HERCULES_L100_NAME"
-msgstr "洛克希德L-100赫拉克勒斯"
+msgstr "洛歇L-100海格力斯"
 
 #, fuzzy
 msgid "VEHICLE_PLANE_JUNKERS_F_13_DESCRIPTION"
@@ -27159,22 +27157,18 @@ msgstr "這款東歐區域客機採用特殊的低翼設計，藉此打入西方
 msgid "VEHICLE_PLANE_SUKHOI_SUPERJET_100_NAME"
 msgstr "蘇愷超級噴射機100"
 
-#, fuzzy
 msgid "VEHICLE_PLANE_SUPER_CONNIE_CARGO_DESCRIPTION"
 msgstr ""
 "此為第一代「超級康尼」的變體，配備大型貨艙門與耐重強化地板，便於運輸貨物。"
 
-#, fuzzy
 msgid "VEHICLE_PLANE_SUPER_CONNIE_CARGO_NAME"
-msgstr "洛克希德L-1049D/H超級康尼"
+msgstr "洛歇L-1049D/H超級康尼"
 
-#, fuzzy
 msgid "VEHICLE_PLANE_SUPER_CONNIE_DESCRIPTION"
 msgstr "這架美製四引擎客機常被稱為「超級康尼」，是星座系列當中最為成功的機型。"
 
-#, fuzzy
 msgid "VEHICLE_PLANE_SUPER_CONNIE_NAME"
-msgstr "洛克希德L-1049超級康尼"
+msgstr "洛歇L-1049超級康尼"
 
 #, fuzzy
 msgid "VEHICLE_PLANE_TUPOLEV_TU_204_CARGO_DESCRIPTION"
@@ -27281,7 +27275,7 @@ msgstr ""
 
 #, fuzzy
 msgid "VEHICLE_SHIP_HERKULES_XI_UNIVERSAL_NAME"
-msgstr "赫拉克勒斯XI拖船"
+msgstr "海格力斯XI拖船"
 
 #, fuzzy
 msgid "VEHICLE_SHIP_HONG_KONG_FERRY_BOAT_DESCRIPTION"
