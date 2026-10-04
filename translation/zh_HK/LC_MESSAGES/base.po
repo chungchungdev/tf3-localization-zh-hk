@@ -8045,30 +8045,24 @@ msgstr "高度"
 msgid "Height Offset"
 msgstr "高度偏移"
 
-#, fuzzy
 msgid "Heightmap"
 msgstr "高度圖"
 
-#, fuzzy
 msgid "Helicopter Line"
 msgstr "直升機路線"
 
-#, fuzzy
 msgid "Helicopter {number}"
 msgstr "直升機{number}"
 
-#, fuzzy
 msgid "Helicopters"
 msgstr "直升機"
 
-#, fuzzy
 msgid "Helicopters Available"
 msgstr "直升機已開放"
 
 msgid "Helipad"
 msgstr "直升機停機坪"
 
-#, fuzzy
 msgid "Help"
 msgstr "協助"
 
