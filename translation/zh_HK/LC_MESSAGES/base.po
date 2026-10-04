@@ -4259,7 +4259,7 @@ msgid ""
 msgstr ""
 "選擇若忽略維修，載具性能因老化受到的影響程度。\n"
 "\n"
-"隨著載具年份增加，噪音、污染和運行成本會上升，而速度、動力與舒適度會下降。\n"
+"隨著載具年份增加，噪音、污染和營運成本會上升，而速度、動力與舒適度會下降。\n"
 "\n"
 "設定為「無」則可讓載具年份對性能不造成任何影響。"
 
@@ -7260,12 +7260,11 @@ msgstr ""
 "項。\n"
 "最多可同時申請四筆貸款；若資金充足，亦可提前還款。"
 
-#, fuzzy
 msgid "HELP_COMPANY_OVERVIEW"
 msgstr ""
 "財務概況中可看到最近幾年的收入與成本。\n"
 "每個分類都可以展開，檢視更詳細的資訊。\n"
-"載具可透過售票獲得收入，但也會產生運行成本。車站與軌道等基礎設施亦有其維修成"
+"載具可透過售票獲得收入，但也會產生營運成本。車站與軌道等基礎設施亦有其維修成"
 "本。"
 
 #, fuzzy
@@ -20218,13 +20217,11 @@ msgstr "不雅或不當內容"
 msgid "Running"
 msgstr "奔跑"
 
-#, fuzzy
 msgid "Running Costs"
-msgstr "運行成本"
+msgstr "營運成本"
 
-#, fuzzy
 msgid "Running Costs Vehicles"
-msgstr "載具運行成本"
+msgstr "載具營運成本"
 
 #, fuzzy
 msgid "Runway"
@@ -23662,9 +23659,8 @@ msgstr "要購買載具並將之派遣至某條路線，就必須有倉庫。"
 msgid "TIP_VEHICLES_4"
 msgstr "路線的頻率代表載具運行的時間間隔。"
 
-#, fuzzy
 msgid "TIP_VEHICLES_6"
-msgstr "維修設施數量越多，載具的排放量就越低，但運行成本也會隨之上升。"
+msgstr "維修設施數量越多，載具的排放量就越低，但營運成本也會隨之上升。"
 
 #, fuzzy
 msgid "TIP_VEHICLES_7"
