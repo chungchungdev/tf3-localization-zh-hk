@@ -2366,9 +2366,8 @@ msgid ""
 "purchased via the new heliport in the air menu. These versatile aircraft are "
 "ideal for transporting cargo and passengers to remote off-shore industries."
 msgstr ""
-"航空運輸迎來進一步發展，直升機也隨之開放使用。你可透過航空選單中新設的直升機"
-"起降場來購置直升機。這類多用途的飛行器是將貨物和乘客運往偏遠海上產業的理想選"
-"擇。"
+"航空運輸迎來進一步發展，直升機現已開放使用。你可透過航空選單中新設的直升機場"
+"購買直升機。這類多用途的飛行器是將貨物和乘客運往偏遠海上產業的理想選擇。"
 
 #, fuzzy
 msgid "Aircraft"
@@ -2432,7 +2431,7 @@ msgstr ""
 
 #, fuzzy
 msgid "Airports & Heliports"
-msgstr "機場＆直升機機場"
+msgstr "機場＆直升機場"
 
 #, fuzzy
 msgid "Airship"
@@ -3003,7 +3002,7 @@ msgstr "貝塞爾直升機停機坪"
 
 #, fuzzy
 msgid "Bethel Heliport"
-msgstr "貝塞爾直升機起降場"
+msgstr "貝塞爾直升機場"
 
 #, fuzzy
 msgid "Bethel Hotel"
@@ -20353,12 +20352,12 @@ msgstr "直升機起降場"
 #, fuzzy
 msgid "STATIONS_AIR_HELIPORT_DESCRIPTION"
 msgstr ""
-"供客運與貨運使用之直升機起降場，附帶用於購買直升機的倉庫。可利用模組擴建。可"
+"供客運與貨運使用之直升機場，附帶用於購買直升機的倉庫。可利用模組擴建。可"
 "自動維修位於一定半徑範圍內的直升機。"
 
 #, fuzzy
 msgid "STATIONS_AIR_HELIPORT_NAME"
-msgstr "直升機起降場"
+msgstr "直升機場"
 
 #, fuzzy
 msgid "STATIONS_RAIL_MODULAR_ADDON_ROOF_A_DESCRIPTION"
@@ -30799,7 +30798,7 @@ msgstr "任務8_"
 #, fuzzy
 msgctxt "mod-tags"
 msgid "Airport/Heliport"
-msgstr "機場／直升機起降場"
+msgstr "機場／直升機場"
 
 #, fuzzy
 msgctxt "mod-tags"
@@ -32758,7 +32757,7 @@ msgstr "{townName}總部"
 
 #, fuzzy
 msgid "{townName} Heliport"
-msgstr "{townName}直升機起降場"
+msgstr "{townName}直升機場"
 
 #, fuzzy
 msgid "{townName} Maintenance Building"
