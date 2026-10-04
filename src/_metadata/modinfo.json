@@ -1,7 +1,7 @@
 {
-  "name": "Localization - Hong Kong",
-  "summary": "Add Traditional Chinese(Hong Kong) support for the game.",
-  "description": "Make the official Traditional Chinese more idiomatic to Hong Kong people and fix some suspected AI slop translations.\nUpdating as I play.",
+  "name": "本地化 - 香港 Hong Kong",
+  "summary": "提供繁體中文(香港)翻譯。",
+  "description": "以官方繁體中文為基礎，將一些詞語改成(我認為)香港慣用的翻譯及改善某些質素較差的疑似AI翻譯。\n一邊玩一邊更新。",
   "localization": {
     "en": {
       "name": "Localization - Traditional Chinese(Hong Kong)",
@@ -9,14 +9,14 @@
       "description": "Make the official Traditional Chinese more idiomatic to Hong Kong people and fix some suspected AI slop translations.\nUpdating as I play."
     },
     "zh_TW": {
-      "name": "本地化 - 繁體中文(香港)",
-      "summary": "為遊戲提供繁體中文(香港)語言。",
-      "description": "將一些詞語改成(我認為)香港慣用的翻譯及改善某些質素較差的疑似AI翻譯。\n一邊玩一邊更新。"
+      "name": "本地化 - 香港 Hong Kong",
+      "summary": "提供繁體中文(香港)翻譯。",
+      "description": "以官方繁體中文為基礎，將一些詞語改成(我認為)香港慣用的翻譯及改善某些質素較差的疑似AI翻譯。\n一邊玩一邊更新。"
     },
     "zh_HK": {
-      "name": "本地化 - 繁體中文(香港)",
-      "summary": "為遊戲提供繁體中文(香港)語言。",
-      "description": "將一些詞語改成(我認為)香港慣用的翻譯及改善某些質素較差的疑似AI翻譯。\n一邊玩一邊更新。"
+      "name": "本地化 - 香港 Hong Kong",
+      "summary": "提供繁體中文(香港)翻譯。",
+      "description": "以官方繁體中文為基礎，將一些詞語改成(我認為)香港慣用的翻譯及改善某些質素較差的疑似AI翻譯。\n一邊玩一邊更新。"
     }
   },
   "authors": [
