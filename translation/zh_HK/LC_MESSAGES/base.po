@@ -137,7 +137,7 @@ msgstr "擁有超過5艘船舶：%d點"
 
 #, fuzzy
 msgid "%d Point(s) for Maximum Vehicle Age"
-msgstr "車輛年限上限：%d點"
+msgstr "載具年限上限：%d點"
 
 msgid "%d for Having Transported at Least 100000 Passengers"
 msgstr "運輸至少100000名乘客：%d點"
@@ -147,14 +147,14 @@ msgstr "運輸至少100000單位貨物：%d點"
 
 #, fuzzy
 msgid "%d for Having a Fast Vehicle"
-msgstr "擁有快速車輛：%d點"
+msgstr "擁有高速載具：%d點"
 
 msgid "%d for Having a Profit of at Least $10M"
 msgstr "獲得至少$1000萬利潤：%d點"
 
 #, fuzzy
 msgid "%d for Having a Very Long Vehicle"
-msgstr "擁有「超長」車輛：%d點"
+msgstr "擁有「超長」載具：%d點"
 
 #, fuzzy
 msgid "%d for Rail Network Bridges"
@@ -457,7 +457,7 @@ msgstr "將於mod.io建立新的模組。"
 
 #, fuzzy
 msgid "A new vehicle has hit the market and is now available for purchase."
-msgstr "全新車輛現已上市，可供選購。"
+msgstr "全新載具現已上市，可供選購。"
 
 #, fuzzy
 msgid ""
@@ -602,7 +602,7 @@ msgstr "運輸業大亨"
 
 #, fuzzy
 msgid "ACH_ALL_VEHICLES_DESC"
-msgstr "在自由遊戲模式中使用所有車輛至少一次。（可合計）"
+msgstr "在自由遊戲模式中使用所有載具至少一次。（可合計）"
 
 #, fuzzy
 msgid "ACH_ALL_VEHICLES_NAME"
@@ -786,11 +786,11 @@ msgstr "十業並進"
 
 #, fuzzy
 msgid "ACH_INDUSTRY_PROD_CARS_DESC"
-msgstr "在自由遊戲模式中使單一產業在12個月內生產500部車輛。"
+msgstr "在自由遊戲模式中使單一產業在12個月內生產500部汽車。"
 
 #, fuzzy
 msgid "ACH_INDUSTRY_PROD_CARS_NAME"
-msgstr "車輛帝國"
+msgstr "汽車帝國"
 
 #, fuzzy
 msgid "ACH_OLDSCHOOL_DESC"
@@ -1890,9 +1890,8 @@ msgstr "在世界地圖中選擇車站，於此處設置下一個停靠站。"
 msgid "Add the next waypoint here by selecting a location in the world."
 msgstr "在世界地圖中選擇地點，於此處設置下一個定位點。"
 
-#, fuzzy
 msgid "Add vehicles in {name} to list."
-msgstr "將{name}中的車輛加入清單。"
+msgstr "將{name}中的載具加入清單。"
 
 #, fuzzy
 msgid "Add waypoint here."
@@ -2040,13 +2039,12 @@ msgstr ""
 "\n"
 "此數值越高，成本就越高昂，也會讓遊戲更有挑戰性。"
 
-#, fuzzy
 msgid ""
 "Adjust the costs for vehicle maintenance.\n"
 "\n"
 "Higher values will result in more costs, making the game more challenging."
 msgstr ""
-"調整維修車輛所需的成本。\n"
+"調整維修載具所需的成本。\n"
 "\n"
 "此數值越高，成本就越高昂，也會讓遊戲更有挑戰性。"
 
@@ -2489,7 +2487,7 @@ msgstr "{author}製作的所有模組"
 
 #, fuzzy
 msgid "All Passenger Stops Incompatible With Cargo Vehicles"
-msgstr "所有客運站點均與貨運車輛不相容"
+msgstr "所有客運站點均與貨運載具不相容"
 
 #, fuzzy
 msgid "All Stations"
@@ -2501,11 +2499,11 @@ msgstr "所有城鎮"
 
 #, fuzzy
 msgid "All Vehicles"
-msgstr "所有車輛"
+msgstr "所有載具"
 
 #, fuzzy
 msgid "All passenger stops of {line} cannot be used by cargo vehicles."
-msgstr "貨運車輛無法使用{line}的所有客運停靠站。"
+msgstr "貨運載具無法使用{line}的所有客運停靠站。"
 
 #, fuzzy
 msgid "All unsaved progress will be lost."
@@ -2562,7 +2560,7 @@ msgstr "發生不明的車站異常。"
 
 #, fuzzy
 msgid "An unknown vehicle problem occured."
-msgstr "發生不明的車輛問題。"
+msgstr "發生不明的載具問題。"
 
 #, fuzzy
 msgid ""
@@ -2806,7 +2804,7 @@ msgstr "將貨車指派至路線"
 
 #, fuzzy
 msgid "Assign Vehicle "
-msgstr "指派車輛"
+msgstr "指派載具"
 
 #, fuzzy
 msgid "Assigned Line"
@@ -2936,7 +2934,7 @@ msgid "BUY_WAGON_GUIDE_PARAGRAPH"
 msgstr ""
 "在載具店中可購買運送乘客與貨物的載具。《運輸業大亨3》針對各種運輸方式設有不"
 "同的商店，包括道路車輛、輕軌、列車、船舶、飛機及直升機。使用篩選列依乘客或特"
-"定貨物類型進行篩選，便可快速找到符合需求的車輛。在左側選取車輛後，詳細資訊便"
+"定貨物類型進行篩選，便可快速找到符合需求的載具。在左側選取載具後，詳細資訊便"
 "會顯示在右側，包括容量、速度及動力等。"
 
 msgid "Back"
@@ -3711,7 +3709,7 @@ msgstr "無法刪除停留點。"
 
 #, fuzzy
 msgid "Cannot delete the line because vehicles are assigned to it."
-msgstr "路線上仍有已指派之車輛，故無法刪除路線。"
+msgstr "路線上仍有已指派之載具，故無法刪除路線。"
 
 #, fuzzy
 msgid "Cannot delete waypoint."
@@ -3787,7 +3785,7 @@ msgstr "貨運站"
 
 #, fuzzy
 msgid "Cargo Stop Incompatible With Passenger Vehicles"
-msgstr "貨運站點與客運車輛不相容"
+msgstr "貨運站點與客運載具不相容"
 
 msgid "Cargo Supply Rating"
 msgstr "貨物供應評價"
@@ -4259,11 +4257,11 @@ msgid ""
 "\n"
 "\"None\" completely disables the influence of age on vehicle properties."
 msgstr ""
-"選擇若忽略維修，車輛性能因老化受到的影響程度。\n"
+"選擇若忽略維修，載具性能因老化受到的影響程度。\n"
 "\n"
-"隨著車輛年份增加，噪音、污染和運行成本會上升，而速度、動力與舒適度會下降。\n"
+"隨著載具年份增加，噪音、污染和運行成本會上升，而速度、動力與舒適度會下降。\n"
 "\n"
-"設定為「無」則可讓車輛年份對性能不造成任何影響。"
+"設定為「無」則可讓載具年份對性能不造成任何影響。"
 
 #, fuzzy
 msgid "Choose how often subsidies are offered."
@@ -4415,14 +4413,12 @@ msgstr "氣候"
 msgid "Clone"
 msgstr "複製"
 
-#, fuzzy
 msgid "Clone All Vehicles"
-msgstr "複製所有車輛"
+msgstr "複製所有載具"
 
-#, fuzzy
 msgid "Clone Selected Vehicle"
 msgid_plural "Clone Selected Vehicles"
-msgstr[0] "複製已選擇之車輛"
+msgstr[0] "複製已選擇之載具"
 
 msgid "Close"
 msgstr "關閉"
@@ -5063,7 +5059,7 @@ msgstr "在沙盒模式中建立新的空白地圖。"
 #, fuzzy
 msgid "Create new line from this stop and assign {count} vehicle."
 msgid_plural "Create new line from this stop and assign {count} vehicles."
-msgstr[0] "自此站牌建立新路線，並指派{count}輛車輛。"
+msgstr[0] "自此站牌建立新路線，並指派{count}輛載具。"
 
 #, fuzzy
 msgid "Create new line starting at {name}."
@@ -5173,7 +5169,7 @@ msgstr "目前無運輸物品"
 
 #, fuzzy
 msgid "Currently no passengers in this vehicle."
-msgstr "此車輛目前無乘客。"
+msgstr "此載具目前無乘客。"
 
 #, fuzzy
 msgid "Curved Road"
@@ -5500,7 +5496,7 @@ msgstr "已刪除城鎮"
 
 #, fuzzy
 msgid "Deleting the line will sell all vehicles on the line."
-msgstr "刪除此路線將自動賣出路線上所有車輛。"
+msgstr "刪除此路線將自動賣出路線上所有載具。"
 
 #, fuzzy
 msgid "Delivery"
@@ -5543,7 +5539,7 @@ msgstr "倉庫"
 
 #, fuzzy
 msgid "Depot Contains Vehicles"
-msgstr "倉庫內有車輛"
+msgstr "倉庫內有載具"
 
 #, fuzzy
 msgid "Depot Statistics"
@@ -5574,9 +5570,8 @@ msgid "Deselect Line"
 msgid_plural "Deselect Lines"
 msgstr[0] "取消選擇路線"
 
-#, fuzzy
 msgid "Deselect Vehicle"
-msgstr "取消選擇車輛"
+msgstr "取消選擇載具"
 
 msgid "Desert"
 msgstr "沙漠"
@@ -7242,7 +7237,7 @@ msgstr ""
 msgid "HELP_COMPANY_ASSETS"
 msgstr ""
 "此分頁顯示公司資產的各項資訊。\n"
-"左側的統計資料會列出目前的車站、車輛及其他公司資產的數量。\n"
+"左側的統計資料會列出目前的車站、載具及其他公司資產的數量。\n"
 "圖表則顯示軌道與貨運發展的趨勢。"
 
 #, fuzzy
@@ -7271,7 +7266,7 @@ msgid "HELP_COMPANY_OVERVIEW"
 msgstr ""
 "財務概況中可看到最近幾年的收入與成本。\n"
 "每個分類都可以展開，檢視更詳細的資訊。\n"
-"車輛可透過售票獲得收入，但也會產生運行成本。車站與軌道等基礎設施亦有其維修成"
+"載具可透過售票獲得收入，但也會產生運行成本。車站與軌道等基礎設施亦有其維修成"
 "本。"
 
 #, fuzzy
@@ -7498,7 +7493,7 @@ msgstr ""
 "此圖層顯示貨物是否能迅速、準時送達目的地。\n"
 "各類型的貨物配送期限不同，需在公司財務視窗內「配送時間」分頁所規定的期限內送"
 "達。\n"
-"各途徑會依照平均配送時間顯示不同顏色，貨倉與車輛上方也會以顏色標籤標示準時送"
+"各途徑會依照平均配送時間顯示不同顏色，貨倉與載具上方也會以顏色標籤標示準時送"
 "達的貨物量。\n"
 "配送延誤會對城鎮成長造成負面影響。城鎮目前的評價會標示於城鎮上方。"
 
@@ -7529,7 +7524,7 @@ msgstr ""
 #, fuzzy
 msgid "HELP_LAYER_NOISE"
 msgstr ""
-"此圖層顯示車輛與建築產生的噪音。\n"
+"此圖層顯示載具與建築產生的噪音。\n"
 "若噪音出現在住宅建築附近，會對城鎮成長造成負面影響。城鎮目前的評價會標示於城"
 "鎮上方。"
 
@@ -7545,17 +7540,17 @@ msgstr ""
 msgid "HELP_LAYER_PASSENGER_SATISFACTION"
 msgstr ""
 "此圖層顯示乘客使用公共交通時的幸福度。\n"
-"乘客從家裡出發時心情愉悅，但旅程越久心情就會越差。乘坐舒適度高的車輛能使幸福"
-"度下降得較慢，而舒適度低的車輛則會使幸福度下降較快。若乘客必須在車站久候，幸"
+"乘客從家裡出發時心情愉悅，但旅程越久心情就會越差。乘坐舒適度高的載具能使幸福"
+"度下降得較慢，而舒適度低的載具則會使幸福度下降較快。若乘客必須在車站久候，幸"
 "福度會下降得更快。乘客只要一回到家中，心情就會恢復。\n"
-"各途徑會依照最近的平均幸福度顯示不同顏色，車站與車輛上方也會以顏色標籤標示目"
+"各途徑會依照最近的平均幸福度顯示不同顏色，車站與載具上方也會以顏色標籤標示目"
 "前的幸福度。\n"
 "若乘客幸福度過低，會對城鎮成長造成負面影響。城鎮目前的評價會標示於城鎮上方。"
 
 #, fuzzy
 msgid "HELP_LAYER_POLLUTION"
 msgstr ""
-"此圖層顯示車輛與建築排放的污染量。\n"
+"此圖層顯示載具與建築排放的污染量。\n"
 "排放於市區內的污染會對該城鎮成長造成負面影響。圖層中同時可看到城鎮邊界。城鎮"
 "目前的評價會標示於城鎮上方。\n"
 "風會影響污染的擴散方式，畫面右下角會顯示風力與風向資訊。"
@@ -7580,16 +7575,16 @@ msgstr ""
 #, fuzzy
 msgid "HELP_MANAGEMENT"
 msgstr ""
-"「路線管理」是用來建立、管理整個運輸網路及調度車輛的主要工具。\n"
+"「路線管理」是用來建立、管理整個運輸網路及調度載具的主要工具。\n"
 "這個工具分為兩個部分，上半部可建立新路線，並顯示所有現有路線清單。下半部則可"
-"用來管理或指派已選定的車輛。\n"
+"用來管理或指派已選定的載具。\n"
 "點選路線名稱即可顯示所有停留點的清單，並同步在下半部列出已指派至該路線的所有"
-"車輛。\n"
+"載具。\n"
 "按下上方的「新路線」按鈕，或直接點選世界地圖中的車站，即可建立新路線。若已選"
 "定路線，只要再選擇地圖上任一停靠站即可延伸該路線。若選擇的是道路或軌道上的任"
-"一點，則可為該路線加入定位點。定位點功能可用來讓車輛避開特定區域。\n"
-"選定下半部區域內的一部或多部車輛後，便可執行多種操作，如調換行駛方向、停止行"
-"駛、更改顏色、複製、替換為其他車輛等。亦可為輕軌與列車增減車廂，或將車輛派往"
+"一點，則可為該路線加入定位點。定位點功能可用來讓載具避開特定區域。\n"
+"選定下半部區域內的一部或多部載具後，便可執行多種操作，如調換行駛方向、停止行"
+"駛、更改顏色、複製、替換為其他載具等。亦可為輕軌與列車增減車廂，或將載具派往"
 "其他路線或倉庫。"
 
 #, fuzzy
@@ -7636,10 +7631,10 @@ msgstr ""
 msgid "HELP_STATISTICS_DEPOTS"
 msgstr ""
 "倉庫概要顯示所有倉庫與維修設施的詳細資訊。\n"
-"「停放中」列出所有未被指派至任何路線，目前停放於倉庫內之車輛。\n"
-"「已維修」標示的是目前正在進行維修的車輛。\n"
+"「停放中」列出所有未被指派至任何路線，目前停放於倉庫內之載具。\n"
+"「已維修」標示的是目前正在進行維修的載具。\n"
 "「使用量」則提供目前的使用狀況，以及可用之維修容量等資訊。\n"
-"表格可用車輛類型進行篩選，並能按照各欄位排序資料。"
+"表格可用載具類型進行篩選，並能按照各欄位排序資料。"
 
 #, fuzzy
 msgid "HELP_STATISTICS_INDUSTRIES"
@@ -7656,13 +7651,13 @@ msgstr ""
 msgid "HELP_STATISTICS_LINES"
 msgstr ""
 "路線概要顯示所有路線的詳細資訊。\n"
-"「承載」與「容量」是所有車輛的目前總承載與總承載上限。\n"
+"「承載」與「容量」是所有載具的目前總承載與總承載上限。\n"
 "「使用狀況」是目前容量的使用百分比。\n"
 "「滿意度」是乘客的幸福度，或貨物準時配送的百分比。\n"
-"「頻率」是車輛的運行間隔時間。\n"
+"「頻率」是載具的運行間隔時間。\n"
 "「比率」是該路線每年可運送的貨物或乘客數量。\n"
 "「結餘」是年度的盈虧狀況。\n"
-"表格可用車輛類型進行篩選，並能依各欄位排序資料。"
+"表格可用載具類型進行篩選，並能依各欄位排序資料。"
 
 #, fuzzy
 msgid "HELP_STATISTICS_STATIONS"
@@ -7673,7 +7668,7 @@ msgstr ""
 "「使用狀況」則提供該車站的目前候車乘客人數及可利用空間之資訊。\n"
 "「延誤」指的是不滿意的乘客數量，或有延誤之貨物數量。\n"
 "「維修」是該車站的年度維修成本。\n"
-"表格可用車輛類型進行篩選，並能依各欄位排序資料。"
+"表格可用載具類型進行篩選，並能依各欄位排序資料。"
 
 #, fuzzy
 msgid "HELP_STATISTICS_TOWNS"
@@ -7688,11 +7683,11 @@ msgstr ""
 #, fuzzy
 msgid "HELP_STATISTICS_VEHICLES"
 msgstr ""
-"車輛概要顯示所有車輛的詳細資訊。\n"
-"「承載」與「容量」是該車輛的目前承載與承載上限。\n"
+"載具概要顯示所有載具的詳細資訊。\n"
+"「承載」與「容量」是該載具的目前承載與承載上限。\n"
 "「使用狀況」是目前容量的使用百分比。\n"
 "「滿意度」是乘客的幸福度，或貨物準時配送的百分比。\n"
-"「狀況」是該車輛的保養狀況。\n"
+"「狀況」是該載具的保養狀況。\n"
 "「結餘」是年度的盈虧狀況。\n"
 "表格可用載具類型進行篩選，並能依各欄位排序資料。"
 
@@ -7715,13 +7710,13 @@ msgstr ""
 #, fuzzy
 msgid "HELP_VEHICLE_STORE"
 msgstr ""
-"在車輛商店可購買新的車輛，並調整車輛編組。\n"
-"左側清單顯示目前可購買的所有車輛。可購買的車輛會根據遊戲年份與所選倉庫類型而"
+"在載具商店可購買新的載具，並調整載具編組。\n"
+"左側清單顯示目前可購買的所有載具。可購買的載具會根據遊戲年份與所選倉庫類型而"
 "變。\n"
-"選擇車輛後，便會在右側顯示其詳細資訊。各車輛的性能參數尤其重要，因為不同環境"
-"需要不同特性的車輛，每種車輛也都有其優點與缺點。\n"
+"選擇載具後，便會在右側顯示其詳細資訊。各載具的性能參數尤其重要，因為不同環境"
+"需要不同特性的載具，每種載具也都有其優點與缺點。\n"
 "如為列車及輕軌，亦可將多台機車與車廂編組，編組整體性能將顯示於右下方。列車的"
-"行駛速度取決於編組中速度最慢的車輛。，而性能則反映列車在陡坡地形上的表現。"
+"行駛速度取決於編組中速度最慢的載具。，而性能則反映列車在陡坡地形上的表現。"
 
 #, fuzzy
 msgid "HELP_WEATHER_AND_TIME"
@@ -7786,14 +7781,14 @@ msgstr ""
 msgid "HELP_WINDOW_LANDMARK"
 msgstr ""
 "地標是可設置於遊戲世界中的特殊建築。\n"
-"每座地標都能為它所在市區特定車輛提供加成效果，並吸引居民前往參觀。\n"
+"每座地標都能為它所在市區特定載具提供加成效果，並吸引居民前往參觀。\n"
 "必須將所有所需資源運送至工地，才能完成建設。\n"
 "提升公司等級後可解鎖更多地標。"
 
 #, fuzzy
 msgid "HELP_WINDOW_LINE"
 msgstr ""
-"此視窗列出路線的所有相關資訊，例如承載、指派車輛，及年度運量等。\n"
+"此視窗列出路線的所有相關資訊，例如承載、指派載具，及年度運量等。\n"
 "運量應與路線連接地點的需求與產量相符。"
 
 #, fuzzy
@@ -7849,8 +7844,8 @@ msgstr ""
 #, fuzzy
 msgid "HELP_WINDOW_VEHICLE"
 msgstr ""
-"此視窗列出車輛的所有相關資訊，例如其裝載量、狀況與指派路線等。\n"
-"車輛必須妥善保養，才能發揮最大性能。車輛若缺乏維修，會導致性能降低，並使排放"
+"此視窗列出載具的所有相關資訊，例如其裝載量、狀況與指派路線等。\n"
+"載具必須妥善保養，才能發揮最大性能。載具若缺乏維修，會導致性能降低，並使排放"
 "量增加。可在其途徑上建造專用維修設施來改善保養狀況。"
 
 #, fuzzy
@@ -8681,7 +8676,7 @@ msgstr "進貨"
 #, fuzzy
 msgid "Incoming Vehicle"
 msgid_plural "Incoming Vehicles"
-msgstr[0] "即將到達的車輛"
+msgstr[0] "即將到達的載具"
 
 #, fuzzy
 msgid "Incompatible tracks."
@@ -9266,7 +9261,7 @@ msgstr ""
 "這座宏偉的圓形劇場曾是史詩性盛會的舞台，而如今則靜靜矗立，象徵著歷久不衰的力"
 "量以及壯麗的過往。\n"
 "\n"
-"可減少市區內道路車輛的噪音。"
+"可減少市區內道路載具的噪音。"
 
 #, fuzzy
 msgid "LANDMARK_ARENA_OF_VERONA_NAME"
@@ -9802,7 +9797,6 @@ msgstr "定位路線"
 msgid "Locate Stop"
 msgstr "定位此站"
 
-#, fuzzy
 msgid "Locate Vehicle"
 msgstr "定位車輛"
 
@@ -17171,7 +17165,7 @@ msgstr "已維修"
 
 #, fuzzy
 msgid "Maintained Vehicles"
-msgstr "已維修車輛"
+msgstr "已維修載具"
 
 #, fuzzy
 msgid "Maintenance Building"
@@ -17191,7 +17185,7 @@ msgstr "維修容量"
 
 #, fuzzy
 msgid "Maintenance Vehicles"
-msgstr "維修車輛"
+msgstr "維修載具"
 
 #, fuzzy
 msgid "Make Public"
@@ -17350,7 +17344,7 @@ msgstr "最大使用量"
 
 #, fuzzy
 msgid "Maximum load of all vehicles combined."
-msgstr "所有車輛的總承載上限。"
+msgstr "所有載具的總承載上限。"
 
 #, fuzzy
 msgid "Maximum wait time after loading to improve vehicle distribution."
@@ -17469,7 +17463,7 @@ msgstr "最低高度"
 
 #, fuzzy
 msgid "Minimum number of vehicles to be purchased not reached."
-msgstr "尚未達到車輛最低購買數量。"
+msgstr "尚未達到載具最低購買數量。"
 
 #, fuzzy
 msgid "Misc"
@@ -18337,12 +18331,12 @@ msgid ""
 "loaded.\n"
 "Cargo Type: {cargoType}"
 msgstr ""
-"此路線上的車輛皆無法運輸部分已設定需裝載的貨物。\n"
+"此路線上的載具皆無法運輸部分已設定需裝載的貨物。\n"
 "貨物類型：{cargoType}"
 
 #, fuzzy
 msgid "No vehicle, depot or line selected."
-msgstr "未選取車輛、車廠或路線。"
+msgstr "未選取載具、車廠或路線。"
 
 #, fuzzy
 msgid "Node Locked"
@@ -18475,7 +18469,7 @@ msgstr "目前無法執行此操作。"
 
 #, fuzzy
 msgid "Not enough vehicles available at this time."
-msgstr "目前可使用之車輛不足。"
+msgstr "目前可使用之載具不足。"
 
 #, fuzzy
 msgid "Notifications"
@@ -18579,7 +18573,7 @@ msgstr "OK"
 
 #, fuzzy
 msgid "Oldest Vehicle"
-msgstr "最舊車輛"
+msgstr "最舊載具"
 
 #, fuzzy
 msgid "On"
@@ -18650,7 +18644,7 @@ msgstr "開啟使用者資料夾"
 
 #, fuzzy
 msgid "Open Vehicle Window"
-msgstr "開啟車輛視窗"
+msgstr "開啟載具視窗"
 
 #, fuzzy
 msgid ""
@@ -18948,7 +18942,7 @@ msgstr "客運站"
 
 #, fuzzy
 msgid "Passenger Stop Incompatible With Cargo Vehicles"
-msgstr "客運站點與貨運車輛不相容"
+msgstr "客運站點與貨運載具不相容"
 
 #, fuzzy
 msgid "Passenger Terminus Station"
@@ -18972,15 +18966,15 @@ msgstr "模組化的客運火車站。可利用模組擴建。"
 
 #, fuzzy
 msgid "Passenger stop cannot be used by cargo vehicles."
-msgstr "貨運運具車輛無法使用客運停留點。"
+msgstr "貨運載具無法使用客運停留點。"
 
 #, fuzzy
 msgid "Passenger stop of {line} at {station} cannot be used by cargo vehicles."
-msgstr "貨運運具車輛無法使用{line}在{station}的客運停留點。"
+msgstr "貨運載具無法使用{line}在{station}的客運停留點。"
 
 #, fuzzy
 msgid "Passenger stops cannot be used by cargo vehicles."
-msgstr "貨運運具車輛無法使用客運停留點。"
+msgstr "貨運載具無法使用客運停留點。"
 
 #, fuzzy
 msgid "Passengers"
@@ -19747,7 +19741,7 @@ msgstr "移除停留點"
 
 #, fuzzy
 msgid "Remove Vehicle From List"
-msgstr "將車輛移出清單"
+msgstr "將載具移出清單"
 
 #, fuzzy
 msgid "Remove Waypoint"
@@ -19759,7 +19753,7 @@ msgstr "移除建物並改造地形。"
 
 #, fuzzy
 msgid "Remove vehicles in {name} from list."
-msgstr "將{name}中的車輛移出清單。"
+msgstr "將{name}中的載具移出清單。"
 
 #, fuzzy
 msgid "Remove {name} from list."
@@ -19813,7 +19807,7 @@ msgstr "重新命名此站"
 
 #, fuzzy
 msgid "Rename Vehicle"
-msgstr "重新命名車輛"
+msgstr "重新命名載具"
 
 #, fuzzy
 msgid "Render UI"
@@ -19829,7 +19823,7 @@ msgstr "替換"
 
 #, fuzzy
 msgid "Replace All Vehicles"
-msgstr "替換所有車輛"
+msgstr "替換所有載具"
 
 #, fuzzy
 msgid "Replace Road"
@@ -19838,7 +19832,7 @@ msgstr "替換道路"
 #, fuzzy
 msgid "Replace Selected Vehicle"
 msgid_plural "Replace Selected Vehicles"
-msgstr[0] "替換已選擇之車輛"
+msgstr[0] "替換已選擇之載具"
 
 #, fuzzy
 msgid "Replace Track"
@@ -19846,7 +19840,7 @@ msgstr "替換軌道"
 
 #, fuzzy
 msgid "Replace Vehicles"
-msgstr "替換車輛"
+msgstr "替換載具"
 
 #, fuzzy
 msgid "Replace with Newer Cargo if Available"
@@ -19855,7 +19849,7 @@ msgstr "若有較新貨物，則以它替換舊貨物"
 #, fuzzy
 msgid "Replace {count} Vehicle for {cost}"
 msgid_plural "Replace {count} Vehicles for {cost}"
-msgstr[0] "以{cost}替換{count}部車輛"
+msgstr[0] "以{cost}替換{count}部載具"
 
 #, fuzzy
 msgid "Replacing Existing"
@@ -20030,16 +20024,16 @@ msgstr "反向"
 
 #, fuzzy
 msgid "Reverse All Vehicles"
-msgstr "反轉所有車輛"
+msgstr "反轉所有載具"
 
 #, fuzzy
 msgid "Reverse Selected Vehicle"
 msgid_plural "Reverse Selected Vehicles"
-msgstr[0] "反轉已選擇之車輛"
+msgstr[0] "反轉已選擇之載具"
 
 #, fuzzy
 msgid "Reversible Vehicle"
-msgstr "可反轉之車輛"
+msgstr "可反轉之載具"
 
 #, fuzzy
 msgid "Revert Changes"
@@ -20047,7 +20041,7 @@ msgstr "恢復更改"
 
 #, fuzzy
 msgid "Riding Vehicle"
-msgstr "搭乘車輛中"
+msgstr "搭乘載具中"
 
 #, fuzzy
 msgid "Right"
@@ -20231,7 +20225,7 @@ msgstr "運行成本"
 
 #, fuzzy
 msgid "Running Costs Vehicles"
-msgstr "車輛運行成本"
+msgstr "載具運行成本"
 
 #, fuzzy
 msgid "Runway"
@@ -22072,7 +22066,7 @@ msgstr "全選"
 
 #, fuzzy
 msgid "Select All Vehicles of the Same Line"
-msgstr "選擇同一路線的所有車輛"
+msgstr "選擇同一路線的所有載具"
 
 #, fuzzy
 msgid "Select Cargo to Load"
@@ -22116,7 +22110,7 @@ msgstr "選擇要探勘的城鎮"
 
 #, fuzzy
 msgid "Select Vehicle"
-msgstr "選擇車輛"
+msgstr "選擇載具"
 
 #, fuzzy
 msgid "Select a Name"
@@ -22129,11 +22123,11 @@ msgstr "選擇路線或倉庫。"
 
 #, fuzzy
 msgid "Select a line, station or depot to send {count} vehicles to."
-msgstr "選擇要派遣{count}部車輛之路線、車站或倉庫。"
+msgstr "選擇要派遣{count}部載具之路線、車站或倉庫。"
 
 #, fuzzy
 msgid "Select a line, vehicle, station or depot."
-msgstr "選擇路線、車輛、車站或倉庫。"
+msgstr "選擇路線、載具、車站或倉庫。"
 
 #, fuzzy
 msgid "Select a segment."
@@ -22145,11 +22139,11 @@ msgstr "選擇車站即可加入站牌。"
 
 #, fuzzy
 msgid "Select a vehicle, depot or line."
-msgstr "選擇車輛、倉庫或路線。"
+msgstr "選擇載具、倉庫或路線。"
 
 #, fuzzy
 msgid "Select a vehicle, line or depot in the world."
-msgstr "請在遊戲世界中選取一輛車輛、一條路線或一座車廠。"
+msgstr "請在遊戲世界中選取一輛載具、一條路線或一座車廠。"
 
 #, fuzzy
 msgid "Select an Industry to Greenify"
@@ -22195,20 +22189,20 @@ msgstr "賣出"
 
 #, fuzzy
 msgid "Sell All Vehicles"
-msgstr "賣出所有車輛"
+msgstr "賣出所有載具"
 
 #, fuzzy
 msgid "Sell Selected Vehicle"
 msgid_plural "Sell Selected Vehicles"
-msgstr[0] "賣出已選擇之車輛"
+msgstr[0] "賣出已選擇之載具"
 
 #, fuzzy
 msgid "Sell Vehicle"
-msgstr "賣出車輛"
+msgstr "賣出載具"
 
 #, fuzzy
 msgid "Send All Vehicles to Depot"
-msgstr "將所有車輛送至倉庫"
+msgstr "將所有載具送至倉庫"
 
 #, fuzzy
 msgid "Send Crash Reports"
@@ -22217,7 +22211,7 @@ msgstr "傳送當機報告"
 #, fuzzy
 msgid "Send Selected Vehicle to Depot"
 msgid_plural "Send Selected Vehicles to Depot"
-msgstr[0] "將已選擇之車輛送至倉庫"
+msgstr[0] "將已選擇之載具送至倉庫"
 
 #, fuzzy
 msgid "Send To Line"
@@ -22242,12 +22236,12 @@ msgstr "派遣路線模式"
 #, fuzzy
 msgid "Send {count} vehicle to {depotName}."
 msgid_plural "Send {count} vehicles to {depotName}."
-msgstr[0] "將{count}輛車輛送至{depotName}。"
+msgstr[0] "將{count}輛載具送至{depotName}。"
 
 #, fuzzy
 msgid "Send {count} vehicle to {lineName}."
 msgid_plural "Send {count} vehicles to {lineName}."
-msgstr[0] "將{count}輛車輛送至{lineName}。"
+msgstr[0] "將{count}輛載具送至{lineName}。"
 
 #, fuzzy
 msgid "Senior Director"
@@ -22270,12 +22264,12 @@ msgstr "設定顏色"
 
 #, fuzzy
 msgid "Set Color for All Vehicles"
-msgstr "設定所有車輛的顏色"
+msgstr "設定所有載具的顏色"
 
 #, fuzzy
 msgid "Set Color for Selected Vehicle"
 msgid_plural "Set Color for Selected Vehicles"
-msgstr[0] "設定已選擇之車輛的顏色"
+msgstr[0] "設定已選擇之載具的顏色"
 
 #, fuzzy
 msgid "Set Direction"
@@ -22752,7 +22746,7 @@ msgstr "顯示／隱藏交通圖層"
 
 #, fuzzy
 msgid "Show/Hide Vehicle Statistics"
-msgstr "顯示／隱藏車輛統計資料"
+msgstr "顯示／隱藏載具統計資料"
 
 #, fuzzy
 msgid "Show/Hide Warehouse Menu"
@@ -22948,13 +22942,13 @@ msgstr "由於車站過度擁擠，部分乘客可能會離開。"
 msgid ""
 "Some vehicles can only transport cargo, but the line is configured for "
 "passengers."
-msgstr "部分車輛僅能運送貨物，但該路線卻設定為載客用途。"
+msgstr "部分載具僅能運送貨物，但該路線卻設定為載客用途。"
 
 #, fuzzy
 msgid ""
 "Some vehicles on the line cannot transport any of the cargo configured to be "
 "loaded."
-msgstr "此路線上的部分車輛無法運輸任何已設定需裝載的貨物。"
+msgstr "此路線上的部分載具無法運輸任何已設定需裝載的貨物。"
 
 #, fuzzy
 msgid "Sort"
@@ -23095,7 +23089,7 @@ msgstr "開始"
 
 #, fuzzy
 msgid "Start All Vehicles"
-msgstr "啟動所有車輛"
+msgstr "啟動所有載具"
 
 #, fuzzy
 msgid "Start Connection"
@@ -23132,7 +23126,7 @@ msgstr "開始錄製"
 #, fuzzy
 msgid "Start Selected Vehicle"
 msgid_plural "Start Selected Vehicles"
-msgstr[0] "啟動已選擇之車輛"
+msgstr[0] "啟動已選擇之載具"
 
 #, fuzzy
 msgid "Start Year"
@@ -23289,11 +23283,11 @@ msgstr "站牌 #{number}"
 
 #, fuzzy
 msgid "Stop All Vehicles"
-msgstr "停止所有車輛"
+msgstr "停止所有載具"
 
 #, fuzzy
 msgid "Stop Not Compatible With Current Vehicles"
-msgstr "停靠站與目前車輛不相容"
+msgstr "停靠站與目前載具不相容"
 
 #, fuzzy
 msgid "Stop Preview"
@@ -23302,15 +23296,15 @@ msgstr "停止預覽"
 #, fuzzy
 msgid "Stop Selected Vehicle"
 msgid_plural "Stop Selected Vehicles"
-msgstr[0] "停止已選擇之車輛"
+msgstr[0] "停止已選擇之載具"
 
 #, fuzzy
 msgid "Stop To Send Vehicles To"
-msgstr "派遣車輛前往站點"
+msgstr "派遣載具前往站點"
 
 #, fuzzy
 msgid "Stop cannot be used with current vehicles."
-msgstr "目前的車輛無法使用停留點。"
+msgstr "目前的載具無法使用停留點。"
 
 #, fuzzy
 msgid "Stop of {line} at {station} cannot be used by passenger vehicles."
@@ -23318,7 +23312,7 @@ msgstr "客運運具無法使用{line}在{station}的停留點。"
 
 #, fuzzy
 msgid "Stop of {line} at {station} cannot be used with current vehicles."
-msgstr "目前的車輛無法使用{line}在{station}的停留點。"
+msgstr "目前的載具無法使用{line}在{station}的停留點。"
 
 #, fuzzy
 msgid "Stop {current} of {total}"
@@ -23605,15 +23599,15 @@ msgstr ""
 
 #, fuzzy
 msgid "TIP_LVM_4"
-msgstr "在路線管理視窗中，點選世界畫面上的車輛圖示即可選取車輛。"
+msgstr "在路線管理視窗中，點選世界畫面上的載具圖示即可選取載具。"
 
 #, fuzzy
 msgid "TIP_LVM_5"
-msgstr "在路線管理視窗中，選擇世界畫面上的路線，即可將車輛派遣至該路線。"
+msgstr "在路線管理視窗中，選擇世界畫面上的路線，即可將載具派遣至該路線。"
 
 #, fuzzy
 msgid "TIP_MISC_1"
-msgstr "透過車輛與人員視窗左上角的釘選圖示即可進行追蹤。"
+msgstr "透過載具與人員視窗左上角的釘選圖示即可進行追蹤。"
 
 #, fuzzy
 msgid "TIP_MISC_2"
@@ -23637,7 +23631,7 @@ msgstr "按下[iaHint=IA_QUICKSAVE/]即可快速儲存遊戲。"
 
 #, fuzzy
 msgid "TIP_MISC_7"
-msgstr "地標會為同一市區內的特定車輛帶來紅利。"
+msgstr "地標會為同一市區內的特定載具帶來紅利。"
 
 #, fuzzy
 msgid "TIP_MOD_1"
@@ -23663,15 +23657,15 @@ msgstr "為使營運達到最高成本效益，機車頭與車廂需有相近的
 
 #, fuzzy
 msgid "TIP_VEHICLES_2"
-msgstr "要購買車輛並將之派遣至某條路線，就必須有倉庫。"
+msgstr "要購買載具並將之派遣至某條路線，就必須有倉庫。"
 
 #, fuzzy
 msgid "TIP_VEHICLES_4"
-msgstr "路線的頻率代表車輛運行的時間間隔。"
+msgstr "路線的頻率代表載具運行的時間間隔。"
 
 #, fuzzy
 msgid "TIP_VEHICLES_6"
-msgstr "維修設施數量越多，車輛的排放量就越低，但運行成本也會隨之上升。"
+msgstr "維修設施數量越多，載具的排放量就越低，但運行成本也會隨之上升。"
 
 #, fuzzy
 msgid "TIP_VEHICLES_7"
@@ -23681,7 +23675,7 @@ msgstr ""
 
 #, fuzzy
 msgid "TIP_VEHICLES_8"
-msgstr "倉庫與維修設施可維修位於其覆蓋範圍內的車輛。"
+msgstr "倉庫與維修設施可維修位於其覆蓋範圍內的載具。"
 
 #, fuzzy
 msgid "TRACK_HIGHSPEED_CATENARY_DESCRIPTION"
@@ -23735,7 +23729,7 @@ msgstr "標準軌道"
 
 #, fuzzy
 msgid "TUTORIAL_ASSIGN_VEHICLE_TASK_NAME"
-msgstr "指派車輛"
+msgstr "指派載具"
 
 msgid "TUTORIAL_ASSIGN_VEHICLE_TASK_PARAGRAPH"
 msgstr ""
@@ -23826,14 +23820,14 @@ msgstr ""
 
 #, fuzzy
 msgid "TUTORIAL_A_SECOND_VEHICLE_TASK_NAME"
-msgstr "更多車輛"
+msgstr "更多載具"
 
 #, fuzzy
 msgid "TUTORIAL_A_SECOND_VEHICLE_TASK_PARAGRAPH"
 msgstr ""
 "我們注意到你從[link=entity_oil_ref]煉油廠[/link]到[link=entity_town]"
 "{TOWN_NAME}[/link]的路線上只有一輛車。若想滿足城鎮的需求，建議在每條路線上都"
-"配置多部車輛。先為這條路線增派第二輛貨車吧！"
+"配置多部載具。先為這條路線增派第二輛貨車吧！"
 
 #, fuzzy
 msgid "TUTORIAL_A_SHIP_TASK_NAME"
@@ -24347,13 +24341,13 @@ msgstr "在開始建造基礎設施前，你必須先向銀行申請一筆貸款
 
 #, fuzzy
 msgid "TUTORIAL_LOCATE_VEHICLE_TASK_NAME"
-msgstr "定位車輛"
+msgstr "定位載具"
 
 #, fuzzy
 msgid "TUTORIAL_LOCATE_VEHICLE_TASK_PARAGRAPH"
 msgstr ""
-"若要查看車輛的運行情況，請點選車輛HUD圖示開啟車輛視窗，再點選上方工具列中的定"
-"位按鈕。視角會自動追蹤你所選擇的車輛。"
+"若要查看載具的運行情況，請點選載具HUD圖示開啟載具視窗，再點選上方工具列中的定"
+"位按鈕。視角會自動追蹤你所選擇的載具。"
 
 #, fuzzy
 msgid "TUTORIAL_SIMS_WINDOW_TASK_NAME"
@@ -24716,7 +24710,7 @@ msgstr "{vehicle}的狀況極差。"
 
 #, fuzzy
 msgid "The conditions of multiple vehicles are very bad."
-msgstr "多部車輛的狀況極差。"
+msgstr "多部載具的狀況極差。"
 
 #, fuzzy
 msgid "The construction of the landmark has finished."
@@ -24804,7 +24798,7 @@ msgid ""
 "catenaries, while existing infrastructure can be easily modernized using the "
 "tram track tool."
 msgstr ""
-"電力輕軌的時代正式來臨，首批車輛現已開放購買。新型輕軌軌道將自動配置電纜，而"
+"電力輕軌的時代正式來臨，首批載具現已開放購買。新型輕軌軌道將自動配置電纜，而"
 "現有設施也能透過輕軌軌道工具輕鬆完成現代化。"
 
 #, fuzzy
@@ -25076,7 +25070,7 @@ msgstr ""
 msgid ""
 "The start year affects the appearance of towns and which vehicles are "
 "available."
-msgstr "起始年份會影響城鎮的外觀與可使用的車輛。"
+msgstr "起始年份會影響城鎮的外觀與可使用的載具。"
 
 #, fuzzy
 msgid ""
@@ -25161,7 +25155,7 @@ msgstr "發生多項問題"
 
 #, fuzzy
 msgid "There are no vehicles matching this category."
-msgstr "無符合此類別之車輛。"
+msgstr "無符合此類別之載具。"
 
 #, fuzzy
 msgid ""
@@ -25188,7 +25182,7 @@ msgstr "無電氣化路徑。"
 
 #, fuzzy
 msgid "There is no maintenance information available for this vehicle."
-msgstr "此車輛無維修資訊。"
+msgstr "此載具無維修資訊。"
 
 #, fuzzy
 msgid "There is no path at all for {vehicle}."
@@ -25350,7 +25344,7 @@ msgstr ""
 "國會大廈將在這處工地逐步成形。請供應所有必要資源來完成此建案，讓這座壯觀的建"
 "築得以誕生。\n"
 "\n"
-"完工後，它將可提升市區內所有車輛的最高速度。"
+"完工後，它將可提升市區內所有載具的最高速度。"
 
 #, fuzzy
 msgid ""
@@ -25547,7 +25541,7 @@ msgstr "值得慶祝的一刻"
 
 #, fuzzy
 msgid "Time interval between the vehicles."
-msgstr "車輛運行的時間間隔。"
+msgstr "載具運行的時間間隔。"
 
 #, fuzzy
 msgid "Time of Day"
@@ -25678,7 +25672,7 @@ msgstr "網路請求次數過多，請稍後再試一次。"
 
 #, fuzzy
 msgid "Too many vehicles selected."
-msgstr "選擇之車輛數量過多。"
+msgstr "選擇之載具數量過多。"
 
 #, fuzzy
 msgid "Tools"
@@ -26256,7 +26250,7 @@ msgstr "路線發生未知問題"
 
 #, fuzzy
 msgid "Unknown Vehicle Problem Occured"
-msgstr "車輛發生未知問題"
+msgstr "載具發生未知問題"
 
 #, fuzzy
 msgid "Unkown Station Stop Issue Occured"
@@ -29753,83 +29747,83 @@ msgstr "載具"
 
 #, fuzzy
 msgid "Vehicle Comfort"
-msgstr "車輛舒適度"
+msgstr "載具舒適度"
 
 #, fuzzy
 msgid "Vehicle Condition"
-msgstr "車輛狀況"
+msgstr "載具狀況"
 
 #, fuzzy
 msgid "Vehicle Condition Is Not Good"
-msgstr "車輛狀況不佳"
+msgstr "載具狀況不佳"
 
 #, fuzzy
 msgid "Vehicle Condition: {amount}"
-msgstr "車輛狀況：{amount}"
+msgstr "載具狀況：{amount}"
 
 #, fuzzy
 msgid "Vehicle Costs"
-msgstr "車輛成本"
+msgstr "載具成本"
 
 #, fuzzy
 msgid "Vehicle Has Been Stuck for a While"
-msgstr "車輛已卡住一段時間了"
+msgstr "載具已卡住一段時間了"
 
 #, fuzzy
 msgid "Vehicle Maintenance"
-msgstr "車輛維修"
+msgstr "載具維修"
 
 #, fuzzy
 msgid "Vehicle Maintenance Effect"
-msgstr "車輛維修效果"
+msgstr "載具維修效果"
 
 #, fuzzy
 msgid "Vehicle Noise"
-msgstr "車輛噪音"
+msgstr "載具噪音"
 
 #, fuzzy
 msgid "Vehicle Pollution"
-msgstr "車輛污染"
+msgstr "載具污染"
 
 #, fuzzy
 msgid "Vehicle Problem"
-msgstr "車輛問題"
+msgstr "載具問題"
 
 #, fuzzy
 msgid "Vehicle Statistics"
-msgstr "車輛統計資料"
+msgstr "載具統計資料"
 
 #, fuzzy
 msgid "Vehicle Store"
-msgstr "車輛商店"
+msgstr "載具商店"
 
 #, fuzzy
 msgid "Vehicle Stuck"
-msgstr "車輛卡住"
+msgstr "載具卡住"
 
 #, fuzzy
 msgid "Vehicle Top Speed"
-msgstr "車輛最快速度"
+msgstr "車輛最高速度"
 
 #, fuzzy
 msgid "Vehicle Unavailable at This Time"
-msgstr "車輛目前無法使用"
+msgstr "載具目前無法使用"
 
 #, fuzzy
 msgid "Vehicle cannot be sold at this time."
-msgstr "車輛目前無法出售。"
+msgstr "載具目前無法出售。"
 
 #, fuzzy
 msgid "Vehicle could not be sent to depot."
-msgstr "車輛無法派遣至倉庫。"
+msgstr "載具無法派遣至倉庫。"
 
 #, fuzzy
 msgid "Vehicle in the Way"
-msgstr "路線遭車輛阻擋"
+msgstr "路線遭載具阻擋"
 
 #, fuzzy
 msgid "Vehicle is currently unavailable."
-msgstr "車輛目前無法使用。"
+msgstr "載具目前無法使用。"
 
 #, fuzzy
 msgid "Vehicles"
@@ -29837,27 +29831,27 @@ msgstr "載具"
 
 #, fuzzy
 msgid "Vehicles Are Not Valid"
-msgstr "無效車輛"
+msgstr "無效載具"
 
 #, fuzzy
 msgid "Vehicles To Replace"
-msgstr "待替換車輛"
+msgstr "待替換載具"
 
 #, fuzzy
 msgid "Vehicles To Replace:"
-msgstr "待替換車輛："
+msgstr "待替換載具："
 
 #, fuzzy
 msgid "Vehicles could not be assigned to line."
-msgstr "無法指派車輛至路線。"
+msgstr "無法指派載具至路線。"
 
 #, fuzzy
 msgid "Vehicles stay at least this long at this stop."
-msgstr "車輛在此停靠站的最短停留時間。"
+msgstr "載具在此停靠站的最短停留時間。"
 
 #, fuzzy
 msgid "Vehicles stay at most this long at this stop."
-msgstr "車輛在此停靠站的最長停留時間。"
+msgstr "載具在此停靠站的最長停留時間。"
 
 #, fuzzy
 msgid "Verbose"
@@ -30730,7 +30724,7 @@ msgstr "乘客"
 #, fuzzy
 msgctxt "layer-infrastructure-areas"
 msgid "Vehicle Maintenance"
-msgstr "車輛維修"
+msgstr "載具維修"
 
 #, fuzzy
 msgctxt "layer-rating-label"
@@ -32373,7 +32367,7 @@ msgstr[0] "{count}名不快樂的乘客"
 #, fuzzy
 msgid "{count} Vehicle With Problems"
 msgid_plural "{count} Vehicles With Problems"
-msgstr[0] "{count}部車輛出現問題"
+msgstr[0] "{count}部載具出現問題"
 
 msgid "{count} Year"
 msgid_plural "{count} Years"
