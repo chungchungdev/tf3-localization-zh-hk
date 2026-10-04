@@ -20016,18 +20016,15 @@ msgstr "收入"
 msgid "Revenue and Expenses"
 msgstr "收入與支出"
 
-#, fuzzy
 msgid "Reverse"
-msgstr "反向"
+msgstr "掉頭"
 
-#, fuzzy
 msgid "Reverse All Vehicles"
-msgstr "反轉所有載具"
+msgstr "所有載具掉頭"
 
-#, fuzzy
 msgid "Reverse Selected Vehicle"
 msgid_plural "Reverse Selected Vehicles"
-msgstr[0] "反轉已選擇之載具"
+msgstr[0] "已選擇的載具掉頭"
 
 #, fuzzy
 msgid "Reversible Vehicle"
@@ -22175,28 +22172,22 @@ msgstr "選擇要將站牌移至哪個車站。"
 msgid "Select this line section."
 msgstr "選取此路線區段。"
 
-#, fuzzy
 msgid "Select {name}."
 msgstr "選擇{name}。"
 
-#, fuzzy
 msgid "Sell"
 msgstr "賣出"
 
-#, fuzzy
 msgid "Sell All Vehicles"
 msgstr "賣出所有載具"
 
-#, fuzzy
 msgid "Sell Selected Vehicle"
 msgid_plural "Sell Selected Vehicles"
-msgstr[0] "賣出已選擇之載具"
+msgstr[0] "賣出已選擇的載具"
 
-#, fuzzy
 msgid "Sell Vehicle"
 msgstr "賣出載具"
 
-#, fuzzy
 msgid "Send All Vehicles to Depot"
 msgstr "將所有載具送至倉庫"
 
@@ -22254,18 +22245,15 @@ msgstr "九月"
 msgid "Set All to Red"
 msgstr "全部設為紅燈"
 
-#, fuzzy
 msgid "Set Color"
 msgstr "設定顏色"
 
-#, fuzzy
 msgid "Set Color for All Vehicles"
 msgstr "設定所有載具的顏色"
 
-#, fuzzy
 msgid "Set Color for Selected Vehicle"
 msgid_plural "Set Color for Selected Vehicles"
-msgstr[0] "設定已選擇之載具的顏色"
+msgstr[0] "設定已選擇的載具的顏色"
 
 #, fuzzy
 msgid "Set Direction"
