@@ -9340,7 +9340,7 @@ msgid "LANDMARK_SUMMER_PALACE_DESCRIPTION"
 msgstr ""
 "這座宮殿極為巧妙地融合了自然美景與皇室的華麗風格，展現出優雅與莊嚴的姿態。\n"
 "\n"
-"可減少市區內航空車輛的污染。"
+"可減少市區內航空載具的污染。"
 
 #, fuzzy
 msgid "LANDMARK_SUMMER_PALACE_NAME"
@@ -9352,7 +9352,7 @@ msgstr ""
 "這棟建築外覆象牙白的大理石，頂部是優雅的圓頂，散發出永恆的典雅氣質，堪稱永恆"
 "之愛的象徵。\n"
 "\n"
-"可減少市區內航空車輛的噪音。"
+"可減少市區內航空載具的噪音。"
 
 msgid "LANDMARK_TAJMAHAL_NAME"
 msgstr "泰姬瑪哈陵"
@@ -22509,17 +22509,15 @@ msgstr "購物中"
 msgid "Show Air Lines"
 msgstr "顯示航空路線"
 
-#, fuzzy
 msgid "Show Air Vehicle Depots"
-msgstr "顯示航空車輛倉庫"
+msgstr "顯示機庫"
 
 #, fuzzy
 msgid "Show Air Vehicle Stations"
 msgstr "顯示航空站"
 
-#, fuzzy
 msgid "Show Air Vehicles"
-msgstr "顯示航空車輛"
+msgstr "顯示航空載具"
 
 #, fuzzy
 msgid "Show All"
@@ -25394,7 +25392,7 @@ msgstr ""
 "頤和園將在這處工地逐步成形。請供應所有必要資源來完成此建案，讓這座壯觀的建築"
 "得以誕生。\n"
 "\n"
-"完工後，它將可減少市區內所有航空車輛的污染。"
+"完工後，它將可減少市區內所有航空載具的污染。"
 
 #, fuzzy
 msgid ""
@@ -25408,7 +25406,7 @@ msgstr ""
 "泰姬瑪哈陵將在這處工地逐步成形。請供應所有必要資源來完成此建案，讓這座壯觀的"
 "建築得以誕生。\n"
 "\n"
-"完工後，它將可減少市區內所有航空車輛的噪音。"
+"完工後，它將可減少市區內所有航空載具的噪音。"
 
 #, fuzzy
 msgid ""
