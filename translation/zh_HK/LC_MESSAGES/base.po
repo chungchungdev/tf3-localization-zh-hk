@@ -32748,9 +32748,8 @@ msgstr "{trackTime} / {trackLength}"
 msgid "{used}/{capacity}"
 msgstr "{used}／{capacity}"
 
-#, fuzzy
 msgid "{username} Transport"
-msgstr "{username}交通"
+msgstr "{username}運輸"
 
 msgid "{value}x"
 msgstr "{value}x"
