@@ -1,12 +1,21 @@
 {
+  "dependencies": null,
+  "incompatibilities": null,
   "modId": "tf3_chungchungdev_localization_zh_hk_1",
   "revision": 2,
   "options": null,
   "params": null,
+  "postRunScript": {
+    "fileName": ""
+  },
+  "preRunScript": {
+    "fileName": ""
+  },
+  "runScript": {
+    "fileName": ""
+  },
   "visible": true,
   "cosmetic": true,
   "severityAdd": "None",
-  "severityRemove": "None",
-  "dependencies": null,
-  "incompatibilities": null
+  "severityRemove": "None"
 }

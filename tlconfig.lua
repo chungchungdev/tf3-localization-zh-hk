@@ -1,10 +1,8 @@
-local tf3_install_folder = "/home/Chung/.local/share/Steam/steamapps/common/Transport Fever 3/"
-
 return {
 	include_dir = {
 		-- ensure to set proper paths for the definitions for the base game
-		tf3_install_folder .. "api/tealdef",
-		tf3_install_folder .. "base/tealdef",
+		"C:/Program Files (x86)/Steam/steamapps/common/Transport Fever 3/api/tealdef",
+		"C:/Program Files (x86)/Steam/steamapps/common/Transport Fever 3/base/tealdef",
 
 		-- list your mods here, if you provide your own d.tl definitions
 		-- "example_mod_1",
