@@ -7,7 +7,12 @@ authors = [
     { name = "chungchungdev", email = "chungchung.dev@gmail.com" }
 ]
 requires-python = "==3.13.*"
-dependencies = []
+dependencies = [
+    "click>=8.5.0",
+    "loguru>=0.7.3",
+    "polib>=1.2.0",
+    "rich>=15.0.0",
+]
 
 [project.scripts]
 tf3-localization-zh-hk = "tf3_localization_zh_hk:main"
