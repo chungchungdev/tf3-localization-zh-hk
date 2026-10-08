@@ -127,9 +127,8 @@ msgstr "擁有超過100輛道路車輛：%d點"
 msgid "%d Point(s) for Having More Than 20 Trams"
 msgstr "擁有超過20輛輕軌列車：%d點"
 
-#, fuzzy
 msgid "%d Point(s) for Having More Than 5 Aircraft"
-msgstr "擁有超過5架飛行器：%d點"
+msgstr "擁有超過5架飛行載具：%d點"
 
 #, fuzzy
 msgid "%d Point(s) for Having More Than 5 Ships"
@@ -2360,39 +2359,32 @@ msgstr "航空建築"
 msgid "Air Transport Is Now Available"
 msgstr "航空運輸現已開放"
 
-#, fuzzy
 msgid ""
 "Air transport has evolved, and helicopters are now available. They can be "
 "purchased via the new heliport in the air menu. These versatile aircraft are "
 "ideal for transporting cargo and passengers to remote off-shore industries."
 msgstr ""
 "航空運輸迎來進一步發展，直升機現已開放使用。你可透過航空選單中新設的直升機場"
-"購買直升機。這類多用途的飛行器是將貨物和乘客運往偏遠海上產業的理想選擇。"
+"購買直升機。這類多用途的飛行載具是將貨物和乘客運往偏遠海上產業的理想選擇。"
 
-#, fuzzy
 msgid "Aircraft"
 msgid_plural "Aircraft"
-msgstr[0] "飛行器"
+msgstr[0] "飛行載具"
 
-#, fuzzy
 msgid "Aircraft Comfort"
-msgstr "飛行器舒適度"
+msgstr "飛行載具舒適度"
 
-#, fuzzy
 msgid "Aircraft Noise"
-msgstr "飛行器噪音"
+msgstr "飛行載具噪音"
 
-#, fuzzy
 msgid "Aircraft Pollution"
-msgstr "飛行器污染"
+msgstr "飛行載具污染"
 
-#, fuzzy
 msgid "Aircraft Top Speed"
-msgstr "飛行器最高速度"
+msgstr "飛行載具最高速度"
 
-#, fuzzy
 msgid "Aircraft {number}"
-msgstr "飛行器{number}"
+msgstr "飛行載具{number}"
 
 msgid "Airfield"
 msgstr "小型機場"
@@ -7254,7 +7246,7 @@ msgstr ""
 "航空建築是建立航空路線的基礎。\n"
 "可在世界畫面中放置多個建築，再於路線管理視窗將它們結合，便能形成路線。\n"
 "小型機場與機場可供飛機使用，而直升機起降場則供直升機使用。\n"
-"與之結合的機庫可購買飛行器，並提供維修所需空間。\n"
+"與之結合的機庫可購買飛行載具，並提供維修所需空間。\n"
 "建造時會標示其覆蓋範圍及維修區域。"
 
 #, fuzzy
@@ -25099,17 +25091,15 @@ msgstr "沒有任何{vehicle}可用之路徑。"
 msgid "There is no path at all."
 msgstr "完全沒有路線。"
 
-#, fuzzy
 msgid "There is no path for a big aircraft like {vehicle}."
-msgstr "無{vehicle}等大型飛行器可用路徑。"
+msgstr "無{vehicle}等大型飛行載具可用路徑。"
 
 #, fuzzy
 msgid "There is no path for a big ship like {vehicle}."
 msgstr "無{vehicle}等大型船舶可用路徑。"
 
-#, fuzzy
 msgid "There is no path for big aircraft."
-msgstr "無大型飛行器可用路徑。"
+msgstr "無大型飛行載具可用路徑。"
 
 #, fuzzy
 msgid "There is no path for big ships."
@@ -26678,9 +26668,8 @@ msgstr ""
 msgid "VEHICLE_HELICOPTER_KAMAN_K_MAX_NAME"
 msgstr "卡曼K-MAX"
 
-#, fuzzy
 msgid "VEHICLE_HELICOPTER_LEONARDO_AW609_DESCRIPTION"
-msgstr "李奧納多直升機為多國工程技術的結晶，是首批次世代垂直起降飛行器之一。"
+msgstr "李奧納多直升機為多國工程技術的結晶，是首批次世代垂直起降飛行載具之一。"
 
 #, fuzzy
 msgid "VEHICLE_HELICOPTER_LEONARDO_AW609_NAME"
@@ -31538,10 +31527,9 @@ msgid ""
 "the left stick is used."
 msgstr "切換操作全螢幕選單時使用之搖桿。停用此設定時，將使用左搖桿。"
 
-#, fuzzy
 msgctxt "plural"
 msgid "Aircraft"
-msgstr "飛行器"
+msgstr "飛行載具"
 
 msgctxt "power-unit-settings"
 msgid "Horsepower (hp)"
