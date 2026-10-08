@@ -20238,11 +20238,10 @@ msgstr "主建築"
 
 #, fuzzy
 msgid "STATIONS_AIR_AIRFIELD_TERMINAL_DESCRIPTION"
-msgstr "飛行場航廈，可提升車站的乘客乘載量。"
+msgstr "飛行場客運大樓，可提升車站的乘客乘載量。"
 
-#, fuzzy
 msgid "STATIONS_AIR_AIRFIELD_TERMINAL_NAME"
-msgstr "航廈"
+msgstr "客運大樓"
 
 #, fuzzy
 msgid "STATIONS_AIR_AIRPORT_2ND_RUNWAY_DESCRIPTION"
@@ -20293,9 +20292,8 @@ msgstr "增設第二滑行道，即可增建更多建築。"
 msgid "STATIONS_AIR_AIRPORT_TERMINALB_NAME"
 msgstr "滑行道"
 
-#, fuzzy
 msgid "STATIONS_AIR_AIRPORT_TERMINAL_DESCRIPTION"
-msgstr "機場航廈，可提升車站的乘客乘載量。"
+msgstr "機場客運大樓，可提升車站的乘客乘載量。"
 
 #, fuzzy
 msgid "STATIONS_AIR_AIRPORT_TERMINAL_HELI_DESCRIPTION"
@@ -20305,9 +20303,8 @@ msgstr "直升機航廈，可提升車站的乘客乘載量。"
 msgid "STATIONS_AIR_AIRPORT_TERMINAL_HELI_NAME"
 msgstr "直升機航廈"
 
-#, fuzzy
 msgid "STATIONS_AIR_AIRPORT_TERMINAL_NAME"
-msgstr "航廈"
+msgstr "客運大樓"
 
 msgid "STATIONS_AIR_HELIPAD_DESCRIPTION"
 msgstr "供客運與貨運使用之小型直升機停機坪。"
