@@ -23488,9 +23488,8 @@ msgstr "TF3活動"
 msgid "TIP_CONSTRUCTION_1"
 msgstr "建造橋梁時要保留足夠高度，讓船舶得以通行。"
 
-#, fuzzy
 msgid "TIP_CONSTRUCTION_12"
-msgstr "若要在不同運輸方式之間轉運貨物，就必須建造貨運倉庫。"
+msgstr "若要在不同運輸方式之間轉運貨物，就必須建造貨庫。"
 
 #, fuzzy
 msgid "TIP_CONSTRUCTION_2"
