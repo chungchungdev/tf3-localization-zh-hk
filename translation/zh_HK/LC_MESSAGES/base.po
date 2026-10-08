@@ -18841,7 +18841,6 @@ msgstr "停放中"
 msgid "Partially Specialized Terminal: {boost}"
 msgstr "局部專用月台：{boost}"
 
-#, fuzzy
 msgid "Passenger"
 msgstr "乘客"
 
@@ -18857,55 +18856,42 @@ msgstr "可載客人數：{value}"
 msgid "Passenger Experience"
 msgstr "客運經驗值"
 
-#, fuzzy
 msgid "Passenger Flow"
-msgstr "乘客流動"
+msgstr "乘客流量"
 
-#, fuzzy
 msgid "Passenger Flow Layer"
-msgstr "乘客流動圖層"
+msgstr "乘客流量圖層"
 
-#, fuzzy
 msgid "Passenger Happiness Rating"
 msgstr "乘客滿意度評價"
 
-#, fuzzy
 msgid "Passenger Income"
 msgstr "客運收益"
 
-#, fuzzy
 msgid "Passenger Line Usage"
 msgstr "客運路線使用量"
 
-#, fuzzy
 msgid "Passenger Satisfaction"
 msgstr "乘客滿意度"
 
-#, fuzzy
 msgid "Passenger Satisfaction Layer"
 msgstr "乘客滿意度圖層"
 
-#, fuzzy
 msgid "Passenger Station"
 msgstr "客運站"
 
-#, fuzzy
 msgid "Passenger Stop Incompatible With Cargo Vehicles"
 msgstr "客運站點與貨運載具不相容"
 
-#, fuzzy
 msgid "Passenger Terminus Station"
-msgstr "客運終點站"
+msgstr "客運總站"
 
-#, fuzzy
 msgid "Passenger Train"
 msgstr "客運火車"
 
-#, fuzzy
 msgid "Passenger Wagons"
 msgstr "客運車廂"
 
-#, fuzzy
 msgid "Passenger and Cargo"
 msgstr "乘客與貨物"
 
@@ -18925,11 +18911,9 @@ msgstr "貨運載具無法使用{line}在{station}的客運停留點。"
 msgid "Passenger stops cannot be used by cargo vehicles."
 msgstr "貨運載具無法使用客運停留點。"
 
-#, fuzzy
 msgid "Passengers"
 msgstr "乘客"
 
-#, fuzzy
 msgid "Passengers and All Cargo Types"
 msgstr "乘客與所有貨物類型"
 
