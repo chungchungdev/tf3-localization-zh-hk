@@ -2394,9 +2394,8 @@ msgstr "飛行器最高速度"
 msgid "Aircraft {number}"
 msgstr "飛行器{number}"
 
-#, fuzzy
 msgid "Airfield"
-msgstr "飛行場"
+msgstr "小型機場"
 
 #, fuzzy
 msgid ""
@@ -2407,14 +2406,13 @@ msgstr ""
 "提供客運與貨運服務的機場，並設有可購買飛機的機庫。可供小型飛機使用，並可透過"
 "模組擴建。在建築物一定範圍內，飛機將自動進行維修保養。"
 
-#, fuzzy
 msgid ""
 "Airplanes are getting bigger and better. Large airplanes are now available "
 "for purchase via the new airport. Because of their size, they can only be "
 "used at airports, not at airfields."
 msgstr ""
 "飛機的尺寸與性能皆有大幅提升。現在可以透過新的機場購置大型飛機。這類飛機由於"
-"體積龐大飛行場無法容納，僅能於機場起降。"
+"體積龐大小型機場無法容納，僅能於機場起降。"
 
 #, fuzzy
 msgid "Airport"
@@ -7256,7 +7254,7 @@ msgid "HELP_CONSTRUCTION_AIR_BUILDINGS"
 msgstr ""
 "航空建築是建立航空路線的基礎。\n"
 "可在世界畫面中放置多個建築，再於路線管理視窗將它們結合，便能形成路線。\n"
-"飛行場與機場可供飛機使用，而直升機起降場則供直升機使用。\n"
+"小型機場與機場可供飛機使用，而直升機起降場則供直升機使用。\n"
 "與之結合的倉庫可購買飛行器，並提供維修所需空間。\n"
 "建造過程中會標示其覆蓋範圍及維修區域。"
 
@@ -8558,7 +8556,7 @@ msgstr "指宿"
 
 #, fuzzy
 msgid "Ibusuki Airfield"
-msgstr "指宿飛行場"
+msgstr "指宿小型機場"
 
 #, fuzzy
 msgid "Ibusuki Port"
@@ -17845,7 +17843,7 @@ msgstr "中之神"
 
 #, fuzzy
 msgid "Nakanokami Airfield"
-msgstr "中之神飛行場"
+msgstr "中之神小型機場"
 
 msgid "Nakatane"
 msgstr "中種子"
@@ -20236,9 +20234,8 @@ msgstr ""
 msgid "STATIONS_AIR_AIRFIELD_MAIN_BUILDING_NAME"
 msgstr "主建築"
 
-#, fuzzy
 msgid "STATIONS_AIR_AIRFIELD_TERMINAL_DESCRIPTION"
-msgstr "飛行場客運大樓，可提升車站的乘客乘載量。"
+msgstr "小型機場客運大樓，可提升車站的乘客乘載量。"
 
 msgid "STATIONS_AIR_AIRFIELD_TERMINAL_NAME"
 msgstr "客運大樓"
@@ -21098,13 +21095,11 @@ msgstr "小型機場跑道。"
 msgid "STREET_AIRPORT_RUNWAY_SMALL_NAME"
 msgstr "小型機場跑道"
 
-#, fuzzy
 msgid "STREET_AIRPORT_TAXIWAY_GRASS_DESC"
-msgstr "飛行場滑行道。"
+msgstr "小型機場滑行道。"
 
-#, fuzzy
 msgid "STREET_AIRPORT_TAXIWAY_GRASS_NAME"
-msgstr "飛行場滑行道"
+msgstr "小型機場滑行道"
 
 #, fuzzy
 msgid "STREET_AIRPORT_TAXIWAY_MEDIUM_B_DESC"
@@ -24975,13 +24970,12 @@ msgstr "無法載入遊戲存檔。"
 msgid "The savegame will be lost permanently."
 msgstr "遊戲存檔將會永久消失。"
 
-#, fuzzy
 msgid ""
 "The skies are finally open. The first small airplane is now available for "
 "purchase via the newly unlocked airfield. Passengers and cargo can now be "
 "transported faster than ever before."
 msgstr ""
-"終於能翱翔天際了。你可透過新解鎖的飛行場購置首架小型飛機。乘客與貨物的運輸速"
+"終於能翱翔天際了。你可透過新解鎖的小型機場購置首架小型飛機。乘客與貨物的運輸速"
 "度將會達到前所未有的境界。"
 
 #, fuzzy
