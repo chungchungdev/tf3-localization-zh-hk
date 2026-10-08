@@ -18925,23 +18925,18 @@ msgstr "乘客僅能於此停靠站上車。"
 msgid "Passengers can only be unloaded at this stop."
 msgstr "乘客僅能於此停靠站下車。"
 
-#, fuzzy
 msgid "Password"
 msgstr "密碼"
 
-#, fuzzy
 msgid "Password must be at least 6 characters long."
 msgstr "密碼長度必須至少為 6 個字元。"
 
-#, fuzzy
 msgid "Passwords do not match."
 msgstr "密碼不符。"
 
-#, fuzzy
 msgid "Paste"
 msgstr "貼上"
 
-#, fuzzy
 msgid "Pause"
 msgstr "暫停"
 
@@ -18953,7 +18948,6 @@ msgstr "暫停預覽"
 msgid "Pause Song"
 msgstr "暫停"
 
-#, fuzzy
 msgid "Paused"
 msgstr "暫停中"
 
@@ -18981,15 +18975,12 @@ msgstr "增益效果"
 msgid "Phase #{number}"
 msgstr "時相{number}"
 
-#, fuzzy
 msgid "Pick the Cargo Station"
 msgstr "選擇貨運站"
 
-#, fuzzy
 msgid "Pick the Headquarters!"
 msgstr "挑選總部！"
 
-#, fuzzy
 msgid "Pin"
 msgstr "釘選"
 
@@ -19061,31 +19052,24 @@ msgstr "植物"
 msgid "Plastic"
 msgstr "塑膠"
 
-#, fuzzy
 msgid "Platform Length"
 msgstr "月台長度"
 
-#, fuzzy
 msgid "Platform Orientation"
 msgstr "月台方向"
 
-#, fuzzy
 msgid "Platforms"
 msgstr "月台"
 
-#, fuzzy
 msgid "Play Custom Map"
 msgstr "遊玩自訂地圖"
 
-#, fuzzy
 msgid "Play Map"
 msgstr "遊玩地圖"
 
-#, fuzzy
 msgid "Play Next Song"
 msgstr "播放下一首歌"
 
-#, fuzzy
 msgid "Play Previous Song"
 msgstr "播放上一首歌"
 
@@ -19158,31 +19142,24 @@ msgid ""
 "{code})"
 msgstr "請檢查你的網路連線並稍後再試一次。（錯誤碼：{code}）"
 
-#, fuzzy
 msgid "Please deactivate some other mods first."
 msgstr "請先停用部分模組。"
 
-#, fuzzy
 msgid "Please describe the issue..."
 msgstr "請描述你遇到的問題……"
 
-#, fuzzy
 msgid "Please enter a name for your Paradox profile."
 msgstr "請輸入您的 Paradox 個人資料名稱。"
 
-#, fuzzy
 msgid "Please log in to access the Mod Hub."
 msgstr "請先登入才能使用模組中心。"
 
-#, fuzzy
 msgid "Please log in to upload your mod."
 msgstr "請登入以上載你的模組。"
 
-#, fuzzy
 msgid "Please provide your birthdate so we can verify your age."
 msgstr "請提供你的出生日期，以便我們確認你的年齡。"
 
-#, fuzzy
 msgid "Please try installing the latest drivers for your graphics card."
 msgstr "請嘗試安裝最新的顯示卡驅動程式。"
 
@@ -19206,7 +19183,6 @@ msgstr "警察直升機"
 msgid "Polish"
 msgstr "波蘭文"
 
-#, fuzzy
 msgid "Pollution"
 msgstr "污染"
 
@@ -19222,11 +19198,9 @@ msgstr "清理污染：{formattedPollution}{units}"
 msgid "Pollution Emission"
 msgstr "污染排放"
 
-#, fuzzy
 msgid "Pollution Layer"
 msgstr "污染圖層"
 
-#, fuzzy
 msgid "Pollution Rating"
 msgstr "污染評價"
 
@@ -19234,11 +19208,9 @@ msgstr "污染評價"
 msgid "Pollution Sensitivity"
 msgstr "污染靈敏度"
 
-#, fuzzy
 msgid "Pollution Source"
 msgstr "污染來源"
 
-#, fuzzy
 msgid "Pollution: {formattedPollution}{units}"
 msgstr "污染：{formattedPollution}{units}"
 
@@ -19246,15 +19218,12 @@ msgstr "污染：{formattedPollution}{units}"
 msgid "Pool Usage: {amount}"
 msgstr "資源使用量：{amount}"
 
-#, fuzzy
 msgid "Population"
 msgstr "人口"
 
-#, fuzzy
 msgid "Port"
 msgstr "港口"
 
-#, fuzzy
 msgid "Ports"
 msgstr "港口"
 
