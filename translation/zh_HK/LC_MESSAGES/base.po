@@ -3233,9 +3233,8 @@ msgstr "筆刷大小"
 msgid "Build"
 msgstr "建造"
 
-#, fuzzy
 msgid "Build Depot "
-msgstr "建造倉庫"
+msgstr "建造載具庫"
 
 #, fuzzy
 msgid "Build Mode"
@@ -3399,9 +3398,8 @@ msgstr "購買載具"
 msgid "Buy Vehicles At {name}"
 msgstr "在{name}購買載具"
 
-#, fuzzy
 msgid "Buy Vehicles In Depot"
-msgstr "在倉庫購買載具"
+msgstr "在載具庫購買載具"
 
 #, fuzzy
 msgid "Buy a Train!"
@@ -3713,9 +3711,8 @@ msgstr "路線上仍有已指派之載具，故無法刪除路線。"
 msgid "Cannot delete waypoint."
 msgstr "無法刪除定位點。"
 
-#, fuzzy
 msgid "Cannot find suitable depot reachable from the line."
-msgstr "找不到此路線可達且適用之倉庫。"
+msgstr "找不到此路線可達且適用之載具庫。"
 
 #, fuzzy
 msgid "Cannot move stop here."
@@ -4955,9 +4952,8 @@ msgstr ""
 "部分模組之間出現循環相依狀況，故找不到適當的啟用順序。請停用部分模組後再試一"
 "次。"
 
-#, fuzzy
 msgid "Could not find suitable depot."
-msgstr "找不到適用之倉庫。"
+msgstr "找不到適用之載具庫。"
 
 msgid "Could not find suitable location: {}."
 msgstr "找不到合適地點：{}。"
@@ -5531,25 +5527,20 @@ msgstr "調整出發配置"
 msgid "Dependencies"
 msgstr "相依項"
 
-#, fuzzy
 msgid "Depot"
-msgstr "倉庫"
+msgstr "載具庫"
 
-#, fuzzy
 msgid "Depot Contains Vehicles"
-msgstr "倉庫內有載具"
+msgstr "載具庫內有載具"
 
-#, fuzzy
 msgid "Depot Statistics"
-msgstr "倉庫統計資料"
+msgstr "載具庫統計資料"
 
-#, fuzzy
 msgid "Depots"
-msgstr "倉庫"
+msgstr "載具庫"
 
-#, fuzzy
 msgid "Depots and Maintenance Buildings"
-msgstr "倉庫與維修設施"
+msgstr "載具庫與維修設施"
 
 #, fuzzy
 msgid "Descending"
@@ -6957,9 +6948,8 @@ msgstr "目標"
 msgid "Godøynes"
 msgstr "戈德於內斯"
 
-#, fuzzy
 msgid "Going to Depot"
-msgstr "前往倉庫中"
+msgstr "前往載具庫中"
 
 #, fuzzy
 msgid "Going to {depotName}"
@@ -7580,7 +7570,7 @@ msgstr ""
 "一點，則可為該路線加入定位點。定位點功能可用來讓載具避開特定區域。\n"
 "選定下半部區域內的一部或多部載具後，便可執行多種操作，如調換行駛方向、停止行"
 "駛、更改顏色、複製、替換為其他載具等。亦可為輕軌與列車增減車廂，或將載具派往"
-"其他路線或倉庫。"
+"其他路線或載具庫。"
 
 #, fuzzy
 msgid "HELP_MISSION"
@@ -7625,8 +7615,8 @@ msgstr ""
 #, fuzzy
 msgid "HELP_STATISTICS_DEPOTS"
 msgstr ""
-"倉庫概要顯示所有倉庫與維修設施的詳細資訊。\n"
-"「停放中」列出所有未被指派至任何路線，目前停放於倉庫內之載具。\n"
+"載具庫概要顯示所有載具庫與維修設施的詳細資訊。\n"
+"「停放中」列出所有未被指派至任何路線，目前停放於載具庫內之載具。\n"
 "「已維修」標示的是目前正在進行維修的載具。\n"
 "「使用量」則提供目前的使用狀況，以及可用之維修容量等資訊。\n"
 "表格可用載具類型進行篩選，並能按照各欄位排序資料。"
@@ -7706,7 +7696,7 @@ msgstr ""
 msgid "HELP_VEHICLE_STORE"
 msgstr ""
 "在載具商店可購買新的載具，並調整載具編組。\n"
-"左側清單顯示目前可購買的所有載具。可購買的載具會根據遊戲年份與所選倉庫類型而"
+"左側清單顯示目前可購買的所有載具。可購買的載具會根據遊戲年份與所選載具庫類型而"
 "變。\n"
 "選擇載具後，便會在右側顯示其詳細資訊。各載具的性能參數尤其重要，因為不同環境"
 "需要不同特性的載具，每種載具也都有其優點與缺點。\n"
@@ -7751,7 +7741,7 @@ msgstr ""
 #, fuzzy
 msgid "HELP_WINDOW_DEPOT"
 msgstr ""
-"此視窗列出倉庫與維修設施的所有相關資訊，例如維修容量、目前維修中的車輛等。\n"
+"此視窗列出載具庫與維修設施的所有相關資訊，例如維修容量、目前維修中的車輛等。\n"
 "每棟建築能同時維修的車輛數量有限，若容量不足，亦可增建更多設施。"
 
 #, fuzzy
@@ -8005,9 +7995,8 @@ msgstr "努力與堅持終於開花結果，你已晉升為{role}，同時解鎖
 msgid "Head of Development"
 msgstr "開發主管"
 
-#, fuzzy
 msgid "Heading for Depot"
-msgstr "正在前往倉庫"
+msgstr "正在前往載具庫"
 
 #, fuzzy
 msgid "Heading for {stopName}"
@@ -8638,9 +8627,8 @@ msgstr "減少生態足跡"
 msgid "In"
 msgstr "進入"
 
-#, fuzzy
 msgid "In Depot"
-msgstr "位於倉庫"
+msgstr "位於載具庫"
 
 #, fuzzy
 msgid "Incline"
@@ -9770,9 +9758,8 @@ msgstr "洛迦諾"
 msgid "Locate"
 msgstr "定位"
 
-#, fuzzy
 msgid "Locate Depot"
-msgstr "定位倉庫"
+msgstr "定位載具庫"
 
 #, fuzzy
 msgid "Locate Line"
@@ -18181,9 +18168,8 @@ msgstr "尚未運輸任何貨物或乘客。"
 msgid "No line or depot selected."
 msgstr "未選取路線或車廠。"
 
-#, fuzzy
 msgid "No lines or depots exist."
-msgstr "無路線或倉庫。"
+msgstr "無路線或載具庫。"
 
 #, fuzzy
 msgid "No matches found"
@@ -18600,9 +18586,8 @@ msgstr "鮞狀沙地"
 msgid "Open Console"
 msgstr "開啟控制台"
 
-#, fuzzy
 msgid "Open Depot Window"
-msgstr "開啟倉庫視窗"
+msgstr "開啟載具庫視窗"
 
 #, fuzzy
 msgid "Open Folder"
@@ -19767,9 +19752,8 @@ msgstr "自遊戲存檔移除此模組可能會導致不穩定。"
 msgid "Rename"
 msgstr "重新命名"
 
-#, fuzzy
 msgid "Rename Depot"
-msgstr "重新命名倉庫"
+msgstr "重新命名載具庫"
 
 #, fuzzy
 msgid "Rename Line"
@@ -22051,9 +22035,8 @@ msgstr "選擇要裝載的貨物"
 msgid "Select Data Point"
 msgstr "選擇數據點"
 
-#, fuzzy
 msgid "Select Depot"
-msgstr "選擇倉庫"
+msgstr "選擇載具庫"
 
 #, fuzzy
 msgid "Select Graph"
@@ -22092,17 +22075,14 @@ msgid "Select a Name"
 msgid_plural "Select Names"
 msgstr[0] "選擇一個名稱"
 
-#, fuzzy
 msgid "Select a line or depot."
-msgstr "選擇路線或倉庫。"
+msgstr "選擇路線或載具庫。"
 
-#, fuzzy
 msgid "Select a line, station or depot to send {count} vehicles to."
-msgstr "選擇要派遣{count}部載具之路線、車站或倉庫。"
+msgstr "選擇要派遣{count}部載具之路線、車站或載具庫。"
 
-#, fuzzy
 msgid "Select a line, vehicle, station or depot."
-msgstr "選擇路線、載具、車站或倉庫。"
+msgstr "選擇路線、載具、車站或載具庫。"
 
 #, fuzzy
 msgid "Select a segment."
@@ -22112,9 +22092,8 @@ msgstr "選擇一個區段。"
 msgid "Select a station to add stops."
 msgstr "選擇車站即可加入站牌。"
 
-#, fuzzy
 msgid "Select a vehicle, depot or line."
-msgstr "選擇載具、倉庫或路線。"
+msgstr "選擇載具、載具庫或路線。"
 
 #, fuzzy
 msgid "Select a vehicle, line or depot in the world."
@@ -22171,16 +22150,15 @@ msgid "Sell Vehicle"
 msgstr "賣出載具"
 
 msgid "Send All Vehicles to Depot"
-msgstr "將所有載具送至倉庫"
+msgstr "將所有載具送至載具庫"
 
 #, fuzzy
 msgid "Send Crash Reports"
 msgstr "傳送當機報告"
 
-#, fuzzy
 msgid "Send Selected Vehicle to Depot"
 msgid_plural "Send Selected Vehicles to Depot"
-msgstr[0] "將已選擇之載具送至倉庫"
+msgstr[0] "將已選擇之載具送至載具庫"
 
 #, fuzzy
 msgid "Send To Line"
@@ -22190,9 +22168,8 @@ msgstr "派遣至路線"
 msgid "Send Truck to Line "
 msgstr "派遣貨車至路線"
 
-#, fuzzy
 msgid "Send to Depot"
-msgstr "派遣至倉庫"
+msgstr "派遣至載具庫"
 
 #, fuzzy
 msgid "Send to Line"
@@ -22620,9 +22597,8 @@ msgstr "顯示／隱藏貨運滿意度圖層"
 msgid "Show/Hide Data Layer Menu"
 msgstr "顯示／隱藏數據圖層選單"
 
-#, fuzzy
 msgid "Show/Hide Depot Statistics"
-msgstr "顯示／隱藏倉庫統計資料"
+msgstr "顯示／隱藏載具庫統計資料"
 
 #, fuzzy
 msgid "Show/Hide Industry Statistics"
@@ -23616,9 +23592,8 @@ msgstr "隨著城鎮發展，公司等級將會提升，並可解鎖增益效果
 msgid "TIP_VEHICLES_1"
 msgstr "為使營運達到最高成本效益，機車頭與車廂需有相近的速度上限。"
 
-#, fuzzy
 msgid "TIP_VEHICLES_2"
-msgstr "要購買載具並將之派遣至某條路線，就必須有倉庫。"
+msgstr "要購買載具並將之派遣至某條路線，就必須有載具庫。"
 
 #, fuzzy
 msgid "TIP_VEHICLES_4"
@@ -23633,9 +23608,8 @@ msgstr ""
 "部分列車與道路車輛經過專用，專門用來運輸特定類型的貨物。若與對應類型的總站搭"
 "配使用，即可提高裝載與卸貨速度。"
 
-#, fuzzy
 msgid "TIP_VEHICLES_8"
-msgstr "倉庫與維修設施可維修位於其覆蓋範圍內的載具。"
+msgstr "載具庫與維修設施可維修位於其覆蓋範圍內的載具。"
 
 #, fuzzy
 msgid "TRACK_HIGHSPEED_CATENARY_DESCRIPTION"
@@ -24364,7 +24338,7 @@ msgstr "建造鐵路車廠"
 msgid "TUTORIAL_TRAIN_DEPOT_TASK_PARAGRAPH"
 msgstr ""
 "在購買列車之前，我們必須先建造一座鐵路車廠，並使它與車站相連。請在建設選單中"
-"選擇倉庫，將其設置在軌道附近，再將它與現有軌道連接。"
+"選擇載具庫，將其設置在軌道附近，再將它與現有軌道連接。"
 
 #, fuzzy
 msgid "TUTORIAL_TRAIN_LINE_TASK_NAME"
@@ -26270,9 +26244,8 @@ msgstr "維修"
 msgid "Upkeep Buildings"
 msgstr "建築維修費"
 
-#, fuzzy
 msgid "Upkeep Depots"
-msgstr "維修倉庫"
+msgstr "維修載具庫"
 
 #, fuzzy
 msgid "Upkeep Other"
@@ -29700,9 +29673,8 @@ msgstr "載具目前無法使用"
 msgid "Vehicle cannot be sold at this time."
 msgstr "載具目前無法出售。"
 
-#, fuzzy
 msgid "Vehicle could not be sent to depot."
-msgstr "載具無法派遣至倉庫。"
+msgstr "載具無法派遣至載具庫。"
 
 #, fuzzy
 msgid "Vehicle in the Way"
@@ -30792,10 +30764,9 @@ msgctxt "mod-tags"
 msgid "DLC"
 msgstr "DLC"
 
-#, fuzzy
 msgctxt "mod-tags"
 msgid "Depot"
-msgstr "倉庫"
+msgstr "載具庫"
 
 #, fuzzy
 msgctxt "mod-tags"
@@ -32761,9 +32732,8 @@ msgstr "{vehicleEffect}：{percent}"
 msgid "{vehicleName} has been stuck for a while without moving."
 msgstr "{vehicleName}已卡住不動一段時間了。"
 
-#, fuzzy
 msgid "{vehicleName} has been stuck in the depot for a while."
-msgstr "{vehicleName}已卡在倉庫內一段時間了。"
+msgstr "{vehicleName}已卡在載具庫內一段時間了。"
 
 #, fuzzy
 msgid "{weight} kg"
