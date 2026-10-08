@@ -2921,10 +2921,10 @@ msgstr "購買一輛馬車"
 #, fuzzy
 msgid "BUY_WAGON_GUIDE_PARAGRAPH"
 msgstr ""
-"在載具店中可購買運送乘客與貨物的載具。《運輸業大亨3》針對各種運輸方式設有不"
-"同的商店，包括道路車輛、輕軌、列車、船舶、飛機及直升機。使用篩選列依乘客或特"
-"定貨物類型進行篩選，便可快速找到符合需求的載具。在左側選取載具後，詳細資訊便"
-"會顯示在右側，包括容量、速度及動力等。"
+"在載具店中可購買載客與運貨的載具。《運輸業大亨3》針對各種運輸方式設有不同的"
+"商店，包括道路車輛、輕軌、列車、船舶、飛機及直升機。使用篩選列依乘客或特定"
+"貨物類型進行篩選，便可快速找到符合需求的載具。在左側選取載具後，詳細資訊便會"
+"顯示在右側，包括容量、速度及動力等。"
 
 msgid "Back"
 msgstr "返回"
@@ -3295,8 +3295,8 @@ msgid ""
 "roundabouts, highway T-intersections and cloverleaf interchanges are now "
 "available in the roads menu."
 msgstr ""
-"打造錯綜複雜的道路網變得更加容易了。道路選單內已新增圓環、高速公路T形交匯處"
-"與四葉形交匯處等預設選項。"
+"打造錯綜複雜的道路網變得更加容易了。道路選單內已新增圓環、高速公路T形交匯處與"
+"四葉形交匯處等預設選項。"
 
 #, fuzzy
 msgid "Building town..."
@@ -5195,8 +5195,7 @@ msgid "DEPOTS_RAIL_MAINT_STATION_NAME"
 msgstr "列車維修設施"
 
 msgid "DEPOTS_ROAD_DEPOT_DESCRIPTION"
-msgstr ""
-"用作購買貨車與巴士的建築。可自動維修位於一定半徑範圍內的貨車與巴士。"
+msgstr "用作購買貨車與巴士的建築。可自動維修位於一定半徑範圍內的貨車與巴士。"
 
 msgid "DEPOTS_ROAD_DEPOT_NAME"
 msgstr "車廠"
@@ -5210,8 +5209,7 @@ msgid "DEPOTS_ROAD_MAINT_STATION_NAME"
 msgstr "道路車輛維修設施"
 
 msgid "DEPOTS_ROAD_TRAM_DEPOT_DESCRIPTION"
-msgstr ""
-"用作購買輕軌列車的建築。可自動維修位於一定半徑範圍內的輕軌列車。"
+msgstr "用作購買輕軌列車的建築。可自動維修位於一定半徑範圍內的輕軌列車。"
 
 #, fuzzy
 msgid "DEPOTS_ROAD_TRAM_DEPOT_NAME"
@@ -5238,8 +5236,8 @@ msgstr "DLC"
 #, fuzzy
 msgid "DLC_DELUXE_UPGRADE_PACK_DESCRIPTION"
 msgstr ""
-"運輸業大亨3：豪華版 增添了經典載具、更多世界知名地標，以及來自"
-"全球的特殊野生動物，讓你在主遊戲的基礎上將運輸網路提升到全新境界。\n"
+"運輸業大亨3：豪華版 增添了經典載具、更多世界知名地標，以及來自全球的特殊野生"
+"動物，讓你在主遊戲的基礎上將運輸網路提升到全新境界。\n"
 "\n"
 "六款海陸空傳奇載具：\n"
 "- 協和號客機：史上最快的客機\n"
@@ -5275,8 +5273,8 @@ msgstr "豪華版升級"
 
 msgid "DLC_DELUXE_UPGRADE_PACK_SUMMARY"
 msgstr ""
-"運輸業大亨3：豪華版 增添了經典載具、更多世界知名地標，以及來自"
-"全球的特殊野生動物，讓你在主遊戲的基礎上將運輸網路提升到全新境界。"
+"運輸業大亨3：豪華版 增添了經典載具、更多世界知名地標，以及來自全球的特殊"
+"野生動物，讓你在主遊戲的基礎上將運輸網路提升到全新境界。"
 
 msgid "DLC_PREORDER_PACK_DESCRIPTION"
 msgstr ""
@@ -7392,10 +7390,10 @@ msgstr ""
 msgid "HELP_CONSTRUCTION_ROAD_TOOLS"
 msgstr ""
 "道路工具可用來修改現有的道路。\n"
-"使用輕軌軌道工具即可新增或移除輕軌軌道。位於交匯處的軌道會自動生成，但仍可"
-"透過路口工具調整。\n"
-"利用巴士專線工具即可新增或移除巴士專線。巴士專線僅供貨車與巴士行駛，一"
-"般情況下汽車不會行駛於該車道。\n"
+"使用輕軌軌道工具即可新增或移除輕軌軌道。位於交匯處的軌道會自動生成，但仍可透"
+"過路口工具調整。\n"
+"利用巴士專線工具即可新增或移除巴士專線。巴士專線僅供貨車與巴士行駛，一般情況"
+"下汽車不會行駛於該車道。\n"
 "使用時可選擇要將更動內容以對稱形式套用於雙側車道，或僅套用於單側車道。"
 
 #, fuzzy
@@ -7678,8 +7676,7 @@ msgstr ""
 msgid "HELP_VEHICLE_STORE"
 msgstr ""
 "在載具商店可購買新的載具，並調整載具編組。\n"
-"左側清單顯示目前可購買的所有載具。可購買的載具會根據遊戲年份與所選載具庫類型而"
-"變。\n"
+"左側清單顯示目前可購買的所有載具。這些載具會根據遊戲年份與所選載具庫類型而變。\n"
 "選擇載具後，便會在右側顯示其詳細資訊。各載具的性能參數尤其重要，因為不同環境"
 "需要不同特性的載具，每種載具也都有其優點與缺點。\n"
 "如為列車及輕軌，亦可將多台機車與車廂編組，編組整體性能將顯示於右下方。列車的"
@@ -8720,7 +8717,7 @@ msgid "Industry is blocked from further expansion."
 msgstr "產業受限，無法進一步擴展。"
 
 #, fuzzy
-msgid "Industry is expanded to it's full potential."
+msgid "Industry is expanded to its full potential."
 msgstr "產業規模已擴展至極限。"
 
 #, fuzzy
@@ -16959,8 +16956,8 @@ msgstr ""
 "乘客等候公共交通工具時間過長，或長時間搭乘舒適度不足的載具，心情就會變差。\n"
 "\n"
 "若要提升乘客的幸福度，長途客運路線應使用舒適度較高的車輛。此外也可以使用巴士"
-"專用道，將車道保留給公共交通工具，或是建造地下輕軌，提供更快速的運輸與更大的載客"
-"量。"
+"專用道，將車道保留給公共交通工具，或是建造地下輕軌，提供更快速的運輸與更大的"
+"載客量。"
 
 #, fuzzy
 msgid "MISSION_7_GUIDE_NOISE_NAME"
@@ -20252,8 +20249,8 @@ msgstr "直升機停機坪"
 
 msgid "STATIONS_AIR_HELIPORT_DESCRIPTION"
 msgstr ""
-"供客運與貨運使用之直升機場，附有用作購買直升機的機庫。可利用模組擴建。可"
-"自動維修位於一定半徑範圍內的直升機。"
+"供客運與貨運使用之直升機場，附有用作購買直升機的機庫。可利用模組擴建。"
+"可自動維修位於一定半徑範圍內的直升機。"
 
 #, fuzzy
 msgid "STATIONS_AIR_HELIPORT_NAME"
@@ -21061,8 +21058,8 @@ msgstr "中型機場滑行道"
 #, fuzzy
 msgid "STREET_COUNTRY_NEW_LARGE_BARRIERS_DESC"
 msgstr ""
-"這條六線道瀝青路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度下"
-"降。隔音牆可減少交通噪音。"
+"這條六線道瀝青路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度"
+"下降。隔音牆可減少交通噪音。"
 
 #, fuzzy
 msgid "STREET_COUNTRY_NEW_LARGE_BARRIERS_NAME"
@@ -21071,8 +21068,8 @@ msgstr "大型鄉村道路（設有隔音牆）"
 #, fuzzy
 msgid "STREET_COUNTRY_NEW_LARGE_BUS_DESC"
 msgstr ""
-"這條六線道瀝青路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度下"
-"降。巴士專線僅供巴士與貨車行駛，私人車輛原則上不得進入。"
+"這條六線道瀝青路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度"
+"下降。巴士專線僅供巴士與貨車行駛，私人車輛原則上不得進入。"
 
 msgid "STREET_COUNTRY_NEW_LARGE_BUS_NAME"
 msgstr "大型鄉村道路（設有巴士專線）"
@@ -21080,8 +21077,8 @@ msgstr "大型鄉村道路（設有巴士專線）"
 #, fuzzy
 msgid "STREET_COUNTRY_NEW_LARGE_DESC"
 msgstr ""
-"這條六線道瀝青路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度下"
-"降。"
+"這條六線道瀝青路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度"
+"下降。"
 
 #, fuzzy
 msgid "STREET_COUNTRY_NEW_LARGE_NAME"
@@ -21090,8 +21087,8 @@ msgstr "大型鄉村道路"
 #, fuzzy
 msgid "STREET_COUNTRY_NEW_MEDIUM_BARRIERS_DESC"
 msgstr ""
-"這條四線道瀝青路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度下"
-"降。隔音牆可減少交通噪音。"
+"這條四線道瀝青路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度"
+"下降。隔音牆可減少交通噪音。"
 
 #, fuzzy
 msgid "STREET_COUNTRY_NEW_MEDIUM_BARRIERS_NAME"
@@ -21100,8 +21097,8 @@ msgstr "中型鄉村道路（設有隔音牆）"
 #, fuzzy
 msgid "STREET_COUNTRY_NEW_MEDIUM_BUS_DESC"
 msgstr ""
-"這條四線道瀝青路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度下"
-"降。巴士專線僅供巴士與貨車行駛，私人車輛原則上不得進入。"
+"這條四線道瀝青路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度"
+"下降。巴士專線僅供巴士與貨車行駛，私人車輛原則上不得進入。"
 
 #, fuzzy
 msgid "STREET_COUNTRY_NEW_MEDIUM_BUS_NAME"
@@ -21110,8 +21107,8 @@ msgstr "中型鄉村道路（設有巴士專線）"
 #, fuzzy
 msgid "STREET_COUNTRY_NEW_MEDIUM_DESC"
 msgstr ""
-"這條四線道瀝青路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度下"
-"降。"
+"這條四線道瀝青路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度"
+"下降。"
 
 #, fuzzy
 msgid "STREET_COUNTRY_NEW_MEDIUM_NAME"
@@ -21120,8 +21117,8 @@ msgstr "中型鄉村道路"
 #, fuzzy
 msgid "STREET_COUNTRY_NEW_SMALL_BARRIERS_DESC"
 msgstr ""
-"這條二線道瀝青路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度下"
-"降。隔音牆可減少交通噪音。"
+"這條二線道瀝青路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度"
+"下降。隔音牆可減少交通噪音。"
 
 #, fuzzy
 msgid "STREET_COUNTRY_NEW_SMALL_BARRIERS_NAME"
@@ -21130,8 +21127,8 @@ msgstr "小型鄉村道路（設有隔音牆）"
 #, fuzzy
 msgid "STREET_COUNTRY_NEW_SMALL_DESC"
 msgstr ""
-"這條二線道瀝青路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度下"
-"降。"
+"這條二線道瀝青路很適合用來連接遠距離的地點。行人使用該道路會導致幸福度"
+"下降。
 
 #, fuzzy
 msgid "STREET_COUNTRY_NEW_SMALL_NAME"
@@ -21317,8 +21314,8 @@ msgstr "大型街道（設有隔音牆）"
 #, fuzzy
 msgid "STREET_TOWN_NEW_LARGE_BUS_DESC"
 msgstr ""
-"這條六線道瀝青路附設行人路，很適合城鎮內的道路需求。巴士專線僅供巴士與卡"
-"車行駛，私人車輛原則上不得進入。"
+"這條六線道瀝青路附設行人路，很適合城鎮內的道路需求。巴士專線僅供巴士"
+"與卡車行駛，私人車輛原則上不得進入。"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_LARGE_BUS_NAME"
@@ -21335,8 +21332,8 @@ msgstr "大型街道"
 #, fuzzy
 msgid "STREET_TOWN_NEW_LARGE_TRAM_ELECTRIFIED_DESC"
 msgstr ""
-"這條六線道瀝青路附設行人路，很適合城鎮內的道路需求。與道路結合的輕軌軌道可"
-"提供更有效率的公共交通。"
+"這條六線道瀝青路附設行人路，很適合城鎮內的道路需求。與道路結合的輕軌軌道"
+"可提供更有效率的公共交通。"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_LARGE_TRAM_ELECTRIFIED_NAME"
@@ -21345,8 +21342,8 @@ msgstr "大型街道（設有輕軌軌道）"
 #, fuzzy
 msgid "STREET_TOWN_NEW_LARGE_TREES_DESC"
 msgstr ""
-"這條六線道瀝青路附設行人路，很適合城鎮內的道路需求。樹木可減少污染與噪音，"
-"但也會使行駛速度降低。"
+"這條六線道瀝青路附設行人路，很適合城鎮內的道路需求。樹木可減少污染與噪音，但"
+"也會使行駛速度降低。"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_LARGE_TREES_NAME"
@@ -21355,8 +21352,8 @@ msgstr "大型街道（設有行道樹）"
 #, fuzzy
 msgid "STREET_TOWN_NEW_MEDIUM_BARRIERS_DESC"
 msgstr ""
-"這條四線道瀝青路附設行人路，很適合城鎮內的道路需求。隔音牆可減少交通噪音，"
-"但也會使建築的建造受限。"
+"這條四線道瀝青路附設行人路，很適合城鎮內的道路需求。隔音牆可減少交通噪音，但"
+"也會使建築的建造受限。"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_MEDIUM_BARRIERS_NAME"
@@ -21365,8 +21362,8 @@ msgstr "中型街道（設有隔音牆）"
 #, fuzzy
 msgid "STREET_TOWN_NEW_MEDIUM_BUS_DESC"
 msgstr ""
-"這條四線道瀝青路附設行人路，很適合城鎮內的道路需求。巴士專線僅供巴士與貨"
-"車行駛，私人車輛原則上不得進入。"
+"這條四線道瀝青路附設行人路，很適合城鎮內的道路需求。巴士專線僅供巴士與貨車行"
+"與貨車行駛，私人車輛原則上不得進入。"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_MEDIUM_BUS_NAME"
@@ -21383,8 +21380,8 @@ msgstr "中型街道"
 #, fuzzy
 msgid "STREET_TOWN_NEW_MEDIUM_TRAM_ELECTRIFIED_DESC"
 msgstr ""
-"這條四線道瀝青路附設行人路，很適合城鎮內的道路需求。與道路結合的輕軌軌道可"
-"提供更有效率的公共交通。"
+"這條四線道瀝青路附設行人路，很適合城鎮內的道路需求。與道路結合的輕軌軌道"
+"可提供更有效率的公共交通。"
 
 #, fuzzy
 msgid "STREET_TOWN_NEW_MEDIUM_TRAM_ELECTRIFIED_NAME"
@@ -21412,8 +21409,8 @@ msgstr "中型單程路（設有隔音牆）"
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_MEDIUM_BUS_DESC"
 msgstr ""
-"這條四線道的單向瀝青路附設行人路，很適合城鎮內的道路需求。巴士專線僅供公"
-"車與貨車行駛，私人車輛原則上不得進入。"
+"這條四線道的單向瀝青路附設行人路，很適合城鎮內的道路需求。巴士專線僅供巴士"
+"與貨車行駛，私人車輛原則上不得進入。"
 
 msgid "STREET_TOWN_NEW_ONE_WAY_MEDIUM_BUS_NAME"
 msgstr "中型單程路（設有巴士專線）"
@@ -21455,8 +21452,8 @@ msgstr "小型單程路（設有隔音牆）"
 #, fuzzy
 msgid "STREET_TOWN_NEW_ONE_WAY_SMALL_BUS_DESC"
 msgstr ""
-"這條二線道的單向瀝青路附設行人路，很適合城鎮內的道路需求。巴士專線僅供公"
-"車與貨車行駛，私人車輛原則上不得進入。"
+"這條二線道的單向瀝青路附設行人路，很適合城鎮內的道路需求。巴士專線僅供"
+"巴士與貨車行駛，私人車輛原則上不得進入。"
 
 msgid "STREET_TOWN_NEW_ONE_WAY_SMALL_BUS_NAME"
 msgstr "小型單程路（設有巴士專線）"
@@ -24150,8 +24147,8 @@ msgstr "水域基礎設施"
 #, fuzzy
 msgid "TUTORIAL_HARBOR_SHIPYARD_GUIDE_PARAGRAPH"
 msgstr ""
-"建立水域基礎設施相當容易。只要興建港口與船塢即可。船舶分為客船與貨船，且"
-"各有小型船與大型船之分。請注意，大型船舶只能停靠大型港口。"
+"建立水域基礎設施相當容易。只要興建港口與船塢即可。船舶分為客船與貨船，且各有"
+"小型船與大型船之分。請注意，大型船舶只能停靠大型港口。"
 
 #, fuzzy
 msgid "TUTORIAL_LINE_STATISTICS_GUIDE_NAME"
@@ -24916,8 +24913,8 @@ msgid ""
 "purchase via the newly unlocked airfield. Passengers and cargo can now be "
 "transported faster than ever before."
 msgstr ""
-"終於能翱翔天際了。你可透過新解鎖的小型機場購置首架小型飛機。乘客與貨物的運輸速"
-"度將會達到前所未有的境界。"
+"終於能翱翔天際了。你可透過新解鎖的小型機場購置首架小型飛機。乘客與貨物的運輸"
+"速度將會達到前所未有的境界。"
 
 #, fuzzy
 msgid ""
@@ -27006,8 +27003,7 @@ msgstr "福克F VII A"
 
 msgid "VEHICLE_PLANE_HERCULES_L100_DESCRIPTION"
 msgstr ""
-"海格力斯為洛歇的軍用運輸機C-130E之民用版本，配備軍規等級的導航與通訊設"
-"備。"
+"海格力斯為洛歇的軍用運輸機C-130E之民用版本，配備軍規等級的導航與通訊設備。"
 
 msgid "VEHICLE_PLANE_HERCULES_L100_NAME"
 msgstr "洛歇L-100海格力斯"
@@ -29975,7 +29971,7 @@ msgid ""
 "existing line and if a suitable depot exists, you can select the buy "
 "vehicles button to open the vehicle store."
 msgstr ""
-"你也可以直接從路線管理視窗購買載具。選取現有路線後，如果有合適的載具廠，就可以"
+"你也可以直接從路線管理視窗購買載具。選取現有路線後，如果有合適的載具庫，就可以"
 "選擇「購買載具」按鈕開啟載具商店。"
 
 #, fuzzy
