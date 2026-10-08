@@ -5189,9 +5189,8 @@ msgstr "循環"
 msgid "Cycle Game Speed"
 msgstr "循環遊戲速度"
 
-#, fuzzy
 msgid "DEPOTS_RAIL_DEPOT_DESCRIPTION"
-msgstr "為了購買列車建造的倉庫建築。可自動維修位於一定半徑範圍內的列車。"
+msgstr "用作購買列車的建築。可自動維修位於一定半徑範圍內的列車。"
 
 #, fuzzy
 msgid "DEPOTS_RAIL_DEPOT_NAME"
@@ -5205,10 +5204,9 @@ msgstr "可自動維修位於一定半徑範圍內的列車。"
 msgid "DEPOTS_RAIL_MAINT_STATION_NAME"
 msgstr "列車維修設施"
 
-#, fuzzy
 msgid "DEPOTS_ROAD_DEPOT_DESCRIPTION"
 msgstr ""
-"為了購買貨車與巴士建造的倉庫建築。可自動維修位於一定半徑範圍內的貨車與巴士。"
+"用作購買貨車與巴士的建築。可自動維修位於一定半徑範圍內的貨車與巴士。"
 
 msgid "DEPOTS_ROAD_DEPOT_NAME"
 msgstr "車廠"
@@ -5221,10 +5219,9 @@ msgstr "可自動維修位於一定半徑範圍內的貨車、巴士與輕軌列
 msgid "DEPOTS_ROAD_MAINT_STATION_NAME"
 msgstr "道路車輛維修設施"
 
-#, fuzzy
 msgid "DEPOTS_ROAD_TRAM_DEPOT_DESCRIPTION"
 msgstr ""
-"為了購買輕軌列車建造的倉庫建築。可自動維修位於一定半徑範圍內的輕軌列車。"
+"用作購買輕軌列車的建築。可自動維修位於一定半徑範圍內的輕軌列車。"
 
 #, fuzzy
 msgid "DEPOTS_ROAD_TRAM_DEPOT_NAME"
@@ -5238,9 +5235,8 @@ msgstr "可自動維修位於一定半徑範圍內的船舶。"
 msgid "DEPOTS_WATER_MAINT_STATION_NAME"
 msgstr "船舶維修設施"
 
-#, fuzzy
 msgid "DEPOTS_WATER_SHIPYARD_DESCRIPTION"
-msgstr "為了購買船舶建造的倉庫建築。可自動維修位於一定半徑範圍內的船舶。"
+msgstr "用作購買船舶的建築。可自動維修位於一定半徑範圍內的船舶。"
 
 #, fuzzy
 msgid "DEPOTS_WATER_SHIPYARD_NAME"
@@ -20224,13 +20220,11 @@ msgstr ""
 "樣就能讓多輛列車同時行駛於同一側。每輛列車都會在各自的號誌前停下，而不用等待"
 "整條避車側線完全清空。在路線上加入越多號誌，就能容納越多輛火車行駛。"
 
-#, fuzzy
 msgid "STATIONS_AIR_AIRFIELD_HANGAR_DESCRIPTION"
-msgstr "為購買小型飛機建造的倉庫建築。可自動維修位於一定半徑範圍內的飛機。"
+msgstr "用作購買小型飛機的建築。可自動維修位於一定半徑範圍內的飛機。"
 
-#, fuzzy
 msgid "STATIONS_AIR_AIRFIELD_HANGAR_NAME"
-msgstr "倉庫"
+msgstr "機庫"
 
 #, fuzzy
 msgid "STATIONS_AIR_AIRFIELD_MAIN_BUILDING_DESCRIPTION"
@@ -20274,9 +20268,8 @@ msgstr "用於指定跑道進場與起飛方向的進場燈。"
 msgid "STATIONS_AIR_AIRPORT_ERA_C_LANDING_DIRECTION_NAME"
 msgstr "進場燈"
 
-#, fuzzy
 msgid "STATIONS_AIR_AIRPORT_HANGAR_DESCRIPTION"
-msgstr "用於購買小型與大型飛機的倉庫建築。可自動維修位於一定半徑範圍內的飛機。"
+msgstr "用作購買小型與大型飛機的建築。可自動維修位於一定半徑範圍內的飛機。"
 
 #, fuzzy
 msgid "STATIONS_AIR_AIRPORT_HANGAR_NAME"
@@ -20322,10 +20315,9 @@ msgstr "供客運與貨運使用之小型直升機停機坪。"
 msgid "STATIONS_AIR_HELIPAD_NAME"
 msgstr "直升機停機坪"
 
-#, fuzzy
 msgid "STATIONS_AIR_HELIPORT_DESCRIPTION"
 msgstr ""
-"供客運與貨運使用之直升機場，附帶用於購買直升機的倉庫。可利用模組擴建。可"
+"供客運與貨運使用之直升機場，附有用作購買直升機的機庫。可利用模組擴建。可"
 "自動維修位於一定半徑範圍內的直升機。"
 
 #, fuzzy
