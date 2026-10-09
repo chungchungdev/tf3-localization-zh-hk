@@ -15,14 +15,15 @@ def compile_pofile(po_path: str | Path, mo_path: str | Path) -> None:
     Compile .po to .mo file.
     Treat all fuzzy entires as translated.
     """
-
+    logger.trace(f"load {po_path}")
     po = polib.pofile(str(po_path))
-
+    logger.trace(f"\tremoving fuzzy")
     for entry in po:
         if "fuzzy" in entry.flags:
             entry.flags.remove("fuzzy")
 
     po.save_as_mofile(str(mo_path))
+    logger.trace(f"saving po to {mo_path}")
     logger.debug(f"compiled {po_path} to {mo_path}")
 
 
@@ -78,7 +79,7 @@ def backup_to_zip(folder_path: str | Path) -> Path:
         root_dir=target,  # Zips folder contents directly, not the root folder itself
     )
 
-    logger.debug(f"Backup created: {output_zip_path}")
+    logger.debug(f"Backup created: {output_zip_path}.zip")
 
     return Path(archive_path)
 
@@ -111,7 +112,7 @@ def copy_mo_files_tree(folder_a: str | Path, folder_b: str | Path) -> list[Path]
 
         # Create parent directories in folderB if they don't exist
         mo_dst.parent.mkdir(parents=True, exist_ok=True)
-
+        logger.trace(f"Copying {mo_src} to {mo_dst}")
         # Copy file and preserve metadata (overwrites if target already exists)
         shutil.copy2(mo_src, mo_dst)
         copied_files.append(mo_dst)
@@ -129,6 +130,8 @@ def copy_to_staging_area(src: str | Path, dst: str | Path) -> None:
 
     if not src_path.is_dir():
         raise ValueError(f"Source path is not a valid directory: {src_path}")
+
+    logger.debug(f"Copying mod content to {dst}")
 
     # shutil.copytree automatically creates dst_path (and parents) if it doesn't exist
     shutil.copytree(src_path, dst_path, dirs_exist_ok=True)
